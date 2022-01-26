@@ -6,8 +6,8 @@ Moreover, this project sheds light on a new direction for researchers in this do
     Paper: https://link.springer.com/chapter/10.1007/978-3-030-86472-9_33
     
     
+To run the code from cmd: 
     
-    To run the code from cmd: 
 1) enter the location of your repository where the manager.py file exists.
 
 2) run python manager.py train stack
