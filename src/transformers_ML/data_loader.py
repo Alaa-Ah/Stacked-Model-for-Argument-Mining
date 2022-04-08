@@ -9,7 +9,7 @@ class DataLoadHandler():
 
     def __init__(self, test_size = 0.4):
 
-        ess_df = pd.read_json(data_dir + 'essays.json')
+        ess_df = pd.read_json(data_dir + 'essays_sentences.json')
         ess_df = ess_df[['sent-text', 'sent-class']]
         web_df = pd.read_json(data_dir + 'web_discourse.json')
         sentences_df = pd.concat([ess_df, web_df]) # ess_df
