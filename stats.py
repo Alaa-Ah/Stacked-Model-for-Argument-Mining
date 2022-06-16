@@ -3,8 +3,7 @@ import re
 import json
 
 ARG_EXTRACTION_ROOT_DIR = os.path.abspath(os.getcwd())
-DATASET_ARG_QUAL_IN_DIR = ARG_EXTRACTION_ROOT_DIR + '/dataset_quality/annotations/'
-DATASET_BASE_IN_DIR = ARG_EXTRACTION_ROOT_DIR + '/dataset_quality/earningsCalls/'
+DATASET_ARG_QUAL_IN_DIR = ARG_EXTRACTION_ROOT_DIR + '/corpora/earning-calls/'
 
 def get_list_of_files(dirName):
     listOfFile = os.listdir(dirName)
@@ -23,12 +22,12 @@ def get_inter_annotator_agreement(ann_filenames):
 	nb_annotations = 0
 	nb_identical_annotations = 0
 	nb_identical_relations = 0
+	annotations_idx = set()
 	annotations = set()
 	identical_annotations = set()
 	relations = set()
 	identical_relations = set()
 	for ann_filename in ann_filenames:
-		print(ann_filename)
 		with open(ann_filename, 'r') as ann_file:
 			lines_ann = ann_file.readlines()
 			for line in lines_ann:
@@ -42,19 +41,20 @@ def get_inter_annotator_agreement(ann_filenames):
 							nb_identical_annotations = nb_identical_annotations + 2
 						identical_annotations.add((type_label, start, end))
 					annotations.add((type_label, start, end))
+					annotations_idx.add((id, type_label, start, end))
 				else:
 					type_relation, arg1, arg2 = line.split(' ')[1:4]
 					arg1 = arg1[5:].strip()
 					arg2 = arg2[5:].strip()
-					start1, end1 = [(annotation[2], annotation[3]) for annotation in annotations if annotation[0] == arg1][0]
-					start2, end2 = [(annotation[2], annotation[3]) for annotation in annotations if annotation[0] == arg2][0]
-					if (type_relation, start1, start2, end1, end2) in relations:
-						if (type_relation, start1, start2, end1, end2) in identical_relations:
+					type1, start1, end1 = [(annotation[1], annotation[2], annotation[3]) for annotation in annotations_idx if annotation[0] == arg1][0]
+					type2, start2, end2 = [(annotation[1], annotation[2], annotation[3]) for annotation in annotations_idx if annotation[0] == arg2][0]
+					if (type_relation, type1, type2, start1, start2, end1, end2) in relations:
+						if (type_relation, type1, type2, start1, start2, end1, end2) in identical_relations:
 							nb_identical_annotations = nb_identical_annotations + 1
 						else:
 							nb_identical_annotations = nb_identical_annotations + 2
-						identical_relations.add((type_relation, start1, start2, end1, end2))
-					relations.add((type_relation, start1, start2, end1, end2))
+						identical_relations.add((type_relation, type1, type2, start1, start2, end1, end2))
+					relations.add((type_relation, type1, type2, start1, start2, end1, end2))
 
 	return (nb_identical_annotations + nb_identical_relations) / nb_annotations
 
@@ -82,7 +82,7 @@ def get_stats(company = None):
 	nb_answers = 0
 	nb_questions = 0
 
-	#annotator_agreement = 0
+	annotator_agreement = 0
 
 	all_files = os.listdir(DATASET_ARG_QUAL_IN_DIR)
 
@@ -112,16 +112,15 @@ def get_stats(company = None):
 		annotators = [file[file.index('.') - 1 : file.index('.')] for file in all_files 
 						if pattern.match(file)]
 
-		#filenames_all_annotators = [DATASET_ARG_QUAL_IN_DIR + file for file in all_files if pattern.match(file)]
-		#annotator_agreement = annotator_agreement + get_inter_annotator_agreement(filenames_all_annotators)
+		filenames_all_annotators = [DATASET_ARG_QUAL_IN_DIR + file for file in all_files if pattern.match(file)]
+		if(len(filenames_all_annotators) > 1):
+			annotator_agreement = annotator_agreement + get_inter_annotator_agreement(filenames_all_annotators)
 
 		chosen_annotator = None
 		if '9' in annotators:
 			chosen_annotator = '9'
-			print(chosen_annotator, annotators)
 		else:
 			chosen_annotator = annotators[0]
-			print(chosen_annotator, annotators)
 		
 		ann_filename = ann + '_' + chosen_annotator + '.ann'
 		with open(DATASET_ARG_QUAL_IN_DIR + ann_filename , 'r', encoding='utf-8') as ann_file:
@@ -155,7 +154,7 @@ def get_stats(company = None):
 			
 			nb_unlinked = nb_unlinked + len(ids - rel_used)
 
-	#annotator_agreement = annotator_agreement / len(ann_texts)
+	annotator_agreement = annotator_agreement / len(ann_texts)
 
 	percentage_premises = (nb_premises / nb_total_arg) * 100
 	percentage_claims = (nb_claims / nb_total_arg) * 100
@@ -175,7 +174,7 @@ def get_stats(company = None):
 						nb_questions = nb_questions + 1
 
 	string_to_add = ('_{}'.format(company) if company is not None else '')
-	filepath = ARG_EXTRACTION_ROOT_DIR + '/statistiques' + string_to_add + '.txt'
+	filepath = ARG_EXTRACTION_ROOT_DIR + '/statistics/statistics' + string_to_add + '.txt'
 	
 	with open(filepath, 'w') as result_file:
 		if company is None:
@@ -206,16 +205,19 @@ def get_stats(company = None):
 		Total number of answers : #{}
 		Total number of questions : #{}
 
+        Custom Annotator agreement : {}
+
 		""".format(nb_premises, percentage_premises, nb_claims, percentage_claims, nb_non_arg, percentage_non_arg, \
 				nb_rel_attacks, percentage_rel_attacks, nb_rel_support, percentage_rel_support, nb_unlinked, percentage_unlinked, \
-				nb_earning_calls_files, nb_q_a_doc, nb_answers, nb_questions))
+				nb_earning_calls_files, nb_q_a_doc, nb_answers, nb_questions, annotator_agreement))
 		
 
 companies = set()
 docs = os.listdir(DATASET_ARG_QUAL_IN_DIR)
 for doc in docs:
-	c_name = str(doc.split('_')[0])
-	companies.add(c_name)
+	if not doc.startswith('.'):
+		c_name = str(doc.split('_')[0])
+		companies.add(c_name)
 
 for company_ in companies:
 	print(company_)
