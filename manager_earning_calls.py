@@ -2,7 +2,7 @@ from src.transformers_ML.config import *
 from src.transformers_ML.utils import *
 from src.transformers_ML.data_loader import DataLoadHandler
 from src.transformers_ML.model_handler import *
-from src.data_parser.utils import ParseEssays, ParseWebDiscourse
+from src.data_parser.utils import ParseEarningCalls
 
 from sklearn.linear_model import LogisticRegression
 
@@ -136,13 +136,8 @@ def main(args):
             StackSvmBert()
 
     elif 'parse' == action:
-        if 'essays' == obj:
-            print('Parsing Essays...')
-            ParseEssays()
-
-        elif 'webd' == obj:
-            print('Parsing Web Discourse...')
-            ParseWebDiscourse()
+        print('Parsing Earning Calls...')
+        ParseEarningCalls()
     else:
         print('wrong params has been given!')
 
