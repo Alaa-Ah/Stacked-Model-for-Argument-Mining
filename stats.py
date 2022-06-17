@@ -4,6 +4,9 @@ import json
 
 ARG_EXTRACTION_ROOT_DIR = os.path.abspath(os.getcwd())
 DATASET_ARG_QUAL_IN_DIR = ARG_EXTRACTION_ROOT_DIR + '/corpora/earning-calls/'
+TWO_QUESTIONS_INDICATOR = ['two questions', 'i have two', 'two quick ones', 'there are two', 'couple of question']
+REGEX_TWO_QUESTIONS_INDICATOR = ['(question|one) for [a-z\s,]+one [a-z\s,]*(more|for)', \
+	'i [a-z\s]*(have|had){1} two', 'two [a-z\s]*question', '\? and? (then|therefore|thus)']
 
 def get_list_of_files(dirName):
     listOfFile = os.listdir(dirName)
@@ -129,7 +132,7 @@ def get_stats(company = None):
 			rel_used = set()
 			for line in lines_ann:
 				type = line.split(' ')[1]
-				if len(line.split(' ')) >= 5 and type != 'NON-ARG': 
+				if len(line.split(' ')) >= 5 and type not in ['NON-ARG','CLAIM-Reformulated']: 
 					ids.add(line.split(' ')[0])
 				else:
 					arg1, arg2 = line.split(' ')[2:4]
@@ -172,6 +175,13 @@ def get_stats(company = None):
 						nb_answers = nb_answers + 1
 					elif 'QUESTION' in result['value']['labels']:
 						nb_questions = nb_questions + 1
+						if any(indic in result['value']['text'].lower() for indic in TWO_QUESTIONS_INDICATOR) :
+							nb_questions = nb_questions + 1
+						else:
+							for indicator in REGEX_TWO_QUESTIONS_INDICATOR:
+								if re.search(indicator, result['value']['text'].lower()):
+									nb_questions = nb_questions + 1
+									break
 
 	string_to_add = ('_{}'.format(company) if company is not None else '')
 	filepath = ARG_EXTRACTION_ROOT_DIR + '/statistics/statistics' + string_to_add + '.txt'
