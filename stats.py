@@ -65,6 +65,7 @@ def get_inter_annotator_agreement(ann_filenames):
 def get_stats(company = None):
 	nb_premises = 0
 	nb_claims = 0
+	nb_claims_without_reformulated = 0
 	nb_non_arg = 0
 	nb_rel_support = 0
 	nb_rel_attacks = 0
@@ -72,8 +73,12 @@ def get_stats(company = None):
 	nb_total_arg = 0
 	nb_total_rel = 0
 
+	nb_reformulated = 0
+
 	percentage_premises = 0
 	percentage_claims = 0
+	percentage_premises_args = 0
+	percentage_claims_args = 0
 	percentage_non_arg = 0
 	percentage_rel_support = 0
 	percentage_rel_attacks = 0
@@ -139,6 +144,8 @@ def get_stats(company = None):
 					arg1 = arg1[5:].strip()
 					arg2 = arg2[5:].strip()
 					rel_used.update([arg1, arg2])
+				if 'CLAIM-Reformulated' in type:
+					nb_reformulated = nb_reformulated + 1
 				if 'PREMISE' in type:
 					nb_premises = nb_premises + 1
 					nb_total_arg = nb_total_arg + 1
@@ -161,6 +168,10 @@ def get_stats(company = None):
 
 	percentage_premises = (nb_premises / nb_total_arg) * 100
 	percentage_claims = (nb_claims / nb_total_arg) * 100
+	nb_p_c = nb_total_arg - nb_non_arg - nb_reformulated
+	nb_claims_without_reformulated = nb_claims - nb_reformulated
+	percentage_premises_args = (nb_premises / nb_p_c)
+	percentage_claims_args = (nb_claims_without_reformulated / nb_p_c)
 	percentage_non_arg = (nb_non_arg / nb_total_arg) * 100
 	percentage_rel_support = (nb_rel_support / nb_total_rel) * 100
 	percentage_rel_attacks = (nb_rel_attacks / nb_total_rel) * 100
@@ -200,6 +211,10 @@ def get_stats(company = None):
 				Claims :  #{}  ==> {}% 
 				Non-Args : #{}  ==> {}% 
 		
+				Percentages for premises and claims without non-arg and reformulated claims :
+				Premises : #{}  ==> {}% 
+				Claims :  #{}  ==> {}% 
+
 		- ATTACK and SUPPORT relations : 
 			Percentages are given relatively to the total number of attack and support relations:
 				Attack : #{}  ==> {}% 
@@ -218,6 +233,7 @@ def get_stats(company = None):
         Custom Annotator agreement : {}
 
 		""".format(nb_premises, percentage_premises, nb_claims, percentage_claims, nb_non_arg, percentage_non_arg, \
+				nb_premises, percentage_premises_args, nb_claims_without_reformulated, percentage_claims_args, \
 				nb_rel_attacks, percentage_rel_attacks, nb_rel_support, percentage_rel_support, nb_unlinked, percentage_unlinked, \
 				nb_earning_calls_files, nb_q_a_doc, nb_answers, nb_questions, annotator_agreement))
 		
