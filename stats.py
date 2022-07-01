@@ -84,7 +84,6 @@ def get_stats(company = None):
 	percentage_rel_attacks = 0
 	percentage_unlinked = 0
 
-
 	nb_q_a_doc = 0
 	nb_earning_calls_files = 0
 	nb_answers = 0
