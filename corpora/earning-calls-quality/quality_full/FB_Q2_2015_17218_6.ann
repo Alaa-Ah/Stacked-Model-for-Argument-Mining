@@ -1,9 +1,0 @@
-4xc0EOBxJA NON-ARG 1007 1012 Sure.
-Kk4Eq952eq CLAIM-Fact 1013 1431 On the search experience, and Mark can add anything if he'd like, but on the search experience from a monetization perspective, the vast majority of the searches are for people or posts, and there can be – there's the potential for there to be commercially relevant content in people's posts, people searches, which is the largest part of searching, is not something that we think is really up the monetizing category.
-nLJHcwHDZ7 PREMISE-Fact 1432 1699 But there's certainly great content that people are finding using post search, but it's really – the focus is really to try and allow people to discover content that's been shared on Facebook that's relevant to them, and that's going to be the focus in the near term.
-_YS2KWI_PF PREMISE-Fact 1700 1908 And as people consume more content on Facebook, there's opportunities to show them ads in Feed, so there's an opportunity there, but it's really around engaging with content that you want to find on Facebook.
-EVJczhjSWr NON-ARG 1929 2122 On Instagram, we haven't noticed any difference in willingness to engage with ads between the platforms for Instagram and Facebook, but we've ramped really slowly and we're very, very cautious.
-ASDDOVrXNw NON-ARG 2123 2250 And again, we're going to continue to focus on the user experience, focus on the community growth and monetization will follow.
-R0 ATTACK ARG1:nLJHcwHDZ7 ARG2:Kk4Eq952eq
-R1 ATTACK ARG1:_YS2KWI_PF ARG2:Kk4Eq952eq
-ArgQ0 Kk4Eq952eq SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
