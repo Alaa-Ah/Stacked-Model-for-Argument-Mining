@@ -1,0 +1,26 @@
+ugJLRqQVJe NON-ARG 820 864 So I'll take the first part of the question.
+NyaMt1A7I4 CLAIM-Reformulated 1478 1671 But you are right that we are moving very slowly and very, very, very carefully because we want to make sure the entire experiences is right across the board before we go deeper and go broader.
+CB5tByGeoA CLAIM-Fact 1343 1477 And what you're going to see from us is very small steps to get more people in and make this deeper across the experience people have.
+cagH4567NV CLAIM-Fact 865 1063 So when you think about the shopping experience or the checkout experience on Instagram, these are still very early days, and we're working hard to improve the product and expand to more businesses.
+tcu85zPHlY CLAIM-Fact 1096 1217 So our focus is making sure we get the right partners on board and consumers have a great experience all the way through.
+w6XNsD2L-n PREMISE-Fact 1219 1342 We expanded shopping to all -- shopping ads to all advertisers globally Q4, and we began testing checkout and shopping ads.
+yo6-bEMpn8 CLAIM-Fact 1064 1095 These require full integration.
+hw2CZqacmP NON-ARG 1686 1690 Yes.
+QCBn86DbRv NON-ARG 1691 1705 Thanks, Brian.
+icuUp2z8Xj NON-ARG 1774 1838 But as I noted, the majority of that impact lies in front of us.
+F4gdoZRdOa NON-ARG 1839 1993 Just as a reminder, we utilize signals from user activity on third-party website and services in order to deliver relevant and effective ads to our users.
+Wi6RcjWI7k NON-ARG 1994 2119 And in that regard, there are sort of three overlying factors that I'd point to, and I spoke to these on prior calls as well.
+vU2K9nfGVM PREMISE-Fact 2121 2273 First, the recent regulatory initiatives like GDPR and now CCPA have impacted, and we expect they'll continue to impact our ability to use such signals.
+1TfYyi7JJz PREMISE-Fact 2274 2453 Secondly, mobile operating systems and browser providers such as Apple and Google have announced product changes and future plans that will limit our ability to use those signals.
+moIn2QkFOz PREMISE-Fact 2454 2611 And then finally, we've made our own product changes that gives users the ability to limit our use of such data signals to improve ads and other experiences.
+55MoahXwjL NON-ARG 2612 2722 And there I'd point to something like the rollout of off-Facebook activity controls, and that's at 100% today.
+EeiBmAI1vZ NON-ARG 2896 2982 Both Mark and Sheryl talked about the importance of ad targeting for small businesses.
+rFY4BpaWtM CLAIM-Opinion(view) 2983 3160 And I think it's important to note that the regulatory and platform changes will have a disproportionate impact on the ability of small businesses to use ads to grow and thrive.
+BUlcHWloph CLAIM-Reformulated 2724 2895 So, each of these factors limits our ability to target and measure the effectiveness of ads on our platform, and that can negatively impact our advertising revenue growth.
+Dz3mD-zxgN CLAIM-Fact 1706 1773 Yes, we are seeing headwinds in terms of targeting and measurement.
+R0 SUPPORT ARG1:w6XNsD2L-n ARG2:cagH4567NV
+R1 SUPPORT ARG1:vU2K9nfGVM ARG2:Dz3mD-zxgN
+R2 SUPPORT ARG1:1TfYyi7JJz ARG2:Dz3mD-zxgN
+R3 SUPPORT ARG1:moIn2QkFOz ARG2:Dz3mD-zxgN
+ArgQ0 cagH4567NV SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 Dz3mD-zxgN SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

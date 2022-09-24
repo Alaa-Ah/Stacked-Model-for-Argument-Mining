@@ -1,0 +1,10 @@
+GBIKFfjHAD NON-ARG 572 583 Sure, Mark.
+X-m3ia37mh NON-ARG 584 610 Thanks for your questions.
+sDsD89mhMg NON-ARG 611 637 No macroeconomic comments.
+6koWn18sKV CLAIM-Opinion(view) 638 723 Again, we feel we're very encouraged by the customer response to our offerings in Q4.
+-NbNOER48j PREMISE-Fact 724 855 Amazon business, yes, in April you may remember we launched it as a marketplace with specific features and benefits for businesses.
+O0zOn9VhpK PREMISE-Statistic 856 969 That - Amazon business now serves more than 200,000 businesses from small organizations to Fortune 500 companies.
+CTQelwq7yO CLAIM-Opinion(view) 970 1094 So it's still early, but we're encouraged and we think we're creating some value, a lot of value for our business customers.
+R0 SUPPORT ARG1:-NbNOER48j ARG2:CTQelwq7yO
+R1 SUPPORT ARG1:O0zOn9VhpK ARG2:CTQelwq7yO
+ArgQ0 CTQelwq7yO SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

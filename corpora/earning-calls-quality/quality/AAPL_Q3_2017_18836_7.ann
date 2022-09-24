@@ -1,0 +1,39 @@
+AJnnpAcXUY NON-ARG 459 470 Amit, Luca.
+ao5dVz49t2 CLAIM-Fact 471 507 Our Services business is very broad.
+Nl2iQoAZZw CLAIM-Reformulated 508 612 We've got multiple categories in the Services business, so it's difficult to talk about ARPU in general.
+QmVz2dIoON NON-ARG 613 644 It doesn't make a lot of sense.
+_lfn8EP5Tp NON-ARG 3323 3373 We have no comment on anything that's unannounced.
+MC7XBczyBM NON-ARG 3459 3475 Thank you, Amit.
+CzohO_Cbfq NON-ARG 3476 3516 Could we have the next question, please?
+wP_kVNj2pV NON-ARG 2157 2248 In terms of ARPU, maybe I can make a comment on ARPU specifically related to the App Store.
+q71NLcDXX7 NON-ARG 2249 2505 What we're seeing and we've seen over a long period of time as we keep track of these cohorts of customers, we see that as customers get on the App Store and start spending on it, we see the spending profile is very similar across generations of customers.
+N29Ryz4iXo NON-ARG 2506 2542 People tend to spend more over time.
+f3TZFxtFyi NON-ARG 2543 2685 Obviously, you have different spending profiles in different geographies around the world, but in general you see that trend across the board.
+WNbmdl3mhf CLAIM-Fact 645 707 The reason for the acceleration also here is multiple factors.
+-r7W8PaCfX PREMISE-Fact 708 888 One that is very, very important for us is the fact that the App Store, which is the largest of our Services categories, is seeing an increasingly larger amount of paying accounts.
+GNIJ5KnCY9 CLAIM-Fact 1025 1066 It is happening for a variety of reasons.
+SGa6X2-mgb PREMISE-RealExample 1067 1172 One of them, for example, is the fact that we are making it easier for customers to pay on the App Store.
+uPwMn-aqxZ CLAIM-Fact 889 1024 On a year-over-year basis, the number of accounts that are actually transacting and paying on the App Store is growing very, very well.
+-HtJy128ds PREMISE-Fact 1173 1255 Outside the United States, in many markets, not every form of payment is accepted.
+UqddfBbhvk PREMISE-Fact 1256 1293 We are making it easier all the time.
+Aq4mwzNEK4 PREMISE-RealExample 1294 1367 We launched on Alipay, for example, in China during the December quarter.
+rQYjlxHZWH PREMISE-Fact 1368 1447 That has obviously helped a lot with the growth in the number of paid accounts.
+3XlhmIkI0g PREMISE-Other 1448 1538 And we continue to bring more and more forms of payment in the App Store around the world.
+C7I7l2IdD7 NON-ARG 1539 1568 That's a big reason for that.
+oVGv1KASEG PREMISE-Fact 1569 1709 The other reason why the number of paying accounts is growing is the fact that the quality and the quantity of content continues to improve.
+IcDqVYtd8u PREMISE-Fact 1710 1808 And so there's many more ways of experiencing games and entertainment and other apps on the store.
+FqkRgYCcFw CLAIM-Fact 2001 2063 Our iCloud storage business continues to grow very, very fast.
+rCctxTOtC1 CLAIM-Reformulated 2064 2090 So it's multiple services.
+fpvaWR37FB CLAIM-Reformulated 2091 2156 The number of people transacting on our stores continues to grow.
+sNGone7XYx CLAIM-Fact 1809 2000 We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there.
+R0 SUPPORT ARG1:-r7W8PaCfX ARG2:WNbmdl3mhf
+R1 SUPPORT ARG1:SGa6X2-mgb ARG2:GNIJ5KnCY9
+R2 SUPPORT ARG1:-HtJy128ds ARG2:GNIJ5KnCY9
+R3 SUPPORT ARG1:UqddfBbhvk ARG2:GNIJ5KnCY9
+R4 SUPPORT ARG1:Aq4mwzNEK4 ARG2:GNIJ5KnCY9
+R5 SUPPORT ARG1:rQYjlxHZWH ARG2:GNIJ5KnCY9
+R6 SUPPORT ARG1:3XlhmIkI0g ARG2:GNIJ5KnCY9
+R7 SUPPORT ARG1:oVGv1KASEG ARG2:GNIJ5KnCY9
+R8 SUPPORT ARG1:IcDqVYtd8u ARG2:GNIJ5KnCY9
+ArgQ0 WNbmdl3mhf SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 GNIJ5KnCY9 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

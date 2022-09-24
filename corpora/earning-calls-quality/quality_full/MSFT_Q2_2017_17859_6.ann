@@ -1,0 +1,15 @@
+S9N7OOlL4n CLAIM-Opinion(view) 1202 1365 Our real goal for LinkedIn is – over time of course I'm sure they'll want to take advantage as we build new services together of some of our infrastructure assets.
+4F5ym6u2-v CLAIM-Fact 1366 1493 But in the short term, the most important thing is they continue to add value and usage and great experience for their members.
+y8XtxFe3gF CLAIM-Opinion(view) 1625 1801 So I think what you're seeing in terms of year over year and what does it mean for next year, this next quarter, it will be a sequential increase, but again, it is a bit lumpy.
+l3ey8B-Vrm PREMISE-Fact 998 1038 I realize zero to 40% is not as helpful.
+BPmlYL9UIf CLAIM-Opinion(view) 1494 1624 And so I have really no intention of messing with that in terms of capital expenditures in the short and next six months for sure.
+DjcZQoK54n NON-ARG 795 800 Sure.
+9BbX-Zg_pg NON-ARG 801 880 Let me first comment on that I've said it will be lower than it was previously.
+IpMEwpzeuO CLAIM-Fact 881 997 I certainly would help you in that number and say a little lower, just so that you're getting into something closer.
+SQl7MXtJP4 PREMISE-Fact 1039 1201 I would also say that it does tend to be lumpy, and it's why I don't give very specific guidance every single quarter, and it was not at all impacted by LinkedIn.
+KchAxbuQCz NON-ARG 1812 1818  Okay.
+zyxPgccbek NON-ARG 1819 1835 Thank you, Ross.
+QKFqEcPJPo NON-ARG 1868 1925  We'll have time for one more question, please, operator.
+R0 SUPPORT ARG1:l3ey8B-Vrm ARG2:IpMEwpzeuO
+R1 SUPPORT ARG1:SQl7MXtJP4 ARG2:IpMEwpzeuO
+ArgQ0 IpMEwpzeuO SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

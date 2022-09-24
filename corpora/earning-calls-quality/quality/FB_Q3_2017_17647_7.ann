@@ -1,0 +1,13 @@
+8LHa8_s1UQ CLAIM-Opinion(view) 1173 1364 Well, I think the answer to that is we don't know all the answers around what kinds of content are going to work and are not, so we will probably experiment with a number of different things.
+A19LEywfcJ NON-ARG 1365 1488 I do think your point is right that not all kinds of content can be supported by ads, no matter how effective we make that.
+zplPlgkRzF CLAIM-Fact 1621 1776 And what we would like to transition that more to over time and what an increasing amount of the content is, is revenue shares for ads shown in the videos.
+62n4w7wedl PREMISE-Fact 1777 1966 And as we do better and better on the monetization there, that will support people with higher production costs and doing more premium production and bringing their content to the platform.
+Q63nnaB7zY PREMISE-RealExample 1967 2369 And we've certainly found on the Internet and YouTube and in other places that there are whole industries around creators with different cost structures than traditional Hollywood folks who can produce very informative and engaging content that a lot of people like and enjoy and that builds communities and that helps people connect together in a way that definitely can be supported by this ad model.
+xRz8JxXC-d CLAIM-Reformulated 2370 2432 So I think the answer is we're going to try a bunch of things.
+VB5yjMsLeA NON-ARG 2433 2470 That's a bunch of what the budget is.
+cRSUWceVmQ CLAIM-Reformulated 2471 2650 I'm very optimistic that a lot of this stuff will be able to be supported long term, but you're certainly right that not all of it will be able to be supported by ad models alone.
+NMPQozBH4y PREMISE-Fact 1489 1620 That said, the current model that we have for at least getting some of the lighthouse content onto the platform is to pay up front.
+R0 SUPPORT ARG1:NMPQozBH4y ARG2:zplPlgkRzF
+R1 SUPPORT ARG1:62n4w7wedl ARG2:zplPlgkRzF
+R2 SUPPORT ARG1:Q63nnaB7zY ARG2:zplPlgkRzF
+ArgQ0 zplPlgkRzF SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

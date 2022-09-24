@@ -1,0 +1,18 @@
+3pCUabN2b1 NON-ARG 883 900 I'll start, Adam.
+IyOjr4zorG CLAIM-Fact 2052 2243 And I would just add that as we think about that long-term trajectory, our ability to continue to improve margins in our SaaS portfolio and our PaaS portfolio and IaaS portfolio still exists.
+II4IPsHWJw CLAIM-Opinion(view) 2244 2518 And our ability to blend them into interesting products that solve customer solutions, which may not even be priced as the component parts, is I think how we think about, especially in our solution areas that Satya talks about, how we talk about delivering it to a customer.
+wfwC1ishst CLAIM-Opinion(view) 2519 2705 So while I'm confident in our ability to continue to grow the core margin, I do think for us in particular, it really is a portfolio that we believe that we need to manage appropriately.
+V5-AL90dpd NON-ARG 2739 2752 Thanks, Adam.
+gRX9lZfVJy NON-ARG 2753 2763 Thank you.
+Kz_pkTJm7c NON-ARG 2764 2794 We'll go to the next question.
+0bZVL_-d08 CLAIM-Opinion(view) 901 1025 The one thing I'd say is when I think about the long-term margin, I actually think of the long-term margin across our cloud.
+JDA_fpvLPH PREMISE-Other 1026 1169 I mean, when we even make our CapEx decisions, which is one of the drivers of margin, we think of first of all, first party equals third party.
+vJ1al4-gVH CLAIM-Fact 1170 1324 A lot of what we do even in Windows, mostly people don't recognize it, but one of the most important services we run is Windows Update as a cloud service.
+znhX0DzfFW PREMISE-RealExample 1325 1502 And so we have a lot of value that is across the board cloud services, whether it's Xbox Live, Windows Update, Office 365, Dynamics 365, and of course all of the Azure services.
+at7e7qxr-t CLAIM-Fact 1503 1553 And we're going to build scale across all of them.
+Ib3qsfLq7- CLAIM-Fact 1554 1709 And so we would not – in fact, we will be very aggressive in taking margin in one place, which is different as we see a path to margin in a different spot.
+oRXP3csN9b CLAIM-Opinion(view) 1710 2038 That's something that we want to make sure we follow more our opportunity in a customer across the board versus trying to micromanage to certain margins in very specific opportunities, because we think that it's the integrated ability for us to deliver value is which I think long term is what the customers expect of Microsoft.
+R0 SUPPORT ARG1:JDA_fpvLPH ARG2:0bZVL_-d08
+R1 SUPPORT ARG1:znhX0DzfFW ARG2:vJ1al4-gVH
+ArgQ0 0bZVL_-d08 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 vJ1al4-gVH SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

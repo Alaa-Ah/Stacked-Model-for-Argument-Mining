@@ -1,0 +1,26 @@
+xe7e-oFI8j NON-ARG 773 784 Sure, Mark.
+tAPlx_C8TX NON-ARG 785 810 Thanks for your question.
+V5UCAxNT88 PREMISE-Statistic 811 916 We are very pleased by the international growth, 22% FX neutral, was up 1000 basis points year-over-year.
+HGpL3BqqXk PREMISE-Statistic 917 1116 We saw that the - we told you the Prime growth, Prime membership growth of 50% in-- excuse me, 51% globally, 47% in the US means that the international Prime programs grew at a faster clip than that.
+KTuKkYheoL CLAIM-Opinion(view) 1117 1150 So very pleased with the up-tick.
+pXGG-p8zuR PREMISE-Fact 1151 1322 We rolled out a lot of additional Prime features internationally as well this year, from FREE Same-Day to Prime Now to Prime Music and Prime Video in Japan, to name a few.
+Vd_BPgs3mO CLAIM-Reformulated 1323 1347 So very happy with that.
+b2mj_EXuWv CLAIM-Fact 1348 1420 But in general, if I step back, our investments in national are twofold.
+zoGNR_3p1N PREMISE-Fact 1421 1639 First, there's the Prime platform and all the features that I just mentioned, including the fulfillment, adding more fulfillment resources to handle higher and higher retail volumes and very strong FBA program as well.
+5gLh2aX8Eg PREMISE-Fact 1640 1718 And then the remainder - the biggest other investment area is obviously India.
+rIwF1SbpVj CLAIM-Opinion(view) 1719 1779 And we like – we continue to see, like what we see in India.
+SvG2WKxZv6 PREMISE-Fact 1780 1938 In Q4 Amazon India was the top e-commerce site in India throughout the very busy diwali shopping season, including the shopping season, according to comScore.
+YMehbkQAtt PREMISE-Fact 1939 2011 And sales by sellers in Q4 were greater than all of 2014 combined in Q4.
+mXhjAZfGVu PREMISE-Fact 2012 2097 So seeing great progress with downloads, innovations for sellers and customers alike.
+vI6Jme2-52 CLAIM-Reformulated 2098 2165 And we like the ramp there and we're continuing to invest in India.
+R0 SUPPORT ARG1:SvG2WKxZv6 ARG2:rIwF1SbpVj
+R1 SUPPORT ARG1:YMehbkQAtt ARG2:rIwF1SbpVj
+R2 SUPPORT ARG1:mXhjAZfGVu ARG2:rIwF1SbpVj
+R3 SUPPORT ARG1:5gLh2aX8Eg ARG2:b2mj_EXuWv
+R4 SUPPORT ARG1:zoGNR_3p1N ARG2:b2mj_EXuWv
+R5 SUPPORT ARG1:pXGG-p8zuR ARG2:KTuKkYheoL
+R6 SUPPORT ARG1:HGpL3BqqXk ARG2:KTuKkYheoL
+R7 SUPPORT ARG1:V5UCAxNT88 ARG2:KTuKkYheoL
+ArgQ0 rIwF1SbpVj SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 b2mj_EXuWv SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 KTuKkYheoL SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

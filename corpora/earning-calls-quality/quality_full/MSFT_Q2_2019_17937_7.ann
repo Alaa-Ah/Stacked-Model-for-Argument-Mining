@@ -1,0 +1,18 @@
+NsECobBVKu NON-ARG 1036 1077 Let me start, and Amy, you can add to it.
+TiKMbboC3n CLAIM-Opinion(view) 1078 1196 See, first of all, I'd say the opportunity for our shareholders when they think about Microsoft has never been better.
+Qb2VPvbB80 PREMISE-Fact 1197 1453 When I look at every business becoming a digital business and then take that opportunity and map that to our capability, we have the broadest platform of anyone in the tech sector to really help every customer in every country become that digital business.
+bDyGF5q-kO PREMISE-Fact 1454 1541 And we have the business model that aligns with them and their interests and the trust.
+8CaOOJ6beY CLAIM-Fact 1542 1766 And so therefore, from a secular perspective, we are all in on making sure that we invest in our commercial cloud as well as our investments in things like gaming and going after the opportunity that is there in front of us.
+S05GAzgap2 CLAIM-Fact 1767 1890 And as you even think about Microsoft 365, the value proposition of Microsoft 365 transcends Windows and Office on Windows.
+cabUhiAhV9 CLAIM-Opinion(view) 1891 1966 We think about the relevance of our applications across all device sockets.
+djHQWwQieA CLAIM-Opinion(view) 1967 2332 We think about the security, identity management, information protection and all that value across all device sockets, so therefore, I feel very, very good about the product investments and the go-to-market investments we are making to really help our shareholders realize that growth potential that's available in what is going to be an increasingly digital world.
+TSyqml_tcX NON-ARG 2333 2357 And I'll let Amy answer.
+YLH2fpOSQd NON-ARG 2368 2457 Let me just add a little bit, Jennifer, when it comes to really your question around OEM.
+QEkjN2S7_C CLAIM-Fact 2458 2604 We know that the signals we get from especially our commercial customers is that there's a healthy demand for the value that exists in Windows 10.
+FvMp4_edV0 CLAIM-Opinion(view) 3025 3115 And I still feel quite good about that, including the signals we're getting in the market.
+YbdL4GBad5 PREMISE-Fact 2605 3024 We're seeing it in terms of deployments on new and existing devices and the security and manageability value prop that comes with a modern device and the experiences that employers want their employees to have and be able to take advantage of, along with some of the end-of-support deadlines that we have talked about, there is still an opportunity for us to remain focused on and execute on through this calendar year.
+R0 SUPPORT ARG1:Qb2VPvbB80 ARG2:TiKMbboC3n
+R1 SUPPORT ARG1:bDyGF5q-kO ARG2:TiKMbboC3n
+R2 SUPPORT ARG1:YbdL4GBad5 ARG2:QEkjN2S7_C
+ArgQ0 TiKMbboC3n SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 QEkjN2S7_C SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,37 @@
+S4II1Vgnwv NON-ARG 983 988 Yeah.
+VrdvePpgH0 NON-ARG 989 1033 Let's step back on the third-party question.
+7Ia4yLgtA6 NON-ARG 1034 1074 So again, let me reiterate our approach.
+7qOlK6T9Gb CLAIM-Fact 1075 1248 So main goal here is that it will allow customers to have the broadest selection, the best available price and also the most convenient options on how they receive the item.
+iPq34iB1gL CLAIM-Fact 1249 1359 If we're delivering on those three elements, we're indifferent as to whether it's sold by us or a third-party.
+dzdGgnagHv CLAIM-Fact 1360 1444 We actively recruit sellers to sell on our platform, it's because it adds selection.
+aweSzl2_Rz PREMISE-Fact 1445 1516 It adds - if it's in the FBA program, it adds Prime eligible selection.
+Ur3APiY69s CLAIM-Fact 1684 1743 So we have a vested interest in the success of our sellers.
+3sGUon-zEe PREMISE-Fact 1517 1683 We spend billions of dollars a year, as Jeff said, on infrastructure, tools and services, not only to allow sellers to sell, but to help themselves more successfully.
+8-T8xFOLx2 CLAIM-Fact 1744 1898 Any growth acceleration or deceleration that you see can be very much tied to the total sales of the customer - that we have the customers in any country.
+pmhPvEoKQr PREMISE-Fact 1899 2011 So you'll still see the percentage of third-party units increased and has been steadily over the last few years.
+66k7eHHRWP CLAIM-Fact 2012 2139 So again, the sellers are as important to us as anything for servicing the customers' need for price selection and convenience.
+auuAxSIDmo CLAIM-Fact 2140 2383 The elements I just talked about of investment, further investment in one-day shipping is directly going to be a cost that we bear and it's also going to be a direct benefit to sellers as well as the Prime eligible selection in our warehouses.
+ZnDzRnKRRR NON-ARG 2397 2402 Yeah.
+hG30WHq3KQ CLAIM-Fact 2403 2628 And then, Anthony, just real quick, this is Dave, on your question around media and probably more particularly the video strategy and what we're investing in, I mean, we are continuing to invest meaningfully in digital video.
+h_mxt66-0a CLAIM-Opinion(view) 2629 2673 It's an area where we're very excited about.
+riVY4PY8Uj PREMISE-RealExample 2674 2840 Lots of very popular, critically acclaimed shows have obviously come out, things like Homecoming, Jack Ryan, more recently Hanna, Guava Island, and some great titles.
+WiN6SOReRP CLAIM-Opinion(view) 2841 2892 So I think look for us to continue to invest there.
+26FPN6R5pm PREMISE-Fact 2893 3055 There was - on the accounting side, we did adopt an accounting standard in January that amended our accounting for how we cap for produced original video content.
+imt9ty1BkN PREMISE-Fact 3056 3142 And under that new guidance, we capitalize production cost for original video content.
+WQiyJQti-p PREMISE-Fact 3143 3200 Previously, we only capitalized a portion of those costs.
+ZwSm7kTll9 CLAIM-Fact 3201 3277 So the net impact for the first quarter to operating income wasn't material.
+hyE6n_JhZg PREMISE-Statistic 3278 3405 It was - for Q1, the impact of a change was a decrease of about $130 million to cost of sales due to the capitalization change.
+1VE8k55xIU CLAIM-Opinion(view) 3406 3596 As we go through 2019, though, we would expect the impact to increase in the latter part of the second half of the year, in line with our production schedule as it grows throughout the year.
+R0 SUPPORT ARG1:aweSzl2_Rz ARG2:dzdGgnagHv
+R1 SUPPORT ARG1:3sGUon-zEe ARG2:Ur3APiY69s
+R2 SUPPORT ARG1:pmhPvEoKQr ARG2:66k7eHHRWP
+R3 SUPPORT ARG1:riVY4PY8Uj ARG2:hG30WHq3KQ
+R4 SUPPORT ARG1:26FPN6R5pm ARG2:ZwSm7kTll9
+R5 SUPPORT ARG1:imt9ty1BkN ARG2:ZwSm7kTll9
+R6 SUPPORT ARG1:WQiyJQti-p ARG2:ZwSm7kTll9
+R7 SUPPORT ARG1:hyE6n_JhZg ARG2:ZwSm7kTll9
+ArgQ0 dzdGgnagHv SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Ur3APiY69s SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 66k7eHHRWP SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 hG30WHq3KQ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 ZwSm7kTll9 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

@@ -1,0 +1,17 @@
+PNTcXGRRwc NON-ARG 960 964 Yes.
+waBB_e4Vsq NON-ARG 965 998 Let me start with the second one.
+hsY1EsWada NON-ARG 999 1241 So, yes, we've had numerous price decreases, and we continue to have that in the AWS business, both absolute decreases in service costs and also rolling out new services that may be cannibalizing more expensive other services that we provide.
+eDDYLR0QTx NON-ARG 1242 1302 So, nothing really to note on Q2 or Q3 from that standpoint.
+2K702c-av9 PREMISE-Statistic 1432 1583 What I can say, the biggest dynamic going on again is that Amazon fulfilled unit growth of nearly 40%, which was last year and carrying into this year.
+Tg4abl8cGq PREMISE-Statistic 1666 1867 We are matching that with just over 30% increase in square footage, and you're right, that does include some shipping sort centers and things that are incremental and new functions for us, if you will.
+C8AkyHxO_5 NON-ARG 1868 1917 But that's about all I can say on that right now.
+rzaTMztQWn CLAIM-Opinion(view) 1918 1964 I think we're very happy with the FBA program.
+mCbGmqfICF CLAIM-Fact 1965 2034 It's impact on Prime and we think Prime and FBA are self-reinforcing.
+Yjxgt1JnzB NON-ARG 2035 2112 We know customers really like it, the additional selection that FBA provides.
+PZCbq5csJn CLAIM-Reformulated 2113 2220 So we like those combined, and we are working very hard to match that with capacity in an efficient manner.
+oV95SP91rv NON-ARG 1303 1431 The fulfillment investments, I can't split it out for you between Amazon logistics support sort centers and fulfillment centers.
+KK6Nay9fKe CLAIM-Opinion(view) 1584 1665 It's a global number and we are very glad to have the success of the FBA program.
+R0 SUPPORT ARG1:2K702c-av9 ARG2:KK6Nay9fKe
+R1 SUPPORT ARG1:Tg4abl8cGq ARG2:rzaTMztQWn
+ArgQ0 KK6Nay9fKe SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 rzaTMztQWn SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

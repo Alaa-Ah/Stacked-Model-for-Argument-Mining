@@ -1,0 +1,25 @@
+HI5oq4gFaf NON-ARG 631 656 Thanks for that question.
+5TEvEpZuW6 PREMISE-Fact 909 1152 It's really the transformation from having applications that are silos to becoming more services in the cloud where you can reason about the activity and the data underneath these services to benefit the customers who are using these services.
+dq-tfpeAcF CLAIM-Reformulated 1673 1706 And so that's our strategy there.
+B_OWMFRja3 CLAIM-Fact 2053 2156 So that's really our strategy with LinkedIn as the professional network meeting the professional cloud.
+38rB6rI0tU PREMISE-Fact 1707 1816 And now the professional cloud or the professional network helps usage across all of that professional usage.
+NVSVvMlqJI PREMISE-Hypothesis 1817 1956 Whether it's in Office 365 or whether you're a salesperson using any application related to sales, you want your professional network there
+1sWndmHyBQ PREMISE-Fact 1958 2052 Of course, it's relevant in recruiting, it's relevant in training, it's relevant in marketing.
+IdSPX9twMI NON-ARG 2157 2297 And so you were right to point out that these are all part of one overarching strategy, and ultimately it's about adding value to customers.
+I_d5uapec9 NON-ARG 657 773 So I look at what we are doing with Office 365, Dynamics 365, AppSource, LinkedIn as all being part of one strategy.
+EtSRgQdpub CLAIM-Fact 774 908 So the move to the cloud for our customers and for us is not just about a new way of delivering the same value just as a SaaS service.
+7CpC32m3vs PREMISE-Fact 1153 1201 So that's what this notion of a graph represents
+ZVhThgPBj- PREMISE-Fact 1203 1374 So when somebody moves to Office 365, their graph, their people, their relationships with other people inside the organization, their work artifacts all move to the cloud.
+mGY3GQD5rS PREMISE-Fact 1375 1672 You can connect them with all the business process data that's in Dynamics 365, but not just in Dynamics 365 but all the applications in AppSource because business process will always be a much more fragmented market as opposed to just one market share leader by industry, by vertical, by country.
+dMwvjkyhbx NON-ARG 2310 2327  Thanks, Michael.
+XUIXapwwcw NON-ARG 2338 2354  Thanks so much.
+DpWlKXaHvX NON-ARG 2355 2401 We'll have time for one more question, please.
+R0 SUPPORT ARG1:38rB6rI0tU ARG2:B_OWMFRja3
+R1 SUPPORT ARG1:NVSVvMlqJI ARG2:B_OWMFRja3
+R2 SUPPORT ARG1:1sWndmHyBQ ARG2:B_OWMFRja3
+R3 SUPPORT ARG1:5TEvEpZuW6 ARG2:EtSRgQdpub
+R4 SUPPORT ARG1:7CpC32m3vs ARG2:EtSRgQdpub
+R5 SUPPORT ARG1:ZVhThgPBj- ARG2:EtSRgQdpub
+R6 SUPPORT ARG1:mGY3GQD5rS ARG2:EtSRgQdpub
+ArgQ0 B_OWMFRja3 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 EtSRgQdpub SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

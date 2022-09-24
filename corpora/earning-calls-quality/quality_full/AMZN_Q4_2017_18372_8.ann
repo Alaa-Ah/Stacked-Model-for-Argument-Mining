@@ -1,0 +1,25 @@
+fvsX4Cg2yT NON-ARG 749 754 Sure.
+op77k_OJ_D NON-ARG 755 787 Let me start with that last one.
+6TgMjeKXS1 PREMISE-Fact 788 934 Yes, the shipping costs are going to be very tied to AFN unit growth and also the impact often greater Prime adoption and faster shipping methods.
+OOP-_Wu6JD NON-ARG 1038 1077 That will fluctuate quarter to quarter.
+Z0B_nx1nQ5 PREMISE-Fact 1078 1190 Again, it was a very strong operational quarter in Q4, and we've expanded the number of items that shipped free.
+Ev37cIcVmy PREMISE-Statistic 1191 1239 There are now over 100 million items in the U.S.
+PWveGuqzt3 PREMISE-Fact 1240 1590 So shipping cost is always going to be a strong part of our offering, and we're -- it's going to be increasing due to our business model, and we, at the same time, look then to minimize the cost by getting more and more efficient in that area, AWS, yes, if you remember last year, we did have price increases in December of last year towards the end.
+cWJyk6WaaT CLAIM-Fact 1591 1633 So it had a partial impact on the quarter.
+gIwiCpMf1k PREMISE-Fact 1634 1820 But generally, just strong usage growth -- usage growth continues to be strong growing at a higher rate than our revenue growth rate, and customers continued to add workloads and expand.
+ZutsXKFtZg PREMISE-Statistic 1821 1914 And as I said, we're adding new services and features all the time, over 1,400 in 2017 alone.
+ydLoAkEqQr CLAIM-Fact 1915 1956 So it's a number of factors, I would say.
+Sh5NzRcbh1 PREMISE-Fact 1957 2102 It's not as simple as lapping a cost error -- excuse me, price decrease last year, but we're very happy with the performance in the AWS business.
+zufzgPa-J2 CLAIM-Opinion(view) 935 1037 So we consider that a very strong quarter as down sequentially in the growth that we've seen recently.
+qUBmAF15hV PREMISE-Statistic 2103 2134 Now over a $20 billion run rate
+R0 SUPPORT ARG1:Z0B_nx1nQ5 ARG2:cWJyk6WaaT
+R1 SUPPORT ARG1:Ev37cIcVmy ARG2:cWJyk6WaaT
+R2 SUPPORT ARG1:PWveGuqzt3 ARG2:cWJyk6WaaT
+R3 SUPPORT ARG1:gIwiCpMf1k ARG2:ydLoAkEqQr
+R4 SUPPORT ARG1:ZutsXKFtZg ARG2:ydLoAkEqQr
+R5 SUPPORT ARG1:Sh5NzRcbh1 ARG2:ydLoAkEqQr
+R6 SUPPORT ARG1:6TgMjeKXS1 ARG2:zufzgPa-J2
+R7 SUPPORT ARG1:qUBmAF15hV ARG2:ydLoAkEqQr
+ArgQ0 cWJyk6WaaT SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 ydLoAkEqQr SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 zufzgPa-J2 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

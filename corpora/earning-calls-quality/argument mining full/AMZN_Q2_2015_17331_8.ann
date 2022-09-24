@@ -1,0 +1,12 @@
+OX_fcZ2Jn_ NON-ARG 1003 1112 So, your first question was about the infrastructure and how we're managing the customer experience in India.
+P_jlN9LTTe NON-ARG 1464 1519 I would say that India and China are totally different.
+l8BCUx26_Z NON-ARG 1645 1773 And so very happy with the trajectory we're on there and excited to be investing and have the opportunities we do at that point.
+kpAfgoO1tq NON-ARG 1520 1644 And I think as Brian mentioned, India is a country that we're doubling down on based on the success we've seen there so far.
+ZRuXqodbc3 CLAIM-Policy 1113 1178 So FBA, Easy Ship and some of those programs are important to us.
+tN98q0NE_C PREMISE-Fact 1179 1279 They're very valuable for sellers to make it easy for the seller to get their goods to the customer.
+sEanE_eyaL PREMISE-Fact 1280 1385 They're great from a customer experience standpoint because we can do what we do best with the logistics.
+haghLshlCA PREMISE-Fact 1386 1463 And so there is a lot of investment and a lot of efforts going on that front.
+DVqHWIPqoa NON-ARG 1773 1842  Steve D. Ju - Credit Suisse Securities (USA) LLC (Broker) Thank you.
+R0 SUPPORT ARG1:tN98q0NE_C ARG2:ZRuXqodbc3
+R1 SUPPORT ARG1:sEanE_eyaL ARG2:ZRuXqodbc3
+R2 SUPPORT ARG1:haghLshlCA ARG2:ZRuXqodbc3

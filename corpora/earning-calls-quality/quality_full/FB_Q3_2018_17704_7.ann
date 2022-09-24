@@ -1,0 +1,35 @@
+LN9WBIzXyV CLAIM-Opinion(view) 1619 2002 I think that we have some confidence in that timeframe, which takes us through the end of about 2019, to get our systems to the level that we generally think that they should be at, where we're building AI systems that can flag content that might be problematic to a much larger security and review team that can manage the larger volume of stuff that our tools are flagging to them.
+8PzMxgHn3S PREMISE-Fact 2003 2217 We're judging our success by, go through all of the categories of harmful content and behavior, whether it's terrorism, or self-harm, or hate speech, or just any different kind of thing that you'd be worried about.
+y20Dcg1znP PREMISE-Fact 2218 2383 We're judging our success by how proactive can we get, so what percent of the stuff that we're taking down are we identifying before other people identify it for us.
+Uv4Ehoetk2 PREMISE-Fact 2384 2474 We've started issuing transparency reports so we can be held publicly accountable on this.
+EtIpBP-yz0 PREMISE-Fact 2475 2599 What we see internally is that generally every week and every quarter that goes by, we're getting better and better at this.
+JvTbEpAVk_ NON-ARG 2600 2737 But I anticipate that it will be about the end of next year when we feel like we're as dialed in as we would generally all like us to be.
+6REBka8Qsj CLAIM-Fact 2738 2791 And even at that point, we're not going to be perfect
+4HThplLZFb PREMISE-Statistic 2792 2860 because more than 2 billion people are communicating on the service.
+ziw1UTJ2W1 PREMISE-Fact 2861 2945 There are going to be things that our systems miss, no matter how well-tuned we are.
+We75hO9exS CLAIM-Opinion(view) 2946 2980 But I think we're making progress.
+cshBMcPTeP PREMISE-Fact 2981 3057 We've made a lot of progress in the last couple of years on content overall.
+9sB7nBTAkO PREMISE-Fact 3058 3190 Elections are a special case, an extremely important special case of the content and safety issues and security issues that we face.
+cQP4Vem6oS PREMISE-Fact 3191 3298 But across all of the different types of content issues of people trying to spread hate or incite violence.
+q27NlmaKJy CLAIM-Opinion(view) 3299 3376 We are making progress, and I feel good about the progress that we're making.
+_Qgxt3NmXc CLAIM-Opinion(view) 3377 3421 And I think we will continue investing more.
+t-RNYYbD0Y CLAIM-Reformulated 3422 3591 But I do think that to some degree the last few years and next year are probably going to be the biggest growth in the investment in the security efforts that we'll see.
+tjPqRb9uK7 NON-ARG 965 1001 This is a really important question.
+IeGsgXb2CX NON-ARG 1002 1090 I do think that we are up against sophisticated adversaries who will continue to evolve.
+_BxBFeTWPW NON-ARG 1091 1150 So there is a large element of this, which is an arms race.
+xkw3I4oA1g NON-ARG 1151 1275 And when you're talking about security issues and some of the safety and content issues, these are not problems that we fix.
+tlWeVG6gnk NON-ARG 1276 1445 They're problems that you manage over time and try to reduce and prevent issues from coming up, but there's no silver bullet where you do the thing and then you're done.
+LT4z5ff2rK NON-ARG 1446 1538 That said, I do think that we were quite behind where we needed to be a couple of years ago.
+w0-jem-Q2X NON-ARG 1539 1617 We started a roadmap, which we said was going to be about a three-year roadmap
+R0 SUPPORT ARG1:8PzMxgHn3S ARG2:LN9WBIzXyV
+R1 SUPPORT ARG1:y20Dcg1znP ARG2:LN9WBIzXyV
+R2 SUPPORT ARG1:Uv4Ehoetk2 ARG2:LN9WBIzXyV
+R3 SUPPORT ARG1:EtIpBP-yz0 ARG2:LN9WBIzXyV
+R4 SUPPORT ARG1:4HThplLZFb ARG2:6REBka8Qsj
+R5 SUPPORT ARG1:ziw1UTJ2W1 ARG2:6REBka8Qsj
+R6 SUPPORT ARG1:cshBMcPTeP ARG2:We75hO9exS
+R7 SUPPORT ARG1:9sB7nBTAkO ARG2:We75hO9exS
+R8 ATTACK ARG1:cQP4Vem6oS ARG2:We75hO9exS
+ArgQ0 LN9WBIzXyV SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 6REBka8Qsj SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 We75hO9exS SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

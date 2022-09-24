@@ -1,0 +1,53 @@
+HxsyEydG-q NON-ARG 690 701 Sure, Doug.
+W98xY4CPt_ NON-ARG 702 728 Yeah, let's start with Q1.
+aZ0ZE71Pc- PREMISE-Statistic 834 951 Things like fulfillment capacity, which have been growing over 30% a year in 2016 and 2017, dropped to 15% last year.
+Se6ZFR_21o PREMISE-Statistic 952 1047 Headcount growth was 48% in 2016, 38% if you exclude Whole Foods and Souq acquisitions in 2017.
+R4VV1kuhIs PREMISE-Statistic 1048 1078 That dropped to 14% last year.
+bUrYJnnqXD PREMISE-Statistic 1079 1226 And then, financial leases for infrastructure, which are good proxy for capital investment and infrastructure, after growing 69% in 2017, grew 10%.
+rSt3M22AgW CLAIM-Fact 729 833 So you remember last quarter, I made the point that 2018 saw lower growth in some of our key cost areas.
+wAqZv7HZhi CLAIM-Reformulated 1227 1321 So all of those trailing 12-month metrics actually stayed the same or slightly declined in Q1.
+k7fCQC37zu PREMISE-Fact 1354 1475 We didn't put a lot of new fulfillment center capacity or infrastructure into place at least compared to Q1 of last year.
+_d1Hs77shP PREMISE-Statistic 1476 1558 And hiring was moderate; we actually are down to 12% on a trailing 12-month basis.
+k8_iT4QqZH CLAIM-Opinion(view) 1611 1725 But my point from the last call still holds in that, we do expect those growth rates to be higher for all of 2019.
+6QTSZ8HG4f CLAIM-Fact 1726 1826 So most of that will happen in the next three quarters, and we have that built into the Q2 guidance.
+eGlStnULN0 CLAIM-Fact 1322 1353 So we had continued efficiency.
+iUrqEylQMv CLAIM-Reformulated 1559 1610 So I would say that is a continuation of last year.
+c1clxZ_i3m CLAIM-Fact 1827 1979 We also hit the high-end of the revenue range, which is always good from an efficiency standpoint and the drop-through on the higher end of the revenue.
+GZEGCd1cug NON-ARG 1980 2058 So now turning into Q2, I would like to tell you a bit about why that's lower.
+Zdy5ckZboW CLAIM-Fact 2059 2186 So we have - we're currently working on evolving our Prime free Two-Day Shipping program to be a free One-Day Shipping program.
+2whOAUOLBm PREMISE-Fact 2187 2361 We're able to do this, because we spent 20 plus years expanding our fulfillment and logistics network, but this is still a big investment and a lot of work to do ahead of us.
+M9aC-HuhqE PREMISE-Statistic 2362 2469 For Q2 guidance, we've included approximately $800 million of incremental spend related to this investment.
+IKds4PWA-5 PREMISE-Fact 2470 2689 And just to clarify, to give a little more information, we have been offering, obviously, faster than Two-Day Shipping for Prime members for years, one day, same day, even down to one to two hour delivery for Prime Now.
+9mYBOfZCPO CLAIM-Fact 2690 2783 So we're going to continue to offer same day and Prime Now selection in an accelerated basis.
+2h3J3GNtuo CLAIM-Reformulated 2784 2888 But this is all about the core free Two-Day offer morphing into - or evolving into a free One-Day offer.
+GOSTzqlp39 CLAIM-Fact 2889 2926 We've already started down this path.
+YqgQ98rU7w PREMISE-Fact 2927 3078 We've in the past months significantly expanded our one-day eligible selection and also expanded the number of zip codes eligible for one-day shipping.
+29YfokO05d CLAIM-Fact 3079 3114 So we're taking a significant step.
+uDUEIzJCHO PREMISE-Fact 3115 3142 It wasn't showing up in Q1.
+Z1BLJ3q0AM PREMISE-Fact 3143 3174 It was minimal in Q1's results.
+IQZgi7DK_G CLAIM-Reformulated 3175 3235 It's a significant step and it will take us time to achieve.
+qw2OuQx-Rx CLAIM-Fact 3236 3338 And we want to ensure that we have good delivery experience for our customers as we evolve this offer.
+-x6rQcNZD_ CLAIM-Fact 3447 3567 And we traditionally see a step-up in stock-based compensation expense in Q2, and we're seeing the same thing this year.
+2dLacUb7ng PREMISE-Fact 3339 3446 And lastly, I would say in Q2, as a reminder, each year, we - Q2 is a time when we grant RSUs to employees.
+dm8pKRbI7A NON-ARG 3608 3696 And that - sorry, and that's also tied in with your question about revenue acceleration.
+GMFmxovpIC CLAIM-Opinion(view) 3697 3831 We do believe that, although there's not explicit lift built in for the faster shipping, we have seen good order trends month to date.
+6YmA-rwquK CLAIM-Opinion(view) 3832 3901 And we expect - we built the Q2 range about - around what we've seen.
+R0 SUPPORT ARG1:aZ0ZE71Pc- ARG2:rSt3M22AgW
+R1 SUPPORT ARG1:Se6ZFR_21o ARG2:rSt3M22AgW
+R2 SUPPORT ARG1:R4VV1kuhIs ARG2:rSt3M22AgW
+R3 SUPPORT ARG1:bUrYJnnqXD ARG2:rSt3M22AgW
+R4 SUPPORT ARG1:k7fCQC37zu ARG2:eGlStnULN0
+R5 SUPPORT ARG1:_d1Hs77shP ARG2:eGlStnULN0
+R6 SUPPORT ARG1:2whOAUOLBm ARG2:Zdy5ckZboW
+R7 SUPPORT ARG1:M9aC-HuhqE ARG2:Zdy5ckZboW
+R8 SUPPORT ARG1:IKds4PWA-5 ARG2:Zdy5ckZboW
+R9 SUPPORT ARG1:YqgQ98rU7w ARG2:GOSTzqlp39
+R10 ATTACK ARG1:uDUEIzJCHO ARG2:29YfokO05d
+R11 ATTACK ARG1:Z1BLJ3q0AM ARG2:29YfokO05d
+R12 SUPPORT ARG1:2dLacUb7ng ARG2:-x6rQcNZD_
+ArgQ0 rSt3M22AgW SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 eGlStnULN0 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Zdy5ckZboW SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 GOSTzqlp39 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 29YfokO05d SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ5 -x6rQcNZD_ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

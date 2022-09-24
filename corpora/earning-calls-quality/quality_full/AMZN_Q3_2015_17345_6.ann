@@ -1,0 +1,20 @@
+xItvuEvoky NON-ARG 614 619 Sure.
+6BFaitSQU- NON-ARG 620 636 So this is Phil.
+pWjFE4Lc2j CLAIM-Fact 637 809 On the Prime pricing, we do have a few different programs for different demographics today with programs like Prime Student or Prime Family, which we're very excited about.
+GLNEIzIUTR CLAIM-Opinion(view) 810 1022 Can't speculate as to what we'd do in the future, but Prime is a program that's really important for us, and we're working hard every day to continue to build selection there and to continue to make Prime better.
+wSuW1fQsN9 CLAIM-Fact 1023 1164 And so hopefully, you see that in the list of things we've launched recently and the continued cadence of making the services we have better.
+-0_GAiGg7N PREMISE-RealExample 1165 1225 We just added a lot of new music in our Prime Music program.
+vW_HTB5Twu PREMISE-Other 1226 1317 And as Brian mentioned, some of the upcoming programming should be pretty good in the fall.
+pGL__T7XHq PREMISE-RealExample 1318 1422 The Man in the High Castle was actually our most-watched pilot, so we're excited about that one as well.
+WZ5vZRemzn PREMISE-Fact 1423 1454 So continuing to work on Prime.
+BnqxE-2X_G CLAIM-Fact 1455 1515 On the shipping side, I would say it's a difficult equation.
+W173J7SMdM PREMISE-Fact 1516 1586 Yes, order size can go up, but we ship a lot of toys and bigger items.
+iYAMn6kIak CLAIM-Reformulated 1587 1632 So it's hard to predict what that looks like.
+paCEgl12RU NON-ARG 1633 1779 But having the density, having the sort centers has certainly helped our cost structure in that area and having inventory closer to our customers.
+R0 SUPPORT ARG1:-0_GAiGg7N ARG2:wSuW1fQsN9
+R1 SUPPORT ARG1:vW_HTB5Twu ARG2:wSuW1fQsN9
+R2 SUPPORT ARG1:pGL__T7XHq ARG2:wSuW1fQsN9
+R3 SUPPORT ARG1:WZ5vZRemzn ARG2:wSuW1fQsN9
+R4 SUPPORT ARG1:W173J7SMdM ARG2:BnqxE-2X_G
+ArgQ0 wSuW1fQsN9 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 BnqxE-2X_G SPECIFIC_2 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

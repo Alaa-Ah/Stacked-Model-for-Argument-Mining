@@ -1,0 +1,21 @@
+WoZpP2jCKY CLAIM-Opinion(view) 2337 2450 So there is going to be an increasing emphasis in the concept of lifetime value that we can deliver to customers.
+ooY9PG18hg PREMISE-Fact 1929 2336 And if you think about when we say Windows-as-a-service it’s actually a pretty profound construct which involves us being able to not only think about what ships with OEMs, but how do we on a continuous basis, if it’s a consumer we have things now in the store, we have subscriptions, we have gaming and then when it comes to the enterprise there’s management, security, servicing which is all unique value.
+fadwEVUOZM NON-ARG 1546 1928 Yeah, the one thing I’d also add is there is actually a much more fundamental transformation happening even with how we think about Windows and its delivery and we’ll talk more about this even at our financial analyst briefing next week because I increasingly think about the lifetime value we can deliver to the user of a Windows device be it in consumer or even in the enterprise.
+7wYOAmVWQU NON-ARG 578 599 Let me take that one.
+kXVytdgzSh NON-ARG 600 642 Satya, you can add at the end of you want.
+etGRMcbLsn NON-ARG 643 646 No.
+PdnmKwiFTw NON-ARG 647 690 I think, Mark, you’re reading it correctly.
+sdX8oLgJvC NON-ARG 1023 1118 Talking about consumer, I think frankly Satya and I both reflected a bit on it in our comments.
+ZwdXtA3rkt CLAIM-Opinion(view) 1297 1530 But I think as I look to 2016, I’m excited about the designs we’ve seen, I’m excited about the products that are possible with Windows 10, and I think we feel good and are looking forward to sharing some of that excitement next week.
+aCv6ISklp2 PREMISE-Other 1119 1196 We do expect to see some additional inventory draw down in front of a launch.
+j8MlSzffNf PREMISE-Other 1197 1296 That’s not unusual prior to a launch cycle and that will clearly impact our revenue in the quarter.
+rzrmVFTYRv PREMISE-Fact 691 1022 We actually had our annuity volume licensing business as you know, has been showing growth and stability for a while as we talked about Pro is back to the pre-XP levels and while could see some fluctuation, I think this has been a very stable business for us for a long period of time when you take out that XP bump from last year.
+UAYLZyXOTr NON-ARG 2516 2530  Thanks, Mark.
+BAComzPqOp NON-ARG 2567 2584  Thank you, Mark.
+PJFzjzsVan NON-ARG 2585 2607 Next question, please.
+R0 SUPPORT ARG1:rzrmVFTYRv ARG2:ZwdXtA3rkt
+R1 ATTACK ARG1:aCv6ISklp2 ARG2:ZwdXtA3rkt
+R2 ATTACK ARG1:j8MlSzffNf ARG2:ZwdXtA3rkt
+R3 SUPPORT ARG1:ooY9PG18hg ARG2:WoZpP2jCKY
+ArgQ0 ZwdXtA3rkt SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_1
+ArgQ1 WoZpP2jCKY SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

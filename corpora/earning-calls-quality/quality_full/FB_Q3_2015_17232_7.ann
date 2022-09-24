@@ -1,0 +1,18 @@
+W4ZFCIZRRg CLAIM-Opinion(view) 573 686 On engagement, John, I think we're obviously focused across a number of different dimensions to drive engagement.
+5FuSH2o9T0 PREMISE-Fact 687 723 Videos had a big contribution there.
+CH4-XC9xIy PREMISE-Fact 724 917 So that's certainly been helpful in terms of making News Feed even more engaging and we'll continue to be focusing on a number of initiatives, public content and just sharing with your friends.
+btzRh28F0A CLAIM-Reformulated 918 1005 So there's lots that we are working on on engagement that continue to drive time spent.
+cXVcLvyGcY PREMISE-Fact 1006 1090 On WhatsApp, I don't think there's a particular magical number with 1 billion users.
+d1fuU6pjeb CLAIM-Fact 1091 1248 The focus really for our messaging products is to continue to drive user growth and continue to build great products that are fast, useful, engaging and fun.
+u6e89P2jsD PREMISE-Fact 1249 1293 And on that front, they're both doing great.
+7eWeaq8fbA NON-ARG 1294 1381 Messenger has over 700 million users and WhatsApp obviously has over 900 million users.
+SxskcPUauC PREMISE-Fact 1382 1435 So the business side is not the main focus right now,
+2IGn3GARU_ CLAIM-Opinion(view) 1436 1524 but we believe there are going to be opportunities as we further scale those properties.
+R0 SUPPORT ARG1:5FuSH2o9T0 ARG2:W4ZFCIZRRg
+R1 SUPPORT ARG1:CH4-XC9xIy ARG2:W4ZFCIZRRg
+R2 SUPPORT ARG1:cXVcLvyGcY ARG2:d1fuU6pjeb
+R3 SUPPORT ARG1:u6e89P2jsD ARG2:d1fuU6pjeb
+R4 SUPPORT ARG1:SxskcPUauC ARG2:2IGn3GARU_
+ArgQ0 W4ZFCIZRRg SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 d1fuU6pjeb SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 2IGn3GARU_ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

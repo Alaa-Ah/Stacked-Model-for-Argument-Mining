@@ -1,0 +1,12 @@
+8So7eL9aWf CLAIM-Opinion(view) 630 816 So we're pretty early in this whole thing and there's so much unique content that people share in Facebook that I think that that is the clear, unique opportunity to go for first, right?
+rkynpzXw3r PREMISE-Fact 817 971 I mean there's – if you think about the overall web, there's a lot of public content that's out there that any web search engine can go index and provide.
+Z6XepNBs4l PREMISE-Fact 972 1407 But a lot of what we can get at are recommendations on products and travel and restaurants and things that your friends have shared, they haven't shared publicly, and knowing different correlations, or interesting things about what your friends are interested in, and that's the type of stuff, those are questions that we can answer that no one else can answer, and that's probably going to be what we continue to focus on doing first.
+SphStSBemI CLAIM-Opinion(view) 1825 1865 I'm pretty proud of for the search team.
+QmzZcMDIre PREMISE-Fact 1408 1664 And I think what you're seeing is that as we enable more use cases and as we just get a lot of the basics right around performance and bringing the mobile features into parity and beyond what we've been able to do on desktop, the volume is growing quickly.
+QMGL9OrUMh PREMISE-Statistic 1665 1824 I think on a recent earnings call we just announced that we passed 1 billion searches total so now being more than 1 billion on mobile shows some progress that
+R0 SUPPORT ARG1:rkynpzXw3r ARG2:8So7eL9aWf
+R1 SUPPORT ARG1:Z6XepNBs4l ARG2:8So7eL9aWf
+R2 SUPPORT ARG1:QmzZcMDIre ARG2:SphStSBemI
+R3 SUPPORT ARG1:QMGL9OrUMh ARG2:SphStSBemI
+ArgQ0 8So7eL9aWf SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 SphStSBemI SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_2

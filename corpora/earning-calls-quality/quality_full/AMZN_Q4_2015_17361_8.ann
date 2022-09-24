@@ -1,0 +1,8 @@
+O8rG3VAU6c NON-ARG 992 1013 Carlos, this is Phil.
+NtWH5aIocg CLAIM-Fact 1014 1251 So your question about the AWS margins, that business as they continued to learn and as we continue to invent and get better at designing and operating the infrastructure and assets, we have been able to drive costs out of that business.
+1p-OwtNyvR PREMISE-Fact 1252 1347 So that's one of the primary drivers of the improvements that you see in margin year-over-year.
+ZQ5wOgjrl9 PREMISE-Fact 1348 1618 There's also an FX tailwind in there as well, which I think was about $60 million this quarter, which would contribute on a year-over-year basis, which really arises because we're largely priced in dollars, but have assets with local currency costs throughout the world.
+FQIRTktPrn NON-ARG 1619 1758 As for the streaming content, we haven't given another update this year and haven't given any commentary on the profile quarter-to-quarter.
+R0 SUPPORT ARG1:1p-OwtNyvR ARG2:NtWH5aIocg
+R1 SUPPORT ARG1:ZQ5wOgjrl9 ARG2:NtWH5aIocg
+ArgQ0 NtWH5aIocg SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,15 @@
+6eH9leg4lT NON-ARG 541 549 So Mark,
+IAtc17q64g NON-ARG 1336 1390 Let's take a look at the guidance that we gave, again,
+VGnvHdKM6K NON-ARG 985 1045 So I don’t know if there is much more we can say about that.
+v35vrB9K51 PREMISE-Statistic 718 805 I think we gave you an update in Q4 that it was more than 40% of our third party units.
+wX4MC_MYR4 CLAIM-Fact 550 717 I can't comment on the derive number, but I can say that FBA continues to grow really well, it’s become a bigger and bigger part of our third party mix over the years.
+JELpQtiHtg NON-ARG 806 984 Obviously in the fulfillment line there is cost associated with that as well, as our other third party units as well I think like payment processing and other cost that we incur.
+vVtVNPEJDG CLAIM-Fact 1782 1841 that’s the range and we think its appropriate range for Q2.
+_jnXxFFb1Q NON-ARG 1391 1458 we gave as we have in previous quarters, we gave the wide range and
+SFGCCSlAg9 PREMISE-Statistic 1459 1630 from a consolidate segment operating standpoint we gave a 100 to 650, the implied margin at the lower end, the higher end is approximately 50 basis points upwards to 2.9%.
+DXtk8mzuCh PREMISE-Statistic 1631 1781 This quarter in Q1 we were up 60 basis points year-over-year in total at the upper end of that forecast implied would be up 80 basis points, so again,
+R0 SUPPORT ARG1:v35vrB9K51 ARG2:wX4MC_MYR4
+R1 SUPPORT ARG1:SFGCCSlAg9 ARG2:vVtVNPEJDG
+R2 SUPPORT ARG1:DXtk8mzuCh ARG2:vVtVNPEJDG
+ArgQ0 wX4MC_MYR4 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 vVtVNPEJDG SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

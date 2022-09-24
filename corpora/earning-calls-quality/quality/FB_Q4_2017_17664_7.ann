@@ -1,0 +1,28 @@
+zl8Rd_sMho NON-ARG 987 1030 I can take the second question first, Mark.
+cJNw1_Y11i NON-ARG 1031 1254 I think what I am trying to say is that we do expect constant currency revenue growth to continue to decelerate consistent with steady deceleration that we've seen over the past year, so we do expect that trend to continue.
+Ta8APJ6pha NON-ARG 1255 1302 I'm not putting specific percentages around it.
+rrHeyybsuf PREMISE-Fact 1320 1397 So in Q4, we made a number of quality changes that were largely around video.
+kaK_TkwaBp CLAIM-Fact 1398 1502 We are going to continue to make quality changes now going forward around meaningful social interaction.
+1BX0xZ4pgQ PREMISE-Fact 1503 1704 And I do think that that is likely going to continue this trend of decreasing passive consumption, but if we do our jobs well, it should increase the number of meaningful interactions that people have.
+eFkUvWqiee PREMISE-Fact 1705 1758 And we think that that's going to be positive, right.
+88s6Dtmohl PREMISE-Fact 1759 1829 So we think it'll help make the community stronger over the long-term.
+7ZBSQhHRxV PREMISE-Fact 1830 1969 I mean we think it'll be good for the business over the long-term, but this is what people are telling us is what they want on the product.
+HcXAnW6RDb PREMISE-Fact 1970 2025 It's the unique value that people expect from Facebook.
+QT_zqefEBY PREMISE-Fact 2026 2463 You can go to a lot of places to consume content, but there aren't a lot of services where you can strengthen your relationships, that's what people want, so that's the right thing for us to focus on, and it also lines up with all the well being research that we've done which – and as you know, there have been a lot of debate over the last year about the utility of social media on the Internet, and we take this very seriously, right.
+KuHP55SwGR PREMISE-Fact 2464 2569 It's our responsibility, too, to make sure that we understand everything that's going on on our platform.
+aaYAHY9OZa PREMISE-Fact 2570 2913 And one of the big takeaways from that is that time when people are engaging and building relationships, is good time and that correlates with all the aspect of long-term well being that you'd expect like happiness, and health, and feeling more connected and feeling less alone, and in all of the things that qualitatively matter in our lives.
+eg9_nPv82F CLAIM-Reformulated 2914 3037 And we think that we can help drive that and improve people's lives by doing that, so we're absolutely going to go do that.
+vIDUon1ndZ NON-ARG 3038 3048 End of Q&A
+ra2GeHvunJ NON-ARG 3066 3072 Great.
+XOXdkGDfeh NON-ARG 3073 3104 Thank you for joining us today.
+2BEcKEji3T NON-ARG 3105 3176 We appreciate your time and we look forward to speaking with you again.
+R0 SUPPORT ARG1:rrHeyybsuf ARG2:kaK_TkwaBp
+R1 SUPPORT ARG1:1BX0xZ4pgQ ARG2:kaK_TkwaBp
+R2 SUPPORT ARG1:eFkUvWqiee ARG2:kaK_TkwaBp
+R3 SUPPORT ARG1:88s6Dtmohl ARG2:kaK_TkwaBp
+R4 SUPPORT ARG1:7ZBSQhHRxV ARG2:kaK_TkwaBp
+R5 SUPPORT ARG1:HcXAnW6RDb ARG2:kaK_TkwaBp
+R6 SUPPORT ARG1:QT_zqefEBY ARG2:kaK_TkwaBp
+R7 SUPPORT ARG1:KuHP55SwGR ARG2:kaK_TkwaBp
+R8 SUPPORT ARG1:aaYAHY9OZa ARG2:kaK_TkwaBp
+ArgQ0 kaK_TkwaBp SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

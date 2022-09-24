@@ -1,0 +1,18 @@
+2SvQyQlo-M NON-ARG 1109 1114 Sure.
+y1JKibmE4S NON-ARG 1115 1133 Thank you, Carlos.
+pMdzneEAzD NON-ARG 1134 1175 First on, classify as Prime demographics.
+a8wimxFpTD CLAIM-Opinion(view) 1176 1264 So yes, we still think there's a lot of people in the country who are not Prime members.
+dr6kFj347u CLAIM-Opinion(view) 1265 1324 And we're anxious to have them try it and sign up and join.
+AwAishTfTQ PREMISE-Fact 1325 1502 The other thing that we see is that with our vast offering of selection and faster and faster shipping programs, we have more competitive offering for many things that they buy.
+ade4Ld0Lpc PREMISE-Fact 1730 1829 It's not our entire selection, it's tens of thousands of items that they may need on a daily basis.
+akmdj66sdx CLAIM-Opinion(view) 1830 1964 We think it's an interesting part of the selection offer for Prime and it's, in many ways, something that we can do that others can't,
+bEQgMtmup_ PREMISE-Fact 1965 2137 because it's a natural evolution of our 20-year effort to grow our fulfillment center network and our scale quite frankly makes it possible to even offer this to customers.
+T-8cFFUswi PREMISE-Fact 1503 1628 So there's a share of wallet element to it as well over time that we are looking to be more useful to customers all the time.
+zGR-Ryedxd PREMISE-Fact 1629 1729 On your comment about the economic drivers of Prime Now, what I'll say is customers really value it.
+R0 SUPPORT ARG1:bEQgMtmup_ ARG2:akmdj66sdx
+R1 SUPPORT ARG1:AwAishTfTQ ARG2:a8wimxFpTD
+R2 SUPPORT ARG1:T-8cFFUswi ARG2:a8wimxFpTD
+R3 SUPPORT ARG1:zGR-Ryedxd ARG2:a8wimxFpTD
+R4 SUPPORT ARG1:ade4Ld0Lpc ARG2:a8wimxFpTD
+ArgQ0 akmdj66sdx SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 a8wimxFpTD SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

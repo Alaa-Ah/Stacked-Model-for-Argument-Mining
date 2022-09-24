@@ -1,0 +1,31 @@
+F0OCNdEDw- NON-ARG 727 732 Sure.
+p3ZJbdshkF NON-ARG 733 742 Hi, Eric.
+slu2bk1TPy CLAIM-Opinion(view) 743 835 Yes, let me make clear, we are really excited and looking forward to a great holiday season.
+-nvwkY90lq CLAIM-Opinion(view) 836 928 We feel like we had a great Q3 as well and have made rapid progress on our One Day shipping.
+Lpv7llBDO5 CLAIM-Opinion(view) 929 1082 The ops team has done a great job getting us to a position where we are in and I think that’s going to be a great additional service for customers in Q4.
+EbyXr0ihiH NON-ARG 1084 1149 On the guidance front, here’s what I would have you keep in mind.
+3br3qNgD8S PREMISE-Fact 1150 1301 If you look back over the last few years and adjust for the acquisition of Whole Foods and Soup, which obscured this a bit in the last couple of years.
+C9kaXZ4ior PREMISE-Statistic 1303 1416 There has been a noticeable drop in run rate, between Q3 and Q4 generally on the lines of about 300 basis points.
+0xSD2Q-Ap9 CLAIM-Opinion(view) 1417 1491 We are factoring that in this year, that’s just something we’re expecting.
+CZeHLjRzzP PREMISE-Statistic 2231 2360 I would say it has helped us by 150 basis points in Q3, and will be a negative headwind of 300 basis points year-over-year in Q4.
+RpeOlURA6Q PREMISE-Statistic 2407 2520 There is about 40 basis points of favorability in Q3 and it’s expected to be about 80 basis point headwind in Q4.
+mX_K3fHFT- CLAIM-Reformulated 2521 2612 So that’s a little bit more on our guidance, but again we are really looking forward to Q4.
+TsU8cBsFrl CLAIM-Opinion(view) 2614 2695 I think we’re well positioned to make it the best holiday ever for our customers.
+nzo3OI5tnN CLAIM-Opinion(view) 2696 2746 I think One Day should help with holiday shipping.
+Fjot62VD_- PREMISE-Fact 1492 1668 It’s a bit about the law of large numbers and the differential between growth and holiday season, that’s very tight few weeks of the holiday season versus the rest of the year.
+P27L8M4I8f CLAIM-Fact 1670 1731 So we factor that in, and then there’s also two other issues.
+KGBdjVZ04t PREMISE-RealExample 1732 1820 The Diwali holiday in India was all in Q4 last year and a bit of it was in Q3 this year.
+DGgNsbAxhk PREMISE-RealExample 1821 2118 Also the Japan consumption tax was raised from 8% to 10% on October 1, and what we saw was a pre-buy a bit in Q3 at the end of the quarter, and based on our history with the last time the consumption tax went up many years ago, we’ve expected a slight negative impact from that tax in Q4 in Japan.
+TaP3SgWtbe CLAIM-Reformulated 2120 2230 So if you wrap those together, we expect it’s going to be more of an issue with our international growth rate.
+LjzqOjGNfe CLAIM-Fact 2362 2406 For the company, it’s not as large an issue.
+aXjfVGiV67 CLAIM-Fact 2747 2959 We’ve got a great new device lineup you may have seen announced in September and on the AWS side, we’re looking forward to our re:Invent Conference in Las Vegas, where we welcome over 65,000 conference attendees.
+R0 SUPPORT ARG1:3br3qNgD8S ARG2:0xSD2Q-Ap9
+R1 SUPPORT ARG1:C9kaXZ4ior ARG2:0xSD2Q-Ap9
+R2 SUPPORT ARG1:Fjot62VD_- ARG2:P27L8M4I8f
+R3 SUPPORT ARG1:KGBdjVZ04t ARG2:P27L8M4I8f
+R4 SUPPORT ARG1:DGgNsbAxhk ARG2:P27L8M4I8f
+R5 SUPPORT ARG1:CZeHLjRzzP ARG2:P27L8M4I8f
+R6 SUPPORT ARG1:RpeOlURA6Q ARG2:LjzqOjGNfe
+ArgQ0 0xSD2Q-Ap9 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 P27L8M4I8f SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 LjzqOjGNfe SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

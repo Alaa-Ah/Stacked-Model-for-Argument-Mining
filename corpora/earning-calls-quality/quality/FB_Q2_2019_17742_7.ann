@@ -1,0 +1,21 @@
+4Q8n4VS8aC NON-ARG 508 540 Yes, I could take both of those.
+34cwB9mRfq NON-ARG 1357 1386 What was the second question?
+2flEKmlsPK NON-ARG 1400 1414 The five-year.
+UWZ4zXe1YD NON-ARG 1432 1444 Right, okay.
+zSRrlOC4bp NON-ARG 1445 1480 So on that’s on the privacy vision.
+tad7XKN0Sp CLAIM-Opinion(view) 541 817 So in the Facebook app overall after helping people connect with friends and family, helping people connected with communities is the next most important social problem that we believe we can help address and that’s just going to be an area of increasing value in the product.
+1k76g0ui2B CLAIM-Fact 818 1207 That is going well since we started rolling that out after F8, I think Dave may have mentioned this earlier, but in case you didn’t just to emphasize this point I think part of the – our strong performance over the first half of this year, a meaningful part of our overperformance compared to what we had expected is because of strength and engagement in the Facebook app over that period.
+3NONZ-atJC CLAIM-Reformulated 1208 1356 So that’s – it’s generally going well overall and we’re very optimistic about communities in particular going forward is one of the drivers of that.
+NwBQF-AhcJ CLAIM-Policy 1481 1591 So for the next year to two a lot of the work that we need to do is just about getting the architecture right.
+7Ltd-q-tnp CLAIM-Policy 1592 1742 Right so establishing, we have to rewrite the networks on Messenger and on Instagram to be more client and server oriented to be end-to-end encrypted.
+wFHr-X2wKG PREMISE-Fact 1743 1841 We’re working on interoperability, that people will be able to choose to use between the services.
+EVPmLYOml6 NON-ARG 1842 1882 These are pretty big technical projects.
+RqO-maUao6 PREMISE-Fact 1883 2166 We want to make it so that the infrastructure that these services are built on is the most secure and most reliable and fastest and most widely available of any of the major messaging platforms out there, we think that that’s the foundation to build a successful private platform on.
+gSJXdbZ_Cz CLAIM-Policy 2167 2606 Then we need to do things like what we’re doing with WhatsApp business, which is building up the business ecosystem and that’s just something that our playbook on this but this is a multiyear journey where first we deliver the consumer product experience, then we create organic business experiences and then only as the last step, are we really able to ramp up having business that pay for things that are meaningful for them within that.
+4EZEZxtmcu NON-ARG 2607 2742 So it’s not that you’re not going to see progress on that along the way, you’ll certainly see milestones every six months or 12 months.
+nYSAlYSGOc NON-ARG 2743 2858 But before this is really the biggest driver of our business, I do think that that’s going to be a number of years.
+WpPYLIZZkU NON-ARG 2876 2883  Great.
+feIuHQOann NON-ARG 2884 2929 Operator, we have time for one last question.
+R0 SUPPORT ARG1:wFHr-X2wKG ARG2:7Ltd-q-tnp
+R1 SUPPORT ARG1:RqO-maUao6 ARG2:7Ltd-q-tnp
+ArgQ0 7Ltd-q-tnp SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

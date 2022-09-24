@@ -1,0 +1,32 @@
+HioN5h8LSu NON-ARG 934 938 Sure
+LZxX8KM4zh CLAIM-Fact 969 1050 So, yeah, we do see expansion of the one-day program as we move through the year.
+hfLpc7JZoF PREMISE-Fact 1051 1120 We've been expanding since we started this effort in Q2 of last year.
+PaOUCwBtmE CLAIM-Opinion(view) 1197 1316 But more -- I think what you'll see more in 2020 is also an -- more effort internationally, more costs internationally.
+PzFOVgUWFG CLAIM-Fact 1407 1555 We started with higher one-day percentage of our shipments in those geographies, but we do have to take steps and are taking steps to increase that.
+L3L20aA7vB CLAIM-Fact 1317 1406 We have greatly improved our selection of one-day in -- particularly in Europe and Japan.
+ERb0NMKi6p CLAIM-Opinion(view) 1556 1659 And we expect that to be -- it started to be a little more balanced cost globally as we move into 2020.
+VupIbRHTUE NON-ARG 1673 1683 Yeah, Dan.
+VIV23ZA1kn NON-ARG 1684 1724 In terms of your question around brands.
+yKLSXjzFy1 CLAIM-Fact 1725 1906 We're focused on the certainly brands as an advertising customer set and a lot of focus on providing the products and tools that are going to help customers and really inspire them.
+kHqlFlajVl CLAIM-Opinion(view) 1907 2012 So, things that we're really excited about stores, so a brand can customize and curate a multipage store.
+bNwbx2qqoF PREMISE-Fact 2013 2084 It allows them to better tell customers who they are share their story.
+WogZRlmaU5 PREMISE-Fact 2085 2182 So, we can help deepen the brand engagement and the customer loyalty through that type of option.
+zzDe83HZuJ PREMISE-Fact 2183 2264 Some other things like posts, which helps customers discover products and brands.
+zrwASojM1E CLAIM-Fact 2375 2431 And there's international expansion in some other areas.
+FFJL0jVwsg CLAIM-Opinion(view) 2432 2641 I think broadly with advertising, so much of this is about having -- developing great relationships with these advertisers, because I think they appreciate the fidelity we can provide around shopping outcomes.
+4_SqLComc5 PREMISE-Fact 1121 1196 Expansion means additional cities, additional routes, additional zip codes.
+OcS7SFJe4j PREMISE-Fact 2265 2374 And it's through a curated feed that features the brand's lifestyle content and it's on a mobile detail page.
+tdMZ65WPEH CLAIM-Fact 2642 2705 We're uniquely positioned to do this given our retail business.
+2L0boKbj-y PREMISE-Statistic 2706 2817 On the advertising business, or rather I should say other revenue that line item grew about 41% year-over-year.
+yB79QyLkua PREMISE-Fact 2818 2859 Advertising is the biggest piece of that.
+PN5aKLCpMg PREMISE-Fact 2860 2904 Line item is growing at about the same rate.
+8Lw3089-EV PREMISE-Fact 2905 3046 Advertising revenue is as a subset been growing at about the same rate year-over-year in the fourth quarter than it did in the third quarter.
+u8fGMBFtCh NON-ARG 940 968 Let me start on the one-day.
+R0 SUPPORT ARG1:hfLpc7JZoF ARG2:LZxX8KM4zh
+R1 SUPPORT ARG1:4_SqLComc5 ARG2:LZxX8KM4zh
+R2 SUPPORT ARG1:bNwbx2qqoF ARG2:kHqlFlajVl
+R3 SUPPORT ARG1:WogZRlmaU5 ARG2:kHqlFlajVl
+R4 SUPPORT ARG1:zzDe83HZuJ ARG2:kHqlFlajVl
+R5 SUPPORT ARG1:OcS7SFJe4j ARG2:kHqlFlajVl
+ArgQ0 LZxX8KM4zh SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 kHqlFlajVl SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

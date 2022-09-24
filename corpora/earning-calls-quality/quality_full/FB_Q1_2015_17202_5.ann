@@ -1,0 +1,24 @@
+bV-kOon_fC CLAIM-Opinion(view) 933 1017 I mean, on the messaging question, yeah, we're pretty happy with how it's all going.
+as4_gVrfr_ CLAIM-Reformulated 1141 1292 So I do feel good about how we're doing, but it needs to do a lot more obviously and we're very excited about the roadmap of things that we have ahead.
+YtZQmfKpVg PREMISE-Hypothesis 1018 1140 I think if we're going to pay $19 billion for a company, we should have pretty high expectations for how it's going to do.
+TK9Jr4JC2F PREMISE-RealExample 1746 1870 So you can look at countries where both services, WhatsApp and Messenger, are growing very quickly like Brazil, for example.
+1gBVOnCkhO CLAIM-Fact 2681 2787 On the auto and insurance verticals, they're both still small which makes them good opportunities to grow.
+_5kuRK0vMr PREMISE-Fact 2788 2958 We're seeing good progress on both of them, and interestingly, insurance companies have been pretty active both on Facebook and Instagram, so we're optimistic about that.
+9ern1OY0Gy CLAIM-Fact 1871 1950 And what you'll see is that basically people use them a little bit differently.
+nZX6jEncIV PREMISE-Fact 1951 2014 I mean, WhatsApp is more of a clear text messaging replacement.
+vuDnq64UaL PREMISE-Fact 2015 2105 Facebook Messenger people use to connect with people that they know on Facebook primarily.
+tD9vwrEJMi PREMISE-Fact 2106 2480 And then there are differences in the feature sets where WhatsApp is extremely utilitarian and focused on texting and now voice calling, whereas Messenger is very focused on expression and the whole set of things that fit into the tools around the Messenger platform that we rolled out at F8, communicating with businesses now, richer tools to communicate in different ways.
+gehYOJchbM CLAIM-Reformulated 2481 2660 So I think that these are just going to keep on growing is my expectation and hope, and we're excited to kind of pursue both different products to serve the different communities.
+DDflW1Hdz7 CLAIM-Policy 1293 1354 In terms of integrating them, no, we're not going to do that.
+8icrOk0V3M PREMISE-Fact 1355 1745 One of the things that had been interesting, while we were watching these different services grow, was just how quickly multiple different messaging and communication services were growing at the same time, and it seemed a little bit counter-intuitive at first because it seemed like there should have been more overlap than it actually, now in retrospect looking back, seems like there is.
+R0 SUPPORT ARG1:_5kuRK0vMr ARG2:1gBVOnCkhO
+R1 SUPPORT ARG1:YtZQmfKpVg ARG2:bV-kOon_fC
+R2 SUPPORT ARG1:8icrOk0V3M ARG2:DDflW1Hdz7
+R3 SUPPORT ARG1:TK9Jr4JC2F ARG2:DDflW1Hdz7
+R4 SUPPORT ARG1:nZX6jEncIV ARG2:9ern1OY0Gy
+R5 SUPPORT ARG1:vuDnq64UaL ARG2:9ern1OY0Gy
+R6 SUPPORT ARG1:tD9vwrEJMi ARG2:9ern1OY0Gy
+ArgQ0 1gBVOnCkhO SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 bV-kOon_fC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 DDflW1Hdz7 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 9ern1OY0Gy SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

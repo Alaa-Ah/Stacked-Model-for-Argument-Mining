@@ -1,0 +1,12 @@
+uufuzhgPUl CLAIM-Fact 749 809 So, the integration you spoke of are the right ones we want.
+f4b6GK8dgr PREMISE-Fact 810 862 You want to be deeply integrated at a product level.
+SpLP0BCfig PREMISE-Fact 863 981 It has to go all the way through for this to work from discovery, all the way through a pretty seamless checkout flow.
+IZbUgK6l4Q PREMISE-Fact 1195 1231 We had a very strong holiday season.
+Hoz1m-90d7 CLAIM-Fact 1232 1410 We continue to see growth across Facebook, across Instagram in people who are discovering products they're interested in, and we're continuing to make a lot of investments there.
+8FXsUpBZKS CLAIM-Reformulated 982 1043 And that's what we're working on, and that really takes time.
+zMqWPx2yKe CLAIM-Fact 1044 1194 You're also right that we are very focused on commerce ads on Facebook, that the great, great, great majority of activity is commerce ads on Facebook.
+R0 SUPPORT ARG1:f4b6GK8dgr ARG2:uufuzhgPUl
+R1 SUPPORT ARG1:SpLP0BCfig ARG2:uufuzhgPUl
+R2 SUPPORT ARG1:IZbUgK6l4Q ARG2:Hoz1m-90d7
+ArgQ0 uufuzhgPUl SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Hoz1m-90d7 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

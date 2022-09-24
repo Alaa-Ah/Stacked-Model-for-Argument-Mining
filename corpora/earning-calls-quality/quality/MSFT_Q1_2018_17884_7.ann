@@ -1,0 +1,39 @@
+nrISme_a3S PREMISE-Fact 1079 1156 One of the new suites we have is called F1 and this is about first-line work.
+uHp8ulQyhM PREMISE-Fact 1157 1218 So Office is no longer limited just to the knowledge workers.
+q9Aa4OP5Ro CLAIM-Fact 1219 1440 In fact, we see significant opportunity for some of our teamwork, collaboration, communications, as well as scheduling software to be very, very relevant for anyone who's on the manufacturing plant or a retail specialist.
+TH5CZzonGZ PREMISE-RealExample 1441 1563 Some of our social tools like Yammer are increasingly getting used for broad communications, inclusive of Skype for Teams.
+5M3bXN_iR4 CLAIM-Fact 1564 1636 So I just wanted to put that in there as well, as there is of course E3.
+_DLgmEx2PU CLAIM-Reformulated 1637 1655 There is E3 to E5.
+A-5BBnRL2a CLAIM-Fact 1656 1891 But there is also F1, which is increasing the overall penetration and not to mention the small business segment, and of course all the markets that we participate in with Office 365 where we don't have much of a server business at all.
+ZekoR9NSs7 PREMISE-Fact 1892 1946 We sold Office on-premise or Office perpetual clients.
+LIrApZ6wZh PREMISE-RealExample 1947 2051 But now you can have a small business in a country like India, buy Office 365 as a subscription service.
+WG0raa1aS1 CLAIM-Reformulated 2052 2097 So those are all the things that are in play.
+b9XflllMeN CLAIM-Fact 853 1078 Let me just start at the highest of levels, because for us again, and in this last quarter, some of the innovation that we launched I think is also pretty key as you look forward to what it means for Office and Office growth.
+VqVPX3FLtx CLAIM-Opinion(view) 2111 2192 And I do think that's important, Keith, in terms of the innovation and the value.
+8Hz5PLGgs_ PREMISE-Statistic 2312 2409 Sitting underneath that is this very large 120 million dollar-monthly active users in commercial.
+lesh3m8gSz CLAIM-Fact 2494 2665 So I look and say, seeing growth in that number allows us to actually grow the ARPU, and the new services that Satya mentioned continues to let us grow the installed base.
+HUELVZ-dQT PREMISE-Fact 2410 2493 And they're experiencing frankly the latest innovations that the company has built.
+gA-p5ya76h PREMISE-Fact 2666 2794 Innovations around teams, innovations in AI in the actual Office products themselves are now being experienced by our customers.
+qej4TCEnHw CLAIM-Opinion(view) 2795 2934 I think when you have that happen over time, it builds confidence in the product and it builds confidence in end-user confidence in itself.
+6y9DvzaUfi NON-ARG 2193 2311 I think sometimes, on this call in particular, we talk about there's installed base growth and there's ARPU increases.
+pKjPdApMnK PREMISE-Fact 2935 3019 And then purchasers are happy to continue to add SKUs and add and move up the scale.
+oiLrApQMDS NON-ARG 3020 3139 We still, this is primarily the ARPU growth, continues to be some of the earlier transitions we've always talked about.
+nMWHjXx3s_ CLAIM-Fact 3140 3197 It's that E3 transition as well as installed base growth.
+-2rcEXKP5C CLAIM-Fact 3198 3236 E5 continues to see encouraging signs.
+GH4-NpzMiA NON-ARG 3237 3348 We're starting to see it enter but that will take a long time, as we've talked about, to actually land in ARPU.
+wq9GsjJTe_ NON-ARG 3360 3376 Thank you, Phil.
+Zxfx_m0hsX NON-ARG 3377 3413 We'll move to next question, please.
+R0 SUPPORT ARG1:TH5CZzonGZ ARG2:q9Aa4OP5Ro
+R1 SUPPORT ARG1:ZekoR9NSs7 ARG2:A-5BBnRL2a
+R2 SUPPORT ARG1:LIrApZ6wZh ARG2:A-5BBnRL2a
+R3 SUPPORT ARG1:nrISme_a3S ARG2:b9XflllMeN
+R4 SUPPORT ARG1:uHp8ulQyhM ARG2:b9XflllMeN
+R5 SUPPORT ARG1:8Hz5PLGgs_ ARG2:lesh3m8gSz
+R6 SUPPORT ARG1:HUELVZ-dQT ARG2:lesh3m8gSz
+R7 SUPPORT ARG1:gA-p5ya76h ARG2:qej4TCEnHw
+R8 SUPPORT ARG1:pKjPdApMnK ARG2:qej4TCEnHw
+ArgQ0 q9Aa4OP5Ro SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 A-5BBnRL2a SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 b9XflllMeN SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ3 lesh3m8gSz SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 qej4TCEnHw SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,12 @@
+hhK4ecrJUC NON-ARG 760 773 Thanks, Eric.
+1KerdZ8s6p NON-ARG 774 915 We're not breaking out specific regional impact, but let me give you some color around the acceleration in areas like Rest of World and APAC.
+19t7r5xGFN CLAIM-Fact 916 992 APAC benefited from some of the product optimizations we did in the quarter.
+wIs2H4Ij-d PREMISE-Fact 993 1321 One thing that I would cite there, it's just how we manage ad load and balance some of our internal promotion units and sort of use it as internal house spend and the nature of the changes that we made in that had a more pronounced impact in some of the lower ARPU countries and unlocked more impression growth in those markets.
+suV2-G8cyO NON-ARG 1322 1353 So that was one of the factors.
+hfohQbR2zs PREMISE-Fact 1354 1400 And then Brazil was particularly weak last Q3.
+vj8Fx5xTtC NON-ARG 1454 1524 In terms of the Q4 guide, not anything I would say specifically there.
+lx4w78Yk4O NON-ARG 1401 1453 So that had a good compare on a macroeconomic basis.
+Azi0kDRRz3 CLAIM-Opinion(view) 1771 1837 So I think we're going to see the deceleration impact all regions.
+4nkKXJzQIs NON-ARG 1525 1770 In the US, we will have a shorter holiday season, it's hard to know how that's going to play into it just given the late arrival of Thanksgiving, but I think overall the product optimizations that we're comping against in Q4 were global changes.
+R0 SUPPORT ARG1:wIs2H4Ij-d ARG2:19t7r5xGFN
+ArgQ0 19t7r5xGFN SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

@@ -1,0 +1,24 @@
+FyiQ_wO0dp NON-ARG 684 717 Let me start with the second one.
+yBFaIJXKuu CLAIM-Fact 842 1014 So there'll be an incremental differential in Q1 on those price cuts, but this is something that we again have quite frequently and I don't think it's a large factor in Q1.
+7l9MoXLgZX NON-ARG 718 841 So we factored it in, obviously, into the numbers I gave through guidance, the timing of it was again closer to December 1.
+NaiJP0pKOI NON-ARG 1263 1272 Hi, Mark.
+QYuO5-JkgF NON-ARG 1273 1287 This is Darin.
+91WIwzrrY8 CLAIM-Opinion(view) 1288 1387 On the unit growth, we're very happy with the 24% unit growth that we saw in Q4 like you mentioned.
+7MJFdOfQRv PREMISE-Fact 1388 1529 Our unit growth has been strong and that's primarily attributable to our Prime program and the customers and members that enjoy that program.
+J-aJT5zouu NON-ARG 1530 1585 As Brian mentioned, that 28% is only part of the story.
+zWV632e6YW PREMISE-Statistic 1586 1768 Our Amazon Fulfilled units, the amount going through our fulfillment centers and which essentially includes our first-party retail and our FBA sales and it grew nearly 40% over 2016.
+6wg9qLQNeJ CLAIM-Reformulated 1769 1880 So we're very pleased with those results and happy with the fundamentals of the business from that perspective.
+zcUnPO9bJM CLAIM-Fact 1881 1939 Customers continue to respond very well to the low prices.
+5uKH8jVnjs PREMISE-Fact 1940 2220 The vast selection which is helped by the FBA sellers and the strong convenience that we can offer through FREE Two-Day Shipping and the multitude of other faster shipping options such as Same-Day, Next-Day and in some cases with Prime Now, the 1-Hour Delivery to 2-Hour Delivery.
+HhDEuRI1P_ PREMISE-Fact 2221 2328 So Prime membership and selection continues to drive growth and you'll see that in our unit growth numbers.
+Foc-iwXeMK PREMISE-Statistic 1015 1080 The bigger one is more mechanical that leap day comp I would say.
+MKzRCAjkLs PREMISE-Statistic 1081 1248 And just if you're looking on a non-FX adjusted basis, the foreign exchange exposure, which I mentioned was $730 million or 250 basis points expected in this guidance.
+R0 SUPPORT ARG1:7MJFdOfQRv ARG2:91WIwzrrY8
+R1 SUPPORT ARG1:zWV632e6YW ARG2:91WIwzrrY8
+R2 SUPPORT ARG1:5uKH8jVnjs ARG2:zcUnPO9bJM
+R3 SUPPORT ARG1:HhDEuRI1P_ ARG2:zcUnPO9bJM
+R4 SUPPORT ARG1:Foc-iwXeMK ARG2:yBFaIJXKuu
+R5 SUPPORT ARG1:MKzRCAjkLs ARG2:yBFaIJXKuu
+ArgQ0 91WIwzrrY8 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 zcUnPO9bJM SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 yBFaIJXKuu SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

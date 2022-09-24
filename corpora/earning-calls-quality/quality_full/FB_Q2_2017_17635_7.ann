@@ -1,0 +1,19 @@
+ar3vlRUdkF CLAIM-Fact 804 874 It's really too early to understand the impact of the ads on consumers
+WL0KeCDhWx PREMISE-Fact 875 960 because there aren't enough of them and they haven't been rolled out for long enough.
+O8K4J02sS_ CLAIM-Opinion(view) 961 1108 In terms of the bots, what we really think about is our businesses and people making useful connections on both sides on Messenger or any platform.
+VOv589Spbg PREMISE-Fact 1109 1205 If the connection is useful for marketers, businesses, and useful for people, then it will grow.
+bnEfaARP0m PREMISE-Fact 1206 1252 And we're open to automated bots being useful.
+Iqb4JrIkhB PREMISE-Fact 1253 1302 We're open to other forms of things being useful.
+acZAvFe-ly CLAIM-Opinion(view) 1303 1604 I think when you think about what bucket of spend that is in, which is a question we get, it really is both marketing spend and any other spend companies have where they're reaching their customers, of which if you think about marketing spend and customer service spend, marketing spend is way bigger,
+cM9HGonJJQ PREMISE-Fact 1605 1657 because marketing spend grows as you can grow sales.
+EgPccA6Mvq PREMISE-Fact 1658 1736 And customer service spend is something that people generally try to minimize.
+Xxp-uaIt8u CLAIM-Reformulated 1737 1935 So, the way we think about it is we want to grow the organic connections, whether they're automated or whether they're personalized, and make sure that that is growing the business of our customers.
+R0 SUPPORT ARG1:WL0KeCDhWx ARG2:ar3vlRUdkF
+R1 SUPPORT ARG1:cM9HGonJJQ ARG2:acZAvFe-ly
+R2 SUPPORT ARG1:EgPccA6Mvq ARG2:acZAvFe-ly
+R3 SUPPORT ARG1:VOv589Spbg ARG2:O8K4J02sS_
+R4 SUPPORT ARG1:bnEfaARP0m ARG2:O8K4J02sS_
+R5 SUPPORT ARG1:Iqb4JrIkhB ARG2:O8K4J02sS_
+ArgQ0 ar3vlRUdkF SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 acZAvFe-ly SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 O8K4J02sS_ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

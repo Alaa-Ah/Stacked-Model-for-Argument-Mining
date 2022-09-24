@@ -1,0 +1,23 @@
+xXN1v9nYHc NON-ARG 932 937 Sure.
+xN7RPSech6 CLAIM-Fact 938 1055 And I'm actually going to expand my comments a little bit because the sales motion is really broader than Office 365.
+EIWzIkVFFL CLAIM-Reformulated 1056 1103 The sales motion is really about Microsoft 365.
+DjAeokJ6yO PREMISE-Fact 1104 1346 And what that encompasses is both the Office 365 value proposition, but also our management and security value proposition with EMS as well as Advanced Threat Protection and Windows value that shows up in that Windows commercial services KPI.
+0xnCqF-_K8 CLAIM-Fact 1347 1500 So the bucket of those together, what we're seeing is many of the workloads and movement to E3 within Microsoft 365 and to E5 continue to have good pull.
+eRG44cCxSq CLAIM-Fact 1501 1616 There's great customer demand for the value that comes in security and analytics, in meetings, in voice, in collab.
+U8-ljGcZxF CLAIM-Opinion(view) 1617 1809 And I think when you look at the value, I think we feel good about the opportunity to continue to move these users including new first-line or frontline users that we've not had access before.
+0HopfbYCc7 PREMISE-Fact 1810 1898 We got room on user growth, which you continue to see that number go up across segments.
+iLWp1ncNct PREMISE-Fact 1899 1965 And we've got room in ARPU, which you've continued to see us have.
+BqaUqL2PNu CLAIM-Fact 1966 2138 So in many ways your question shows itself in Office, but the trends are the same if you look at EMS growth or if you were to look at that Windows commercial growth number.
+sXxJOtr368 PREMISE-Fact 2154 2436 And I'd just add that the seat growth as well as the ARPU growth, one of the things even in spite of the success we may have achieved in the past, we never were that successful in penetrating with all of our workloads when it comes to small business and definitely across the globe.
+g0bdOggioZ CLAIM-Fact 2437 2495 So that's another dimension that you see play out as well.
+JlxSr6zZxr NON-ARG 2546 2552 Great.
+YQDqEldpJV NON-ARG 2553 2566 Thanks, Phil.
+HeSog_M6fB NON-ARG 2567 2586 Yeah, thanks, Phil.
+eQFkPHcIU6 NON-ARG 2587 2636 Operator, we'll move to the next question please.
+R0 SUPPORT ARG1:DjAeokJ6yO ARG2:xN7RPSech6
+R1 SUPPORT ARG1:0HopfbYCc7 ARG2:U8-ljGcZxF
+R2 SUPPORT ARG1:iLWp1ncNct ARG2:U8-ljGcZxF
+R3 SUPPORT ARG1:sXxJOtr368 ARG2:g0bdOggioZ
+ArgQ0 xN7RPSech6 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 U8-ljGcZxF SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 g0bdOggioZ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

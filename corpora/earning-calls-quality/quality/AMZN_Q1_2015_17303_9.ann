@@ -1,0 +1,37 @@
+se-40wGmo5 NON-ARG 539 568 Yes, let me start with China.
+LxZofpq7AY PREMISE-Fact 911 1177 And then the team of flagship store for international brands which you've heard about giving thousands of direct imported products access to – customer’s access to these products and those happen to be stocked and ready to ship from our fulfillment centers in China.
+lCXDYOGS-m NON-ARG 1178 1205 So that’s an added benefit.
+_CXl4HLPfj NON-ARG 1206 1274 25% of those are exclusive – over 25% of those exclusives to Amazon.
+-3N9wIHDvQ CLAIM-Reformulated 1275 1482 So we continue to be selective in our investments there, but we're taking the long-term view and we have hopes for the new initiatives along the global – with the global store and the team of flagship store.
+SPDMiuMIJk NON-ARG 1496 1644 In terms of the growth for total international, just maybe some comments first about the current quarter and then I'll elaborate little bit further.
+5Ej2suodTf PREMISE-Statistic 1645 1722 But the growth was down 2% on a dollar basis, up 14% on local currency basis.
+I_CVXVdBcA CLAIM-Fact 1723 1833 So we did see a little bit of improvement in terms of growth rate acceleration versus last couple of quarters.
+y3yCnngy5W NON-ARG 1834 1962 And in addition to the things that Brian mentioned earlier about the Prime platform, that’s something that we're doing globally.
+htk4IGqrMB NON-ARG 1963 2031 And so we're certainly – all those things we're working on globally.
+wMox8pCBeu NON-ARG 2032 2100 So those are things that at least in most geographies we have today.
+l8RJS6jh9q PREMISE-Fact 2101 2259 One thing to keep in mind also, as you look at growth rate for Q1, is last year Q1 we talked about in April 1st there was a consumption tax increase in Japan.
+EBgsXe24lt PREMISE-Fact 2260 2348 We had some –we think some pre-buys in Q1 and we're overlapping that in Q1 of this year.
+yVSDIpqC3E CLAIM-Opinion(view) 2349 2397 So it’s a headwind if you think about it for Q1.
+piRo7LhRem CLAIM-Opinion(view) 2398 2515 But we're looking – we think there is still a big opportunity, as we mentioned last call, big opportunity with Prime.
+T33ZFVkdDS PREMISE-Fact 2516 2550 Prime is growing at a faster rate.
+xRjZlxF43O CLAIM-Reformulated 2551 2647 We think there is still a great opportunity to add unique selection to – for category expansion.
+xkcNklw8pw PREMISE-Fact 2967 3102 If you back out exchange that’s approximately breakeven, included in there we certainly have a sizeable step up in investment in India.
+btLI84JksT CLAIM-Reformulated 3103 3160 And we're super excited from what we see there right now.
+ckv2TzVNoW CLAIM-Reformulated 3161 3254 We think its very big opportunity and we're investing appropriately for that big opportunity.
+pFHkUW5UPp CLAIM-Opinion(view) 569 669 So, I think you'll see a lot invention, you're seeing a lot of invention from us in China right now.
+ehIO_76ztH PREMISE-Statistic 670 910 Amazon is trusted source of authentic [ph] international products and that’s really what we're doubling down on now with a Amazon global store on our own site, which gives Chinese customers access to over 1 million Amazon products globally.
+KsE-p9ImGT CLAIM-Fact 2648 2779 And again, so we're going to continue feed the Prime platform as we talked about, continue to add selection in a lot of categories.
+SBKRAYLj-z CLAIM-Opinion(view) 2780 2966 We're also very excited about India, if you take a look at our results for – from an operating profit standpoint, you see that it was approximately negative 76 million on a dollar basis.
+Rs7wVcMJSe CLAIM-Reformulated 3255 3382 So those are some of things that we're working on and we think there – we still have a lot of opportunity there moving forward.
+R0 SUPPORT ARG1:5Ej2suodTf ARG2:I_CVXVdBcA
+R1 SUPPORT ARG1:T33ZFVkdDS ARG2:piRo7LhRem
+R2 SUPPORT ARG1:ehIO_76ztH ARG2:pFHkUW5UPp
+R3 SUPPORT ARG1:LxZofpq7AY ARG2:pFHkUW5UPp
+R4 SUPPORT ARG1:l8RJS6jh9q ARG2:yVSDIpqC3E
+R5 SUPPORT ARG1:EBgsXe24lt ARG2:yVSDIpqC3E
+R6 SUPPORT ARG1:xkcNklw8pw ARG2:SBKRAYLj-z
+ArgQ0 I_CVXVdBcA SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 piRo7LhRem SPECIFIC_0 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 pFHkUW5UPp SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 yVSDIpqC3E SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ4 SBKRAYLj-z SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

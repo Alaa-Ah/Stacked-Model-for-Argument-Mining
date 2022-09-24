@@ -1,0 +1,19 @@
+qq4kSUU0aF NON-ARG 1523 1559 We don't comment on future products.
+VgawXxWCqe CLAIM-Opinion(view) 1560 1667 With respect to 5G, I think most people would tell you, we're in sort of the extremely early innings of it.
+HBjSR8ZpTK CLAIM-Opinion(view) 1704 1877 So, we couldn't be more proud of what our lineup is and we're excited about the great pipeline of both hardware and software and we wouldn't trade our position for anyone's.
+al0Z-iEwtN NON-ARG 1668 1703 And even more so on a global basis.
+z616T-0EkZ CLAIM-Fact 508 589 We're seeing good interest across virtually everything that we announced at WWDC.
+JQ2coEKhzO CLAIM-Opinion(view) 590 620 I couldn't be happier with it.
+L6eFGSp2MD PREMISE-RealExample 621 888 The developer tools around ARKit and AR in general that I went through earlier, lots of interest there, lots of interest from the Watch App Store, to the Catalyst that will be released with macOS Catalina, which allows developers quickly to port a iOS app to the Mac.
+CnJCQ2ZdFs CLAIM-Opinion(view) 889 948 We think this is huge and so great for the user experience.
+8w1v05iIuP PREMISE-Fact 949 1203 And so, you look at all of these and all the things that I talked about earlier and I couldn't be happier with the reception that we're getting and the work that is going on behind the scenes right now for the developers readying their apps for the fall.
+HFMwWAjNhN NON-ARG 1891 1909  Thank you, Samik.
+XNJDgdIYpF NON-ARG 1910 2037 A replay of today's call will be available for two weeks on Apple Podcasts as webcast on apple.com\/investor and via telephone.
+BGmXkJIJyc NON-ARG 2038 2151 And the numbers of the telephone replay are 888-203-1112 or 719-457-0820, please enter confirmation code 3057347.
+RXqgfRMEur NON-ARG 2152 2315 These replays will be available by approximately 5 Pm Pacific Time today.Members of the press with additional questions can contact Kristin Huguet at 408-974-2414.
+OdtkVmKKQc NON-ARG 2316 2394 And financial analysts can contact Tejas Gala or me with additional questions.
+TRDuXTSGNT NON-ARG 2395 2445 Tejas is at 669-227-2402, and I'm at 408-974-5420.
+XHyBojXVdf NON-ARG 2446 2473 Thanks again for joining us
+R0 SUPPORT ARG1:L6eFGSp2MD ARG2:z616T-0EkZ
+R1 SUPPORT ARG1:8w1v05iIuP ARG2:z616T-0EkZ
+ArgQ0 z616T-0EkZ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

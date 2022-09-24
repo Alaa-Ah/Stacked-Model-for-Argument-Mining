@@ -1,0 +1,11 @@
+2n5MbjwVoD NON-ARG 1030 1035 Sure.
+xmgNAYTMYd CLAIM-Fact 1036 1349 On your first question about Prime penetration, without getting into any statistics on penetration and by country, I would say we do have other options for, if you'll notice, there's the monthly option, obviously provides more flexibility for people who want to try out Prime before committing to the annual plan.
+sPl0s0eb5Q PREMISE-Fact 1350 1383 There's discounted student plans.
+JkyKvvi4MH PREMISE-Fact 1384 1424 There's also discounts for other groups.
+wnxH6XQEIg CLAIM-Opinion(view) 1425 1531 So, we do feel it's still the best deal in retail, and we just work to make it better and better each day.
+aXLtjxCbDX NON-ARG 1532 1581 The second thing you mentioned is a good example.
+bocwGkl-mI CLAIM-Fact 1582 1754 So, the ability in 10 cities to get Prime Now deliveries of Whole Foods groceries is an added benefit for people in that market using Prime – those markets using Prime Now.
+v-uxyaWolg CLAIM-Fact 1755 2135 So as far as the Whole Foods, specifically on the question of what we'll look at as far as expanding that grocery delivery, we're going to use the 10 cities as a test and see how customers respond, just like we always do, and make sure that our deliveries are great for those people, and then we'll announce expansion plans once we digest that, the feedback we get from customers.
+R0 SUPPORT ARG1:sPl0s0eb5Q ARG2:xmgNAYTMYd
+R1 SUPPORT ARG1:JkyKvvi4MH ARG2:xmgNAYTMYd
+ArgQ0 xmgNAYTMYd SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

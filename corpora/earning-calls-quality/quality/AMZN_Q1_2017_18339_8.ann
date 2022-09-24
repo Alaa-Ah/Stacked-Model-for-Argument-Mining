@@ -1,0 +1,32 @@
+Isgqyig5ZJ NON-ARG 824 835 Sure thing.
+6x-HAwEefW CLAIM-Fact 836 987 So, particularly as it pertains to our fulfillment center networks, I think the biggest areas of efficiency right now are in our Amazon Robotics areas.
+Jpj7g45mjF PREMISE-Fact 1077 1324 We just launched am Amazon Robotics fulfillment center in the Tokyo area recently, and I toured that last month, and it's just amazing to see the strides that Amazon Robotics has taken and the efficiency we're getting in our warehouse as a result.
+1x6VCm6wfy PREMISE-Fact 988 1076 That technology continues to improve, and we have – we're now multiple generations down.
+1JiBbuuUIO CLAIM-Fact 1325 1438 The other efficiencies that we're seeing are network efficiencies, especially as we add things like sort centers.
+9qh17wqkcr PREMISE-Fact 1439 1542 It's a collaboration and the movement between warehouses and sort centers and then to the end customer.
+kY4i7Mm2RU PREMISE-Fact 1543 1705 The ability to have control through our sort centers has allowed us over the last few years to extend our cutoff times from 3:00 p.m. in most cases till midnight.
+NI4gCUOiDM PREMISE-Fact 1706 1743 So, greater control of our processes.
+dv8C8pHiEw PREMISE-Fact 1744 1888 If we do it cost effectively can also have favorable benefits both for our warehouse flow and also for our customers and their ordering pattern.
+972z-dXch9 CLAIM-Reformulated 1889 1964 So, there's a lot of efficiencies that are going on day-to-day around here.
+vRegdHRDIh CLAIM-Fact 1965 2087 One of the benefits of rapid growth is the ability to create leverage on purchases and a lot of the processes that we run.
+jZLkEXfoNG NON-ARG 2088 2127 So, your second question was on stores.
+t4rTW2Py5t CLAIM-Fact 2128 2187 Yes, I think you're seeing the expansion of our bookstores.
+6oYpekiiEv PREMISE-Statistic 2188 2256 We have six bookstores right now, and we have announced another six.
+npU-CqBMW3 PREMISE-Fact 2257 2464 The Amazon Go is in beta in Seattle, and while that's not large and only one site, we're excited about the potential there and the use of the technologies of computer vision, sensor fusion and deep learning.
+AV6AJO9Q4t CLAIM-Opinion(view) 2465 2502 We think that has a lot of potential.
+qZh8PckyXQ NON-ARG 2503 2554 Again, it's only one location that's still in beta.
+nyNZa4WotH PREMISE-Fact 2555 2658 But along with the bookstores, we also have – you'll see us in pop-up stores and college pickup points.
+djDEFEMwDB NON-ARG 2659 2779 So, for us it's another way to reach the customer and test what resonates with them, and we're pleased with the results.
+R0 SUPPORT ARG1:1x6VCm6wfy ARG2:6x-HAwEefW
+R1 SUPPORT ARG1:Jpj7g45mjF ARG2:6x-HAwEefW
+R2 SUPPORT ARG1:9qh17wqkcr ARG2:1JiBbuuUIO
+R3 SUPPORT ARG1:kY4i7Mm2RU ARG2:1JiBbuuUIO
+R4 SUPPORT ARG1:NI4gCUOiDM ARG2:1JiBbuuUIO
+R5 SUPPORT ARG1:dv8C8pHiEw ARG2:1JiBbuuUIO
+R6 SUPPORT ARG1:6oYpekiiEv ARG2:t4rTW2Py5t
+R7 SUPPORT ARG1:npU-CqBMW3 ARG2:t4rTW2Py5t
+R8 SUPPORT ARG1:nyNZa4WotH ARG2:AV6AJO9Q4t
+ArgQ0 6x-HAwEefW SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 1JiBbuuUIO SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 t4rTW2Py5t SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 AV6AJO9Q4t SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

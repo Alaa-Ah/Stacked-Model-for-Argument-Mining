@@ -1,0 +1,14 @@
+68taXfDAcr NON-ARG 422 573 We spent a tremendous amount of time on our seller business over the years and trying to improve both the experience for sellers, as well as customers.
+auv4hdbefU PREMISE-Statistic 686 807 today 44% of our units today, as of this quarter, our third party units, that’s up about 400 basis points from last year.
+PVUtRbnt2U CLAIM-Fact 574 632 And we've done a lot of interesting things to help sellers
+qeAkKT-nVM NON-ARG 633 685 and that’s why you see the results that we're seeing
+JK5f0pT4U6 NON-ARG 808 911 Certainly one of the things that we've talked about its most, that’s notable is fulfillment by Amazon. 
+Vwwe2lx8hM PREMISE-Statistic 1021 1064 we have a 109 fulfillment centers globally,
+bQ6aHOkwuh CLAIM-Fact 911 1020 And so the benefit for sellers is they get to take advantage of our multi newer fulfillment network globally,
+v6IqX0sJZO NON-ARG 1065 1171 as well as our customers get to take advantage of that as prime numbers where we offer in those geography.
+JIZ7ywlcmS NON-ARG 1172 1302 So it’s really a great benefit for sellers, its good for sellers, its good for customers and we believe good for share owners too.
+LhE-OJlPM3 NON-ARG 1303 1490 So again, we're very excited, number of different things we're working on, but certainly one of the drivers along with all of the things that I mentioned is certainly FBA is very helpful.
+R0 SUPPORT ARG1:auv4hdbefU ARG2:PVUtRbnt2U
+R1 SUPPORT ARG1:Vwwe2lx8hM ARG2:bQ6aHOkwuh
+ArgQ0 PVUtRbnt2U SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 bQ6aHOkwuh SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

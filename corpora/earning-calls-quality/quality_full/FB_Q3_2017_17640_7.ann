@@ -1,0 +1,22 @@
+3Ll4fJSYTv NON-ARG 824 964 So, Brian, just on engagement metrics, we're continuing to see good growth in DAU, as you saw in the 16% growth that we posted this quarter.
+S2CIaZoUlo NON-ARG 965 1065 In addition, we do continue to see time spent growth per DAU on the Facebook family and on Facebook.
+qE7Av25abB NON-ARG 1088 1203 For my part, when I think about our Marketer segment, we have SMBs; we have brand, direct response, and developers.
+1hWfWrKPWA NON-ARG 1204 1238 We're seeing strong growth across.
+Cj3eaMHZAZ NON-ARG 1445 1492 But I think there's still a lot more we can do.
+3s3MHKWihy PREMISE-Fact 1493 1616 And as people really use our Custom Audiences, our targeting tools, the quality of the ads improve and the returns improve.
+EjtcGXz0NC PREMISE-Fact 1617 1704 And the more we – the better we get at measuring those returns, the better the ads get.
+jmbcP2DJZr PREMISE-RealExample 1705 1851 And so I'll share just one example but one I really love, which is the Alameda County Fair, which is a local fairground in Pleasanton, California.
+lGEHC_JHz7 PREMISE-RealExample 1852 1938 I happened to meet this woman, Angel [Moore], who's running their marketing this year.
+_p0yyMWv7o CLAIM-Opinion(view) 1239 1444 I think if you think about where the growth remains, it really is in increasing the relevance of the ads, because the ads I think are getting better in terms of reaching the right people at the right time.
+wg1p0h8iQc PREMISE-Fact 1939 2102 And they use Facebook to target people within 25 miles of their fairgrounds age 20 to 51 who have specific interests in concerts, music festivals, and theme parks.
+aEI50z7I0H PREMISE-Statistic 2103 2232 And what they saw for season pass ticket sales for 2017 was a 50% increase compared to 2016, and they attribute that to Facebook.
+Z0FaklEggA NON-ARG 2233 2296 And that's really about finding the people that are interested.
+r2ms6bYDeC NON-ARG 2297 2595 And if you look at the percentage of our ads business where people are using our most sophisticated approaches to finding the right audience, I think we still have a lot of opportunity for growth there, and that will improve both the quality of the ads people see but also the returns to marketers.
+SN-iJKWe2s NON-ARG 2596 2667 And I think that will hit all of the verticals and all of the segments.
+R0 SUPPORT ARG1:3s3MHKWihy ARG2:_p0yyMWv7o
+R1 SUPPORT ARG1:EjtcGXz0NC ARG2:_p0yyMWv7o
+R2 SUPPORT ARG1:jmbcP2DJZr ARG2:_p0yyMWv7o
+R3 SUPPORT ARG1:lGEHC_JHz7 ARG2:_p0yyMWv7o
+R4 SUPPORT ARG1:wg1p0h8iQc ARG2:_p0yyMWv7o
+R5 SUPPORT ARG1:aEI50z7I0H ARG2:_p0yyMWv7o
+ArgQ0 _p0yyMWv7o SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

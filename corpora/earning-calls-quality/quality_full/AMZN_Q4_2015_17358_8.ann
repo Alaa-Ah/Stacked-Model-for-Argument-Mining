@@ -1,0 +1,34 @@
+IdLI0isbOf NON-ARG 787 792 Sure.
+puSZNDZO4N NON-ARG 793 815 Let me start with EGM.
+Hi_mcjFAf9 PREMISE-Statistic 816 913 So EGM growth, North America EGM growth of 28% was actually also the highest in the last 4 years.
+4jX0ivuro9 CLAIM-Opinion(view) 914 939 So we're happy with that.
+UEKr3g_XuN CLAIM-Fact 940 1062 The deceleration you're seeing of 700 basis points is more a function of the Prime Day that we had in Q3, if you remember.
+tlItSrQ85K PREMISE-Statistic 1063 1194 We didn't break it out by segment, but we said that Prime Day contributed 200 basis points to our Q3 run rate, revenue growth rate.
+M8QtzH3wXe PREMISE-Statistic 1195 1271 So sequentially last year, any North America EGM we dropped from 31% to 27%.
+DIPww4XyFW PREMISE-Statistic 1272 1299 This year, it's 35% to 28%.
+_Ho6Wd46KF PREMISE-Fact 1300 1357 So there is always a - generally a sequential drop in Q4.
+5i2Hv_RpVK CLAIM-Reformulated 1358 1461 But certainly very happy with that business and its role in Prime as well, total customer satisfaction.
+lyvr7pCcFG NON-ARG 1462 1495 Your other question, investments.
+9NvUjQHsLV PREMISE-Fact 1501 1574 We continue to have healthy investments as we've stated across the globe.
+56zljqLtYS NON-ARG 1496 1500 Yes.
+9-PfsyZH_h CLAIM-Policy 1575 1794 To step back again on that, our general philosophy is we want to find things - businesses that customers love, that can grow to be large, will provide strong financial returns, and are durable that can last for decades.
+tWlAvnmsL_ PREMISE-RealExample 1795 1818 We think Prime is that.
+SFByEJ4IRQ PREMISE-RealExample 1819 1848 We think marketplace is that.
+uSQo_23t15 PREMISE-RealExample 1849 1870 We think AWS is that.
+KYK86uKSAQ PREMISE-Fact 1871 1956 And we are constantly looking for a fourth or fifth business that fits that criteria.
+oKKtrkow6v NON-ARG 1957 2005 So - but as we continue to invest, primarily in.
+qHQNa43FVh PREMISE-Statistic 2006 2330 As I said in Prime, the Prime platform, Prime features for customers, expansion for fulfillment capacity as we build out to support 26% unit growth in Q4, for instance and much greater FBA share, and not to mention all the investments in AWS, we are constantly looking for cost efficiencies and fixing variable productivity.
+J9pwophiob CLAIM-Opinion(view) 2331 2499 I think a thing to think about is the investments will ebb and flow over time, but our focus on cost reductions and improvement on customer experience will be constant.
+R0 SUPPORT ARG1:Hi_mcjFAf9 ARG2:4jX0ivuro9
+R1 SUPPORT ARG1:tlItSrQ85K ARG2:UEKr3g_XuN
+R2 SUPPORT ARG1:M8QtzH3wXe ARG2:UEKr3g_XuN
+R3 SUPPORT ARG1:_Ho6Wd46KF ARG2:UEKr3g_XuN
+R4 SUPPORT ARG1:tWlAvnmsL_ ARG2:9-PfsyZH_h
+R5 SUPPORT ARG1:9NvUjQHsLV ARG2:9-PfsyZH_h
+R6 SUPPORT ARG1:SFByEJ4IRQ ARG2:9-PfsyZH_h
+R7 SUPPORT ARG1:uSQo_23t15 ARG2:9-PfsyZH_h
+R8 SUPPORT ARG1:KYK86uKSAQ ARG2:9-PfsyZH_h
+R9 SUPPORT ARG1:qHQNa43FVh ARG2:9-PfsyZH_h
+ArgQ0 4jX0ivuro9 SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_1
+ArgQ1 UEKr3g_XuN SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 9-PfsyZH_h SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

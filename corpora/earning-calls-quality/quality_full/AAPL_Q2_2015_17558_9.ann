@@ -1,0 +1,32 @@
+8QgTN1eDYl NON-ARG 617 658 The logic has not changed over the years.
+J95Ioc3Bfl NON-ARG 659 753 We look at our business plans, we look at what we want to accomplish from product perspective.
+dcrcHbC3Xl NON-ARG 754 841 We look at the capital needs that we have to run the business and to grow the business.
+BVR_NzGjK2 NON-ARG 842 932 And then we see that we’re in this great position that we can return cash to shareholders.
+4C1mSSeion NON-ARG 933 957 We know Apple very well.
+8lvkd3e3JC CLAIM-Opinion(view) 958 1053 We are very excited by the level of customer response that we’ve got for our current portfolio.
+_Oz49RDOCG CLAIM-Opinion(view) 1054 1199 We’re super confident about the pipeline of products and services that we have, and therefore, we believe that there is great value in our stock.
+xoiBs590Z1 PREMISE-Statistic 1200 1388 And that is the reason why, again this year, we’re allocating the majority of the increase, which is the largest increase that we’ve ever done, we’re increasing the program by $70 billion.
+pYdet7p80_ PREMISE-Fact 1389 1520 And the vast majority of that we’re allocating to the share repurchase, because again, we believe there’s great value in the stock.
+EWslT2tJuN PREMISE-Fact 1521 1600 We also know, and understand, that we have several investors that value income.
+eVxw84JYyj CLAIM-Opinion(view) 1601 1657 And so that’s important for us to increase the dividend.
+CbBaQTAYqR CLAIM-Opinion(view) 1658 1745 And as we’ve said in the past, we plan to continue to increase the dividend every year.
+PAKyIHftEc NON-ARG 1746 2004 And as we’ve said in the past, we will come back at about this time next year and give you another update to the program, because we will have better information, and we’ll be able to be very thoughtful about the size and the mix and the pace of the program.
+hrO6n1Hzz- CLAIM-Fact 2005 2078 From a funding standpoint, of course we have a very strong balance sheet.
+9-xugj4rEv PREMISE-Fact 2079 2111 We do have some cash in the U.S.
+Dpea5v-FwP PREMISE-Fact 2112 2232 We will continue to generate cash in the U.S., but definitely a good portion of the program will be funded through debt.
+so7vJK3_rF PREMISE-Other 2233 2302 We will raise debt both in the U.S. and outside of the United States.
+7UlJrSQdZy PREMISE-Fact 2372 2426 We’ve got a very open dialog with the rating agencies.
+KtQReI_XK_ CLAIM-Opinion(view) 2427 2491 And so we feel we have a lot of room for us to fund the program.
+q73Qqi8je2 CLAIM-Reformulated 2492 2603 So from a balance sheet standpoint, we feel very, very comfortable with the program that we’ve announced today.
+KJ60pfm11K CLAIM-Reformulated 2303 2371 And you know, of course we’ve got a very, very strong balance sheet.
+R0 SUPPORT ARG1:pYdet7p80_ ARG2:_Oz49RDOCG
+R1 SUPPORT ARG1:xoiBs590Z1 ARG2:_Oz49RDOCG
+R2 SUPPORT ARG1:EWslT2tJuN ARG2:eVxw84JYyj
+R3 SUPPORT ARG1:9-xugj4rEv ARG2:hrO6n1Hzz-
+R4 SUPPORT ARG1:Dpea5v-FwP ARG2:hrO6n1Hzz-
+R5 SUPPORT ARG1:so7vJK3_rF ARG2:hrO6n1Hzz-
+R6 SUPPORT ARG1:7UlJrSQdZy ARG2:KtQReI_XK_
+ArgQ0 _Oz49RDOCG SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 eVxw84JYyj SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 hrO6n1Hzz- SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 KtQReI_XK_ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

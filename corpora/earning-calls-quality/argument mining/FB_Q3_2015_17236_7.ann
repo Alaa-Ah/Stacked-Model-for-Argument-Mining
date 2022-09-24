@@ -1,0 +1,22 @@
+4HUCGBY9J8 PREMISE-Fact 650 835 Our goal is to give marketers the highest return they can and over time to capture the amount of budget that's equivalent to the percentage of media time we capture and we're not there.
+eCXTTefbU7 PREMISE-Fact 836 949 Consumers have shifted to mobile and consumers have moved to Facebook and Instagram more quickly than ad budgets.
+qGEDvzoLKY CLAIM-Fact 950 1000 And that's the opportunity we have in front of us.
+oOHamGxILV CLAIM-Fact 1001 1067 What product you use really depends upon what you're trying to do.
+8OBLRSVKjx PREMISE-Fact 1068 1139 If you're trying to tell a brand story, then you want to do a video ad.
+VX7f1NqD1A PREMISE-Fact 1140 1212 If you're trying to sell a direct product, then you want to use DPA ads.
+YJEhZgSyBl NON-ARG 1396 1601 If you're trying to move a brand objective, if you want to move favorability or brand sentiment, we can do that and that's often a video ad or one of our branded ads where you optimize for brand awareness.
+TUpLGFVXeR NON-ARG 1602 1696 If you're trying to sell a product, you might want to use carousel ads or dynamic product ads.
+Sr6jVq1DMZ PREMISE-Fact 1697 1779 And the targeting that is custom audiences underlies all of our product offerings.
+o-EK0mfcAF CLAIM-Fact 1780 1927 So our goal is to have lots of different things we can do for our marketers and measure them really deeply all the way through to business results.
+X5d6z6HYLf PREMISE-Fact 1213 1394 And all of these products and all of the underlying targeting like custom audiences are designed to help people meet different objectives and we're trying to be really clear on that
+3wW8n-IFpg NON-ARG 1945 1992 And – sorry, Ross, you just asked about yields.
+IUtxJ54JOA PREMISE-Fact 1993 2146 The way the auction system works is going to just be whatever is the ad that is going to necessarily have the best return is going to win in the auction.
+pJCFgiqi6N CLAIM-Fact 2147 2303 So it doesn't necessarily mean you're paying a premium for a given product and so if we've got a good DPA ad that might win in the auction for a given user.
+AozmuhReSY NON-ARG 2321 2367  Operator, we have time for one last question.
+R0 SUPPORT ARG1:4HUCGBY9J8 ARG2:qGEDvzoLKY
+R1 SUPPORT ARG1:eCXTTefbU7 ARG2:qGEDvzoLKY
+R2 SUPPORT ARG1:8OBLRSVKjx ARG2:oOHamGxILV
+R3 SUPPORT ARG1:VX7f1NqD1A ARG2:oOHamGxILV
+R4 SUPPORT ARG1:Sr6jVq1DMZ ARG2:o-EK0mfcAF
+R5 SUPPORT ARG1:X5d6z6HYLf ARG2:o-EK0mfcAF
+R6 SUPPORT ARG1:IUtxJ54JOA ARG2:pJCFgiqi6N

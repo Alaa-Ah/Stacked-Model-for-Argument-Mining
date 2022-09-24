@@ -1,0 +1,32 @@
+f_3eqZ-lf1 NON-ARG 491 508 Yeah sure, Brian.
+SI02Ip-EEl NON-ARG 509 533 Thanks for the question.
+SdZfeUN7_B CLAIM-Opinion(view) 534 572 We're very excited to work with Oprah.
+40pWZsqNTn CLAIM-Reformulated 573 815 We think that her incomparable ability and talent to connect with audiences around the world, that there's sort of no match and we think that we can do some great original content together and so we could not be happier in working with Oprah.
+7R9Zycot4a CLAIM-Opinion(view) 816 1233 As you know, we hired two highly respected television executives last year and they have been here now for several months and have been working on a project that we're not really ready to share all the details of it yet, but I couldn't be more excited about what's going on there and we've got great talent in the area that we've sourced from different places and feel really good about what we will eventually offer.
+uYViCnrcIJ CLAIM-Opinion(view) 1234 1419 In terms of the sort of the key catalysts and the changes, the cord cutting in our view is only going to accelerate and probably accelerate at a much faster rate than is widely thought.
+bvo2wJpN_r CLAIM-Fact 1420 1588 We're seeing the things that we have on the periphery of this like Apple TV, units and revenue grew by very strong double digits, very, very strong double digits in Q3.
+3fiZ1UQarI PREMISE-Fact 1589 1754 As I mentioned in my opening comments, we're seeing different providers pick up the Apple TV and use it as their box to go to market with their subscription service.
+ckl94wIt0m PREMISE-Statistic 1755 1909 There are, within the 300 million-plus paid subscriptions, some of these are third party video subscriptions and we see the growth that is going on there.
+oaByhNwJ5j PREMISE-Statistic 1910 1940 It's like 100% year-over-year.
+-p4CkXB7gB CLAIM-Reformulated 1941 2201 And so all the things from a – all the forcing functions here from the outside all point to dramatic changes speeding up in the content industry, and so we're really happy to be working on some of them, but we're just not ready to talk about it in depth today.
+l9uccgDiFn CLAIM-Opinion(view) 2969 3198 And so it does seem to me there's an extraordinary opportunity in that business to grow the market well and I think if we put our emphasis there, which we're doing, that will be a beneficiary of that as other people will as well.
+NWkwRRSuHO CLAIM-Fact 2202 2382 In terms of Apple Music, we're well over 50 million listeners now when you add our paid subscribers and the folks in the trial, and so we're moving along at a very, very good rate.
+uOHcfUPIUS PREMISE-Fact 2383 2624 It appears to us or in what we've been told is that we took the leadership position in North America during the quarter and we have the leadership position in Japan, and so in some of the markets that we've been in for a long period of time.
+0E0MOD9Seb NON-ARG 3424 3441 Thank you, Brian.
+6nSTFqzW2I NON-ARG 3442 3482 Could we have the next question, please?
+XSHeuqsn1K PREMISE-Statistic 3224 3353 Our revenues on Apple Music grew over 50% as I'd mentioned earlier during the quarter, and so some really, really strong results.
+g1Ijz3HB8Y NON-ARG 3354 3378 Thanks for the question.
+6A__PGrO2z CLAIM-Opinion(view) 3199 3223 But I like where we are.
+nPNsiaWf5_ PREMISE-Fact 2625 2750 We're doing quite well, but really, the key thing in music is not the competition between companies that are providing music.
+ADBYQ4ubU_ PREMISE-Statistic 2751 2968 It's the real challenge is to grow the market, because if you add everyone up that's providing subscription music today or streaming music, it's, outside of China, it's less than 200 million probably around the world.
+R0 SUPPORT ARG1:3fiZ1UQarI ARG2:bvo2wJpN_r
+R1 SUPPORT ARG1:ckl94wIt0m ARG2:bvo2wJpN_r
+R2 SUPPORT ARG1:oaByhNwJ5j ARG2:bvo2wJpN_r
+R3 SUPPORT ARG1:uOHcfUPIUS ARG2:NWkwRRSuHO
+R4 SUPPORT ARG1:XSHeuqsn1K ARG2:6A__PGrO2z
+R5 SUPPORT ARG1:nPNsiaWf5_ ARG2:l9uccgDiFn
+R6 SUPPORT ARG1:ADBYQ4ubU_ ARG2:l9uccgDiFn
+ArgQ0 bvo2wJpN_r SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 NWkwRRSuHO SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 6A__PGrO2z SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 l9uccgDiFn SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

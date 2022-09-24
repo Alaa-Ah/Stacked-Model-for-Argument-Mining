@@ -1,0 +1,33 @@
+85JEUJ4yP0 NON-ARG 466 471 Sure.
+-UvM_7ddTx NON-ARG 472 494 Let me start with AWS.
+XLMMdCoa_z CLAIM-Opinion(view) 495 678 Yeah, we're very happy with the results we're seeing, and the backlog that we see, and the new contracts and new customers and the expansion of existing customer business that we see.
+sfLX8lh541 PREMISE-Fact 679 790 Again, the business has accelerated the last three quarters, and we're seeing great signs in a number of areas.
+VMVyZJptoM PREMISE-Statistic 791 918 We've added 800 new services and features so far this year; that's an accelerated pace from last year, which was a record year.
+m8YfWZMJBC PREMISE-Statistic 919 1018 We see customers have migrated more than 80,000 databases using the AWS Database Migration Service.
+lngUeQ-2Wp PREMISE-Fact 1019 1089 And customers are just branching out to a lot of new products from us.
+1hSyeIZmWI CLAIM-Fact 1090 1241 There are new areas like machine learning, artificial intelligence, Internet of Things, serverless computing and database and analytics are really big.
+3ah76HjQj0 CLAIM-Opinion(view) 1242 1306 So we think that, when you look at it, why do people come to us?
+sf2pwi3eB_ PREMISE-Fact 1307 1408 It's essentially set functionality and pace of innovation that we've demonstrated for multiple years.
+GuXZDqtwbG PREMISE-Fact 1409 1466 We've built a very strong partner and customer ecosystem.
+Oq3XmM_4rM PREMISE-Fact 1467 1589 And frankly we've the most proven reliability of security and performance, and we've been at this longer than anyone else.
+378Q-aAGER CLAIM-Fact 1590 1637 So again, we continue to deliver for customers.
+dj5pMs8m1L CLAIM-Fact 1638 1718 We continue to use feedback from customers to develop new services and features.
+9RYqNe0p2T CLAIM-Fact 1719 1821 The operating margin itself will fluctuate quarter-to-quarter, a very strong performance this quarter.
+_i5ijObQj5 PREMISE-Fact 1822 1976 Obviously, part of that was in the capital leases being flat year-over-year, and the team's ability to really run the data centers at a higher efficiency.
+LKfIEE0GJa NON-ARG 1990 1995 Yeah.
+TviQ6YDt11 NON-ARG 1996 2094 And I think, the second question was just related to how is Alexa impacting the business, overall.
+3VL2KRRXL8 NON-ARG 2095 2119 And – hey, this is Dave.
+UtzZ9IvPsG CLAIM-Opinion(view) 2120 2213 I mean, I think, we're having a lot of success with devices and customers are enjoying those.
+FkUpg5TzRZ CLAIM-Opinion(view) 2330 2501 So I think, that's a lot of – the focus now is really having a good and exciting roadmap of recent revises and more to come ahead, and getting those into customers' hands.
+qd53_kxdd3 CLAIM-Reformulated 2214 2329 We talked to coming out of Prime Day, had some good success and happy customers enjoying some of the devices there.
+R0 SUPPORT ARG1:sfLX8lh541 ARG2:XLMMdCoa_z
+R1 SUPPORT ARG1:VMVyZJptoM ARG2:XLMMdCoa_z
+R2 SUPPORT ARG1:m8YfWZMJBC ARG2:XLMMdCoa_z
+R3 SUPPORT ARG1:lngUeQ-2Wp ARG2:XLMMdCoa_z
+R4 SUPPORT ARG1:sf2pwi3eB_ ARG2:3ah76HjQj0
+R5 SUPPORT ARG1:GuXZDqtwbG ARG2:3ah76HjQj0
+R6 SUPPORT ARG1:Oq3XmM_4rM ARG2:3ah76HjQj0
+R7 SUPPORT ARG1:_i5ijObQj5 ARG2:9RYqNe0p2T
+ArgQ0 XLMMdCoa_z SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 3ah76HjQj0 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_0
+ArgQ2 9RYqNe0p2T SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

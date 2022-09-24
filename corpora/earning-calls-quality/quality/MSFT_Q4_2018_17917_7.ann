@@ -1,0 +1,10 @@
+FQuSqnPJ96 CLAIM-Opinion(view) 595 669 The entire impact in that KPI, I actually feel very good about that number
+uSiXoBi1p- PREMISE-Fact 670 904 because if you think about the $1 billion plus beat we had for the unearned, it was due to the fact that we had very good mix shift Office 365 in terms of billings in the quarter, almost very little of that gets recognized in quarter.
+61F_QoBUxE PREMISE-Fact 905 945 Now, this all goes to the balance sheet.
+BU42smzhSB CLAIM-Reformulated 946 1094 So, my confidence for FY19 in that number being the double digits we talked about in the full year guide, only gets raised by seeing that execution.
+j9eXZP3liV CLAIM-Fact 1095 1198 So, it is really 606 related, if the way to think about it plus a mix of billings and billing strength.
+YL7YKH098L CLAIM-Opinion(view) 1199 1300 So, I don’t really think of that as being negative, and you saw the exact same behavior and dynamics.
+hetrCMLiOV CLAIM-Reformulated 1301 1355 So, it's a pretty similar in period in quarter impact.
+R0 SUPPORT ARG1:uSiXoBi1p- ARG2:FQuSqnPJ96
+R1 SUPPORT ARG1:61F_QoBUxE ARG2:FQuSqnPJ96
+ArgQ0 FQuSqnPJ96 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,15 @@
+1fCC0M76ev CLAIM-Fact 1084 1238 And so when I think about the material gross margin improvement we saw in Azure, it continues the path we've actually been on where we've been discussing,
+tDiwMD7mlW PREMISE-Fact 1239 1439 as you continue to see customers ask for us and our help in managing their digital estate, consistently, securely through one interface, you'll actually see growth across all components of that cloud.
+xQrbAyh6Id PREMISE-Fact 1440 1524 It benefits margin, not just in Azure but across actually the entirety of the cloud.
+sIRbekUtJb NON-ARG 1726 1825 But I tend to think you will consistently hear both Satya and I refer to our cloud in its entirety.
+lNAPtdnQOY NON-ARG 1826 1937 But I do respect people always wonder, so I did comment that we saw material improvement in Azure specifically.
+rPurVAyOeh CLAIM-Reformulated 1525 1725 That 2-point year-over-year increase in the commercial cloud gross margin really, even with the massive growth in Azure over the course of the year, certainly implies the improvement that we expected.
+69V66dNkTo NON-ARG 796 812 Thanks, Heather.
+A7WVbYWGbm CLAIM-Policy 813 983 Let me start by saying we really do think about and talk about our cloud as containing all of the components, from the IaaS layer to the platform layer to the SaaS layer.
+bIS9So-5Mi PREMISE-Other 984 1083 You'll hear us talk about Dynamics 365, Office 365, as well as our Azure core and premium services.
+mCLxUcGFNR NON-ARG 1983 1994  Thank you.
+gGkhWtJtQm NON-ARG 1995 2011 Thanks, Heather.
+VxCgqfFOMz NON-ARG 2012 2045 We'll take the next call, please.
+R0 SUPPORT ARG1:tDiwMD7mlW ARG2:1fCC0M76ev
+R1 SUPPORT ARG1:xQrbAyh6Id ARG2:1fCC0M76ev
+R2 SUPPORT ARG1:bIS9So-5Mi ARG2:A7WVbYWGbm

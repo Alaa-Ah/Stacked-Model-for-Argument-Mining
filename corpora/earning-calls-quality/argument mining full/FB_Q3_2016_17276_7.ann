@@ -1,0 +1,52 @@
+YDRloF2v6v NON-ARG 819 891 So I can talk about shifting to put video first across our whole family.
+qKhXuJMpIQ CLAIM-Opinion(view) 892 962 There are two broad sets of improvements that I think we need to make.
+Ldo0karm3M PREMISE-Fact 963 1018 One are to the capture and sharing tools that we offer.
+Px2O9ceISR PREMISE-Fact 1019 1121 So the example of that is the new camera that we're working on and all the creative tools around that.
+-5xKwLX1FD PREMISE-Fact 1122 1250 And then on the other hand, we also need to improve the infrastructure to deliver the best videos to people and do that quickly.
+PLzkvMM0iL CLAIM-Fact 1251 1478 So if you think about what is enabling video to become huge right now, it's that fundamentally the mobile networks are getting to a point where a large enough people around the world can have a good experience watching a video.
+RTlK2He1Ba PREMISE-Fact 1479 1700 If you go back a few years and you tried to load a video in News Feed, it might have to buffer for 30 seconds before you watched it, which wasn't a good enough experience for that to be the primary way that people shared.
+a5I21pIlef PREMISE-Fact 1701 1728 But now it loads instantly.
+iitofhCt1Y PREMISE-Fact 1729 1811 You can take a video and upload it without having to take five minutes to do that,
+JOudagZ43n CLAIM-Reformulated 1812 1838 so it's a good experience.
+4KI1D1dVsH CLAIM-Fact 1839 1879 So we're very focused on creative tools.
+ALRU4CETLF PREMISE-Fact 1880 2092 You can see that a little bit in the announcement and launch of Instagram Stories and what we're doing with Messenger and some of the additional tests on Facebook and the camera work that we're doing in WhatsApp.
+0w3kd79D9i PREMISE-Fact 2093 2136 So this is across the whole family of apps.
+bWN4Azio8S PREMISE-Fact 2137 2206 This is a big part of the product experience that we want to deliver.
+1cFx6e1q4O PREMISE-Fact 2207 2296 And then on the actual delivery of video side, it's just much more intensive technically.
+gb_nG79JI6 CLAIM-Fact 2297 2430 So there aren't that many companies that can do this at the scale that we're talking about, and this has been a big advantage for us.
+2as9QdyUG8 PREMISE-Fact 2431 2731 In rolling out things like Live, we've had this infrastructure that we've been building out for a decade all around the world, and that allowed us to build a product like Live where someone has to stream something live from their phone to potentially hundreds of thousands of people around the world.
+c2k1hfI3Lu PREMISE-Fact 2732 2781 From a phone, that's a difficult scaling problem.
+vI_M1OESvZ CLAIM-Fact 2782 2948 So we've been able to build that up, not just because of the ongoing investment in technology and infrastructure here, but because we're building on this strong base.
+NUHhuZ44K0 PREMISE-Fact 2949 3124 That goes not only for just being able to deliver the content, but being able to understand what it is so we can rank it in News Feed better and show people the right content.
+CFMfZfVhEq NON-ARG 3125 3223 But all of these things are going to be part of a cohesive experience to get behind our community.
+opqaptkQJV NON-ARG 3224 3361 And when people are ready and want video to be the primary way that they're sharing and consuming content, we're going to be there ready.
+ydD_UUWHcQ NON-ARG 3379 3444 Mark, on ad load growth slowing and the impact on effective CPMs,
+FDHblc8OM3 CLAIM-Opinion(view) 3445 3538 I think when you look at our business, demand has been one of the key factors driving growth.
+IzKq6PnqVp PREMISE-Fact 3539 3591 So we've built up a large base of advertiser demand.
+93Ovh0Ixze PREMISE-Statistic 3592 3674 We've got 4 million advertisers on Facebook; 0.5 million advertisers on Instagram.
+0WHzQt0HQ1 CLAIM-Fact 3675 3841 We continue to innovate on the products to make them more effective and make this a great gateway for businesses to come onto Facebook and come into mobile and spend.
+CnS_HAs7z3 PREMISE-Fact 3842 3933 And we expect we've got a lot of great opportunities to continue to innovate on that front.
+08lhGECsCz PREMISE-Fact 3934 3993 But we've also been innovating over the past several years.
+yf7kYBaVLY CLAIM-Reformulated 3994 4068 So demand has been a big factor in what's been driving our growth to date.
+pX0HKUUEg6 NON-ARG 4069 4153 On top of that, we've grown users and time spent, and then we've also grown ad load.
+tUdAfRZfNp NON-ARG 4154 4287 So I do think as we look into 2017, we do expect that as you get to mid-2017, ad load will be a less significant factor contributing.
+ckuhw4HLgA NON-ARG 4288 4409 We'll continue to get benefits of being able to grow our revenue with advertiser demand and continuing to innovate there.
+VW9EvP1SUu NON-ARG 4410 4506 But I do think that as we slow ad load growth, we're going to have a slowing in revenue as well.
+WNFDRMVTyg NON-ARG 4507 4621 So that's our expectation, but obviously we're going to continue to work hard to innovate in the ad product space.
+R0 SUPPORT ARG1:Ldo0karm3M ARG2:qKhXuJMpIQ
+R1 SUPPORT ARG1:Px2O9ceISR ARG2:qKhXuJMpIQ
+R2 SUPPORT ARG1:-5xKwLX1FD ARG2:qKhXuJMpIQ
+R3 SUPPORT ARG1:RTlK2He1Ba ARG2:PLzkvMM0iL
+R4 SUPPORT ARG1:a5I21pIlef ARG2:PLzkvMM0iL
+R5 SUPPORT ARG1:iitofhCt1Y ARG2:PLzkvMM0iL
+R6 SUPPORT ARG1:ALRU4CETLF ARG2:4KI1D1dVsH
+R7 SUPPORT ARG1:0w3kd79D9i ARG2:4KI1D1dVsH
+R8 SUPPORT ARG1:bWN4Azio8S ARG2:4KI1D1dVsH
+R9 SUPPORT ARG1:1cFx6e1q4O ARG2:gb_nG79JI6
+R10 SUPPORT ARG1:2as9QdyUG8 ARG2:gb_nG79JI6
+R11 SUPPORT ARG1:c2k1hfI3Lu ARG2:vI_M1OESvZ
+R12 SUPPORT ARG1:NUHhuZ44K0 ARG2:vI_M1OESvZ
+R13 SUPPORT ARG1:IzKq6PnqVp ARG2:FDHblc8OM3
+R14 SUPPORT ARG1:93Ovh0Ixze ARG2:FDHblc8OM3
+R15 SUPPORT ARG1:CnS_HAs7z3 ARG2:0WHzQt0HQ1
+R16 SUPPORT ARG1:08lhGECsCz ARG2:0WHzQt0HQ1

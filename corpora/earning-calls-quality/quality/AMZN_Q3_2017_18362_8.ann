@@ -1,0 +1,21 @@
+ZkxNbWLdPu NON-ARG 747 752 Sure.
+KVNUjCdp_k NON-ARG 753 793 On Whole Foods, I would say it is early.
+u6iwLTdO53 PREMISE-Fact 794 1070 August 28 was the close date and what I can tell you is I have been in meetings with John Mackey and his team, and they are very like-minded with us, customer-obsessed, ready to work together to continue their mission and expand on their offerings that we can offer customers.
+4u-rWafikC PREMISE-Fact 1071 1200 The other things I mentioned, price reductions early on, selling their products on Amazon.com and also installing Amazon Lockers.
+v3OhG6eh_c CLAIM-Opinion(view) 1201 1372 I think over time, you'll see more cooperation and working together between AmazonFresh, Prime Now, and Whole Foods as we can explore different ways to serve the customer.
+FxMzkcPXQI NON-ARG 1373 1424 So, that's kind of the early report on Whole Foods.
+rMwYFDmOpd NON-ARG 1425 1528 So far so good, and we're thrilled to finally be working together after the summer of closing the deal.
+E5CQghw8gL NON-ARG 1529 1595 On subscription revenue, let me just remember your question there.
+0m351W7LKD PREMISE-Statistic 1596 1672 We had essentially 59% growth, as you said, 600 basis points higher than Q2.
+yUrhfOHPca PREMISE-Fact 1673 1891 In this line item, is certainly the fees associated with Amazon Prime and also it's where a lot of our subscription services for digital music, digital video, audiobooks, e-books, so there's some moving parts in there.
+Pm-64Rqomd PREMISE-Fact 1892 2073 The growth in Prime has been fairly consistent over the last recent quarters in Prime memberships, and as I said, we had the largest new sign-ups on Prime Day for the Prime program.
+y0rWVnbZ6h PREMISE-Fact 2074 2162 The monthly program is gaining traction and is an attractive option for a lot of people.
+42kOQswFOr CLAIM-Fact 2163 2397 And again, on the other subscription services, music especially, it works just so well with our Echo device that we're seeing a lot of growth in that area as we increase the number of Echo devices and customers using the Echo devices.
+R0 SUPPORT ARG1:u6iwLTdO53 ARG2:v3OhG6eh_c
+R1 SUPPORT ARG1:4u-rWafikC ARG2:v3OhG6eh_c
+R2 SUPPORT ARG1:0m351W7LKD ARG2:42kOQswFOr
+R3 SUPPORT ARG1:yUrhfOHPca ARG2:42kOQswFOr
+R4 SUPPORT ARG1:Pm-64Rqomd ARG2:42kOQswFOr
+R5 SUPPORT ARG1:y0rWVnbZ6h ARG2:42kOQswFOr
+ArgQ0 v3OhG6eh_c SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 42kOQswFOr SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2

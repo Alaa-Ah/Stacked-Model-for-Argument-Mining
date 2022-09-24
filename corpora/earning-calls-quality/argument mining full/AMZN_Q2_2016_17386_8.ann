@@ -1,0 +1,18 @@
+8lqw7aJiMx NON-ARG 430 439 Hi, Gene.
+vYfdfL60E0 NON-ARG 440 454 This is Darin.
+Fr1DcNGzTa NON-ARG 457 493 ll start with the customer accounts.
+3AQU_GvzdA CLAIM-Value 494 581 As we noted again in our Q1 release, our active customer accounts exceeded 300 million.
+rThVt1aZmK PREMISE-Statistic 655 761 To your question on Prime Now, so I will point out Prime Now is now in more than 40 metro areas worldwide.
+xabxt1zL-- PREMISE-Fact 762 943 In the past quarter we expanded further internationally to Germany, Spain and France, so it's a global program, again, offering free two-hour delivery on tens of thousands of items.
+JqEvIg68zR PREMISE-Statistic 1058 1159 Now we've added 11 metro areas, bringing the total to 27 metro areas that are qualified for same day.
+pbqDB2bjkj CLAIM-Opinion(view) 1160 1227 So, yeah, we think this is an important part of our Prime offering.
+OZaKXl3pnZ CLAIM-Fact 1228 1254 We know customers love it.
+ytn6BxQ969 CLAIM-Opinion(view) 1255 1337 We're very happy with their order patterns from Prime Now, and very happy with it.
+rpaTSpP2yv PREMISE-Fact 944 1057 We also have in the same vein of, I think what you called maybe automated consumption, the same day has expanded.
+xnzfuZM2ea NON-ARG 582 635 However, today we're not going to update that number.
+CQfh81eGPG PREMISE-Fact 1338 1688 Of course, we do always talk about – we always usually get asked about profitability and it is a very hard service to deliver and make money on, but we know customers love it and we're in a great position to do this because of our long-term approach, our drive of greater efficiencies and our proximity to the customer with our vast global FC network
+XTLBroZTbV NON-ARG 454 457  I'
+R0 SUPPORT ARG1:JqEvIg68zR ARG2:pbqDB2bjkj
+R1 SUPPORT ARG1:rpaTSpP2yv ARG2:pbqDB2bjkj
+R2 SUPPORT ARG1:rThVt1aZmK ARG2:pbqDB2bjkj
+R4 SUPPORT ARG1:CQfh81eGPG ARG2:ytn6BxQ969

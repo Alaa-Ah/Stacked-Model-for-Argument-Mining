@@ -1,0 +1,47 @@
+8LYY6eqXXT NON-ARG 3478 3513 There are a lot of questions there.
+86AR6N_mrp NON-ARG 3514 3553 Let me give you some color as I see it.
+0XZ_Rt6sCC PREMISE-Statistic 3554 3621 In this quarter, we reduced channel inventory by 1.2 million units.
+hdq1TRTCHQ PREMISE-Fact 4142 4319 In terms of upgraders, we saw the largest absolute number of upgraders ever in any six-month period in the first half of this year, first half of this fiscal year to be precise.
+F3sJNG87Op PREMISE-Fact 4320 4437 And we saw the largest absolute number of switchers outside of Greater China in the same period that we've ever seen.
+uTZ3xIMlJL CLAIM-Fact 4438 4552 And so in four of the five operating segments, as I think Luca mentioned in his comments, we had very good growth.
+orKCchAaTP NON-ARG 4665 4761 And so that's kind of the color I would add there, and hopefully some of that is useful for you.
+FS07ibUMwH CLAIM-Fact 4553 4664 And it was really propelled by the demand for iPhone 7 Plus, which is growing incredibly fast around the world.
+FBR24WaWAy CLAIM-Fact 3622 3832 And so if you look on a year-over-year basis, which is primarily what we look at from a unit point of view because it would have the seasonality embedded in that, we grew sell-through on a year-over-year basis.
+p6aSg6QEOx NON-ARG 3833 4004 Last quarter, I'm sure other folks remember, was a 14-week quarter, and so you have to adjust the rates last quarter to get at what the underlying sell-through growth was.
+s5HKNN12IU NON-ARG 4005 4141 And so I think that when you do that, you're going to find that actually the year-over-year performance is similar between the quarters.
+5euBv6QixR NON-ARG 4776 4792 Thank you, Toni.
+joS5kJNmQC NON-ARG 4793 4833 Could we have the next question, please?
+QJNCoMPoZ2 NON-ARG 908 972 FRAND stands for fair, reasonable, and non-discriminatory terms.
+I2SQKJSngm NON-ARG 973 1018 That's both the price and the business terms.
+esVZp-oUfd CLAIM-Opinion(view) 1065 1174 And so I don't believe that a – I don't believe anyone is going to decide to enjoin the iPhone based on that.
+0DvkNaILdI PREMISE-Other 1175 1253 I think that there's plenty of case law around that subject, but we shall see.
+dKFbOmTzyS PREMISE-Fact 1019 1064 Qualcomm has not made such an offer to Apple.
+FcQUU6oBTj PREMISE-Fact 1364 1395 You don't know how much to pay.
+H4FKY09TZl CLAIM-Policy 1522 1578 And so at this point, we need the courts to decide that.
+zy--wBPQiO CLAIM-Reformulated 1579 1704 Unless we are able to, over time, settle between us on some amount, but right now we're depending upon the courts to do that.
+TbBejKu4x8 NON-ARG 1705 1733 And so that is the thinking.
+BCQEPMxHWj PREMISE-Other 1396 1521 And so they think we owe some amount, we think we owe a different amount, and there hasn't been a meeting of the minds there.
+flWpSDnA60 PREMISE-Fact 764 907 Anyone that has a standards-essential patent has a responsibility to offer it to everyone that would like it under what are called FRAND terms.
+itnJLyvUY7 PREMISE-RealExample 1969 2084 It's not – it has nothing do with the display or the Touch ID or a gazillion other innovations that Apple has done.
+miokTqKNpp CLAIM-Fact 1734 1851 The reason that we're pursuing this is that Qualcomm's trying to charge Apple a percentage of the total iPhone value.
+Yln226TvLm CLAIM-Fact 1852 1968 And they do some really great work around standards-essential patents, but it's one small part of what an iPhone is.
+u6M8NSIIsF NON-ARG 2085 2166 And so we don't think that's right, and so we're taking a principled stand on it.
+6E2Q80cjMQ CLAIM-Opinion(view) 2167 2251 And we strongly believe we're in the right, and I'm sure they believe that they are.
+FFv7asGqJs NON-ARG 2252 2283 And that's what courts are for.
+kVh5RP4kT- NON-ARG 2284 2317 And so we'll let it go with that.
+E1k4KuIpj3 PREMISE-Fact 1254 1363 In terms of why we're withholding royalties, you can't pay something when there's a dispute about the amount.
+R0 SUPPORT ARG1:0XZ_Rt6sCC ARG2:FBR24WaWAy
+R1 SUPPORT ARG1:hdq1TRTCHQ ARG2:uTZ3xIMlJL
+R2 SUPPORT ARG1:F3sJNG87Op ARG2:uTZ3xIMlJL
+R3 SUPPORT ARG1:flWpSDnA60 ARG2:esVZp-oUfd
+R4 SUPPORT ARG1:dKFbOmTzyS ARG2:esVZp-oUfd
+R5 SUPPORT ARG1:0DvkNaILdI ARG2:esVZp-oUfd
+R6 SUPPORT ARG1:E1k4KuIpj3 ARG2:H4FKY09TZl
+R7 SUPPORT ARG1:FcQUU6oBTj ARG2:H4FKY09TZl
+R8 SUPPORT ARG1:BCQEPMxHWj ARG2:H4FKY09TZl
+R9 SUPPORT ARG1:itnJLyvUY7 ARG2:Yln226TvLm
+ArgQ0 FBR24WaWAy SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 uTZ3xIMlJL SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_1
+ArgQ2 esVZp-oUfd SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 H4FKY09TZl SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 Yln226TvLm SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

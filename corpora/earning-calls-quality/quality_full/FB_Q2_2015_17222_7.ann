@@ -1,0 +1,22 @@
+NuL7fbINno PREMISE-Statistic 559 660 So on the first, we announced that we have over 2 million advertisers who are buying ads on Facebook.
+I-zg3r_TNN PREMISE-Statistic 661 867 And the process for that is often that small businesses become organic users, so those 40 million small business Pages that are using it once a month and then we're able to move them onto being advertisers.
+6_nXQMVWiM CLAIM-Fact 868 930 And the best way we've done that is by simplified ad products.
+z12FpOCZjb PREMISE-Statistic 931 1016 82% of people who start advertising with us start with our really simple ad products.
+_RTxrwhyWt PREMISE-Fact 1017 1157 You know, do you want to pay a few dollars or a few pounds or a few euro to sponsor this post is a really easy on-ramp for a small business.
+w9oPNayjcb PREMISE-Fact 1158 1284 In terms of overall ad tech world, I think a lot is happening and there's a lot that's going to evolve in the whole ecosystem.
+-kshjBfmO7 CLAIM-Opinion(view) 1285 1495 Our focus is on bringing people-based marketing and the effectiveness and relevance of Facebook ads off of Facebook so we can give marketers and publishers the tools to reach people across all of their devices.
+JYbUTPFoWq PREMISE-Fact 1496 1596 An importantly for our business, is connect the dots between online marketing and business outcomes.
+vsjpho2KKB PREMISE-Fact 1597 1748 And you heard on this call me give a few examples of where we're already able to connect what happens in terms of ads with real sales of real products.
+WsvEqnodFu CLAIM-Opinion(view) 1749 1813 For us, this is an important investment and it's very strategic.
+xkkseOw8vX PREMISE-Fact 1814 1915 We are going to put the time in to make this work rather than look for any short-run specific return.
+R0 SUPPORT ARG1:NuL7fbINno ARG2:6_nXQMVWiM
+R1 SUPPORT ARG1:I-zg3r_TNN ARG2:6_nXQMVWiM
+R2 SUPPORT ARG1:z12FpOCZjb ARG2:6_nXQMVWiM
+R3 SUPPORT ARG1:_RTxrwhyWt ARG2:6_nXQMVWiM
+R4 SUPPORT ARG1:w9oPNayjcb ARG2:-kshjBfmO7
+R5 SUPPORT ARG1:JYbUTPFoWq ARG2:-kshjBfmO7
+R6 SUPPORT ARG1:vsjpho2KKB ARG2:WsvEqnodFu
+R7 SUPPORT ARG1:xkkseOw8vX ARG2:WsvEqnodFu
+ArgQ0 6_nXQMVWiM SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 -kshjBfmO7 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 WsvEqnodFu SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,17 @@
+1s7JAUpvuF NON-ARG 403 428 Yeah, I'll take that one.
+Dh3cXMlL1B NON-ARG 429 443 This is Brian.
+Qx9i3EclgA PREMISE-Other 478 599 I would say that we are still very bullish on our Prime Instant Video, especially our new original content we've created.
+RNl-SNDQYn PREMISE-Other 600 675 We think it's being critically acclaimed and also a big hit with customers.
+gzSwQ8zkkH CLAIM-Fact 444 477 So no specific callouts in Japan.
+fe-Ioac_w6 PREMISE-RealExample 676 787 Man in the High Castle is coming out shortly, as is the second season of Transparent which won Emmys this year.
+Ny0K2G1pQV PREMISE-Other 788 920 So we're really excited about the creative team we've assembled and the products that they've been able to bring to Prime customers.
+Oi09IKDt5N PREMISE-Fact 921 961 And we still like the customer reaction.
+vFzt46tWuP PREMISE-Fact 962 1092 Free trial conversion rates are higher when Prime members stream, and they also renew at a higher rate their annual subscriptions.
+fuXqmx1P6w CLAIM-Reformulated 1093 1178 So, again, that's very important to us as well and we're very happy with the results.
+R0 SUPPORT ARG1:Qx9i3EclgA ARG2:gzSwQ8zkkH
+R1 SUPPORT ARG1:RNl-SNDQYn ARG2:gzSwQ8zkkH
+R2 SUPPORT ARG1:fe-Ioac_w6 ARG2:gzSwQ8zkkH
+R3 SUPPORT ARG1:Ny0K2G1pQV ARG2:gzSwQ8zkkH
+R4 SUPPORT ARG1:Oi09IKDt5N ARG2:gzSwQ8zkkH
+R5 SUPPORT ARG1:vFzt46tWuP ARG2:gzSwQ8zkkH
+ArgQ0 gzSwQ8zkkH SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

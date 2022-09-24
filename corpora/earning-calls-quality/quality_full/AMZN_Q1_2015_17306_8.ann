@@ -1,0 +1,14 @@
+H7_pk2NCkN NON-ARG 870 952 Yes, in terms of International, we're not breaking out individual country results.
+v4sy8OYYMG NON-ARG 1092 1195 And if you look at it year-over-year, so that’s certainly reflected in the numbers that you are seeing.
+FgQdVN8suc PREMISE-Fact 1196 1258 In terms of AWS, we've had 48 price decreases since inception.
+IqmsVEoYzw NON-ARG 1370 1468 But in terms of any comment on what to expect going forward there is not really much to add there.
+jS6QBXnttn CLAIM-Fact 1259 1369 The team is doing a terrific job in terms of working on behalf of customers to pass on savings as they see it.
+JA-be9Zh1C NON-ARG 953 1091 The one thing that could mentioned around from a country perspective was India in terms of which – it certainly stepped up our investment.
+TU2ENxU4Zh CLAIM-Fact 1548 1673 the primary factor for customers choosing with AWS is really around their ability to move quickly and to be nimble and agile.
+SMwG2kJGdf NON-ARG 1485 1547 Its probably is worth adding that, although prices are factor,
+XpEvWxPxxq PREMISE-Fact 1674 1821 And so we're very pleased with the kind of continued adoption and usage growth we've seen and obviously the benefits of AWS around their ability – 
+sq5IR9aung CLAIM-Reformulated 1821 1878 customers ability to be nimble as a primary factor there.
+R0 SUPPORT ARG1:FgQdVN8suc ARG2:jS6QBXnttn
+R1 SUPPORT ARG1:XpEvWxPxxq ARG2:TU2ENxU4Zh
+ArgQ0 jS6QBXnttn SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_1
+ArgQ1 TU2ENxU4Zh SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0

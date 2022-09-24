@@ -1,0 +1,15 @@
+kajuOdwmn9 NON-ARG 893 904 Yeah, sure.
+aTrILHtWNm CLAIM-Policy 905 1007 On Prime Now, it is our intent to roll out benefits and functionality globally as quickly as possible.
+Rq2HT7ay99 CLAIM-Opinion(view) 1008 1078 I think we're able to do that with Prime Now and get to the UK faster.
+Dyrnp4D1Im CLAIM-Opinion(view) 1079 1101 We're happy with that.
+KM0A542cjn CLAIM-Fact 1102 1145 It's not necessarily common on AmazonFresh.
+PxADUCAPrQ PREMISE-Fact 1146 1189 They're just, they're different businesses.
+X_yGGviOdZ CLAIM-Opinion(view) 1190 1298 So we're happy with the launch in the UK and the team did a great job to get that launch in a timely manner.
+FkiWNMVXwu PREMISE-Statistic 1299 1389 On Kiva, we are up to 30,000 bots at the end of Q3, and they're in 13 fulfillment centers.
+Axqzq6uYDJ PREMISE-Statistic 1390 1490 At the end of 2014, we had 15,000 bots, so we've doubled that amount and they were in 10 warehouses.
+AqhxvLeZQA CLAIM-Reformulated 1491 1547 So our intent is to use that more widely and stay tuned.
+R0 SUPPORT ARG1:PxADUCAPrQ ARG2:KM0A542cjn
+R1 SUPPORT ARG1:FkiWNMVXwu ARG2:AqhxvLeZQA
+R2 SUPPORT ARG1:Axqzq6uYDJ ARG2:AqhxvLeZQA
+ArgQ0 KM0A542cjn SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 AqhxvLeZQA SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

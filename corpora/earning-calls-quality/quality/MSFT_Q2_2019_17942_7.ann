@@ -1,0 +1,24 @@
+UnFpAhOx0C CLAIM-Fact 652 963 I mean, overall, a lot of our transformation, whether it's on the engineering side or on the marketing side or on the sales side, have all been driven by the opportunity we see with the broad platform capabilities we have across all of our commercial clouds, whether it's Azure or Dynamics 365 or Microsoft 365.
+eoqdn4HsQ- CLAIM-Reformulated 964 1018 So it is true that the deals are much broader, deeper.
+OHaKAc1pbA CLAIM-Fact 1019 1171 The relationships with the customers that we have now signed up with span a lot more of our capability and also drives a lot more of their own ambition.
+dJYwCZuhsm CLAIM-Fact 1172 1216 So for sure, the sales cycles are different.
+3Dqh533PWr PREMISE-Fact 1217 1498 But at the same time, you've got to remember, at Microsoft, we do have a lot of different business that we do with the customers, which may include some things like refreshes of their on-premise infrastructure all the way to some very high-ambition digital transformation projects.
+YAHyJpGIun CLAIM-Fact 1499 1638 So I would say we are well equipped to deal with that complexity and the variability of what our customers want us to be helping them with.
+IfQd7M49Nj PREMISE-Fact 1639 1752 And that's where a lot of the transformation we have done internally is helping us accelerate our Cloud business.
+sDf-GAhg-y NON-ARG 2528 2533 Okay.
+fwwVXMQrju NON-ARG 2534 2553 Well, thanks, Alex.
+3qFYePuFBo NON-ARG 2554 2609 That wraps up the Q&A portion of today's earnings call.
+KbbPVpmfsD NON-ARG 2610 2689 Thank you for joining us, and we look forward to speaking with all of you soon.
+KdLnbi65jO NON-ARG 2705 2719 Thank you all.
+R2RbutnIHj NON-ARG 2730 2740 Thank you.
+ig551ZC0EQ CLAIM-Fact 1763 2040 And I think the way we've seen this in the field is -- and our sales organization has been not unlike some of these Dynamics transactions or the Power platform transactions that require a fundamental understanding of business process and the changes you're trying to implement.
+y8zkelEu_K PREMISE-Fact 2041 2085 Those do naturally have longer sales cycles.
+02sp2f0U55 PREMISE-Fact 2086 2211 Azure has many of those same attributes at the higher end of the complexity and digital transformation Satya's talking about.
+upoOVyUknA CLAIM-Fact 2212 2355 And in these very large transactions, many of which we've been signing recently, where you'll see some of that volatility would be in bookings.
+_eshLZYk5W CLAIM-Fact 2356 2510 But I think, in general, the goal is to have -- and continue to build on that business, but certainly, that would be where the "volatility" would show up.
+R0 SUPPORT ARG1:3Dqh533PWr ARG2:YAHyJpGIun
+R1 SUPPORT ARG1:IfQd7M49Nj ARG2:YAHyJpGIun
+R2 SUPPORT ARG1:y8zkelEu_K ARG2:ig551ZC0EQ
+R3 SUPPORT ARG1:02sp2f0U55 ARG2:ig551ZC0EQ
+ArgQ0 YAHyJpGIun SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 ig551ZC0EQ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

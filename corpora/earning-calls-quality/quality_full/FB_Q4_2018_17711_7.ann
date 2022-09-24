@@ -1,0 +1,18 @@
+0-qh4Wc5CA NON-ARG 1524 1635 I mean, this is a really important question, one that we are spending a lot of time on, broadly thinking about.
+PnYesUrbzi CLAIM-Opinion(view) 1636 1747 I do generally - I mean, I believe very strongly in trying to decentralize and put power in individual's hands.
+rFO1ehUHgm PREMISE-Fact 1748 2001 I mean, that's always been the first part of the mission of Facebook, is giving people the power to share, to connect, to come together and build communities, but give people the power has always been the primary and first thing that we have focused on.
+4NHgMlL567 PREMISE-Fact 2002 2110 And one of the ways that we're talking about decentralization is through end-to-end encryption in messaging.
+FWwji17Ysw PREMISE-Fact 2111 2453 I do think that there is a very broad sense, as you're saying, that - and greater awareness that having data stored for long periods of time with companies cannot only be an asset, and that it can help provide better services but can also be a liability in that there could be breaches or the data could be used in ways that weren't intended.
+KGBRDk56LW CLAIM-Opinion(view) 2454 2682 And I think people broadly are starting to get that more, which is why things like encryption are so attractive to people and why features around ephemerality or keeping data less permanently are becoming increasingly important.
+kw06mmm94m CLAIM-Reformulated 2906 3062 I mean, these are really privacy-first products, and I think that, that's kind of the most important way that we're thinking about this whole space overall.
+AqRCuCeZ9B CLAIM-Reformulated 3063 3259 I think that this is going to become increasingly important not just from the perspective of what does the privacy policy say but how is this deeply designed into the products that we're building.
+kEy4vkFD5V CLAIM-Reformulated 3260 3430 I mean, these are the products that are growing the quickest and these are differentiating parts of why they work and why people prefer them as opposed to other services.
+yyPF1Y-OeT CLAIM-Fact 2683 2905 So when you think about the types of products that we're building on messaging, where encryption is going to play a huge role, sharing with your friends, where Stories, which is ephemeral, is the main thing that's growing.
+2K9R_pU8gD CLAIM-Opinion(view) 3431 3511 In terms of regulation overall, I think that, that's going to be very important.
+MbzFoqce54 CLAIM-Reformulated 3678 3910 And I mean, we're working with folks to enable that but I think that, that would be good for people everywhere to make sure that basically every person who uses an Internet service has the same protections no matter where they live.
+V0EY9qrTut CLAIM-Opinion(view) 3512 3677 We - the basic - the principles behind GDPR in Europe, I think we're very important, and I think having that codified around the world would be a very positive step.
+R0 SUPPORT ARG1:rFO1ehUHgm ARG2:PnYesUrbzi
+R1 SUPPORT ARG1:4NHgMlL567 ARG2:PnYesUrbzi
+R2 SUPPORT ARG1:FWwji17Ysw ARG2:KGBRDk56LW
+ArgQ0 PnYesUrbzi SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 KGBRDk56LW SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

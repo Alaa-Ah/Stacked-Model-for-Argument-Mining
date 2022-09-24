@@ -1,0 +1,26 @@
+Xnhq5CURQ1 CLAIM-Fact 1282 1377 So, Kash, the way I think about it is, even in the client server era, we had tough competition.
+nkHSHUE_tf PREMISE-RealExample 1485 1554 And we now have AWS I think who is going to be a credible competitor.
+p2lh7Xgpsq PREMISE-Fact 1690 1854 And we want to uniquely think about what are the things that we can do to differentiate and add value to our customers' digital estate in the cloud in that context.
+5_6jjzW32w PREMISE-Fact 1855 1998 And that's where, if you will, our fair share will come from by competing hard where we have to but also mostly thinking about differentiation.
+ho8LFqX_ho CLAIM-Opinion(view) 2435 2481 And so I do think it will be a blend of those.
+Mx7n-5zpsH NON-ARG 2482 2560 But certainly at the SaaS end, I understand where you get that benchmark from.
+OY4XO_iYq6 PREMISE-RealExample 1378 1392 We had Oracle.
+hamFSDQjiJ PREMISE-RealExample 1393 1484 We had VMware, and we had many other players we competed with and I grew up competing with.
+jYSjZXrBhq PREMISE-Fact 1555 1645 So I feel that, as I said, we have a cloud strategy that is not just about infrastructure.
+9s_jO8STw- PREMISE-Fact 1646 1689 It is about really SaaS and infrastructure.
+77ggop1XVe NON-ARG 2012 2247 And in terms of is there a long-term gross margin cloud number that is industry-leading, I think right now there's a benchmark in the SaaS community that's probably around the number you talked about in terms of more SaaS applications.
+UV_KCwuYEE NON-ARG 2248 2398 And then as you go down through the layers from PaaS to IaaS, that margin declines, obviously much as it did when that was run as a hardware solution.
+u2-I0xSLzo NON-ARG 2399 2434 The margins weren't as high either.
+xCHoufZrFL NON-ARG 1191 1248  Let me start with the second part, and then you can add.
+plyXgRBNqe NON-ARG 1261 1266  Yes.
+AlxZjaYvCS NON-ARG 2571 2578  Great.
+rcQSrIQNBb NON-ARG 2579 2595 Thank you, Kash.
+bAHpIgatsz NON-ARG 2596 2633 We'll take the next question, please.
+R0 SUPPORT ARG1:OY4XO_iYq6 ARG2:Xnhq5CURQ1
+R1 SUPPORT ARG1:hamFSDQjiJ ARG2:Xnhq5CURQ1
+R2 SUPPORT ARG1:nkHSHUE_tf ARG2:Xnhq5CURQ1
+R3 SUPPORT ARG1:jYSjZXrBhq ARG2:Xnhq5CURQ1
+R4 SUPPORT ARG1:9s_jO8STw- ARG2:Xnhq5CURQ1
+R5 SUPPORT ARG1:p2lh7Xgpsq ARG2:Xnhq5CURQ1
+R6 SUPPORT ARG1:5_6jjzW32w ARG2:Xnhq5CURQ1
+ArgQ0 Xnhq5CURQ1 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

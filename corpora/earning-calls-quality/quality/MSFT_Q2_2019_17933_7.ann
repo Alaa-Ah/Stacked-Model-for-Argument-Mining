@@ -1,0 +1,41 @@
+TmH2UMiOLN NON-ARG 1128 1133 Sure.
+9XUFf8RaZQ NON-ARG 1134 1183 First of all, thank you, Keith, for the question.
+MacPcCknN7 CLAIM-Fact 1184 1324 It is very true that, at this point, we have seen these very large digital transformational efforts and projects that we are partnered with.
+iZojJlk4Bb CLAIM-Fact 1325 1374 And they span, quite frankly, all the industries.
+XvdRIJevnT PREMISE-Fact 1375 1461 I think in the last quarter, you saw in health care, in retail, in financial services.
+SqYvOC670G PREMISE-Fact 1462 1591 In fact, I sort of internally think of them as what our relationships with our traditional OEM partners in the PC ecosystem were.
+HDZx5bVNs2 PREMISE-Fact 1592 1682 At this point, some of the partnerships we have with customers are of that same magnitude.
+yOcev5y6zi CLAIM-Opinion(view) 1683 1884 And that just speaks to, I think, what's happening in the economy, which is every company is becoming a digital company, and essentially what used to be COGS and operating expense is all going digital.
+iVFjVpSjDD CLAIM-Fact 1885 2037 From a mix of services, it starts always with, I would say, infrastructure, so this is the edge and the cloud, the infrastructure being used as compute.
+c44TKQ8as0 PREMISE-Fact 2038 2134 In fact, you could say the measure of a company going digital is the amount of compute they use.
+ZdKVL01QwO CLAIM-Fact 2135 2154 So that's the base.
+mmK17Z3kLc CLAIM-Fact 2155 2236 Then on top of that, of course, all this compute means it's being used with data.
+K-kwKBv5vz PREMISE-Fact 2237 2378 So the data estate, one of the largest things that happens is people consolidate the data that they have and so that they can reason over it.
+Ne0BNnUWeu PREMISE-Fact 2379 2433 And that's where things like AI services all get used.
+18WSRDoQ2Q CLAIM-Fact 2434 2514 So we definitely see that path of -- where they're adopting the layers of Azure.
+ZunBUwTL8Q CLAIM-Fact 2515 2544 But it doesn't stop in Azure.
+-bDjPINHIR PREMISE-RealExample 2545 2630 In fact, if you take Walgreens Boots Alliance, it was Microsoft 365 as well as Azure.
+ziQXRob2Wh PREMISE-Fact 2631 2664 In many cases, it's Dynamics 365.
+oEQvEWnZ9H PREMISE-Fact 2665 2750 Any IoT project on Azure leads to a Dynamics field service project in most instances.
+ttsnY9c4fx CLAIM-Fact 2751 2959 So we're seeing the breadth and depth of our cloud offering, which is what we are really architected to have real synergies in the context of what our customers want to achieve, and that's what we are seeing.
+PChW0ijbvX NON-ARG 2960 3006 And one comment before I throw it over to Amy.
+pX2LlDLKWW CLAIM-Opinion(view) 3071 3145 In fact, it's very healthy and we think that it'll continue to be healthy.
+dYkjvY5wZd CLAIM-Fact 3007 3070 Even on that -- our own demand for it, we don't see any change.
+1ZHwPxcyel CLAIM-Fact 3146 3288 And if anything, at our scale, as you can imagine, we are becoming much more efficient in how we use software to utilize the capacity we have.
+u6AYToP09V CLAIM-Fact 3289 3351 So we have significant gains in utilization across our estate.
+skC6L792Kp NON-ARG 3352 3388 So with that, I'll turn over to Amy.
+F4n8qJVJk9 CLAIM-Opinion(view) 3399 3786 And Keith, the thing I would add in addition to Satya's comment about investing and investing materially to make these improvements in performance and utilization, we've always had and seen, as you all have gotten a bit used to, it can be a little bit lumpy quarter-to-quarter, and so we expect a sequential growth into Q3, which is really just a movement that happens from time to time.
+t2hZKLPrRD CLAIM-Fact 3787 3924 Our guidance, really, in terms of overall capital spend is unchanged from 90 days ago even if the timing of that can move month-to-month.
+R0 SUPPORT ARG1:-bDjPINHIR ARG2:ZunBUwTL8Q
+R1 SUPPORT ARG1:ziQXRob2Wh ARG2:ZunBUwTL8Q
+R2 SUPPORT ARG1:oEQvEWnZ9H ARG2:ZunBUwTL8Q
+R3 SUPPORT ARG1:K-kwKBv5vz ARG2:mmK17Z3kLc
+R4 SUPPORT ARG1:Ne0BNnUWeu ARG2:mmK17Z3kLc
+R5 SUPPORT ARG1:XvdRIJevnT ARG2:iZojJlk4Bb
+R6 SUPPORT ARG1:SqYvOC670G ARG2:iZojJlk4Bb
+R7 SUPPORT ARG1:HDZx5bVNs2 ARG2:iZojJlk4Bb
+R8 SUPPORT ARG1:c44TKQ8as0 ARG2:iVFjVpSjDD
+ArgQ0 ZunBUwTL8Q SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 mmK17Z3kLc SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 iZojJlk4Bb SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 iVFjVpSjDD SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

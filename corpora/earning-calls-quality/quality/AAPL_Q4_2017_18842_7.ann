@@ -1,0 +1,38 @@
+_8zjqiOBuU NON-ARG 721 746 Toni, I'll take that one.
+IjS3qCmU2E CLAIM-Fact 964 980 It's inevitable.
+_CgymGCE9k PREMISE-Fact 981 1067 We are adding new technologies, new features, and therefore the cost structures go up.
+5WzlyIVXq0 CLAIM-Fact 1068 1204 We have a very good track record of taking those cost structures and over the life cycle of the product, we are able to bring them down.
+aYdGzLpHIp NON-ARG 747 815 When – you said we price our products for the value that we deliver.
+5iao57AQrV CLAIM-Fact 816 963 We also said that every time we launch new products, the cost structures of the new products tend to be higher than the products that they replace.
+FFfiMzaKrt CLAIM-Fact 1205 1339 There are a lot of elements in the gross margin line that we have good control over and there are also elements that we don't control.
+JUkj9139PU PREMISE-RealExample 1340 1458 Take for example foreign exchange, which has been a significant headwind for the company for the last three years now.
+34M_QgrYCS PREMISE-Fact 1459 1613 Also, the mix of products that we sell into the market tends to change over time, and that also has an impact on the overall gross margin for the company.
+loFg38SJF8 PREMISE-Fact 1614 1683 There are situations where the commodities markets are in good shape.
+Tr05NXKazu PREMISE-Fact 1684 1757 There are situations where commodity markets can be a bit out of balance.
+JSAMi-KLQS PREMISE-Fact 1758 1845 We have a case right now around memory pricing, which is a headwind for the time being.
+x9JzXdRGw3 CLAIM-Fact 1846 1877 So there's many puts and takes.
+QOGOWfvxoA PREMISE-Fact 1878 2019 The fact that our Services business is growing, it should be a positive because our Services margins tend to be accretive to company margins.
+jAjxgs8fNL CLAIM-Reformulated 2020 2051 So there's many puts and takes.
+CKyt3EVUIQ CLAIM-Opinion(view) 2052 2192 We tend to think about maximizing gross margin dollars because we think that's the most important thing for investors at the end of the day.
+XutOslSuEw CLAIM-Reformulated 2193 2371 When we look at our track record over years, I think we've found a good balance between unit grow and gross margins and revenue, and we will continue to do that as we go forward.
+-GZPnZYvFC NON-ARG 3509 3536 The truth is we don't know.
+lDcAS3_Q_a CLAIM-Fact 3537 3643 We've put our best estimate into the guidance, and you can see from the guidance that we are very bullish.
+v195WqaNYv CLAIM-Opinion(view) 3644 3702 And so, and we feel really great about the product lineup.
+odN6W4aRq6 NON-ARG 3703 3744 We just sold the first units minutes ago.
+qDZ8LsMP2x NON-ARG 3745 3776 And so we'll see how things go.
+kSLw6ZLcLf NON-ARG 3777 3926 Until you get all of them out there where customers have the ability to demo and support, I think any kind of mix discussion is very much estimating.
+OL__tCVJhB NON-ARG 3927 4008 And so we put our best estimates in, but grantedly, we've never done this before.
+zTQnEN6POm NON-ARG 4009 4095 So there's no comparison here, with either the three iPhones nor the staggered launch.
+RIilcrmq8Q NON-ARG 4096 4130 So we're going to learn something.
+k0GK6NPPjT NON-ARG 4145 4161 Thank you, Toni.
+CBIQeIeLhf NON-ARG 4162 4202 Could we have the next question, please?
+R0 SUPPORT ARG1:_CgymGCE9k ARG2:IjS3qCmU2E
+R1 SUPPORT ARG1:JUkj9139PU ARG2:FFfiMzaKrt
+R2 SUPPORT ARG1:34M_QgrYCS ARG2:FFfiMzaKrt
+R3 SUPPORT ARG1:loFg38SJF8 ARG2:x9JzXdRGw3
+R4 SUPPORT ARG1:Tr05NXKazu ARG2:x9JzXdRGw3
+R5 SUPPORT ARG1:JSAMi-KLQS ARG2:x9JzXdRGw3
+R6 SUPPORT ARG1:QOGOWfvxoA ARG2:x9JzXdRGw3
+ArgQ0 IjS3qCmU2E SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 FFfiMzaKrt SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ2 x9JzXdRGw3 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

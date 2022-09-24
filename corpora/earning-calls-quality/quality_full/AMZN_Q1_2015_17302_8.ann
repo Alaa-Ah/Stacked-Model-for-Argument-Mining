@@ -1,0 +1,17 @@
+Mejy9F9jx_ NON-ARG 603 613 Yes, sure.
+dmfO25Bfoc PREMISE-Statistic 614 693 So North America operating margin up a 120 basis points year-over-year to 3.9%.
+3ueq7rKQlB CLAIM-Fact 694 722 Lot of good cost efficiency,
+mFtJZdM-tR NON-ARG 723 830 but again we're continuing to invest so actively as we build the Prime platform and that we have customers.
+PNOh7a8lu- NON-ARG 831 1064 So you'll see lot of invention definitely to see the Prime platform, which things like Video Content, Prime Music, as we talk about Prime Now devices that will continue to build fulfillment centers for selection and expansion in FBA.
+NnxTkxKE1Z NON-ARG 1065 1144 So that’s – its generally what's driving the operating margin in North America.
+RfyyL0g163 NON-ARG 1158 1235 And just to add on to that, we're – we gave metrics last quarter about Prime.
+MNh586tbty CLAIM-Fact 1236 1259 It’s growing very fast.
+8Pe3RBr52Y PREMISE-Fact 1260 1420 As Brian said, we're feeding the platform and certainly common thing with category expansion, new FCs, original content, Prime Instant Video devices, Prime Now.
+KEdxxfwEnp NON-ARG 1421 1535 The common theme is they are all really intertwined with Prime and inextricably to our consumer business in Prime.
+OdDkXlLMmA NON-ARG 1536 1570 So it’s just we're happy to do it.
+q5qX7SQiiE PREMISE-Statistic 1571 1664 And the last quarter we gave an indication of the growth rates after being added for 10 year.
+DRrOX8547i NON-ARG 1665 1741 So we're super excited to have the platform and to continue to invest in it.
+R0 SUPPORT ARG1:dmfO25Bfoc ARG2:3ueq7rKQlB
+R1 SUPPORT ARG1:q5qX7SQiiE ARG2:MNh586tbty
+ArgQ0 3ueq7rKQlB SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 MNh586tbty SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

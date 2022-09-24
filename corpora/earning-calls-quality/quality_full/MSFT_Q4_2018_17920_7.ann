@@ -1,0 +1,17 @@
+JxboKtZrx3 CLAIM-Fact 342 454 Yes, I think vision that we have always had is that distributed computing in some sense will remain distributed.
+lGMZajKYhe CLAIM-Reformulated 455 540 So, we don’t split this into, there is an edge computing, there is a cloud computing.
+pXEXsWPyHj CLAIM-Fact 541 606 The need for computing is on the secular basis going to increase.
+SJ1Hj_Ui6K PREMISE-Fact 956 1053 So that modern developers as well as IT can use the compute available from Azure Sphere to Azure.
+diKwxkxQRI PREMISE-Fact 1117 1176 So it's not like I just build and Azure Sphere application.
+og9mmY3dxe PREMISE-Fact 1177 1290 I build and application that’s fundamentally distributed that also happens to ransom and compute on Azure Sphere.
+SzC4OUIwd1 CLAIM-Opinion(view) 1291 1501 That I think the future which is distributed computing going back to what needs to be truly distributed, even driven server-less even versus this thing about let's just have one-time migration to something new.
+xpBHt-MoDm PREMISE-Fact 607 805 And as you need to reason over larger amounts of data, you need not only storage and compute to be co-located all over as the world get them embedded with computing, that’s what we are building for.
+k56HDoVY2H CLAIM-Fact 806 955 So if you think about our real competitive advantage and differentiation is, we have one programming model, one identity model, security, management.
+8o4gVbOV-1 CLAIM-Fact 1054 1116 And the reality is these modern workloads in fact lose it all.
+R0 SUPPORT ARG1:xpBHt-MoDm ARG2:pXEXsWPyHj
+R1 SUPPORT ARG1:SJ1Hj_Ui6K ARG2:k56HDoVY2H
+R2 SUPPORT ARG1:diKwxkxQRI ARG2:8o4gVbOV-1
+R3 SUPPORT ARG1:og9mmY3dxe ARG2:8o4gVbOV-1
+ArgQ0 pXEXsWPyHj SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 k56HDoVY2H SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 8o4gVbOV-1 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

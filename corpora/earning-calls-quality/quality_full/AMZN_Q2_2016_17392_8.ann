@@ -1,0 +1,17 @@
+RuJpTw0yD8 NON-ARG 575 580 Sure.
+2XQVoFVLMy CLAIM-Opinion(view) 581 790 Well, first of all, we believe customers will choose AWS primarily for three factors, the functionality and pace of innovation that we bring to the table, our partner and customer ecosystem and our experience.
+rMjMN2XUkY PREMISE-Fact 791 838 We've been in this business longer than anyone.
+MjxDpOZSsp NON-ARG 839 935 Having said that, there are room – there's plenty of room for multiple vendors in this business.
+BaGUcdj4si PREMISE-Fact 1073 1485 You can see us continue to invest in things like new application services, higher up the stack, additional technologies that will make integrating with AWS seamless for those companies that have a hybrid IT environment and then continuing to add functionality for data analytics, mobile, Internet of things, machine learning offerings, things like that, that will add greater and greater value for AWS customers.
+KqtFfz8u5M CLAIM-Fact 936 1072 What we focus on is innovating on behalf of customers and expanding the geographic footprint to make our services more widely available.
+r8IIsOpDN_ CLAIM-Fact 1486 1579 And I would say the rapid pace of innovation continues to stretch our lead in that dimension.
+7Ct5ByBdCz PREMISE-Statistic 1580 1671 We have had 422 new significant services and features added in the first half of this year.
+SS5rtJBomX PREMISE-Statistic 1672 1748 That's a faster pace than last year when we added 722 services and features.
+J_QlFkXltF CLAIM-Reformulated 1749 1834 So we feel good about the business position we're in and our position with customers.
+R0 SUPPORT ARG1:rMjMN2XUkY ARG2:2XQVoFVLMy
+R1 SUPPORT ARG1:BaGUcdj4si ARG2:KqtFfz8u5M
+R2 SUPPORT ARG1:7Ct5ByBdCz ARG2:r8IIsOpDN_
+R3 SUPPORT ARG1:SS5rtJBomX ARG2:r8IIsOpDN_
+ArgQ0 2XQVoFVLMy SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 KqtFfz8u5M SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 r8IIsOpDN_ SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

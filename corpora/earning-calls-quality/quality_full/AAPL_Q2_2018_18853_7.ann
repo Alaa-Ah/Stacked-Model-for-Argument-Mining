@@ -1,0 +1,22 @@
+VU5FE--w-Y NON-ARG 633 638 Sure.
+e62ct60Qgt NON-ARG 639 657 Shannon, it's Tim.
+0WTvqZoJDw CLAIM-Fact 658 836 As Luca mentioned earlier, our revenues are up 14% year-over-year on iPhone and that's a combination of single digit unit growth and ASP growth that is mainly driven by iPhone X.
+5KY46AWhaq CLAIM-Opinion(view) 837 1060 I think that our iPhone line shows that there's a variety of different customers in a market that is as large as a smartphone market and so we're going to continue to provide different iPhones for folks to meet their needs.
+D6X-m_w_M8 PREMISE-Fact 1061 1350 On iPhone X specifically, I think it's important to maybe emphasize again one of the things I mentioned in my opening comments, that customers chose iPhone X more than any other iPhone each and every week in the March quarter, just as they did following its launch in the December quarter.
+F0xyS2w0lK PREMISE-Fact 1351 1548 Also, since we split the line with the launch of iPhone 6 and 6 Plus back in 2014, this is the first cycle that we've ever had where the top of the line iPhone model has also been the most popular.
+wI6Xmg97Re PREMISE-Statistic 1549 1651 And so with the customer set that Luca referenced as well, the 99%, the iPhone X is a beloved product.
+AnoO9JiMm0 NON-ARG 1652 1845 And so I think that it's one of those things where like a team wins the Super Bowl, maybe you want them to win by a few more points but it's a Super Bowl winner and that's how we feel about it.
+d1M-K1U2wm CLAIM-Opinion(view) 1846 1884 I could not be prouder of the product.
+h_Xe3Zx-iN NON-ARG 2459 2491 Our inventory level has gone up.
+BZFKiXvZj_ NON-ARG 2492 2520 It's just a temporary event.
+GYtuLGxEjB CLAIM-Fact 2521 2637 We have decided to make some purchasing decision, given current market conditions, and that should unwind over time.
+Kmy_wyE390 CLAIM-Fact 2274 2377 Yeah, Shannon, you know that we've always generated significant amount of cash through working capital.
+6mt8L_lS_Y CLAIM-Fact 2378 2458 We've got a negative cash conversion cycle and we plan to continue to have that.
+dD7TgoZGA5 NON-ARG 2715 2723 Correct.
+No3fLq97RS NON-ARG 2738 2748 Thank you.
+pGWlJNLM9J NON-ARG 2749 2757 Shannon.
+E--PtOurws NON-ARG 2817 2855 Can we have the next question, please?
+R0 SUPPORT ARG1:D6X-m_w_M8 ARG2:d1M-K1U2wm
+R1 SUPPORT ARG1:F0xyS2w0lK ARG2:d1M-K1U2wm
+R2 SUPPORT ARG1:wI6Xmg97Re ARG2:d1M-K1U2wm
+ArgQ0 d1M-K1U2wm SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0

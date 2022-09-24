@@ -1,0 +1,13 @@
+ofIiZWwbPX CLAIM-Opinion(view) 511 671 Yes, we feel very, very good about the data platform and the portfolio we have, whether it's on the relational side with obviously SQL and now Postgres support.
+_bySKL6hR7 CLAIM-Fact 672 753 And then our Cosmos DB has become the leading multi-model, multi-region database.
+PVG4CxRZ6I CLAIM-Opinion(view) 754 934 And so therefore, I feel very, very good, as I said even earlier, whenever these customer digital transformation projects start, they start by really getting their data into shape.
+HlPnVT9BU7 CLAIM-Reformulated 935 1002 And what that means is you bring all the data in its native format.
+9Od8bIRM7W PREMISE-Fact 1003 1138 You need the full comprehensive platform and then the ability to able -- to do things like AI and analytics on top of all of this data.
+Gga5ghdY5_ CLAIM-Fact 1139 1222 So our data platform growth as well as competitiveness is very good and increasing.
+jK24a6_JRx PREMISE-Fact 1223 1289 And we're the only provider still who can do this in a hybrid way.
+fjpgGitTob PREMISE-Fact 1290 1456 That is the consistency between what happens at the edge to the cloud when it comes to data tier becomes even more important as edge scenarios become very, very real.
+Kj7g58Tdcp CLAIM-Reformulated 1457 1628 So therefore, I feel very good about our data story in Citus, which is the company we just bought for the Postgres capability, is something that we are very excited about.
+R0 SUPPORT ARG1:9Od8bIRM7W ARG2:Gga5ghdY5_
+R1 SUPPORT ARG1:jK24a6_JRx ARG2:Gga5ghdY5_
+R2 SUPPORT ARG1:fjpgGitTob ARG2:Gga5ghdY5_
+ArgQ0 Gga5ghdY5_ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

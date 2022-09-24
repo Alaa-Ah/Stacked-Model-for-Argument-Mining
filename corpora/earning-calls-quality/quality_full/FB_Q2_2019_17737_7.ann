@@ -1,0 +1,37 @@
+sCex8N1wKy NON-ARG 712 717 Sure.
+4SSnJklQUT NON-ARG 718 770 So, I can talk about the regulatory picture overall.
+XHDBiGUKI1 NON-ARG 3165 3187 Hey Justin, it’s Dave.
+5i03sOue22 NON-ARG 3188 3214 As I noted in my comments.
+U4nP9SkPUA PREMISE-Fact 3215 3273 Europe is growing more slowly than North America and APAC.
+x1lA9x6Ina CLAIM-Opinion(view) 3274 3386 That said, we had a strong quarter and we’re pleased with results in currencies of factor in that delta as well.
+1C_8LLpees PREMISE-Fact 3387 3461 Overall, we did see Europe had a reacceleration of growth in Q2 versus Q1.
+AIAvt5vCLX CLAIM-Reformulated 3515 3672 So, I think overall we’re kind of pleased with what we’re seeing around Europe, but it’s still growing more a little more slowly than North America and APAC.
+rpNEDSQHXO NON-ARG 3462 3514 And part of that is lapping the GDPR implementation.
+iWh8pea1e2 CLAIM-Fact 771 947 Over the last few years, we focused a lot on a number of major social issues everything from preventing election interference to reducing harmful content to protecting privacy.
+Q4Tb-rJEVR NON-ARG 948 994 Now, I’m talking a lot about data portability.
+t51auscSEs CLAIM-Opinion(view) 995 1152 And on each of these, I think that there is work that we can do and that we certainly have a responsibility to really make sure that we perform well on them.
+O05eZ_bZMT CLAIM-Opinion(view) 1876 2000 So, we believe that there needs to be a regulatory framework in place for each of the major issues that I just talked about.
+xfD8EbazIA PREMISE-Fact 1610 1875 On privacy, there are really important questions about how you define what you want the system to be in terms of how much you’re locking down data versus are you making it portable for to enable competition and innovation and academic research and things like that.
+PA2RphJa0M CLAIM-Opinion(view) 2001 2133 And my broader concern is that if that doesn’t get put in place, then frustration with the industry, I think, will continue to grow.
+sV-e9GS_-j CLAIM-Fact 2134 2269 And so we’re trying to do our part to help advocate for a good regulatory framework in each area and they will come in different forms.
+Ph3C1QYQvJ PREMISE-Fact 2270 2541 So in some places, we’ll – there will be laws passed and others might be working with regulators and having some structural rules imposed on us like with the FTC settlement; in other areas, it might be self-regulation like around, content and speech in the United States.
+1o-79YeERN PREMISE-Fact 2542 2636 That’s what I’d expect because of the, first amendment here is a strong protections on speech.
+Q1xa3-fsnI CLAIM-Reformulated 2933 2968 But I think we are making progress.
+k5ET_dSUy3 PREMISE-Fact 2969 3064 And as said this is a global problem, not just these are global problem, not just American one.
+_92NK09_uv CLAIM-Fact 3065 3151 So working with folks across Europe and the other continents as well is important too.
+1XLwkCFduR CLAIM-Fact 1153 1407 But at the end of the day, when our systems are mature, there are still going to be trade-offs between important values that we all have something, I mean, on content between free expression and civil discourse and we’re moving hate and things like that.
+RVjeXtKQ54 CLAIM-Opinion(view) 1408 1609 Those are hard questions that at some level, we’re always going to do the best that we can, but we think that having a more democratic process for setting with some of those norms are would be helpful.
+v7IyyqU6yU CLAIM-Reformulated 2637 2692 So this is important overall, we’re very focused on it.
+JVVgEYhDgv CLAIM-Reformulated 2837 2932 Our content systems are getting more mature, there’s a lot of more work to do in each of those.
+azKNIm6r45 CLAIM-Opinion(view) 2693 2777 I do think we are making progress on working through the issues and addressing them.
+ykaAS_LUx4 CLAIM-Opinion(view) 2778 2836 We’re, I think, in a much stronger place in elections now.
+R0 SUPPORT ARG1:U4nP9SkPUA ARG2:x1lA9x6Ina
+R1 SUPPORT ARG1:1C_8LLpees ARG2:x1lA9x6Ina
+R2 SUPPORT ARG1:xfD8EbazIA ARG2:O05eZ_bZMT
+R3 SUPPORT ARG1:Ph3C1QYQvJ ARG2:sV-e9GS_-j
+R4 SUPPORT ARG1:1o-79YeERN ARG2:sV-e9GS_-j
+R5 SUPPORT ARG1:k5ET_dSUy3 ARG2:_92NK09_uv
+ArgQ0 x1lA9x6Ina SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 O05eZ_bZMT SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 sV-e9GS_-j SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 _92NK09_uv SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

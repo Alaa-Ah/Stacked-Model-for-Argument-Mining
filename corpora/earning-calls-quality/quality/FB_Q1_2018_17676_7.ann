@@ -1,0 +1,26 @@
+LTLhc4RIhO CLAIM-Opinion(view) 1103 1193 So, Mark, on the first question, I don't know that we really see a doomsday scenario here.
+3JZrhbgAhF PREMISE-Fact 1194 1337 I think what we think is that depending on how people react to the controls and the ad settings, there could be some limitations to data usage.
+nL4hZjAbte PREMISE-Fact 1338 1385 We believe that those will be relatively minor.
+vGO3Eo9QuP PREMISE-Fact 1386 1510 But depending on how broadly the controls are adopted and set, there is a potential to impact targeting for our advertisers.
+uoYQ82kTOR PREMISE-Fact 1511 1622 Obviously, if they are less able to target effectively, they'll get a lower ROI on their advertising campaigns.
+_AaJNkXA_6 PREMISE-Fact 1623 1669 They'll then bid differently into the auction.
+BVE-xaWW-Z PREMISE-Fact 1670 1772 That ultimately will flow through into how we can realize price on the impressions that we're selling.
+wfgH7DvFSr PREMISE-Fact 1773 1938 So I think that's the mitigating issue that we could see, depending on how GDPR and our broader commitment to providing these same controls worldwide could play out.
+dT4en-7ek4 CLAIM-Opinion(view) 1939 2160 We think that there is a great case for not just our business, but also for the user experience on Facebook to have targeting because we think it's a better experience for the people who use Facebook to have targeted ads.
+ILKkkj48_m PREMISE-Fact 2161 2247 We think we can do that in a privacy-protected way, and it's just a better experience.
+3ib4fAboGE PREMISE-Fact 2248 2274 You get more relevant ads.
+iZoAVUIs-i PREMISE-Fact 2275 2367 And I think overall benefits not only the advertisers, but also the people who use Facebook.
+3tZnlaXCO5 CLAIM-Reformulated 2368 2422 So I don't think we see a real doomsday scenario here.
+XsoBou3wRI CLAIM-Fact 2423 2469 We see an opportunity to really make the case.
+R0 SUPPORT ARG1:ILKkkj48_m ARG2:dT4en-7ek4
+R1 SUPPORT ARG1:3ib4fAboGE ARG2:dT4en-7ek4
+R2 SUPPORT ARG1:iZoAVUIs-i ARG2:dT4en-7ek4
+R3 SUPPORT ARG1:3JZrhbgAhF ARG2:LTLhc4RIhO
+R4 SUPPORT ARG1:nL4hZjAbte ARG2:LTLhc4RIhO
+R5 SUPPORT ARG1:vGO3Eo9QuP ARG2:LTLhc4RIhO
+R6 SUPPORT ARG1:uoYQ82kTOR ARG2:LTLhc4RIhO
+R7 SUPPORT ARG1:_AaJNkXA_6 ARG2:LTLhc4RIhO
+R8 SUPPORT ARG1:BVE-xaWW-Z ARG2:LTLhc4RIhO
+R9 SUPPORT ARG1:wfgH7DvFSr ARG2:LTLhc4RIhO
+ArgQ0 dT4en-7ek4 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 LTLhc4RIhO SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

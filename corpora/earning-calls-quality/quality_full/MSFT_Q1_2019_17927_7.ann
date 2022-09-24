@@ -1,0 +1,21 @@
+kvFRQj6Iqo NON-ARG 888 893 Sure.
+eYoMwKX9dg NON-ARG 894 935 First of all, thank you for the question.
+B3OlQAaDCm CLAIM-Opinion(view) 936 976 We're very excited about GitHub closing.
+T2o0kCeGRD PREMISE-Fact 977 1095 And quite frankly, primarily I'm excited because for us, as I've always said, GitHub is not a means to some other end.
+i5JCF-lB-n PREMISE-Fact 1096 1316 It's an end on to its own, which is, we've always cared about developer and developer productivity and especially at a time like this when there are more developers outside of the tech industry as the world goes digital.
+JRhGYz5uJt CLAIM-Opinion(view) 1317 1390 We think this is perhaps one of the big SaaS opportunities going forward.
+MsNaz0TNci CLAIM-Fact 1391 1607 And so therefore that's why we want to ensure that everything we do and the number one priority for Nat and team at GitHub will be all about maintaining that GitHub community, the ethos around developers at the core.
+6JQNBXHOl6 CLAIM-Opinion(view) 1608 1872 That said, I think we will do what is necessary to make sure that our products and services that are on Azure or elsewhere, our tooling, which are already many open source projects on GitHub, we do a good job of earning that developer trust and developer adoption.
+bImbF_M-P0 CLAIM-Fact 1873 2008 But we are very grounded in the fact that it has to be earned and not something that we will inherit because of being owners of GitHub.
+C3KRVrC5G- CLAIM-Fact 2009 2144 The second thing I'll also mention is that, to me the opportunity to win, I would say, new class of developers, we are making progress.
+9QpJ9w39wF PREMISE-RealExample 2145 2314 In fact, this morning I was reading a news article in Hacker News, which is a community where we have been working hard to make sure that Azure is growing in popularity.
+f7o0K5nOq1 PREMISE-RealExample 2315 2543 And I was pleasantly surprised to see that we have made a lot of progress, in some sense, that at least basically said that we are neck to neck with Amazon when it comes to even elite developers as represented in that community.
+1ecRntp0Oa CLAIM-Reformulated 2544 2616 So we have more work to do, but we're making progress on all dimensions.
+YlSqCyug3m NON-ARG 2675 2687 Thanks, Jen.
+WzNll87DTg NON-ARG 2688 2738 Operator, we'll move to the next question, please.
+R0 SUPPORT ARG1:T2o0kCeGRD ARG2:B3OlQAaDCm
+R1 SUPPORT ARG1:i5JCF-lB-n ARG2:B3OlQAaDCm
+R2 SUPPORT ARG1:9QpJ9w39wF ARG2:C3KRVrC5G-
+R3 SUPPORT ARG1:f7o0K5nOq1 ARG2:C3KRVrC5G-
+ArgQ0 B3OlQAaDCm SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 C3KRVrC5G- SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

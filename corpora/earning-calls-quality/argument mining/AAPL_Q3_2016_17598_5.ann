@@ -1,0 +1,29 @@
+NdexbyZDQg NON-ARG 1011 1072 On R&D growth, we do continue to invest significantly in R&D.
+SquRYhgjyX NON-ARG 1073 1167 The growth rates are still large on a year-over-year basis, and Luca can share the exact ones.
+MGaQjSxIrM NON-ARG 1168 1226 But I think the recent quarter was in the mid-20% for R&D.
+naBaVFHvQv NON-ARG 1227 1319 The balance of the company we're managing more flattish from a year-over-year point of view.
+PIfakQDXqj NON-ARG 1320 1497 The products that are in R&D, there is quite a bit of investment in there for products and services that are not currently shipping or derivations of what is currently shipping.
+sEtSQeTaFq NON-ARG 1498 1554 And so I don't want to talk about the exact split of it.
+NhMqRJYmPR NON-ARG 1555 1677 But you can look at the growth rate and conclude that there's a lot of stuff that we're doing beyond the current products.
+qxGJjNZB6l CLAIM-Opinion(view) 2237 2385 But I think as I said or Tim said during the prepared remarks, we do expect iPhone ASP to improve sequentially as we move into the September quarter
+hjXWcP9QJ_ PREMISE-Other 2386 2458 because these two factors that I just mentioned are not going to repeat.
+YP5XD_ip8N NON-ARG 3127 3246 But really to us what is much more relevant is the much bigger opportunity to bring more people into the iOS ecosystem.
+jKu2OcK3dX CLAIM-Fact 2459 2517 On cannibalization, of course we've got limited experience
+5vmadihvSD PREMISE-Fact 2518 2580 because the phone has been in the market just for a few weeks.
+44QqJy0Ite CLAIM-Opinion(view) 2581 2875 But when we look at our survey data on iPhone SE, as Tim was saying, we believe that the iPhone SE is doing exactly what it was intended, which is we are seeing a higher rate of new to iPhone customers, which is obviously very important to us because we bring new people into the iOS ecosystem.
+_h65-J0Ghk PREMISE-RealExample 2973 3057 We have not seen clear evidence of cannibalization from iPhone 6S or iPhone 6S Plus.
+azTUzNSBQw PREMISE-Fact 2876 2972 And we see a higher rate of previous iPhone owners that really prefer the four-inch form factor.
+LwQbzcyqaM PREMISE-Fact 3058 3126 Of course, there's always going to be some level of cannibalization.
+h13S9Qiupp CLAIM-Fact 2165 2236 So the combination of these two things obviously had an impact on ASPs.
+2W5XgdGizm PREMISE-Statistic 2042 2164 And then the other element was the fact that we've reduced more than 4 million units of channel inventory on the high end.
+18LMW8YEMD PREMISE-Fact 1848 2041 So during the quarter, we had this combination of starting with no iPhone SE units in channel inventory, so we had to do an at least a partial channel fill that obviously had an impact on ASPs.
+QzTBjZxtyc NON-ARG 1692 1749 Mark, on the ASP question, I talked about the $595 in Q3.
+rkoalkchlL NON-ARG 1750 1790 It's down $65 on a year-over-year basis.
+ZhRGssicqP NON-ARG 1791 1847 Keep in mind, about $20 of that $65 is foreign exchange.
+R0 SUPPORT ARG1:hjXWcP9QJ_ ARG2:qxGJjNZB6l
+R1 SUPPORT ARG1:5vmadihvSD ARG2:jKu2OcK3dX
+R2 SUPPORT ARG1:azTUzNSBQw ARG2:44QqJy0Ite
+R3 SUPPORT ARG1:_h65-J0Ghk ARG2:44QqJy0Ite
+R4 ATTACK ARG1:LwQbzcyqaM ARG2:44QqJy0Ite
+R5 SUPPORT ARG1:2W5XgdGizm ARG2:h13S9Qiupp
+R6 SUPPORT ARG1:18LMW8YEMD ARG2:h13S9Qiupp

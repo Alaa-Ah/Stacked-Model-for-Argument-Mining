@@ -1,0 +1,30 @@
+XrFQnV9iMK NON-ARG 564 580 Amit, it's Luca.
+7Z5vx-vqmH CLAIM-Opinion(view) 650 732 Clearly, we expect to have continued strong growth from the non-iPhone categories.
+BQLmFYu0Qk CLAIM-Fact 931 1013 And so, these two categories have become really important and really large for us.
+16LQF_p0y2 PREMISE-Statistic 1106 1222 Keep in mind that the guidance includes an estimated almost $1 billion of foreign exchange headwind for the quarter.
+3KqnTaMKwI CLAIM-Fact 733 769 We have great momentum in wearables.
+TGEG0Sfou4 PREMISE-Statistic 770 872 We mentioned that we were up almost 50% in the June quarter, or actually over 50% in the June quarter.
+s9LVUbJ29Y CLAIM-Fact 873 930 Our services business, we set an all-time record in June.
+hnRqcD9MIO NON-ARG 581 649 Of course, this is our best estimate of where we think we will land.
+PYMsrptlD8 CLAIM-Reformulated 1014 1105 And so, as we continue to grow, quickly that is going to help us as we go through the year.
+Ip5PR1gmIf NON-ARG 1595 1609 Yes, Amit, Hi.
+Go5PsyZp74 NON-ARG 1610 1680 It's Tim, and I apologize for my voice, I'm suffering from an allergy.
+GqtRXDqpkJ CLAIM-Fact 1681 1748 But what happened last quarter in China was a confluence of things.
+Wv-3EKoKR6 PREMISE-Fact 1749 1829 The government stimulus, this came in terms of a VAT reduction, a very bold one.
+qvs2RU4lzF PREMISE-Fact 1830 1987 We took some pricing action, we instituted our trade-in and financing programs in our retail stores and worked with certain channel partners on that as well.
+KTfh-va3bs PREMISE-Fact 1988 2078 And we're seeing a growing engagement with the broader Apple ecosystem during the quarter.
+paenOAD2Ip PREMISE-Fact 2079 2205 And so, when you look at it, each of our categories, iPhone, iPad, Mac, wearables, services, everything improved sequentially.
+QUpdZh8opQ CLAIM-Opinion(view) 2206 2251 So, we couldn't be happier with the progress.
+EpypK1K2K0 PREMISE-Fact 2252 2418 I would point out, I think I mentioned in my comments, that we actually grew in constant currency for Greater China and we grew in Mainland China on a reported basis.
+xGjoQxOVuH CLAIM-Reformulated 2419 2485 So, there's several things going on there that are quite positive.
+BYHV_eGGAo NON-ARG 2500 2516 Thank you, Amit.
+BvXVTj1TXp NON-ARG 2517 2556 Could we have the next question please.
+R0 SUPPORT ARG1:TGEG0Sfou4 ARG2:3KqnTaMKwI
+R1 SUPPORT ARG1:Wv-3EKoKR6 ARG2:GqtRXDqpkJ
+R2 SUPPORT ARG1:qvs2RU4lzF ARG2:GqtRXDqpkJ
+R3 SUPPORT ARG1:KTfh-va3bs ARG2:QUpdZh8opQ
+R4 SUPPORT ARG1:paenOAD2Ip ARG2:QUpdZh8opQ
+R5 SUPPORT ARG1:EpypK1K2K0 ARG2:QUpdZh8opQ
+ArgQ0 3KqnTaMKwI SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 GqtRXDqpkJ SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ2 QUpdZh8opQ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

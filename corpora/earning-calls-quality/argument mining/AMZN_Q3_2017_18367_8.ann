@@ -1,0 +1,16 @@
+Pc4FUnQQoV NON-ARG 1079 1091 Yeah, Heath.
+fXmfRU3dxy NON-ARG 1092 1105 This is Dave.
+kNZGxtOswE NON-ARG 1106 1163 I'll take that first question in relation to health care.
+QrNGlgdvZW PREMISE-Fact 1164 1646 I think where you're seeing us do some work in that, I think, is on the areas of Amazon Business, and that's really just from the standpoint of there are many different types of businesses that we can serve with that offering, and we're in our third year now, and so there's a lot of different sectors, whether they are hospitals, educational institutions, labs, government agencies, I mean, there's a lot of different shapes and sizes across industries that we can serve with that.
+hUTdHBquBn CLAIM-Opinion(view) 1647 2029 And so, I think what you're seeing us do is really focus on services that meet those businesses multi-user accounts, improving approval workflow tools and just more recently, we introduced Amazon Business for Business Prime Shipping, which we think will be a great way for businesses to use multiuser – business customers have multiuser accounts, and that's in the U.S. and Germany.
+4H3fDlrRer CLAIM-Reformulated 2030 2118 So, I think it's part of that offering, and we will really have to see how that evolves.
+TtMHGpkyyX NON-ARG 2119 2299 And the other side, too, is certainly health care is one of many sectors as part of Amazon Web Services that are important customers that we are focusing on and building tools for.
+mLJMAAerkw NON-ARG 2300 2407 So probably nothing specific to call out on that one, but that's a lot of what you're seeing from us today.
+RiVEXB-OeP NON-ARG 2427 2558 Yeah, on AWS, we don't provide segment level estimates, but we did consider in our guidance the impact of the price cuts last year.
+N--dtvl9L1 PREMISE-Fact 2559 2646 You're right, we had a number of price cuts timed about around December 1 of last year.
+lJEGqo-gwE CLAIM-Fact 2647 2695 That certainly had an impact on Q4 of last year.
+QZSUhJ4ezt PREMISE-Fact 2696 2890 But again, price cuts and not only price cuts but new products that have lower average cost and can cannibalize more expensive products is pretty much a part of our business all the time in AWS.
+KIo0rytyLq NON-ARG 2891 3062 So we're looking forward to a strong Q4 and re:Invent is in December or the end of November, early December, so that is also an exciting time of year for the AWS business.
+R0 SUPPORT ARG1:QrNGlgdvZW ARG2:hUTdHBquBn
+R1 SUPPORT ARG1:N--dtvl9L1 ARG2:lJEGqo-gwE
+R2 SUPPORT ARG1:QZSUhJ4ezt ARG2:lJEGqo-gwE

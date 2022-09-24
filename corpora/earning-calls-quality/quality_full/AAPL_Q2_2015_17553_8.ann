@@ -1,0 +1,27 @@
+GTaYWdZZmr NON-ARG 418 515 I’m gonna give you some numbers on the currency, because I know it’s a topic that is top of mind.
+PZ6MKxMTIP NON-ARG 516 602 You’re asking about gross margin, and you know, we look at this on a sequential basis.
+8MpvPHLd5V PREMISE-Fact 603 777 And I mentioned during the call in January that we were expecting FX to have a negative impact on a sequential basis of about 100 basis points after the effect of the hedges.
+FHrrPFK97x PREMISE-Fact 778 834 And that is exactly what happened in our actual results.
+9VicsWVjJq PREMISE-Fact 835 898 So that was pretty much in line with what we were anticipating.
+-0VSiLlKO7 CLAIM-Opinion(view) 899 946 Of course, we expect this headwind to continue.
+_RvSUH7DTc CLAIM-Opinion(view) 1378 1558 So we feel very good about the gross margins that we’ve generated in the March quarter, and we feel very good about the guidance that we provided, given the severity of the impact.
+iAkXqEGU6D PREMISE-Fact 2038 2127 Bill, we continue to see a higher rate of switchers than we have seen in previous cycles,
+oGtReTEN6y CLAIM-Opinion(view) 2128 2170 and so we’re extremely excited about that.
+Q1pN9TFjNO PREMISE-Fact 2171 2286 We also continue to see a reasonable percentage of first time buyers, particularly in some of the emerging markets.
+iuFbO4ZCo4 PREMISE-Statistic 2287 2457 And if you look at emerging markets in general, I think Luca covered some of this, the revenue from emerging markets, just for the March quarter, was up 58% year on year.
+HbLGpJE2Ue CLAIM-Fact 2509 2618 Obviously, those results would have been higher without some of the FX headwinds that Luca mentioned earlier.
+-_oRbHKXt1 CLAIM-Fact 2458 2508 And a big piece of what is driving that is iPhone.
+SBbzGx2uxK CLAIM-Value 947 1084 And on a sequential basis, when we look into the June quarter, we expect to see another 40 basis points of negative impact from currency.
+THG0u5TNti CLAIM-Reformulated 1085 1120 We’re dealing with these headwinds.
+Wa_r4JDQOn CLAIM-Reformulated 1121 1191 They’re part of business, and so we’re dealing with them in many ways.
+-RV3hyxJdN CLAIM-Reformulated 1192 1281 We are looking at, in some cases, at the potential to increase prices in certain markets.
+dKu3hIZ7Lh CLAIM-Reformulated 1282 1377 We’re looking of course at our cost structure, and we try to remain as competitive as possible.
+R0 SUPPORT ARG1:8MpvPHLd5V ARG2:SBbzGx2uxK
+R1 SUPPORT ARG1:FHrrPFK97x ARG2:-0VSiLlKO7
+R2 SUPPORT ARG1:9VicsWVjJq ARG2:-0VSiLlKO7
+R3 SUPPORT ARG1:iAkXqEGU6D ARG2:oGtReTEN6y
+R4 SUPPORT ARG1:iuFbO4ZCo4 ARG2:oGtReTEN6y
+R5 SUPPORT ARG1:Q1pN9TFjNO ARG2:oGtReTEN6y
+ArgQ0 SBbzGx2uxK SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 -0VSiLlKO7 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_2
+ArgQ2 oGtReTEN6y SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_2

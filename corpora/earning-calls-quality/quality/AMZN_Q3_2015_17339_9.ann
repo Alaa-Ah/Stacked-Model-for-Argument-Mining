@@ -1,0 +1,33 @@
+Drg40uacip CLAIM-Fact 691 780 So, on the Brazil side – this is Phil – we've had the Kindle Store in Brazil for a while.
+LOqk64Zkjy CLAIM-Opinion(view) 781 925 I think we look at all of our investments with an eye towards trying to maximize long-term free cash flow at strong returns on invested capital.
+DEzsl5M4Eq PREMISE-Fact 926 953 So that's across the board.
+sOOa5m4aH8 PREMISE-Fact 954 1135 That's kind of the criteria we're using, making sure we're building things that customers love that can have attractive financial returns over time, and can persist for a long time.
+TxF7oxeKyL PREMISE-Hypothesis 1136 1165 And if they work, can be big.
+83-ZCA_YuB PREMISE-Fact 1166 1205 And so, that's the metrics we're using.
+JObFLt9-aw NON-ARG 1206 1260 There's nothing specific to call out to Brazil though.
+gvWSCrKA5D NON-ARG 1280 1298 And this is Brian.
+Pq49HmWc1h CLAIM-Fact 1299 1472 We're not going to update our Prime subscription growth beyond what we said last year at the end of last year, which last year in a year when we raised prices early in 2014.
+APvY8QXyON PREMISE-Statistic 1473 1542 The global growth rate was 53% and North America growth rate was 50%.
+NPpWGfImoF PREMISE-Fact 1543 1600 So, by default, the International growth rate was higher.
+l1ydo9SL8Z PREMISE-Fact 1601 1647 We like the adoption of Prime internationally.
+NtKRDaA7HR PREMISE-Fact 1648 1740 It's helped by additional selection that's available for fast track shipment, including FBA.
+1X5Yu_IPcP PREMISE-Fact 1741 1769 So that flywheel is working.
+9pXS_O4tM5 PREMISE-RealExample 1770 1870 We've also launched video benefits most recently in Japan, but we have them in the U.K. and Germany.
+c-M_qtknd8 PREMISE-Fact 1871 1963 We continue to launch other Prime benefits, Amazon Pantry in Japan and Germany this quarter.
+ARSsRbdDn6 PREMISE-Fact 1964 1995 We launch Prime Now in the U.K.
+1cwHdZqKnL PREMISE-Fact 1996 2140 So, it's very similar to the U.S. story, potentially time lagged a bit, but we are seeing the same customer adoption and impact on growth rates.
+R0 SUPPORT ARG1:DEzsl5M4Eq ARG2:LOqk64Zkjy
+R1 SUPPORT ARG1:sOOa5m4aH8 ARG2:LOqk64Zkjy
+R2 SUPPORT ARG1:TxF7oxeKyL ARG2:LOqk64Zkjy
+R3 SUPPORT ARG1:83-ZCA_YuB ARG2:LOqk64Zkjy
+R4 SUPPORT ARG1:APvY8QXyON ARG2:Pq49HmWc1h
+R5 SUPPORT ARG1:NPpWGfImoF ARG2:Pq49HmWc1h
+R6 SUPPORT ARG1:l1ydo9SL8Z ARG2:Pq49HmWc1h
+R7 SUPPORT ARG1:NtKRDaA7HR ARG2:Pq49HmWc1h
+R8 SUPPORT ARG1:1X5Yu_IPcP ARG2:Pq49HmWc1h
+R9 SUPPORT ARG1:9pXS_O4tM5 ARG2:Pq49HmWc1h
+R10 SUPPORT ARG1:c-M_qtknd8 ARG2:Pq49HmWc1h
+R11 SUPPORT ARG1:ARSsRbdDn6 ARG2:Pq49HmWc1h
+R12 SUPPORT ARG1:1cwHdZqKnL ARG2:Pq49HmWc1h
+ArgQ0 LOqk64Zkjy SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Pq49HmWc1h SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

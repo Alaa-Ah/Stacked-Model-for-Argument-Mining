@@ -1,0 +1,22 @@
+vB062Xojvs NON-ARG 643 648 Sure.
+M-LX4OwFVg NON-ARG 649 676 Let me start with guidance.
+6eKlEYyDVX PREMISE-Statistic 677 745 So yes, the operating income guidance is $300 million to $1 billion.
+8TlDhP1j8U PREMISE-Statistic 746 788 Operating income last year was $1 billion.
+rdDgch2aKa PREMISE-Fact 789 967 Q1 is generally when we see the volume drop off from Q4 obviously, but a lot of the cost remain from the year-over-year build up in cost, particularly in the fulfillment network.
+MXMtIopoa5 CLAIM-Fact 968 1006 So it's generally a headwind every Q1.
+98Y6NYKkjA PREMISE-Statistic 1007 1125 It's -- given the 30% plus growth in square footage last year that we've built, that's 1 major headwind from Q4 to Q1.
+KV5nTZyGNa CLAIM-Fact 1126 1200 But we also continue to invest, particularly in Alexa and our device area.
+8a-2dfLTk_ CLAIM-Opinion(view) 1201 1384 As I mentioned in a number of comments earlier, we're very happy with the results, the customer adoption, the device sales that we're seeing and the general customer acceptance there.
+F8dbc29w7B CLAIM-Reformulated 1385 1421 So we will continue to invest there.
+D1XaYE-9gC NON-ARG 1422 1479 That's probably the 2 largest factors in Q1, I would say.
+nanJnjJtpi NON-ARG 1493 1506 This is Dave.
+lNAV0t15q_ NON-ARG 1507 1543 Just on the second piece on pricing.
+LRDUv_h-qF NON-ARG 1544 1613 I think on the pricing environment, nothing really to call out there.
+NHsyPGYcSZ PREMISE-Statistic 1614 1801 I guess, just a reminder on our pricing philosophy for AWS, I mean periodic price reductions are a normal part of our business where reduced prices more than 60x with AWS since launching.
+6OgeTSNxD5 CLAIM-Policy 1802 2180 So really, our kind of goal philosophy here is to drive efficiencies in our ops and pass those savings on to customers, and some of that's through, again, with the more than 60 price reductions, but also finding through new service and future launches, better options for customer that -- customers to present more efficient features for them to be able to run their businesses.
+R0 SUPPORT ARG1:6eKlEYyDVX ARG2:MXMtIopoa5
+R1 SUPPORT ARG1:rdDgch2aKa ARG2:MXMtIopoa5
+R2 SUPPORT ARG1:98Y6NYKkjA ARG2:MXMtIopoa5
+R3 SUPPORT ARG1:NHsyPGYcSZ ARG2:6OgeTSNxD5
+ArgQ0 MXMtIopoa5 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 6OgeTSNxD5 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

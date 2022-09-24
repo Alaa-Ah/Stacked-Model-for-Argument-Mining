@@ -1,0 +1,26 @@
+hYa5Y_h-qr NON-ARG 588 599 Sure, Mark.
+23VEltZh9N NON-ARG 600 631 The first question is on India.
+LTHsKn4GyK NON-ARG 632 655 Let me start with that.
+_J4aDj84Tx NON-ARG 1343 1354 Yeah, yeah.
+2Dg-VG8yKa CLAIM-Fact 1355 1446 I think I mean, we're continuing to -- there's a lot of focus on serving that customer set.
+0-DAERorqN CLAIM-Fact 1447 1642 One of the things we're trying to do is continually evolve our tools and the products to help that customer set agencies, advertisers, make sure they've got a variety of ways to meet their goals.
+FqEAdJ8H0S PREMISE-Fact 1643 1834 Some of the things we've done more recently over the last few months or so is expanded sponsor brands, placements, some rolled out new campaign reports, so improved campaign manager features.
+MmlvW3TYz- CLAIM-Opinion(view) 1835 2096 So a number of -- there's a number of things beyond that, but features out there that are just going to, I think, make it easier for companies to grow with the ad tools and the ad services that we offer and we're continually excited about the opportunity there.
+jPyiIVPySN PREMISE-Statistic 2113 2230 And then on your question of marketing, yes, the marketing percent of revenue was up 110 basis points year-over-year.
+N9EsXYjlpR PREMISE-Fact 2231 2370 This category also includes AWS sales and marketing and keep that in mind, because that's where a lot of our headcount investment is going.
+ya_HwaQfUN PREMISE-Statistic 2371 2540 Headcount only grew 14% year-over-year, but the areas that were growing in that mix were things like technology teams, device areas, AWS, especially sales and marketing.
+zeKVIyfvq6 CLAIM-Opinion(view) 2541 2693 So variable marketing was pretty consistent with prior periods and we feel good about our return on investment on the marketing, the variable marketing.
+pWXbdOJ8EK NON-ARG 656 886 So we have incorporated into our guidance estimate, the best estimate we have for Q1 in India, however, there is much uncertainty as to what the impact of the government rule change is going to have on the e-commerce sector there.
+FBYt2zMGs3 CLAIM-Fact 887 995 We remain committed to complying with all laws and regulations, we will, but we're evaluating the situation.
+8Px96tVHOm CLAIM-Fact 996 1103 Our main issue and our main concern is trying to minimize the impact to our customers and sellers in India.
+XXPKCv9ddG PREMISE-Fact 1104 1168 We've built our business around price selection and convenience.
+pYtdxjag8t CLAIM-Opinion(view) 1169 1274 We don't think the changes help in those dimensions for both the customers in India and also the sellers.
+FfglQmUYPh NON-ARG 1275 1329 Dave, why don’t you talk about the advertising growth?
+R0 SUPPORT ARG1:FqEAdJ8H0S ARG2:0-DAERorqN
+R1 SUPPORT ARG1:jPyiIVPySN ARG2:zeKVIyfvq6
+R2 SUPPORT ARG1:N9EsXYjlpR ARG2:zeKVIyfvq6
+R3 SUPPORT ARG1:ya_HwaQfUN ARG2:zeKVIyfvq6
+R4 SUPPORT ARG1:XXPKCv9ddG ARG2:8Px96tVHOm
+ArgQ0 0-DAERorqN SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 zeKVIyfvq6 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 8Px96tVHOm SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

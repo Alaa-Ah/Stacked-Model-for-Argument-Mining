@@ -1,0 +1,8 @@
+caFZcPzoHN NON-ARG 609 667 I can take the first one, Brian, on the time spent metric.
+CMvFP7OTx7 CLAIM-Opinion(view) 668 773 We're pleased with the growth in time spent per DAU that we're seeing across the Facebook family of apps.
+bp6kaExArt PREMISE-Fact 774 878 And that includes the Facebook mobile app, where we saw good year-over-year growth in time spent per DAU
+jjq-uY-LuW PREMISE-Fact 880 1025 Their video is making a big contribution to time spent growth, but we are not providing a specific stat on time spent growth on an ongoing basis.
+YmDpfTqj7J NON-ARG 1046 1233 We're also not providing a specific breakdown of the DAU growth in Instagram Stories, but we're really excited about the engagement with the product and how it's growing across the board.
+R0 SUPPORT ARG1:bp6kaExArt ARG2:CMvFP7OTx7
+R1 SUPPORT ARG1:jjq-uY-LuW ARG2:CMvFP7OTx7
+ArgQ0 CMvFP7OTx7 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3

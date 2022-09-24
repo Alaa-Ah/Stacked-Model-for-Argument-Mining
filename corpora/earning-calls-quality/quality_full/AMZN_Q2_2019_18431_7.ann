@@ -1,0 +1,35 @@
+e9__5mAAtV NON-ARG 656 668 Sure, Brian.
+2wFU-HlVxd NON-ARG 669 695 Thanks for your questions.
+sO55FzMFCD NON-ARG 696 718 Let me start with AWS.
+BsTHi5tx1O CLAIM-Opinion(view) 719 754 We feel this really strong quarter.
+gW05kZ8s1N PREMISE-Statistic 755 849 We had a growth year-over-year in our run rate from $24 billion to $33 billion, so 37% growth.
+xy3Hw2V9v1 PREMISE-Statistic 850 956 The $9 billion that we increased our run rate by was second only to Q4 of last year as far as our history.
+aIydBZ9JRo CLAIM-Opinion(view) 957 1327 So as you can tell, we've been pretty transparent with our AWS revenue and income numbers we've been breaking it out for 2015 and we're very happy with the growth in absolute dollar terms and we're seeing a pick up from customers and their usage, their increased pace of enterprise migrations, increased adoption of our services especially our machine learning services.
+QDAtJYdgFJ PREMISE-Fact 1328 1532 And continually again AWS is being chosen as a partner to many companies because of our leadership position both in technology, our vibrant partner ecosystem, and also the stronger security that we offer.
+LvQBSv7Ch_ NON-ARG 1533 1727 On your question about one-day, let me update you on that, because obviously that was a big topic of conversation last quarter and you can see that it's starting to show up in our results in Q2.
+vPBXlrdXZZ CLAIM-Opinion(view) 1728 1812 So we are really pleased with the customer response to our growing one-day offering.
+aVYTTbP1Ob PREMISE-RealExample 1813 1901 In Q2, we had a meaningful step up in the one-day shipments, primarily in North America.
+r1WvinJdPl PREMISE-Fact 1902 1971 And volume -- one-day volume was accelerating throughout the quarter.
+FgGEYNC2MH CLAIM-Fact 1972 2178 The ops team did a fantastic job here, not only in being able to expand one-day selection and delivery capacity, but also preparing for and handling some very high volumes on Prime Day earlier in the month.
+5qvg1sptp9 CLAIM-Fact 2179 2222 So we're in the middle of the journey here.
+oEftyqXboN CLAIM-Opinion(view) 2223 2359 We expect to see continued ramp of the one-day selection availability for the next few quarters both in North America and international.
+w4fjuN8xZU PREMISE-Fact 2360 2488 International was up slightly in Q2, but for the most part, the improvement in delivery speeds will be in future quarters there.
+bKOfRahzgA PREMISE-Fact 2687 2745 We saw some additional transition costs in our warehouses.
+59m5V09ow3 PREMISE-Fact 2746 2882 We saw some lower productivity as we were expanding rather quickly, both local capacity in the off-season also in our delivery networks.
+NLCemGI-Q1 PREMISE-Fact 2883 3020 We also saw some costs were moving -- buying more inventory and moving inventory around in our network to have it be closer to customers.
+7x7CeiPj_6 CLAIM-Fact 2627 2686 We were a little bit higher than that number in total cost.
+e09-C8fMIs PREMISE-Statistic 2489 2626 On the cost side, we talked last time about $800 million estimate of transportation cost to supply one day, the additional one day in Q2.
+4P3gF8-7VH CLAIM-Fact 3021 3165 And we built that not only that cost structure, but an accelerating cost penalty into our Q3 guidance that was released with our earnings today.
+R0 SUPPORT ARG1:gW05kZ8s1N ARG2:BsTHi5tx1O
+R1 SUPPORT ARG1:xy3Hw2V9v1 ARG2:BsTHi5tx1O
+R2 SUPPORT ARG1:QDAtJYdgFJ ARG2:aIydBZ9JRo
+R3 SUPPORT ARG1:aVYTTbP1Ob ARG2:vPBXlrdXZZ
+R4 SUPPORT ARG1:r1WvinJdPl ARG2:vPBXlrdXZZ
+R5 SUPPORT ARG1:bKOfRahzgA ARG2:7x7CeiPj_6
+R6 SUPPORT ARG1:59m5V09ow3 ARG2:7x7CeiPj_6
+R7 SUPPORT ARG1:e09-C8fMIs ARG2:7x7CeiPj_6
+R8 SUPPORT ARG1:NLCemGI-Q1 ARG2:7x7CeiPj_6
+ArgQ0 BsTHi5tx1O SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 aIydBZ9JRo SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ2 vPBXlrdXZZ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 7x7CeiPj_6 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

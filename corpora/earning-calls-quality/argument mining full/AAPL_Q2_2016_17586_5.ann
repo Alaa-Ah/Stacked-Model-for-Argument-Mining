@@ -1,0 +1,28 @@
+nThKbGZxtD NON-ARG 721 834 Simona, let me give you the data points on the sell-through, and then I'll let Tim answer the strategic question.
+OHXbdbflpl NON-ARG 835 927 We had a channel inventory reduction that was worth a bit less than $800 million a year ago.
+PyqHlteeBI NON-ARG 2629 2660 Your other question was on M&A.
+eIBDtAqIYn NON-ARG 2661 2890 Regardless of the first, we're always looking in the market about things that could complement things that we do today, become features in something we do, or allow us to accelerate entry into a category that we're excited about.
+cOcpPKCpPk NON-ARG 2891 2944 And so as I said before, our test is not on the size.
+QNdwonJrRE NON-ARG 2945 3013 We would definitely buy something larger than we've bought thus far.
+uatmZBjXaP NON-ARG 3014 3101 It's more about the strategic fit and whether it's a great technology and great people.
+MSgRNreiOG NON-ARG 3102 3171 And so we continue to look and we stay very active in the M&A market.
+bDKzIdQdjl NON-ARG 949 970 Simona, hi, it's Tim.
+HkzBQcRiNu NON-ARG 971 1090 In terms of do I think the smartphone market is mature, I think that the market, as you know, is currently not growing.
+FtzJQeffMw NON-ARG 1091 1209 However, my view of that is that's an overhang of the macroeconomic environment in many different places in the world.
+IKSuzxVEKE NON-ARG 1318 1410 The reason that we're optimistic is we look at the three places that iPhone sales come from.
+t_Bad08735 CLAIM-Opinion(view) 1210 1317 And we're very optimistic that this too shall pass and that the market and particularly us will grow again.
+ocLJSSRIH8 PREMISE-Fact 1411 1566 And from an upgrade point of view as I mentioned in my comments, we compare favorably, slightly better than the upgrade cycle that we saw on the iPhone 5s.
+uN3Dua4Mra PREMISE-Fact 1567 1708 We're lower than the iPhone 6, but I think all of us know that that was an extraordinary cycle that accelerated upgrades from 2016 into 2015.
+r24xXxa-YR PREMISE-Other 1709 1791 And so that comparable will be tough for this year, but that's a transitory thing.
+kD7lg9X9aZ PREMISE-Statistic 2007 2223 And then on emerging markets, if you take a look at India, we grew by 56%, and we're placing increasing emphasis in these areas, where it's clear there will be disproportionate growth versus the more developed areas.
+Tx1QWwn1IJ PREMISE-Other 1792 2006 As we look at switchers, we're extremely excited that for the first half we set a record from switchers from other platforms, the largest we've ever seen in any six-month period before, so we've got traction there.
+4X9tQjTFWE PREMISE-Other 2499 2580 We also look at our pipeline, and we're very excited about what's in our pipeline
+HIJnWiijN2 CLAIM-Reformulated 2582 2628 And so all of those things make me optimistic.
+2H0sUva18Y PREMISE-Other 2224 2498 The next thing is with the iPhone SE, we have seen our ability to attract even more customers into the platform with an incredible product that is at a new price point for us with the latest technology, and so we're optimistic about attracting even more customers with that.
+R0 SUPPORT ARG1:ocLJSSRIH8 ARG2:t_Bad08735
+R1 ATTACK ARG1:uN3Dua4Mra ARG2:t_Bad08735
+R2 ATTACK ARG1:r24xXxa-YR ARG2:t_Bad08735
+R3 SUPPORT ARG1:Tx1QWwn1IJ ARG2:t_Bad08735
+R4 SUPPORT ARG1:kD7lg9X9aZ ARG2:t_Bad08735
+R5 SUPPORT ARG1:2H0sUva18Y ARG2:t_Bad08735
+R6 SUPPORT ARG1:4X9tQjTFWE ARG2:t_Bad08735

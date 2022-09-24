@@ -1,0 +1,25 @@
+upaLHs-0DF CLAIM-Opinion(view) 672 793 In terms of what the opportunity there is to drive it, it's really about increasing the relevance and quality of the ads.
+4sHpDfEkiN PREMISE-Fact 922 975 And we're doing that on a number of different fronts.
+ugcoDuQwBh CLAIM-Reformulated 794 921 That's been a key part of what we've been doing, and that will just continue to be the big driver in the near- and medium-term.
+8TwsBqOQZi PREMISE-Fact 976 1117 Part of it's about finding the right format, so it's getting the video units there for the people for whom video ads are going to make sense.
+RYci0EHfjp PREMISE-Fact 1118 1243 It's getting the dynamic products ads in front of people for people who are going to find those ads interesting and engaging.
+1Z9MFycGdT PREMISE-Fact 1244 1393 And it's really just continuing to learn more and more about the people who are using Facebook and what types of ads they interact with and the like.
+wEFM5vTmau CLAIM-Reformulated 1394 1457 And so that's part of what we're trying to do across the board.
+lVc_dnBK7D CLAIM-Reformulated 1698 1899 So the main thing that we're seeing drive this is just improving the quality and the relevance of the ads experience for the people using Facebook, and I think that's going to continue to be the story.
+Y8TVR5cqAh CLAIM-Opinion(view) 1900 1986 I think the specific ads will be part of how we do that, but it won't be the only way.
+Ndd4YEgDF9 PREMISE-Fact 1458 1697 And then at the same time, we're bringing more and more advertisers into the system and that's giving us a better selection of the ads that we can serve to the people using Facebook, and that, again, improves the quality and the relevance.
+AysXOmsHsS CLAIM-Reformulated 2151 2210 So there's a lot of different fronts that we're working on.
+7KHmQd5EKR CLAIM-Opinion(view) 2268 2347 But all in all, we're really pleased with the revenue growth that we're seeing.
+Df4Yf-8LrB CLAIM-Reformulated 2348 2568 And also, that's coupled with good engagement growth, so we're doing a nice balance of having an experience that's working well for our advertisers but it's also working really well for the people who are using Facebook.
+wOArk_AQqe PREMISE-RealExample 1987 2150 It will also be the targeting that we have and the targeting capabilities that we're doing with things like Custom Audiences and getting better and better at that.
+w8-WSnlC5X CLAIM-Reformulated 2211 2267 It's hard to tease out every individual component of it.
+F_Bekfp7WF NON-ARG 531 544 Yeah, Justin.
+Fxvwwi-pWV CLAIM-Value 545 671 So in terms of the 55% revenue growth, obviously, it's mobile News Feed is what's driving it from a fundamental point of view.
+R0 SUPPORT ARG1:wOArk_AQqe ARG2:Y8TVR5cqAh
+R1 SUPPORT ARG1:4sHpDfEkiN ARG2:upaLHs-0DF
+R2 SUPPORT ARG1:8TwsBqOQZi ARG2:upaLHs-0DF
+R3 SUPPORT ARG1:RYci0EHfjp ARG2:upaLHs-0DF
+R4 SUPPORT ARG1:1Z9MFycGdT ARG2:upaLHs-0DF
+R5 SUPPORT ARG1:Ndd4YEgDF9 ARG2:upaLHs-0DF
+ArgQ0 Y8TVR5cqAh SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 upaLHs-0DF SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

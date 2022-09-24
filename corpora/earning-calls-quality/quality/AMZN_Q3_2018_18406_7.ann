@@ -1,0 +1,22 @@
+T2XxoT-IJb NON-ARG 798 803 Yeah.
+3v7T20Erjb NON-ARG 804 818 Thanks, Jason.
+IVmUxjpXOG NON-ARG 819 832 This is Dave.
+eoVguP3G7t CLAIM-Fact 833 1017 Just quickly on the ASC impact, Brian mentioned earlier that of course we've been talking about it all year the changing, and the subscription revenue recognition is now straight line.
+eSVib1NfKO PREMISE-Statistic 1018 1136 So on a comp basis you'd expect to see subscription revenue be about $300 million lower due to that accounting change.
+jonMIWQrE8 PREMISE-Fact 1137 1350 The other piece that we hadn't talked about is the reclass that we gave in the past few quarters, specifically around the advertising services that have moved from Contra COGS into other revenue beginning in 2018.
+PIQxszLRK7 PREMISE-Statistic 1351 1451 That was about $750 million increase to that other sales revenue category here in the third quarter.
+dw4TTfC3L3 NON-ARG 1471 1476 Yeah.
+Wmn26lNTNh PREMISE-Statistic 1477 1683 And your comment on revenue versus operating income versus potentially gross profit, I would say the impact of third-party growth and we're now – up to 53% of our paid units in the quarter were third-party.
+lc4t74qE5c PREMISE-Fact 1684 1712 It's steadily been going up.
+BRag1_-Fsp PREMISE-Statistic 1713 1753 It's up 300 basis points year-over-year.
+CSfIa71fUl CLAIM-Fact 2022 2177 But again, we'll continue to give revenue guidance and also operating income to an appropriately conservative level that we've tried to maintain over time.
+vRw-AjWAsB CLAIM-Opinion(view) 1754 1914 So I think the impact on revenue growth rate, since the revenue component of that is not as large, is probably something to consider on a year-over-year period.
+GWDNxl0waC CLAIM-Reformulated 1915 2021 I think it tends to not be as big a factor, sequentially quarter-over-quarter is the gradual growth in it.
+R0 SUPPORT ARG1:eSVib1NfKO ARG2:eoVguP3G7t
+R1 SUPPORT ARG1:jonMIWQrE8 ARG2:eoVguP3G7t
+R2 SUPPORT ARG1:PIQxszLRK7 ARG2:eoVguP3G7t
+R3 SUPPORT ARG1:Wmn26lNTNh ARG2:vRw-AjWAsB
+R4 SUPPORT ARG1:lc4t74qE5c ARG2:vRw-AjWAsB
+R5 SUPPORT ARG1:BRag1_-Fsp ARG2:vRw-AjWAsB
+ArgQ0 eoVguP3G7t SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 vRw-AjWAsB SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

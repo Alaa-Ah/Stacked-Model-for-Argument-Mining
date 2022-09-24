@@ -1,0 +1,29 @@
+Fr-H_o1Ggc PREMISE-Statistic 917 1021 But I also point out that we launched Turkey in the quarter and now we have 17 Amazon websites globally.
+zgrolJrq9G CLAIM-Opinion(view) 1022 1212 So we're still very pleased again with the international business, continue to invest in Prime benefits, international expansion as I just mentioned, and we're still seeing very good pickup.
+ICxhMVc8m_ CLAIM-Fact 1213 1261 Story is different country-by-country obviously.
+U4H0-YW9OA CLAIM-Reformulated 1262 1332 Some are much further along than others, but overall we're very happy.
+ZFy8by8Db4 PREMISE-Fact 1404 1445 We've seen great response from customers.
+iZ27sqFtj9 PREMISE-Statistic 1446 1502 We've had 60% growth in new customers during the period.
+I4lt0pV06h PREMISE-Statistic 1503 1565 Orders are coming in from 99% of the pin codes in the country.
+m2vJuf0bEO CLAIM-Fact 1333 1403 India, although Diwali moved into Q4, so far that's going really well.
+WIeDtEKlC1 PREMISE-Fact 1566 1667 So, great first wave of the, what we call the Amazon's Great Indian Festival, which lead into Diwali.
+Y5BYUOT-Au NON-ARG 481 486 Sure.
+o2JY2Vf9Bt CLAIM-Opinion(view) 487 553 On a year-over-year basis, I think you have to look at two things.
+RPgEdt5q7K PREMISE-Fact 554 599 We did the Souq acquisition last year in May.
+JSrKV1rAzA PREMISE-Fact 600 681 So the full pickup on that year-over-year was in 2017 and now we're lapping that.
+v4NDVgDWyn PREMISE-Fact 682 743 There's also material change in the Diwali calendar in India.
+6e3CHmtVk3 PREMISE-Fact 744 796 About half of our Diwali sales last year were in Q3.
+DqfOJndCAI PREMISE-Other 797 830 This year they'll be fully in Q4.
+6AUNJiv--X CLAIM-Reformulated 831 916 So those are a couple factors that hit the international growth area in particularly.
+R0 SUPPORT ARG1:Fr-H_o1Ggc ARG2:zgrolJrq9G
+R1 SUPPORT ARG1:ZFy8by8Db4 ARG2:m2vJuf0bEO
+R2 SUPPORT ARG1:iZ27sqFtj9 ARG2:m2vJuf0bEO
+R3 SUPPORT ARG1:WIeDtEKlC1 ARG2:m2vJuf0bEO
+R4 SUPPORT ARG1:RPgEdt5q7K ARG2:o2JY2Vf9Bt
+R5 SUPPORT ARG1:JSrKV1rAzA ARG2:o2JY2Vf9Bt
+R6 SUPPORT ARG1:v4NDVgDWyn ARG2:o2JY2Vf9Bt
+R7 SUPPORT ARG1:6e3CHmtVk3 ARG2:o2JY2Vf9Bt
+R8 SUPPORT ARG1:DqfOJndCAI ARG2:o2JY2Vf9Bt
+ArgQ0 zgrolJrq9G SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 m2vJuf0bEO SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 o2JY2Vf9Bt SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

@@ -1,0 +1,17 @@
+PesavyaUpB CLAIM-Opinion(view) 733 832 Yes, we’re very, very excited about the progress again in the last fiscal year around Dynamics 365.
+YEokpiTocg CLAIM-Opinion(view) 1144 1388 The other exciting thing is we’ve this entire new class of applications and I talked about this even into this week's conference, which is these AI-first modules, whether it's for sales, for marketing, for customer service or this Customer 360.
+99NpyWdjXU PREMISE-Fact 1389 1491 And these are modules that there isn't an installed base of those anywhere, no competition even exist.
+V9Kmri3hUK PREMISE-Fact 1492 1628 So in other words, we can in fact have these modules get deployed in commercial customers even on top of existing business applications.
+czHOuHs6pn CLAIM-Opinion(view) 1629 1683 And so we feel that we’ve plenty of opportunity ahead.
+o0qqzMBQfP PREMISE-Fact 1684 1743 Again, this is a place where we’re a very low share player.
+wxJr06g99S CLAIM-Reformulated 1744 1934 And so the fact that we will become a very competitive supplier of this technology at a time where the world needs more business process automation, we feel good about the opportunity ahead.
+jNOBb6rgzB NON-ARG 1990 2004 Thanks, Raimo.
+JpcEIwK9pl NON-ARG 2005 2058 Operator, we will take our last question now, please.
+nuJpOfr3Aq PREMISE-Fact 833 1017 Both the traditional business process applications themselves have become much more modular and a much more modern and we’ve a very disruptive business model as well that goes with it.
+af2SVqEsVF CLAIM-Fact 1018 1143 And so, therefore, we’re becoming much more competitive with very large customers deploying whether it's sales or operations.
+R0 SUPPORT ARG1:99NpyWdjXU ARG2:czHOuHs6pn
+R1 SUPPORT ARG1:V9Kmri3hUK ARG2:czHOuHs6pn
+R2 SUPPORT ARG1:o0qqzMBQfP ARG2:czHOuHs6pn
+R3 SUPPORT ARG1:nuJpOfr3Aq ARG2:af2SVqEsVF
+ArgQ0 czHOuHs6pn SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 af2SVqEsVF SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

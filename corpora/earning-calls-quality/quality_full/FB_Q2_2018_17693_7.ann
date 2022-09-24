@@ -1,0 +1,13 @@
+sUuxuYHBgs NON-ARG 1600 1616 Peter, its Dave.
+zVzECIuzx_ NON-ARG 1617 1852 Just on the FX, we're just looking at current rates and just rolling those forward, not predicting what the rates will be, but rather looking at current rates and thus what the impact would be if rates stay the same on the second half.
+qpuc1zKJ70 PREMISE-Statistic 804 953 So SMBs are very core to our business and, with over 80 million SMB pages that are using Facebook on a monthly basis, we know they're core to theirs.
+uX2HOPy6V2 PREMISE-Statistic 954 1002 Our 6 million advertisers come from those pages,
+lfkEnXk9u6 CLAIM-Opinion(view) 1003 1072 and so the fact that we have so much room to grow is exciting for us.
+9oAW3tOSoZ NON-ARG 1073 1234 We don't break this out by region, but we do see very strong SMB participation across the board and around the world, particularly as SMBs come online, the more.
+e93fWvdYvw NON-ARG 1235 1319 So, you can imagine that some of it goes with Internet penetration and Internet use.
+6L3eLwHlQL CLAIM-Opinion(view) 1320 1375 In terms of resellers, we think it's a big opportunity.
+BSkkfjqDsl NON-ARG 1376 1407 We don't break that out either.
+9k86EzIZIq NON-ARG 1408 1508 But, obviously, some of our ads are sold directly and bought directly through our online interfaces.
+1kz_7ogG9y NON-ARG 1509 1582 We also have third-parties that sell our ads and we welcome that as well.
+R0 SUPPORT ARG1:qpuc1zKJ70 ARG2:lfkEnXk9u6
+ArgQ0 lfkEnXk9u6 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

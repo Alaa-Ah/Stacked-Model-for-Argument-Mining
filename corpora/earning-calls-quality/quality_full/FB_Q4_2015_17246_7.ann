@@ -1,0 +1,31 @@
+NPvoBtirSn CLAIM-Fact 815 866 So Reactions is going to rollout on every platform.
+mmyNSGx9iP PREMISE-Fact 867 1173 We’re testing it in a handful of countries to start just to make sure that we have the UI and interaction simple enough that people could express more of what they wanted without getting in their way, it is adding a little bit of complexity to something that is very simple, say just a one tap like button.
+nrtJ2LI17G PREMISE-Fact 1174 1360 But the philosophy behind it is that when you only have a like button, if you share a sad piece of content or something that makes you angry, people may not have the tool to react to it.
+IiFm800Vp4 CLAIM-Fact 1361 1463 And therefore over time the community feels less comfortable sharing that kind of content on Facebook.
+b0zgDiQpIA PREMISE-Fact 1464 1635 And we want people to be able to share all of the things that are meaningful to them not just the things that are happy and that people are going to like when they see it.
+sarAAKweOY CLAIM-Opinion(view) 1636 1812 And we think that that’s just really important to the mission of the company and we’ll increasing engagement and sharing and openness, and all of the things that we care about.
+RZteepuSN_ PREMISE-Fact 1813 1917 And so far I think there are a few tweaks that we needed to make to reaction since initially testing it.
+DszHx0IvDQ CLAIM-Opinion(view) 1918 2028 But its’ going well and I think we plan to roll it out every where pretty soon, so that’s the game plan there.
+4tlxMgLAuC PREMISE-Fact 2029 2264 On payments, the basic strategy that we have is to make it especially in products like Messenger that where the business interaction maybe a bit more transactional, to take all the friction out of making the transactions that you need.
+EK1ebPHyEy CLAIM-Opinion(view) 2265 2360 So, we don’t view ourselves as a payments business, that’s not the type of company that we are.
+bcC_EgWEof PREMISE-Fact 2361 2406 We’ll partner with everyone who does payment.
+diE5jDND77 PREMISE-RealExample 2407 2573 We look at the stuff that Apple is doing with Apple Pay for example as a really neat innovation in the space that takes a lot of friction out of transactions as well.
+lTTSCyu71B CLAIM-Opinion(view) 2574 2719 And our view is that the less friction, the better the user experience, the more people can easily interact with businesses that they care about.
+sBYpU2teBT PREMISE-Fact 2720 2895 And ultimately for our business that will drive up the amount that businesses are willing to pay to advertise to send people into those interactions because they perform well.
+kUmKW7svOg CLAIM-Opinion(view) 2896 2957 So it’s good for everyone but that’s how we think about that.
+siBkf1SSU7 NON-ARG 809 814 Sure.
+R0 SUPPORT ARG1:mmyNSGx9iP ARG2:NPvoBtirSn
+R1 SUPPORT ARG1:nrtJ2LI17G ARG2:IiFm800Vp4
+R2 SUPPORT ARG1:b0zgDiQpIA ARG2:sarAAKweOY
+R3 SUPPORT ARG1:RZteepuSN_ ARG2:DszHx0IvDQ
+R4 SUPPORT ARG1:4tlxMgLAuC ARG2:EK1ebPHyEy
+R5 SUPPORT ARG1:bcC_EgWEof ARG2:EK1ebPHyEy
+R6 SUPPORT ARG1:diE5jDND77 ARG2:lTTSCyu71B
+R7 SUPPORT ARG1:sBYpU2teBT ARG2:kUmKW7svOg
+ArgQ0 NPvoBtirSn SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 IiFm800Vp4 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 sarAAKweOY SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 DszHx0IvDQ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 EK1ebPHyEy SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 lTTSCyu71B SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ6 kUmKW7svOg SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

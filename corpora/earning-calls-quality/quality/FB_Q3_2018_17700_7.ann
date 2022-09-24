@@ -1,0 +1,27 @@
+PlAbZQjT2g NON-ARG 846 856 All right.
+8hj2ISjT2D NON-ARG 857 886 Ross, I'll start off on that.
+4P98_Bix70 NON-ARG 889 1058 think the outlook that we're giving for Q4 deceleration is broadly consistent with the outlook that I gave last quarter with the benefit of a little bit more visibility.
+lPtf6cMxvm NON-ARG 1059 1166 I'd just reiterate the points that I'd made in the earnings script around what's driving that deceleration.
+uUG5y6yYAX NON-ARG 1167 1266 And as far as to how that plays into 2019, we're not providing a specific revenue outlook for 2019.
+k_Y5TRShz8 PREMISE-Fact 1267 1384 We continue to see good growth opportunities across the platform on both Facebook and Instagram and feed and Stories.
+ceuewjrNaG CLAIM-Fact 1385 1419 Those are going to be the drivers.
+MDEeq_l83T NON-ARG 1603 1777 The same factors that I discussed impacting Q4 growth will likely continue to play out to some extent in 2019, but we've got a lot of good growth opportunities for next year.
+Cx8PF2XMRD CLAIM-Fact 1800 1889 When you look at the Instagram Shopping experience, we're seeing some really nice growth.
+RXc-31_Gw1 PREMISE-Statistic 1890 2038 We have 90 million people tap to reveal product tags and posts every month to learn more about them, and we're putting real investments behind this.
+FBDgFoq6fF PREMISE-Fact 2039 2139 In Q3, we rolled out Shopping in Stories globally and began testing the Shopping Channel in Explore.
+M3YF0n_cux CLAIM-Opinion(view) 2140 2183 And so, we think the opportunities are big.
+eBt3AYlZcE PREMISE-Fact 2184 2284 As you think about commercial intent in Facebook versus Instagram, there's so much activity on both.
+raGsrx-jag CLAIM-Reformulated 2531 2680 So there are places in Instagram like Fashion or like Shopping that have very high signal, and that gives us I think a very strong opportunity there.
+GRKhRMrTBg PREMISE-Hypothesis 2285 2463 We think there's a lot of opportunity for people to have commercial intent, if not have it when they start, but develop it because they see things they're interested in, in both.
+gSrf0rNmtR PREMISE-Fact 2464 2530 Instagram can be more interest-based in some places than Facebook.
+mKobkcx5HT CLAIM-Reformulated 1420 1602 I would characterize the launch of Status apps on WhatsApp as being a much smaller thing than a driver of 2019 revenue growth, and it's going to be more about Instagram and Facebook.
+mXKCZxQgjV NON-ARG 886 889  I 
+R0 SUPPORT ARG1:k_Y5TRShz8 ARG2:ceuewjrNaG
+R1 SUPPORT ARG1:RXc-31_Gw1 ARG2:Cx8PF2XMRD
+R2 SUPPORT ARG1:FBDgFoq6fF ARG2:M3YF0n_cux
+R3 SUPPORT ARG1:eBt3AYlZcE ARG2:M3YF0n_cux
+R4 SUPPORT ARG1:GRKhRMrTBg ARG2:M3YF0n_cux
+R5 SUPPORT ARG1:gSrf0rNmtR ARG2:M3YF0n_cux
+ArgQ0 ceuewjrNaG SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Cx8PF2XMRD SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 M3YF0n_cux SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

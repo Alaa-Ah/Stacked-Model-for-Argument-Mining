@@ -1,0 +1,40 @@
+wKF3XOmpgt NON-ARG 3428 3578 To your second question, when we think about what's happening with developers, we are doing an audit of large developers and doing some investigation.
+CpBQiB5Onm CLAIM-Opinion(view) 3845 3988 So we think the investigatory work we're doing into APIs, into the use, is very important, and we don't expect it to have an impact on revenue.
+dQItJZ0k-e PREMISE-Fact 3755 3844 And our mobile app install ads help apps of all kinds, not those running on our platform.
+-a41ITq70H PREMISE-Fact 3579 3753 We don't break out marketer segments, but mobile app install ads, which is where the revenue would come from developers, is a relatively small part of our advertising revenue
+4wDlEt-9Zs NON-ARG 780 807 I could take the first one.
+oPbkBTIj9V CLAIM-Opinion(view) 808 925 So on AI, I think that there's a very big shift in how we're going to think about content moderation on the platform.
+ik_ulpiHzU PREMISE-Fact 926 992 And I mean, this goes back to the beginning of the service, right?
+rQId0SoxXV PREMISE-Fact 993 1165 So in 2004, when I was starting in my dorm room, for a number of reasons, it was just me, so we didn't have a lot of capacity to have thousands of people reviewing content.
+8OTw-Nk-kB PREMISE-Fact 1166 1210 AI technology was not developed at the time.
+10DNE1Cv60 PREMISE-Fact 1211 1445 The only real logical way to run the service was to enable people to share what they wanted and then reactively, if people in the community saw something that was offensive or they thought was against the rules, they'd flag it for us.
+fDxrKvVMsJ PREMISE-Fact 1507 1732 Now it is becoming increasingly possible, both because we can build the AI tools, but couple that with being able to hire thousands and thousands of people to do faster review of the content and look at something proactively.
+t0JlXzLvuC CLAIM-Reformulated 1733 1817 We're shifting over the next few years to a much more proactive model of moderation.
+BoD2TMXRrA PREMISE-Fact 1446 1506 And we'd look at it and take things down that didn't belong.
+YJFi83CWv5 CLAIM-Opinion(view) 1818 2021 Now, one of the things that I think is going to be interesting, and in some cases a little frustrating, is that AI tools lend themselves towards identifying certain content a lot more easily than others.
+7wHEkiP5i3 CLAIM-Opinion(view) 2022 2123 So one area where I'm very proud that we're doing great work is around identifying terrorist content.
+X5CCSrWLgd PREMISE-Statistic 2124 2269 And I mentioned this before that 99% of the ISIS and Al Qaeda related content that we take down, we're removing before any person flags it to us.
+D1_z8Muips NON-ARG 2270 2294 And that's great, right?
+jMGkS7tPxR NON-ARG 2295 2319 That's doing a good job.
+6x645kNL_v CLAIM-Opinion(view) 2320 2550 But if you look at areas like hate speech, which are just much more nuanced linguistically, it really depends on the local language, that's an area where I think it's going to take more years to be able to do something reasonably.
+lN8OK27nrM CLAIM-Opinion(view) 2551 2721 So one of the pieces of criticism that I think we get that I think is fair is we're much better able to enforce our nudity policies, for example, than we are hate speech.
+Zn9AIA4PXg PREMISE-Fact 2722 2872 And the reason for that is it's much easier to build an AI system that can detect a nipple than it is to determine what is linguistically hate speech.
+FQ1iVZPFKC CLAIM-Reformulated 2873 2965 So this is something that I think we will make progress on and will get better on over time.
+XMNtXLeDyE NON-ARG 2966 3108 These are not unsolvable problems, although it's worth calling out that our adversaries have all the same AI tools – or some of them, I think.
+lh8Vutlz7S NON-ARG 3109 3157 I'd like to think that we're a little bit ahead.
+DNU5qv3KYy NON-ARG 3158 3219 But we'll have a lot of the same tools as the field develops.
+QGUAdQ3Tdm CLAIM-Reformulated 3220 3405 But the combination of building AI and hiring what is going to be tens of thousands of people to work on these problems, I think will see us make very meaningful progress going forward.
+R0 SUPPORT ARG1:-a41ITq70H ARG2:CpBQiB5Onm
+R1 SUPPORT ARG1:dQItJZ0k-e ARG2:CpBQiB5Onm
+R2 SUPPORT ARG1:ik_ulpiHzU ARG2:oPbkBTIj9V
+R3 SUPPORT ARG1:rQId0SoxXV ARG2:oPbkBTIj9V
+R4 SUPPORT ARG1:8OTw-Nk-kB ARG2:oPbkBTIj9V
+R5 SUPPORT ARG1:10DNE1Cv60 ARG2:oPbkBTIj9V
+R6 SUPPORT ARG1:BoD2TMXRrA ARG2:oPbkBTIj9V
+R7 SUPPORT ARG1:fDxrKvVMsJ ARG2:oPbkBTIj9V
+R8 SUPPORT ARG1:X5CCSrWLgd ARG2:7wHEkiP5i3
+R9 SUPPORT ARG1:Zn9AIA4PXg ARG2:lN8OK27nrM
+ArgQ0 CpBQiB5Onm SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 oPbkBTIj9V SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ2 7wHEkiP5i3 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 lN8OK27nrM SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

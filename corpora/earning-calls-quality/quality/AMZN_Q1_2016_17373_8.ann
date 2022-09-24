@@ -1,0 +1,16 @@
+dKFOr03lec NON-ARG 967 972 Sure.
+v4GJRsrpF_ NON-ARG 973 1007 Let me start with that second one.
+RuNWAy22Gw CLAIM-Opinion(view) 1008 1111 So we think there's a lot of room to grow in not only our international countries, but also in the U.S.
+sXTjZbOSpc PREMISE-Fact 1112 1257 So we plan on continuing to build the benefits of the Prime program from music to video, to two-day shipping, to same-day shipping, to Prime Now.
+pJOlMJgFUc CLAIM-Reformulated 1258 1290 So I don't see that dissipating.
+l8CHdnjbNF CLAIM-Fact 1291 1337 And again, it remains the best deal in retail.
+HFGzZB8iqg NON-ARG 1338 1378 So hopefully everyone signs up for that.
+hnKe3yCQRc NON-ARG 1379 1459 On the tech and content question, I don't have a lot to call out in the quarter.
+TQnZOqBuEp CLAIM-Fact 1460 1550 I would say there's no let-up in the pace of invention here, particularly on the AWS side.
+_Dz-3rYLnr PREMISE-Statistic 1551 1690 We usually quote the number of new features and services to you each quarter, we had 214 in Q1, up from 170 the first quarter of last year.
+0RhUBWzTCl PREMISE-Statistic 1691 1861 So over 26% growth in this quarter alone coming off a year where I believe the number was 722 significant new features and services delivered for AWS customers last year.
+R0 SUPPORT ARG1:sXTjZbOSpc ARG2:RuNWAy22Gw
+R1 SUPPORT ARG1:_Dz-3rYLnr ARG2:TQnZOqBuEp
+R2 SUPPORT ARG1:0RhUBWzTCl ARG2:TQnZOqBuEp
+ArgQ0 RuNWAy22Gw SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 TQnZOqBuEp SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0

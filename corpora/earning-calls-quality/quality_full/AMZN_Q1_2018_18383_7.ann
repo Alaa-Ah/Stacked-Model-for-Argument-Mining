@@ -1,0 +1,36 @@
+4aVGZa4wUt NON-ARG 526 531 Sure.
+Me-3aDfNk2 NON-ARG 618 665 I would attribute it primarily to a few things.
+UqG6NZ9SfF CLAIM-Fact 666 739 First, the top-line growth was – continued to be strong coming out of Q4.
+z6ctJz8I8K PREMISE-Fact 740 780 We had great consumer business strength.
+Tmt2zjYpSh PREMISE-Fact 781 938 We also had strong AWS revenue strength, where I already mentioned that we accelerated into the quarter, which is a different trend that we've seen recently.
+uD66BPyFbn PREMISE-Fact 939 983 So customer adoption in AWS remained strong.
+r2kVTCl5ID CLAIM-Value 532 617 Yes, we came in well above our range that we had given of $300 million to $1 billion.
+DBMR9RsFW- PREMISE-Fact 984 1239 And when we hit the higher end of our range or just above our range on – with FX included, we generally see really good drop through on the incremental sales, given the fixed costs we have in fulfillment centers and data centers and quite frankly, people.
+0a_80oKPVh CLAIM-Fact 1240 1329 So we saw great efficiencies at the higher level of revenue, and we're able to handle it.
+RN9gGJ0HSq CLAIM-Fact 1821 1954 And then, lastly, I would say, advertising continues to be a strong contributor to profitability and had strong results this quarter.
+hmQT7Uh2UA NON-ARG 1955 2079 As far as what that portends for future quarters, for now, I want to focus on Q2 and it's incorporated into our Q2 guidance.
+MuevZfnA4k CLAIM-Opinion(view) 2080 2171 So we expect a lot of the strength areas to continue, consumer demand, AWS and advertising.
+Mj947SKerP CLAIM-Opinion(view) 2172 2242 We will definitely see higher investments as we move through the year.
+7Q7eViVdKt PREMISE-RealExample 2243 2368 For example, video content spend will increase year-over-year, and we'll continue to hire, in particular, software engineers.
+JX_Jf-obXA PREMISE-RealExample 2369 2455 We'll have some costs in Q2 ahead of what's anticipated to be a Prime Day in early Q3.
+RT7UdmTSAV CLAIM-Opinion(view) 2605 2751 So, I won't go beyond Q2 at this point, but again, we're very happy with the customer reception we had in Q1 and then the income that, that drove.
+zhqNViDSqD CLAIM-Reformulated 1330 1374 So that was generally very good financially.
+T_ZzCoI_sg PREMISE-Fact 2456 2604 So – and then as you know, Q3 is generally a lower quarter due to all the work to get ready for holiday and the hiring of people and building teams.
+Y-nuegR37h PREMISE-Fact 1375 1512 We – at the time of guidance, we were concerned a bit about the high – relatively high inventory we had at year-end in space utilization.
+BzSgsFyimh CLAIM-Fact 1513 1565 So we're still very full in our fulfillment centers.
+6eKzGgs8p_ PREMISE-Fact 1566 1744 But we were able to correct that due to the high sales without having additional handling and transportation cost that you would normally see the reconfigure inventory locations.
+UDGEe9xaLZ CLAIM-Opinion(view) 1745 1820 So that also helped and probably differential versus the guidance estimate.
+R0 SUPPORT ARG1:z6ctJz8I8K ARG2:UqG6NZ9SfF
+R1 SUPPORT ARG1:Tmt2zjYpSh ARG2:UqG6NZ9SfF
+R2 SUPPORT ARG1:uD66BPyFbn ARG2:UqG6NZ9SfF
+R3 SUPPORT ARG1:DBMR9RsFW- ARG2:0a_80oKPVh
+R4 SUPPORT ARG1:7Q7eViVdKt ARG2:Mj947SKerP
+R5 SUPPORT ARG1:JX_Jf-obXA ARG2:Mj947SKerP
+R6 SUPPORT ARG1:T_ZzCoI_sg ARG2:Mj947SKerP
+R7 SUPPORT ARG1:Y-nuegR37h ARG2:BzSgsFyimh
+R8 SUPPORT ARG1:6eKzGgs8p_ ARG2:UDGEe9xaLZ
+ArgQ0 UqG6NZ9SfF SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 0a_80oKPVh SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Mj947SKerP SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 BzSgsFyimh SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 UDGEe9xaLZ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

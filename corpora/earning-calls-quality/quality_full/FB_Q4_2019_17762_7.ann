@@ -1,0 +1,29 @@
+kKdqJw_1Nr NON-ARG 955 959 Yes.
+AonKi7r3Pq NON-ARG 960 1020 This is certainly something that we're extremely focused on.
+W4aVDnfUv3 NON-ARG 1021 1114 And I do think that there is going to be a lot that we need to be watching out for this year.
+meC1TRql_p PREMISE-Fact 1749 1923 There are also good partnerships in place now across the industry, across law enforcement, the intelligence communities, not just in the U.S. but across other countries, too.
+Owtmt5bEf8 CLAIM-Opinion(view) 1924 1968 So I think the systems are much more robust.
+4kkPxcGEK7 CLAIM-Fact 2473 2549 So it's -- we're going to continue seeing the adversaries get more advanced.
+7d6cocuXnt CLAIM-Opinion(view) 2550 2644 And I think certainly because this got a lot of attention, it's not just Russia at this point.
+ENrtLL_I6G PREMISE-RealExample 2645 2731 We've seen similar types of attempts from Iran, China and some places, others as well.
+xzj2rLH6Jd CLAIM-Reformulated 2732 2778 So there's more to kind of look out for there.
+M7WG0dMg6z CLAIM-Opinion(view) 2779 2831 But overall, I do feel confident about where we are.
+v1_MWyvOXw CLAIM-Reformulated 3301 3415 So we're very focused on this and making sure that people know what we're doing, so that they can have confidence.
+yJ_SiqWZ6q NON-ARG 3416 3473 And this is just -- this is really a top priority for us.
+WkHbZ510vm CLAIM-Opinion(view) 2833 3098 One of the things that I think we need to look out for, that the intelligence community has warned us about is some of the goal of some of these nation-state actors is not necessarily to interfere directly, but to just sow doubt about the legitimacy of an election.
+geCX7Ly8PS PREMISE-Fact 3099 3300 So even to the extent that we may not even see specific attacks, but if there's a big meme that there is widespread interference, that has the same effect in terms of kind of sowing doubt about things.
+Q1OPqv5iRH PREMISE-RealExample 1970 2182 And you can look at the results in other elections around the world where, for example, in the EU elections last year where a lot of people were very worried that there would be this kind of foreign interference.
+g_uI_KQccj NON-ARG 2183 2269 I actually had gone to the EU Parliament and testified about what we were going to do.
+oj19vU1ABh PREMISE-Fact 2270 2471 And then I think the EU Parliament President after released a statement saying that we'd met our commitments and did the things that we said we were going to do, and it was a relatively clean election.
+0IA7lPt8Wo CLAIM-Opinion(view) 1115 1345 Since -- in 2016, I think it's very fair to say that we were behind where we needed to be as with a lot of -- the rest of the industry and governments as well and expecting the kind of information operations that we now have seen.
+rYCtR_FstV NON-ARG 1347 1499 Now the good news is that since then, it's not like this is the first presidential election that we've had to play a part in defending the integrity of.
+GSSd67DTK3 NON-ARG 1500 1629 There have been major elections across the world, and each time, we're able to see the tactics of the foreign adversaries evolve.
+_W7IONEUzF NON-ARG 1630 1748 Because we and others weren't really focused on that in 2016 as much, we've been able to improve at quite a fast rate.
+R0 SUPPORT ARG1:meC1TRql_p ARG2:Owtmt5bEf8
+R1 SUPPORT ARG1:ENrtLL_I6G ARG2:7d6cocuXnt
+R2 SUPPORT ARG1:geCX7Ly8PS ARG2:WkHbZ510vm
+R3 SUPPORT ARG1:Q1OPqv5iRH ARG2:Owtmt5bEf8
+R4 SUPPORT ARG1:oj19vU1ABh ARG2:Owtmt5bEf8
+ArgQ0 Owtmt5bEf8 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 7d6cocuXnt SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 WkHbZ510vm SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

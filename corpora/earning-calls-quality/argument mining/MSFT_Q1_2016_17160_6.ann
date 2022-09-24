@@ -1,0 +1,13 @@
+owTEUwKF_Z CLAIM-Fact 1140 1201 So we have usage growth in Azure which is very, very healthy.
+phu4kibXlv PREMISE-Fact 1020 1091 We talked about the growth of our EMS, which is a higher level service.
+zeb4FEQs34 PREMISE-Fact 1092 1139 We talked about the growth in Active Directory.
+CdooIiw9Bh NON-ARG 885 1019 Yeah, I mean I think the usage number is the one that, Raimo, that we talked about, which is doubling of compute, doubling of storage.
+ZyXG6A5Cze CLAIM-Opinion(view) 1522 1613 And so I do think it was premium driven as opposed to sort of a price driven in particular.
+LFeedQ69Xj PREMISE-Fact 1406 1521 Now, I have a distinction between a price question that you sort of asked versus seeing the value of a premium SKU.
+BzKapyE541 PREMISE-Statistic 1215 1405 And on the server question you asked at the beginning, let me say that we did see I think around 9% constant currency growth of the core server product, and a lot of that was premium driven.
+bcKLIxSkNv NON-ARG 1675 1693  Thank you, Raimo.
+kePOeCCQkd NON-ARG 1694 1714 Next question please
+R0 SUPPORT ARG1:phu4kibXlv ARG2:owTEUwKF_Z
+R1 SUPPORT ARG1:zeb4FEQs34 ARG2:owTEUwKF_Z
+R2 SUPPORT ARG1:LFeedQ69Xj ARG2:ZyXG6A5Cze
+R3 SUPPORT ARG1:BzKapyE541 ARG2:ZyXG6A5Cze

@@ -1,0 +1,32 @@
+xxwNd_fFdU CLAIM-Opinion(view) 562 644 On the first, when we think about Instagram, we think we have a great opportunity;
+udy_xz4qFO PREMISE-Statistic 645 707 25 million Instagram business profiles, 2 million advertisers.
+LUhppu2Cif PREMISE-Fact 708 755 We're growing quite nicely across brand and DR.
+8qM9mt9h06 CLAIM-Opinion(view) 756 906 And with 1 billion active people on the platform, I think Instagram is definitely both a direct response opportunity but an opportunity for discovery.
+glGDAfqGYS PREMISE-Fact 907 931 Part of it's the format.
+O8yMcx8eDy PREMISE-Fact 932 1143 The format is so visually appealing and people are telling stories with pictures, so we see both anecdotally and in the data that this is a great place for people to become aware of a product in the first place.
+iAozetcq_K PREMISE-Fact 1144 1222 And we see a lot of small businesses really able to do things on the platform.
+zb7ItwfyHq NON-ARG 1223 1251 I'll share a recent example.
+ogz56PUlsq PREMISE-Statistic 1252 1367 We just launched a shopping experience that was just expanded in Q2 to all consumers in an additional 45 countries.
+X_cQb5338m PREMISE-RealExample 1368 1418 DefShop is an e-commerce fashion brand in Germany.
+I6jmG1VRWg PREMISE-Fact 1419 1461 They were an early tester for IG Shopping.
+FOgwfdmyJ6 PREMISE-Fact 1462 1525 And what they did in that test is tag each article of clothing.
+kJcONMfAGq PREMISE-Statistic 1526 1609 They had 56% more website visitors and a 64% increase in sales for tagged products.
+8hWb5sgz4v PREMISE-Fact 1610 1705 And I think a lot of those were discovered and purchased right through that advertising funnel.
+eI9cWnSGpg NON-ARG 1723 1738 John, its Dave.
+q5R_7gxcjW CLAIM-Opinion(view) 1874 1970 I would say we're pleased at the growth that we're seeing at the scale at which we're operating.
+S6SYRIOBSJ NON-ARG 1739 1873 Just on the North American deceleration in ad revenue growth, kind of consistent with the trends we've seen, so nothing there notable.
+PyESuTMnLm NON-ARG 2184 2292 I would say North America was more kind of within kind of what we're seeing across the rest of the business.
+qegWyDwfPc NON-ARG 1971 2183 When you look at the deceleration, the one that I called out was really Europe where you saw the currency impact as well as, to a lesser extent, GDPR causing sort of faster deceleration than in the other regions.
+R0 SUPPORT ARG1:udy_xz4qFO ARG2:xxwNd_fFdU
+R1 SUPPORT ARG1:LUhppu2Cif ARG2:xxwNd_fFdU
+R2 SUPPORT ARG1:glGDAfqGYS ARG2:8qM9mt9h06
+R3 SUPPORT ARG1:O8yMcx8eDy ARG2:8qM9mt9h06
+R4 SUPPORT ARG1:iAozetcq_K ARG2:8qM9mt9h06
+R5 SUPPORT ARG1:ogz56PUlsq ARG2:8qM9mt9h06
+R6 SUPPORT ARG1:X_cQb5338m ARG2:8qM9mt9h06
+R7 SUPPORT ARG1:I6jmG1VRWg ARG2:8qM9mt9h06
+R8 SUPPORT ARG1:FOgwfdmyJ6 ARG2:8qM9mt9h06
+R9 SUPPORT ARG1:kJcONMfAGq ARG2:8qM9mt9h06
+R10 SUPPORT ARG1:8hWb5sgz4v ARG2:8qM9mt9h06
+ArgQ0 xxwNd_fFdU SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 8qM9mt9h06 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

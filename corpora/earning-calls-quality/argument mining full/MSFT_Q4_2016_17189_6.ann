@@ -1,0 +1,31 @@
+H51aUHqB0t PREMISE-Fact 704 854 because we meet them where their realities are today and also the digital transformation needs going forward, so that's one massive advantage we have.
+ZfeQDobbLg CLAIM-Opinion(view) 596 703 But overall, I believe this hyperscale plus hybrid architecturally helps us a lot with enterprise customers
+nD7Y82ayrd CLAIM-Opinion(view) 1386 1470 And so to me that's another huge advantage and a competitive differentiation for us.
+8ZNelYCghO CLAIM-Fact 1471 1579 And then lastly, we have the best support for what I would say is the most open platform for all developers.
+HY34X2-gEV PREMISE-Fact 855 960 The second area for us is also the nexus between what's happening in Office 365, Dynamics 365, AppSource.
+2hVXStqk2j PREMISE-Fact 961 1075 And in fact, this last quarter, some of the most strategic announcements were all around our application platform.
+uPZ_kzhJxM PREMISE-Fact 1076 1235 At our partner conference, there was a significant amount of excitement with the tools that we announced like PowerApps and Power BI, Azure functions and Flow.
+fWi7_bEgu6 PREMISE-Fact 1236 1385 These are tools that our developers and system integrators and solution partners will use in order to be able to customize applications around Azure.
+Hmv-_-QTfD PREMISE-Fact 1580 1655 Not only is .NET first class but Linux is first class, Java is first class.
+-IqKHEFEFy PREMISE-Fact 1656 1749 Azure Container service cuts across both containers running on Windows, running across Linux.
+rlgwWtXD0H CLAIM-Fact 1797 1936 So those would be the places where we are fairly differentiated, and that's what you see us gaining both for enterprise customers and ISVs.
+Y5WDpO3hZB CLAIM-Fact 1937 2073 The question you asked is an interesting one, which is if I had to slice it by classic ISVs, it would be one-third or so of our revenue.
+dmwU5kdSST CLAIM-Fact 2074 2219 But the thing that – the first question that Keith asked is probably more indicative of what's happening, which is every customer is also an ISV.
+sAFa0fW_9t PREMISE-Fact 2220 2390 So every customer who starts off consuming Azure is also turning what is their IP in most cases into an ISV solution, which ultimately will even participate in AppSource.
+45ry5rSnaY PREMISE-Fact 2391 2587 So at least the vision that we have is that every customer is a digital company that will have a digital IP component to it, and that we want to be able to partner with them in pretty unique ways.
+3_Wb7XBKqS NON-ARG 1750 1796 So again, it speaks to the enterprise reality.
+VH7J4g3Rl2 CLAIM-Opinion(view) 2881 2957 And we've seen a lot of improvement in the past four quarters on that front.
+y1OF6ael5r NON-ARG 453 528 Sure, let me take that second part in terms of what is our differentiation.
+OGGqEzOO_c NON-ARG 529 595 And I think in my remarks, I pointed out the couple of dimensions.
+UcoMrAYJts CLAIM-Opinion(view) 2601 2880 I would also add, Heather, the importance of the motion in our field organization and go-to-market with ISVs is incredibly high in terms of selling with and along with those ISVs, both making them successful and thereby helping us build very important scale through the platform.
+UOBKYeZQUX NON-ARG 3005 3022  Thanks, Heather.
+hVHCTMFvFs NON-ARG 3033 3053  Thank you, Heather.
+KMMlxEOHPa NON-ARG 3054 3094 We'll move to the next question, please.
+R0 SUPPORT ARG1:H51aUHqB0t ARG2:ZfeQDobbLg
+R2 SUPPORT ARG1:2hVXStqk2j ARG2:nD7Y82ayrd
+R3 SUPPORT ARG1:uPZ_kzhJxM ARG2:nD7Y82ayrd
+R4 SUPPORT ARG1:fWi7_bEgu6 ARG2:nD7Y82ayrd
+R5 SUPPORT ARG1:Hmv-_-QTfD ARG2:8ZNelYCghO
+R6 SUPPORT ARG1:-IqKHEFEFy ARG2:8ZNelYCghO
+R7 SUPPORT ARG1:sAFa0fW_9t ARG2:dmwU5kdSST
+R8 SUPPORT ARG1:45ry5rSnaY ARG2:dmwU5kdSST

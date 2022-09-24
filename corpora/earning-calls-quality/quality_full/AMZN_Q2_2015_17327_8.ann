@@ -1,0 +1,9 @@
+zHsP5zyzLB NON-ARG 511 516 Sure.
+y4SNM3kD6C PREMISE-Statistic 517 619 So we ended the year last year with 109 fulfillment centers around the world and 19 U.S. sort centers.
+iWx5wu6HHW NON-ARG 620 715 And typically we're looking at what the demand would be for peak as we figure out what we need;
+nJKDEitST2 NON-ARG 716 837 so still a little early in the year to comment on that, but in the past we've given an update sometime around Q3 on that.
+GrBahpZYmf CLAIM-Policy 881 996 And like Brian said, we like to be close to customers and benefit from having inventory close to customers as well.
+okro98gOgD NON-ARG 997 1136 So like I said, a little early for the update at this point but something we're looking at and something the team's working really hard on.
+NRgeh2T_SY NON-ARG 838 880 But continuing to build as we have demand.
+R0 SUPPORT ARG1:y4SNM3kD6C ARG2:GrBahpZYmf
+ArgQ0 GrBahpZYmf SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

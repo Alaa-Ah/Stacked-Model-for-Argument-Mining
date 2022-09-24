@@ -1,0 +1,19 @@
+JbAzMNY5aV NON-ARG 610 615 Sure.
+KVNy7Pn0Qa CLAIM-Fact 616 771 First, on guidance, we keep it pretty consistent process on how we look at guidance and how we value or how we estimate the near-term view of the business.
+ynPSPrR69M PREMISE-Fact 772 879 I will point out that Q4 is obviously a very large quarter, the largest revenue quarter by far of the year.
+Zm6CN_BdaV PREMISE-Fact 880 957 There's a lot of demand that comes in the last six weeks of the year as well.
+RtkDLCxeNv PREMISE-Fact 958 1032 So very, very little visibility at the time of guidance when we do recall.
+VmMnJN-rl0 NON-ARG 1033 1083 So reason our best projections on a lot of fronts.
+HQevJPNIMX CLAIM-Fact 1225 1247 On the - this is Phil.
+hsapAkEdlQ CLAIM-Fact 1248 1348 On the category mix question, you know, obviously category mix does play a role in the gross margin.
+6NMW_XfDo2 CLAIM-Fact 1349 1493 I would say, though, that we're much more focused on operating profit dollars and free cash flow dollars, as we've probably talked about before.
+9dGMIoG1Z6 PREMISE-Fact 1494 1630 The gross margins are impacted by first party versus third party mix, as well as AWS mix if you're looking at the total for the company.
+4d9ziCrc0D CLAIM-Fact 1631 1673 So we're much more focused on the dollars.
+tgjh-U3cv4 CLAIM-Reformulated 1674 1810 And no specific categories we're calling out as a driver for gross margin because, again, we're much more focused on the profit dollars.
+_3xIia9tJs CLAIM-Opinion(view) 1084 1211 We think it's a similar - we know it's a consistent process and there are times when we under run and sometimes we over run it.
+R0 SUPPORT ARG1:ynPSPrR69M ARG2:KVNy7Pn0Qa
+R1 SUPPORT ARG1:Zm6CN_BdaV ARG2:KVNy7Pn0Qa
+R2 SUPPORT ARG1:RtkDLCxeNv ARG2:KVNy7Pn0Qa
+R3 SUPPORT ARG1:9dGMIoG1Z6 ARG2:4d9ziCrc0D
+ArgQ0 KVNy7Pn0Qa SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 4d9ziCrc0D SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

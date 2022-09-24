@@ -1,0 +1,16 @@
+coPRSaIhJ1 NON-ARG 433 446 This is Phil.
+hcoIsyx-H7 CLAIM-Fact 526 660 We've been working on our network for about 20 years to be able to enable some of the really fast delivery with things like Prime Now.
+PY-7ZwY2EW PREMISE-Fact 661 755 But at this point, we're in a relatively small list of cities, but it's expanding pretty fast.
+C8cnEZjWl1 PREMISE-Statistic 756 869 I think we launched a couple more Prime Now cities just today, so that brings us up to about 17 across the globe.
+kZ0Kpl8nlP PREMISE-Fact 870 1108 On the next day or same day, here in the U.S., we continue to expand that as well, but we think that those fast options add us to the consideration set of a customer's purchase on some purchases that we might not otherwise be included in.
+seijJK9D2B PREMISE-Fact 1109 1191 But at this point, we're still working on that and kind of getting it up to speed.
+7BpDZ29jL7 PREMISE-Fact 1192 1232 So nothing specific to call out on that.
+hBq2lmadFT CLAIM-Fact 1233 1379 On the other part of your question, we continue to work on the network around the world, but I can't respond to any of the rumors and speculation.
+FW_IJ7WfdZ PREMISE-Fact 447 525 So it's still pretty early for a lot of the really expedited delivery options.
+R0 SUPPORT ARG1:FW_IJ7WfdZ ARG2:hcoIsyx-H7
+R1 ATTACK ARG1:PY-7ZwY2EW ARG2:hcoIsyx-H7
+R2 SUPPORT ARG1:C8cnEZjWl1 ARG2:hcoIsyx-H7
+R3 SUPPORT ARG1:kZ0Kpl8nlP ARG2:hcoIsyx-H7
+R4 SUPPORT ARG1:seijJK9D2B ARG2:hcoIsyx-H7
+R5 SUPPORT ARG1:7BpDZ29jL7 ARG2:hcoIsyx-H7
+ArgQ0 hcoIsyx-H7 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

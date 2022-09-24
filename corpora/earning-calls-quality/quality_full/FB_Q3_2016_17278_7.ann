@@ -1,0 +1,39 @@
+vh_wpS27XP CLAIM-Fact 2421 2547 It's definitely true that most of our advertisers are advertising on TV and advertising with us on mobile, and they should be.
+Viv5b3yrZM PREMISE-RealExample 2548 2731 And we've done studies that show with Nielsen that our ads can be a really big complement to TV, particularly enabling you to reach people who really aren't on TV and you can't reach.
+zPJuQgmJD1 CLAIM-Opinion(view) 2732 2804 I think the power of what we're able to do really goes to the targeting.
+ycfjnahldX CLAIM-Fact 2805 2901 And what we're seeing is big brand advertisers, and this is actually particularly strong growth.
+t8-eiKWkXa PREMISE-Fact 2902 3080 This quarter was particularly strong for brand, are really recognizing that they can do big brand buys on our platform like they would do on TV, but make them much more targeted.
+c4BIHWRqYf PREMISE-RealExample 3081 3277 So for example, Nestlé Purina PetCare did an ad campaign in Germany with ZenithOptimedia, and they defined five distinct cat owner personality types and created different creatives for each group.
+uS59T0mfqe PREMISE-Fact 3278 3306 So that's a big brand thing.
+cQdKTzj65U PREMISE-Fact 3307 3366 The cat food category is big and they want brand awareness.
+ku8oc4dk0c PREMISE-Fact 3367 3507 But rather than just run one ad, they were able to run five based on the interest base and personality targeting that really only we can do.
+zbs9nc7sB9 PREMISE-Fact 3508 3537 And the results were amazing.
+5pjoknuWJm PREMISE-Statistic 3538 3606 They got an 89% increase in brand awareness and a 20% lift in sales.
+fk1RHG_s4f CLAIM-Reformulated 3607 3723 And so we think what we offer is the power of the broad reach of TV, but an ability to target much more efficiently.
+af-ee5a3ad CLAIM-Fact 1201 1258 So we're also hoping to roll that out pretty soon widely.
+z9xYwMoSLR PREMISE-Fact 1259 1589 And that's the new experience, which if you come to Facebook and you specifically want to watch some different kinds of videos or you want to see what videos a recent page that you follow has posted or the Presidential debate is on and you want to find a good place to go online to get that, you can go to Video Home and see that.
+PFDE0r6maP CLAIM-Fact 1590 1774 That is a new experience that we're building, and building that as part of Facebook is a great way for people to see it and get exposure to it, and we'll see where that goes over time.
+hWT1xgdOhe PREMISE-Fact 1775 2023 I think it's a good experience inside Facebook, but we also have had examples over time, like Messenger for example, where we started it in Facebook and decided that in order to fulfill their potential, it needed to be its own experience over time.
+gnktRLURLM CLAIM-Opinion(view) 2192 2420 When we think about video ads and what platform they run on, we really believe that over time the dollars will shift with eyeballs, and our goal is to be the best dollar and the best minute people spend measured across channels.
+Hs044JxSGc CLAIM-Fact 604 674 So in the main Facebook app, we're doing a number of different things.
+ZgSZgByRnJ CLAIM-Fact 675 861 One is that video is naturally becoming a larger share of the content in News Feed because both people and pages are sharing more videos as a mix and people want to consume that content.
+LTsab7ZD9O CLAIM-Fact 862 936 So there's not really a question of whether that should be a separate app.
+QcPkCBGrKH CLAIM-Reformulated 937 1023 This is what people want News Feed to be increasingly, so this is what it will become.
+ZJ4I9mh08B CLAIM-Fact 1024 1123 There is a second experience called Video Home, which we started talking about earlier in the year.
+lDx-7T0LKP CLAIM-Fact 1124 1200 and we've rolled out again in a few markets, and those tests have gone well.
+CJDavppKZK CLAIM-Opinion(view) 2024 2171 So we'll look at all those options, but for now I really think that Video Home is going to be a great experience, and I'm excited to roll that out.
+R0 SUPPORT ARG1:Viv5b3yrZM ARG2:vh_wpS27XP
+R1 SUPPORT ARG1:t8-eiKWkXa ARG2:ycfjnahldX
+R2 SUPPORT ARG1:c4BIHWRqYf ARG2:zPJuQgmJD1
+R3 SUPPORT ARG1:uS59T0mfqe ARG2:zPJuQgmJD1
+R4 SUPPORT ARG1:cQdKTzj65U ARG2:zPJuQgmJD1
+R5 SUPPORT ARG1:ku8oc4dk0c ARG2:zPJuQgmJD1
+R6 SUPPORT ARG1:zbs9nc7sB9 ARG2:zPJuQgmJD1
+R7 SUPPORT ARG1:5pjoknuWJm ARG2:zPJuQgmJD1
+R8 SUPPORT ARG1:z9xYwMoSLR ARG2:PFDE0r6maP
+R9 SUPPORT ARG1:hWT1xgdOhe ARG2:CJDavppKZK
+ArgQ0 vh_wpS27XP SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 ycfjnahldX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 zPJuQgmJD1 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 PFDE0r6maP SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 CJDavppKZK SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

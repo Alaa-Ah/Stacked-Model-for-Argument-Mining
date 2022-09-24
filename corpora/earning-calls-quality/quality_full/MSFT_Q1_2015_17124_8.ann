@@ -1,0 +1,24 @@
+Lv5K1NRU5n NON-ARG 968 975 Thanks.
+odlNRZ8RLE CLAIM-Opinion(view) 976 1197 The way I see the market when we sort of talk about productivity and platforms, we really don’t make this big distinction between consumer and enterprise and when it takes productivity out, we’re very focused on dual use.
+SBwxxcEw1w PREMISE-Fact 1198 1362 In fact one of the pieces of data that Amy and I shared was the growth in the consumer subscriptions of Office 365 even sequentially grew by significant percentage.
+YwfKiaJXN8 PREMISE-Fact 1363 1549 So therefore, we’re seeing good adoption of our productivity services, specifically in the context of this dual use where people want to use it at home and people want to use it at work.
+qE1qsaTFsc CLAIM-Fact 1550 1633 And that’s where in fact a lot of our R&D investment is to make that very seamless.
+tDoqaJho9u CLAIM-Fact 1806 1874 There are in fact lots of benefits which come because of technology.
+lByeYDdUoi NON-ARG 3091 3106 Thanks [Scott].
+bSAjtbgxfx NON-ARG 3107 3162 Operator, we’ll have time for one more question please.
+oVxMUQaL9e NON-ARG 2372 2436 And on the overall operating expense and how we’ve managed that.
+SerSc0iw13 CLAIM-Opinion(view) 2437 2512 In general, I don’t think about it as control using that types of the word.
+jHRwBMMz5S CLAIM-Opinion(view) 2513 2843 I think what is perhaps most impressive is that we have managed to continue throughout the quarter whether it’s week-to-week or month-to-month to looking at where is the highest ROI we get from our spend, how can we drive our business forward, both in period but also for the future, it’s just as important for us to balance that.
+UMDUZ7NzSx PREMISE-Fact 2039 2286 So, we’ll always have those kind of incidental benefits, but really in gaming we want to have our body gaming, Xbox LIVE console and as well as PC gaming thrive and drive more incremental value for us and Minecraft obviously helps in that context.
+tlc9NvJ7jL PREMISE-RealExample 1875 2038 In fact the reason why we are so competitive now in Cortana and speech recognition which I think is core to productivity is it first started with Connect and Xbox.
+fDCxq4kNmC CLAIM-Policy 1634 1805 So, to me that’s how we want to drive and gaming is the one category we have said that we will invest in it for its own sake in driving enterprise value out of our gaming.
+a8bOCxaZXk CLAIM-Reformulated 2844 3008 And I think we’ve done a very good job of picking those places and really investing intentionally and aggressively behind places where we know we’re differentiated.
+TVm9qaQ2mB CLAIM-Policy 2287 2361 So that’s how we’ll view the future for how we think about our businesses.
+R0 SUPPORT ARG1:tlc9NvJ7jL ARG2:tDoqaJho9u
+R1 SUPPORT ARG1:UMDUZ7NzSx ARG2:tDoqaJho9u
+R2 SUPPORT ARG1:YwfKiaJXN8 ARG2:qE1qsaTFsc
+R3 SUPPORT ARG1:SBwxxcEw1w ARG2:fDCxq4kNmC
+R4 SUPPORT ARG1:YwfKiaJXN8 ARG2:fDCxq4kNmC
+ArgQ0 tDoqaJho9u SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 qE1qsaTFsc SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 fDCxq4kNmC SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,37 @@
+K5qUbqCQRg NON-ARG 523 536 Sure, Justin.
+r_QSmtYsp_ NON-ARG 537 547 Thank you.
+8PgZFi3uNN NON-ARG 548 597 Yes, I think Jeff's comments were pretty dead on.
+rTzhXJH1OX CLAIM-Fact 598 652 The launch of Prime last year was a big turning point.
+LrqZgMgdam PREMISE-Statistic 653 808 We've increased Prime selection by 75% since launching that nine months ago in India, also increased the fulfillment capacity for sellers by 26% this year.
+SZq60xmm5b PREMISE-Fact 809 1026 On the content side, we've announced A-Team in the original TV series and we're customizing the content, so it's a really vast selection of local and global movies and TV shows that are available to the Indian public.
+JWsnuossn2 PREMISE-Fact 1027 1291 You'll also notice that the Fire TV Stick was – a new version of it was launched in India with some important features there such as the ability to search in Hindi and in English, free data usage for three months and also data monitoring, which is important there.
+6bql5On4JU NON-ARG 1292 1379 So again, we continue to be encouraged by both the response from customers and sellers.
+jE0ySTyCKf NON-ARG 1380 1478 As far as level of investment is concerned, it is certainly one of our important investment areas.
+hUphGSUNS0 NON-ARG 1479 1544 We see a lot of potential for the country and our business there.
+WcSvBnKW52 NON-ARG 1652 1657 Sure.
+ADBCzlgr-g PREMISE-Statistic 1807 1935 So, keep in mind that we launched Prime Video in the fourth quarter, and now we have that in over 200 countries and territories.
+O_i3Zwhffa CLAIM-Fact 1658 1806 I can't quantify it, or break it out specifically, but I will say it's a large factor as well as a couple other things in the international segment.
+eNWvvA-O9M CLAIM-Fact 1936 2028 We're spreading a lot of the Prime benefits that we see in North America to other countries.
+CYnbZPRwO2 PREMISE-Fact 2029 2102 We just opened up Amazon Fresh in Tokyo last weekend, but also Prime Now.
+AkbJbeKYa9 PREMISE-Fact 2103 2180 You saw other things like our business B2B business just opened up in the UK.
+rMwdzqhf5G PREMISE-RealExample 2181 2204 We have Amazon Devices.
+wAtE5qGkPx NON-ARG 2205 2243 So there's a lot of moving parts here.
+HwhfzfEMw0 CLAIM-Fact 2244 2476 The other big influence is the same trends are happening in international with respect to FBA growth and the fact that our Amazon fulfill network, or the units we shipped, are growing at a much faster clip than our paid unit growth.
+VZWGvLy4J7 PREMISE-Statistic 2477 2540 Last year we said that was a 40% – nearly 40% growth worldwide.
+ycmPxBjBY4 CLAIM-Opinion(view) 2691 2819 We are very encouraged with the growth of the Prime program, and we're hopeful for the Prime Video that we launched in the fall.
+KypOmGLt19 PREMISE-Fact 2541 2646 So we're making the investments in warehouses, fulfillment capacity and delivery capacity to handle that.
+mqwGSRDTNa PREMISE-Fact 2647 2690 So there's a lot going on in international.
+R0 SUPPORT ARG1:LrqZgMgdam ARG2:rTzhXJH1OX
+R1 SUPPORT ARG1:SZq60xmm5b ARG2:rTzhXJH1OX
+R2 SUPPORT ARG1:JWsnuossn2 ARG2:rTzhXJH1OX
+R3 SUPPORT ARG1:ADBCzlgr-g ARG2:O_i3Zwhffa
+R4 SUPPORT ARG1:CYnbZPRwO2 ARG2:eNWvvA-O9M
+R5 SUPPORT ARG1:AkbJbeKYa9 ARG2:eNWvvA-O9M
+R6 SUPPORT ARG1:rMwdzqhf5G ARG2:eNWvvA-O9M
+R7 SUPPORT ARG1:VZWGvLy4J7 ARG2:HwhfzfEMw0
+R8 SUPPORT ARG1:KypOmGLt19 ARG2:HwhfzfEMw0
+R9 SUPPORT ARG1:mqwGSRDTNa ARG2:HwhfzfEMw0
+ArgQ0 rTzhXJH1OX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 O_i3Zwhffa SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ2 eNWvvA-O9M SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 HwhfzfEMw0 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0

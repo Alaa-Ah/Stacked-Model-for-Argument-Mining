@@ -1,0 +1,14 @@
+EXH52lEuRU NON-ARG 555 566 Hey, Brent.
+7CtynpPDFK NON-ARG 567 594 So in terms of the outlook.
+dCHjHKAZJ0 CLAIM-Opinion(view) 844 1105 So there’s a lot of granularity that goes into thinking about how revenue will progress that ultimately it’s going to depend on the supply and demand characteristics in that given quarter when we do that and we see that we expect constant currency deceleration.
+mWHS5n69j7 NON-ARG 1302 1368 So that’s the reason I’m characterizing the guidance the way I am.
+IsCmpkUMej PREMISE-Fact 595 638 Remember, we don’t have contracted revenue.
+IImS3vDBfl PREMISE-Fact 639 693 We are constantly working from an auction perspective.
+psZcJJxo9S CLAIM-Fact 694 843 So our forecasts are based on supply and demand and how we see the different product launches playing into that different optimizations that we make.
+RaN0791F_s PREMISE-Hypothesis 1106 1301 And when we get to Q4 we’re going to be lapping some particularly successful optimizations that we had in Q4 and that’s going to contribute to more of a decel in Q4 than we think we’ll see in Q3.
+CaVEsOOlFq NON-ARG 1386 1393  Great.
+BKeUUmunlo NON-ARG 1394 1425 Thank you for joining us today.
+SfqFpoyWhi NON-ARG 1426 1497 We appreciate your time and we look forward to speaking with you again.
+R0 SUPPORT ARG1:IsCmpkUMej ARG2:psZcJJxo9S
+R1 SUPPORT ARG1:IImS3vDBfl ARG2:psZcJJxo9S
+R2 SUPPORT ARG1:RaN0791F_s ARG2:dCHjHKAZJ0

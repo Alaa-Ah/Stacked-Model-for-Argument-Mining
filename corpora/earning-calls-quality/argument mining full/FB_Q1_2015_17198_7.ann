@@ -1,0 +1,39 @@
+GP7HgpIYXr CLAIM-Opinion(view) 571 716 Our growth was really strong across all of our marketer segments, but we had a particularly good quarter in brands, I think driven by two things.
+PFGr_DCAfv PREMISE-Fact 717 861 The first is that we really have a great platform to do creative storytelling on mobile and I think we have that in a way that no one else does.
+h_pMAjAQvM PREMISE-Fact 862 1106 Our mobile ad product is so integrated into the user experience and provides real creative flexibility that people have a way to reach people on mobile and that's becoming increasingly important in telling the stories that drive their business.
+3QWCk7iaNN PREMISE-Fact 1107 1133 The second thing is video.
+E_0iVZ08fb PREMISE-Fact 1134 1265 Video is exploding on Facebook, as Mark talked about, and that gives us an opportunity to do a lot of work with marketers on video.
+YvZvLiUViA CLAIM-Fact 1266 1357 This is the first time the technology and media vertical was one of our top four verticals.
+gYjHzhBjyu PREMISE-Fact 1358 1406 And that's largely because of the use of mobile.
+xP76OXORBF PREMISE-Fact 1407 1454 And so that's been really a great story for us.
+F-SA6ibGaE CLAIM-Fact 1455 1555 In terms of penetration, we work with almost all the large marketers almost everywhere in the world.
+F31bXIZQor PREMISE-Fact 1556 1652 But even for the largest, the largest clients we have, we are a very small part of their budget.
+alpC7bTXEa PREMISE-Statistic 1653 1865 I don't think we have any large clients, if you look at 25% in the U.S. of consumer media time is on mobile and then 20% of mobile time goes to Facebook and Instagram that would be 5% of U.S. consumer media time.
+yUQSGzaOEx PREMISE-Statistic 1866 1950 With our largest clients, even our large ones, we're not close to 5% of their spend.
+nL2rL6bXJA CLAIM-Opinion(view) 1951 2089 And so I think we have a considerable opportunity to grow, and we also expect those underlying numbers time on mobile to continue to grow.
+Pl3z3DDGxO PREMISE-Fact 2120 2254 Your second question about Instagram and the ads opportunity there, we think about this the same way that we do ads in Facebook today.
+JSGrUYRXh- CLAIM-Fact 2255 2299 The primary goal is to increase the quality.
+AiBoKs8eMv PREMISE-Fact 2300 2345 That's our strategy for growing the business.
+Vm6WzYQkTD CLAIM-Fact 2346 2411 There's more inventory that we can open up on Instagram over time
+yy-3BrLZEv PREMISE-Fact 2412 2584 because it's so early, but we're going to do that once we get to formats that are working well for businesses and that we feel really good about in the consumer experience.
+JPjWk6E-C8 PREMISE-Fact 2585 2809 And this has been a theme for our ad strategy and product development for more than a year now, maybe two years, where folks have consistently asked us what we're going to do to increase the amount of ads that we're showing.
+dcG3Edfo0s CLAIM-Fact 2810 2900 And our response has been that we're going to focus on improving the quality and relevance
+u6t7d0_n0D PREMISE-Fact 2901 3009 and that's both going to perform better for the people using our services and businesses who are buying ads.
+f7VQ1aTCzS PREMISE-Fact 3010 3116 And that strategy, I think, is bearing out and we'll continue to apply it to all of the things that we do.
+JYA-HQDUSp NON-ARG 2114 2119 Yeah.
+1sUaQhunQB CLAIM-Opinion(view) 3137 3321 One clarification, I think I said tech and media as a vertical, I meant entertainment and media that this is the first quarter that entertainment and media is one of our top verticals.
+R0 SUPPORT ARG1:PFGr_DCAfv ARG2:GP7HgpIYXr
+R1 SUPPORT ARG1:h_pMAjAQvM ARG2:GP7HgpIYXr
+R2 SUPPORT ARG1:3QWCk7iaNN ARG2:GP7HgpIYXr
+R3 SUPPORT ARG1:E_0iVZ08fb ARG2:GP7HgpIYXr
+R4 SUPPORT ARG1:gYjHzhBjyu ARG2:YvZvLiUViA
+R5 SUPPORT ARG1:xP76OXORBF ARG2:YvZvLiUViA
+R6 ATTACK ARG1:F31bXIZQor ARG2:F-SA6ibGaE
+R7 SUPPORT ARG1:alpC7bTXEa ARG2:nL2rL6bXJA
+R8 SUPPORT ARG1:yUQSGzaOEx ARG2:nL2rL6bXJA
+R9 SUPPORT ARG1:Pl3z3DDGxO ARG2:JSGrUYRXh-
+R10 SUPPORT ARG1:AiBoKs8eMv ARG2:JSGrUYRXh-
+R11 SUPPORT ARG1:yy-3BrLZEv ARG2:Vm6WzYQkTD
+R12 SUPPORT ARG1:JPjWk6E-C8 ARG2:Vm6WzYQkTD
+R13 SUPPORT ARG1:u6t7d0_n0D ARG2:dcG3Edfo0s
+R14 SUPPORT ARG1:f7VQ1aTCzS ARG2:dcG3Edfo0s

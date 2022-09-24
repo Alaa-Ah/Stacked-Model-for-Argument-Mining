@@ -1,0 +1,22 @@
+Y7vHsXmgeM NON-ARG 1027 1052 Yeah, Mark, this is Dave.
+itd8kNcsbm NON-ARG 1053 1178 On that second question, we've not commented on the growth rate or given the prior year period, so not much we can say there.
+3d7SN6tLmo NON-ARG 1375 1429 But again, that's not in relation to the COGS portion.
+5zl82TJza9 CLAIM-Fact 1449 1589 And on the question on capacity, – excuse me, cap – I'll address it as CapEx and capital leases, we're still seeing strong investment there.
+_uOPo_7fx4 PREMISE-Statistic 1590 1698 If I look at the quarterly trends, you're right, that this quarter was up 33% in isolation versus last year.
+57f5x56JH_ PREMISE-Statistic 1699 1771 I look back to last year's first quarter and we grew 82% year-over-year.
+8nisguXlSF PREMISE-Statistic 1855 1987 So if I step back on the trailing 12 months though, CapEx, which is predominantly tied to our fulfillment center network, is up 47%.
+QPwzskfXga NON-ARG 2159 2206 That's a representative number for that period.
+PLC3lK2xFJ PREMISE-Statistic 2207 2350 On the capital leases, which is a good proxy for the spend to support the AWS business, that's up 49% year-over-year on the trailing 12 months.
+qzAOGKHVPn PREMISE-Fact 1988 2158 That is above the Amazon fulfilled unit growth rate, but we combined the strength of the FBA program and the space requirements as we get into bigger and bigger products.
+DCCG05OW_h PREMISE-Fact 1772 1854 So it was a particularly heavy quarter, particularly for investment in warehouses.
+MZ5Dgdkw4r CLAIM-Fact 2351 2417 So again, usage rates continue to exceed the revenue growth rates.
+VtCM3DOyhJ CLAIM-Fact 2418 2546 Usage rates are strong, but we also have a number of projects underway that seek to increase our efficiency of our data centers.
+KX8onf908Q NON-ARG 2547 2651 So have a couple things at play there that hopefully keep that number closer to the revenue growth rate.
+466nsYA5Pm CLAIM-Fact 1179 1374 As I said, the $560 million, if you were to back that out and look at the sort of pre-existing advertised – or other revenue rather that was included in that line item, we'd be growing about 72%.
+R0 SUPPORT ARG1:_uOPo_7fx4 ARG2:5zl82TJza9
+R1 SUPPORT ARG1:57f5x56JH_ ARG2:5zl82TJza9
+R2 SUPPORT ARG1:DCCG05OW_h ARG2:5zl82TJza9
+R3 SUPPORT ARG1:8nisguXlSF ARG2:5zl82TJza9
+R4 SUPPORT ARG1:qzAOGKHVPn ARG2:5zl82TJza9
+R5 SUPPORT ARG1:PLC3lK2xFJ ARG2:5zl82TJza9
+ArgQ0 5zl82TJza9 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

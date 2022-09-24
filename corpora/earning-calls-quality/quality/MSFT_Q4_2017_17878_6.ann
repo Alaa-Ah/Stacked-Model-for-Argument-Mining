@@ -1,0 +1,10 @@
+ihyyQLQzKu NON-ARG 848 999 Okay, you are right, Mark it’s not exactly if I said is the Q3 from three years ago exactly the expiry base it is not exactly, but it is directionally.
+5L0jKa0KNa CLAIM-Opinion(view) 1000 1234 And so that’s a good example to say, every three years tends to be the length of our agreements and so you to tend to see that repeated, and that’s what we mean by sort of the record or the largest expiry base and that is the pattern.
+08Erv3UIcK PREMISE-RealExample 1235 1274 In terms of LinkedIn having any impact?
+cf4uHPwFB2 PREMISE-RealExample 1275 1286 It did not.
+V3BNgZINDJ CLAIM-Reformulated 1287 1342 So that is the cleanest way to think about that number.
+jORkcwhkLM NON-ARG 1353 1366  Thanks Mark.
+HlLgCOzkcI NON-ARG 1367 1399 We’ll move to the next question.
+R0 SUPPORT ARG1:08Erv3UIcK ARG2:5L0jKa0KNa
+R1 SUPPORT ARG1:cf4uHPwFB2 ARG2:5L0jKa0KNa
+ArgQ0 5L0jKa0KNa SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_2

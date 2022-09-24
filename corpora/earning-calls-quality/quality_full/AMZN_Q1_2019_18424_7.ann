@@ -1,0 +1,17 @@
+ZcMXtcnlhW NON-ARG 372 377 Yeah.
+dBjRBqlIYU NON-ARG 378 394 Thanks, Stephen.
+Qh6jNlcwXa CLAIM-Fact 395 616 I would say that we're very - it's widespread and more Prime members have adopted the Whole Foods benefit than almost any other benefit we've offered them, and they're saving, as a result, hundreds of millions of dollars.
+UUxNpAtfbt CLAIM-Fact 617 665 We continue to expand the coverage for delivery.
+9FoO_SpR9I PREMISE-Statistic 666 813 We have delivery from 75 - into 75 U.S. metros through the Prime Now app, and we also have pickup in over 30 metros also through the Prime Now app.
+kh0GU-kR5l PREMISE-Fact 1093 1143 That shows up in our online stores classification.
+If01Zxqvm3 PREMISE-Statistic 1144 1312 So last quarter, I told you that our growth in store sales, including both shopping and also online deliveries, was closer to 6% in Q4, and it's a similar number in Q1.
+hRYqs-2J-A CLAIM-Opinion(view) 1313 1463 So again, we're very happy with both the Prime adoption of the - or the recognition of the Prime benefits by - at Whole Foods, and also the purchases.
+t_CbNYbKC8 PREMISE-Fact 1464 1620 And you may have also noticed that we lowered prices for the third major round of price cuts, since we joined forces with Whole Foods in the summer of 2017.
+Lo5S7H7B1y PREMISE-Fact 814 1092 So we're very - excuse me, the other point I'll make is just like last quarter, I'll remind you that the physical stores revenue is principally Whole Foods revenue, but it excludes the online ordering component where people order on the Prime Now app and it's delivered to them.
+R0 SUPPORT ARG1:Lo5S7H7B1y ARG2:hRYqs-2J-A
+R1 SUPPORT ARG1:kh0GU-kR5l ARG2:hRYqs-2J-A
+R2 SUPPORT ARG1:If01Zxqvm3 ARG2:hRYqs-2J-A
+R3 SUPPORT ARG1:9FoO_SpR9I ARG2:UUxNpAtfbt
+R4 SUPPORT ARG1:t_CbNYbKC8 ARG2:hRYqs-2J-A
+ArgQ0 hRYqs-2J-A SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 UUxNpAtfbt SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

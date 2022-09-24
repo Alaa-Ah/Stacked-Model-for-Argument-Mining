@@ -1,0 +1,18 @@
+vJS7ccoi_9 NON-ARG 859 973 On the quality changes on the impact on DAU in the U.S. and Canada, really no further I think elaboration on that.
+aXHfeR87zp CLAIM-Opinion(view) 974 1138 I would just say that we don't anticipate that that will be a continuing trend, but given the high penetration rates, we do think they'll be some fluctuation there.
+QA0DsovCpE PREMISE-Fact 1139 1263 There's a lot of different effects that come from the different quality changes and focus on meaningful social interactions,
+7DTTIrjyTw NON-ARG 1264 1305 but that's our expectation at this point.
+PUZS64a2Ji CLAIM-Fact 1323 1426 On story monetization, ads in Stories on Instagram is a small, but quickly growing part of our revenue.
+AIex73Wgk9 PREMISE-Statistic 1427 1482 There are 300 million daily actives on Instagram alone,
+z6jw5dbQqz CLAIM-Opinion(view) 1483 1543 and the format is pretty exciting from a sales point of view
+57UcjCixIE PREMISE-Fact 1544 1578 because it has a lot of potential.
+onq6jAsY0b PREMISE-Fact 1579 1628 Its full screen is authentic, it’s very engaging.
+YIcM98vSka NON-ARG 1629 1850 So the opportunity in the future for us to combine the power of this new format with the targeting and measurement we offer, we think it’s going to be really powerful for both our business and the business of our clients.
+gtT-G6ONUD NON-ARG 1851 1905 It's early days, but I'm pretty optimistic about this.
+R0 SUPPORT ARG1:QA0DsovCpE ARG2:aXHfeR87zp
+R1 SUPPORT ARG1:AIex73Wgk9 ARG2:PUZS64a2Ji
+R2 SUPPORT ARG1:57UcjCixIE ARG2:z6jw5dbQqz
+R3 SUPPORT ARG1:onq6jAsY0b ARG2:z6jw5dbQqz
+ArgQ0 aXHfeR87zp SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 PUZS64a2Ji SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 z6jw5dbQqz SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

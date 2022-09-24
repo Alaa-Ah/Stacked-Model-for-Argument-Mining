@@ -1,0 +1,33 @@
+AouDEhX0pM NON-ARG 950 955 Yeah.
+d7gC4ySDzK CLAIM-Fact 956 1093 To the Instagram question, what we see in the short run is that some of the spend on Instagram is incremental to Facebook and some isn't.
+ng18q7pkYA PREMISE-Fact 1094 1171 Some clients are comfortable with Instagram and bringing a new budget to bear
+4oiOBomzMY PREMISE-Fact 1173 1229 Some clients are shifting some of their Facebook budget.
+S70vbTITy2 CLAIM-Opinion(view) 1230 1331 For us in the medium to long run, we believe that we're not competing between Facebook and Instagram.
+ZT6-urxXK6 PREMISE-Fact 1332 1374 We're competing with other forms of media.
+1btsoRd6n0 CLAIM-Opinion(view) 1375 1499 And if you want the most eyeballs and we think the highest ROI, over time we think that will benefit Facebook and Instagram.
+4ebsMzsWOc PREMISE-Fact 1500 1867 And so, for us, what we really want is people to experiment and learn and get to experience Instagram as they have on Facebook so that we can make the case that we can improve the ROI and then we believe if you look at the consumer metrics of where people were spending their time, we will be able to gain share compared to almost anything else you can buy out there.
+oCnOmIInSA CLAIM-Fact 1892 2066 And to your question about long form content, the more natural starting point for us is shorter form content which can either be social content or premium short form content.
+L9RhU5pKfd PREMISE-Fact 2067 2209 But some of – the vast majority of the content that's consumed on Facebook just talking about video right now is people browsing through feed.
+X2pBzAnCsF PREMISE-Fact 2210 2503 They discover something interesting that they weren't necessarily looking for previously that's very powerful because that's a behavior that there isn't really anywhere else to do at scale on the Internet today in a great way, and then people watch it there or they bookmark it to watch later.
+8ocPFvhV7c PREMISE-Fact 2504 2672 But if you're talking about watching inline and feed, that's not the place where you're necessarily going to see a TV show and then watch an hour-long clip right there.
+QhqxEfsp7p PREMISE-RealExample 2673 3041 So what we're actually seeing is that a lot of the best or at least from my perspective, TV shows that we see folks like Jimmy Fallon breaking up their show into clips that they can now share to be consumed over social media and on the Internet in three-minute to five-minute or seven-minute segments which are more of what people want when browsing through News Feed.
+viQDmHeUx3 CLAIM-Opinion(view) 3042 3154 So I do think over time we will get to more different types of content and we'll build products that serve that.
+ghMwVvRIdP PREMISE-Fact 3155 3260 The current market of trying to help people share and experience all these shorter form clips is massive.
+Ij4td-rjjX PREMISE-Fact 3261 3316 We are nowhere near serving that as well as we want to.
+pCO6prQR8z CLAIM-Opinion(view) 3317 3712 So I actually think in a lot of ways though the more interesting question is not in the near-term what we're going to do to develop ways to consume long form content, but what traditional media and content producers who have traditionally produced short and long form content are going to do to chunk their stuff up better so that way it can be more easily consumed by this big community online.
+R0 SUPPORT ARG1:ng18q7pkYA ARG2:d7gC4ySDzK
+R1 SUPPORT ARG1:4oiOBomzMY ARG2:d7gC4ySDzK
+R2 SUPPORT ARG1:ZT6-urxXK6 ARG2:S70vbTITy2
+R3 SUPPORT ARG1:4ebsMzsWOc ARG2:1btsoRd6n0
+R4 SUPPORT ARG1:L9RhU5pKfd ARG2:oCnOmIInSA
+R5 SUPPORT ARG1:X2pBzAnCsF ARG2:oCnOmIInSA
+R6 SUPPORT ARG1:8ocPFvhV7c ARG2:viQDmHeUx3
+R7 SUPPORT ARG1:QhqxEfsp7p ARG2:viQDmHeUx3
+R8 SUPPORT ARG1:ghMwVvRIdP ARG2:pCO6prQR8z
+R9 SUPPORT ARG1:Ij4td-rjjX ARG2:pCO6prQR8z
+ArgQ0 d7gC4ySDzK SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 S70vbTITy2 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 1btsoRd6n0 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 oCnOmIInSA SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 viQDmHeUx3 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 pCO6prQR8z SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

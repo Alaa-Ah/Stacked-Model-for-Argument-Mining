@@ -1,0 +1,53 @@
+34Pc8th5UR NON-ARG 658 662 Yes.
+nPmGf62E2T NON-ARG 663 741 I think it's important to start with that 18% in constant currencies, Shannon.
+-t6vf-6aaa PREMISE-Statistic 742 841 Our reported results are on a normalized basis, removing the one-time item from last year, was 15%.
+zNs9-VIZqi PREMISE-Statistic 842 939 Clearly FX, plays a role around the world, 300 basis points of FX impact during the June quarter.
+sUYics3Az9 PREMISE-Fact 940 992 In spite of that, it was an all-time record revenue.
+imCJPFzsCX CLAIM-Fact 993 1030 Our installed base continues to grow.
+gvWTnXZl5j CLAIM-Fact 1031 1180 It's growing in every geography and it's growing across all our major product categories, and that is very, very important for the services business.
+6vgPWbSv7B NON-ARG 1180 1302 I would say, I'll give you a bit more color around two offsetting factors around this performance during the June quarter.
+GLFJvTVF1D CLAIM-Fact 1303 1403 On one side, the App Store, I mentioned in my prepared remarks that growth accelerated sequentially.
+2-OBsncaDf PREMISE-Fact 1404 1467 We had double-digit growth on the App Store in every geography.
+QzxmGyDyly PREMISE-Fact 1511 1663 As you know, we tend to monetize in China on the App Store through game titles and the government has approved a few key game titles during the quarter.
+ReqhBPbAJs PREMISE-Fact 1664 1702 That has helped our performance there.
+Wj2GePBIMD CLAIM-Fact 1468 1510 In China, we saw significant acceleration.
+B2NeZmozDw CLAIM-Fact 1702 2145 On the other side, AppleCare, I mentioned AppleCare was an all-time record in June, so really strong performance, but our growth has decelerated in AppleCare due to factors that we fully expected, because we are comping this expansion of our coverage for AppleCare that we've had significant success during the last 18 to 24 months in really broadening our coverage of AppleCare around the world with some key partners, carriers and resellers.
+vc7gPnoJ8d CLAIM-Opinion(view) 2227 2352 Having said all that, that we've given ourselves a couple of targets and we feel very confident about reaching those targets.
+bo58TnyWO9 CLAIM-Fact 2146 2227 And obviously, as we go through the year those comps become a bit more difficult.
+QF1Ukk4aQD CLAIM-Fact 2353 2459 The first one is that, we wanted to double the size of the services business from our fiscal 2016 to 2020.
+fTE9vC4t-A CLAIM-Other 2460 2484 We are on our way there.
+2Jiu4E1DHX CLAIM-Fact 2485 2542 Paid subscriptions is another target, is important to us.
+krXevHl5DT CLAIM-Reformulated 2543 2598 It's an important way for us to monetize our ecosystem.
+CdoXUmh-Pc PREMISE-Statistic 2599 2689 We set a target of surpassing 0.5 billion paid subscriptions on the ecosystem during 2020.
+fVudw04ul1 PREMISE-Statistic 2690 2723 We’re already at 420 million now.
+U2Ot2IMWz9 CLAIM-Reformulated 2724 2752 So, we feel confident there.
+JliqYIDhCU CLAIM-Opinion(view) 2752 2870 And of course, as you mentioned, we're very excited about the fact that we're going to be launching new services soon.
+rIKCzpYvi6 PREMISE-RealExample 2871 3044 As Tim said, we're starting the rollout of Apple Card in August, and there's two more very important services that we’re going to be adding to our portfolio during the fall.
+aLAW101dtg PREMISE-RealExample 3045 3175 One is Apple Arcade, which is our gaming subscription service, and then of course Apple TV+, which is our video streaming service.
+gIy82RDuYn CLAIM-Fact 3176 3268 So obviously these services will help us carry on with the momentum that we had in services.
+exHTMFGxC4 NON-ARG 3666 3670 Yes.
+6F3FIrKP1m PREMISE-Statistic 3671 3805 So of course, Shannon, as you've seen, our guidance for margin is 50 basis points higher than the guidance that we had given for June.
+xhHmP0ue0j CLAIM-Opinion(view) 3806 3870 I would say on the positive, we expect to benefit from leverage.
+R5EMhy60b8 PREMISE-Fact 3871 4012 As you've seen from our revenue guidance, and from cost savings, because as you know the commodity environment is fairly favorable right now.
+gtVoLPmXht PREMISE-Statistic 4013 4139 On the negative side, the headwind on gross margins on a year-over-year basis from foreign exchange is about 100 basis points.
+J4Z1EJS_iY NON-ARG 4140 4177 And so, we need to keep that in mind.
+PAWWVh9aqo CLAIM-Reformulated 4178 4233 But we feel pretty good about the guidance we provided.
+C5Ybm1dZPC NON-ARG 4248 4263 Thanks Shannon.
+mj8hQaqxM- NON-ARG 4264 4303 Could we have the next question please.
+R0 SUPPORT ARG1:2-OBsncaDf ARG2:GLFJvTVF1D
+R1 SUPPORT ARG1:QzxmGyDyly ARG2:Wj2GePBIMD
+R2 SUPPORT ARG1:ReqhBPbAJs ARG2:Wj2GePBIMD
+R3 SUPPORT ARG1:CdoXUmh-Pc ARG2:2Jiu4E1DHX
+R4 SUPPORT ARG1:fVudw04ul1 ARG2:2Jiu4E1DHX
+R5 SUPPORT ARG1:fVudw04ul1 ARG2:vc7gPnoJ8d
+R6 SUPPORT ARG1:rIKCzpYvi6 ARG2:JliqYIDhCU
+R7 SUPPORT ARG1:aLAW101dtg ARG2:JliqYIDhCU
+R8 SUPPORT ARG1:6F3FIrKP1m ARG2:xhHmP0ue0j
+R9 SUPPORT ARG1:R5EMhy60b8 ARG2:xhHmP0ue0j
+R10 ATTACK ARG1:gtVoLPmXht ARG2:xhHmP0ue0j
+ArgQ0 GLFJvTVF1D SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Wj2GePBIMD SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 2Jiu4E1DHX SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 vc7gPnoJ8d SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 JliqYIDhCU SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ5 xhHmP0ue0j SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2

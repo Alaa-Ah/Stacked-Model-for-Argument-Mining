@@ -1,0 +1,11 @@
+7WLhr5ZFNQ NON-ARG 791 796 Sure.
+gqLYPQ3lwk CLAIM-Opinion(view) 797 912 Yeah, it's pretty early in the days with advertising, but we're very pleased with the team we have and the results.
+veCOd4m60D CLAIM-Fact 913 1163 Our goal is to be helpful to consumers and enhance their shopping or their viewing experience with targeted recommendations, and we think a lot of the information we have and preferences of customers and recommendations help us do that for customers.
+53eP6UJpjP PREMISE-Fact 1164 1313 We have a sponsored product, it's off to a great start, and it's a very effective way for advertisers to reach those especially interested customers.
+Eh_UGK91Jg NON-ARG 1314 1517 While you're on the topic of advertising, I thought I'd point out that in other revenue, advertising is in other revenue, as is co-branded credit card agreements and also some other advertising services.
+pa9-kmtBsG NON-ARG 1518 1563 That decelerated from 99% in Q4 to 58% in Q1.
+hcbZwKpTFY NON-ARG 1564 1747 But the fluctuation and the volatility was essentially in the co-branded credit card agreements and the other services, which can fluctuate quarter-to-quarter based on contract terms.
+RqnrSJT0Ps NON-ARG 1748 1773 And that's what happened.
+HaFdXVhKsZ CLAIM-Reformulated 1774 1836 Advertising remained strong and was consistent growth with Q4.
+R0 SUPPORT ARG1:53eP6UJpjP ARG2:veCOd4m60D
+ArgQ0 veCOd4m60D SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

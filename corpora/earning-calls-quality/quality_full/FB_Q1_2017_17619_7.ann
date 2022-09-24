@@ -1,0 +1,38 @@
+s3EMBHjTch NON-ARG 962 1004 I can talk about Marketplace Groups first.
+q4yXAKKiYh PREMISE-Fact 1314 1481 And so these whole communities have formed, which was somewhat surprising to us honestly, because we hadn't developed that product specifically for buying and selling.
+gu2bODAGVZ PREMISE-Fact 1482 1554 It was for group communication and that's what people were using it for.
+yscC1X_Vzd CLAIM-Fact 1555 1726 So we decided hey, we're going to put together a team that's going to invest in making this actually good for buying and selling and see how much we can grow that economy.
+eZhj4FbE-8 PREMISE-Fact 1005 1313 So I think your basic point is right, that the reason why we started working on Marketplace and the tab around that is because when we were exploring what the biggest use cases were of Groups, we uncovered that a very large number of people, hundreds of millions, use Groups to buy and sell different things.
+WaXvmXCSdi NON-ARG 1727 1843 So I don't know that we have any public stats on that yet, but that's an area that I'm certainly very excited about.
+fpJNGsHLuw PREMISE-Fact 1844 2160 And then in terms of local communities, one of the big trends in the world that we've seen is just that participation in all kinds of different physical communities, whether they're sports teams or some religious groups or different kinds of different things, have been declining a lot over the past several decades.
+ZenA0oIncZ PREMISE-Fact 2161 2299 And that I think is a big social issue that is eroding the social fabric of the whole society, not just our country, but around the world.
+x0sCBeDItM CLAIM-Fact 2300 2407 And that's one where I look at that and I wonder if Facebook can play a role in helping to strengthen that.
+TnmB_tq9wF PREMISE-Statistic 2408 2497 We look at – there are more than 1 billion people every month who use our Groups product.
+bEguyJ3yRo NON-ARG 2498 2659 But if you think about your own use of the Groups product, you probably are a member of a bunch of different groups that you maybe check in on very infrequently.
+Hlzqx4f4oN NON-ARG 2660 2812 So that's very different from – there's a handful of people, around 100 million or a bit more, who are a member of what we call a very meaningful group.
+5kuHNC9-2y NON-ARG 2813 2975 So that could be a parenting group or you're diagnosed with a rare disease, and you can now connect with people all around the world to share stories around that.
+-cL9I-KC9B NON-ARG 2976 3208 These are groups that upon joining, they become one of the things that you spend the most time with on Facebook, one of the most important parts of your experience, and a really fundamental part of your real-world support structure.
+e66N22Rw6c CLAIM-Reformulated 3209 3390 So we look that that and we ask the question of hey, if 100 million people are in those very meaningful groups today, can we get that to be 1 billion people over next several years?
+sAnjPCzWNI NON-ARG 3391 3558 And if so, then that can help reverse some of the decline in community membership and help strengthen the social fabric, not only in our country, but around the world.
+MWEOaVPXPM NON-ARG 3559 3646 So that's a big part of what we're focused on across a number of different initiatives.
+TlagQ5K9nq NON-ARG 3669 3734 And I'll talk a little bit about the Ad Break, what we're seeing.
+NDuQy_W7Od NON-ARG 3735 3887 It's really early both in terms of testing the ads and getting any feedback from users, so people who use Facebook, so we don't have that data to share.
+HVIwUj9iPK CLAIM-Opinion(view) 3888 3930 But we're pleased that the test is active.
+I_ipHXqPDO CLAIM-Reformulated 3931 4015 We're pleased that it's going well and that we can do both live and uploaded videos.
+zeS4T4WY7h CLAIM-Opinion(view) 4016 4099 We think over time that marketers will follow where people are spending their time.
+gGt4vwqQEi CLAIM-Opinion(view) 4100 4203 And if the ads can be well-targeted, we think we'll be able to see engagement, and we already see that.
+lHXcHDAmvZ CLAIM-Opinion(view) 4204 4403 When ads are really well targeted and taking full advantage of the kind of targeting we offer, so you're showing people something they want to see, we see engagement that we think is really critical.
+MBS5UNRlzn CLAIM-Opinion(view) 4404 4491 It's also worth noting that the metrics that really matter at the end are driving sales
+9Qu-RbEmLm PREMISE-Fact 4493 4693 And so any of the engagement with ad metrics, whether it's remembering an ad going back to – people have been measuring that for a long time too, how long a video ad is viewed, are only proxy metrics.
+wXKBW1ES0y CLAIM-Reformulated 4731 5013 And so we think the better we can do at getting the measurement to what actually matters, which is the end behavior marketers are trying to drive, the more people will shift their focus to business metrics, the better it will be for the returns they get and ultimately our business.
+PlKyJf0aAb CLAIM-Reformulated 4694 4730 What matters is the impact on sales.
+R0 SUPPORT ARG1:eZhj4FbE-8 ARG2:yscC1X_Vzd
+R1 SUPPORT ARG1:q4yXAKKiYh ARG2:yscC1X_Vzd
+R2 SUPPORT ARG1:gu2bODAGVZ ARG2:yscC1X_Vzd
+R3 SUPPORT ARG1:fpJNGsHLuw ARG2:x0sCBeDItM
+R4 SUPPORT ARG1:TnmB_tq9wF ARG2:x0sCBeDItM
+R5 SUPPORT ARG1:ZenA0oIncZ ARG2:x0sCBeDItM
+R6 SUPPORT ARG1:9Qu-RbEmLm ARG2:MBS5UNRlzn
+ArgQ0 yscC1X_Vzd SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 x0sCBeDItM SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 MBS5UNRlzn SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

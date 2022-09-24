@@ -1,0 +1,13 @@
+_wSJCZ76OQ NON-ARG 510 525 Certainly Eric.
+IpdXJy_tQ4 CLAIM-Opinion(view) 673 835 So we're very happy, very encouraged early on with what we've seen in the ramping of the business, the level of invention going on for both customers and sellers.
+CFAQ8viNth PREMISE-Statistic 836 942 We are over $25 million or excuse me, 25 million names (14:02) which is the largest online store in India.
+sBd0pt2Ahm PREMISE-Fact 526 609 What I can say about India is when we see a positive surprise we double down on it.
+xFXuqNGE4x PREMISE-Fact 610 672 That's kind of our policy, and India is that kind of surprise.
+5kVXRNrGdz CLAIM-Reformulated 996 1030 so were super excited about India.
+EoOffaAlG- NON-ARG 1031 1136 I will not get into specific investment levels right now but we continue to ramp up our investment there.
+_MGrsbS3-g PREMISE-Fact 943 995 And we continue to improve pricing and fast delivery
+R0 SUPPORT ARG1:sBd0pt2Ahm ARG2:IpdXJy_tQ4
+R1 SUPPORT ARG1:xFXuqNGE4x ARG2:IpdXJy_tQ4
+R2 SUPPORT ARG1:CFAQ8viNth ARG2:IpdXJy_tQ4
+R3 SUPPORT ARG1:_MGrsbS3-g ARG2:IpdXJy_tQ4
+ArgQ0 IpdXJy_tQ4 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

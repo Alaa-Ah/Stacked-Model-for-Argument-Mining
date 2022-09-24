@@ -1,0 +1,20 @@
+e4AbbB29_I NON-ARG 1185 1189 Yes.
+iLX26C1pv3 NON-ARG 1190 1247 So, let me -- first of all thanks Keith for the question.
+rgnZEfe7ut NON-ARG 1248 1269 And so, let me start.
+LE9NFe7d0t CLAIM-Fact 1270 1405 Overall, in terms of the workload mix, it’s been fairly stable, which is our hybrid value proposition really has continued to resonate.
+4SNgWWC_0L CLAIM-Fact 1683 1759 Then, on top of it, we even have modernization of apps that is accelerating.
+FTscemh9ju CLAIM-Fact 1760 2044 And that drives a lot of the higher level services, in particular our data services as well as our AI services when AI services are essentially compute, but what happens is all this compute then requires storage and data, and that’s another place where we see increasing acceleration.
+qcdDU45czD PREMISE-Fact 1406 1522 So, that means there’s a bunch of workloads that are migrating to the cloud, people use both Azure Stack plus Azure.
+aLiG8bEKNZ CLAIM-Fact 1523 1682 So, that continues to drive a lot of IaaS growth for us as people are sort of looking basically to lift and shift a lot of their current data center workloads.
+IokWSu-7Xw CLAIM-Fact 2045 2126 The one thing that I would say that I am increasingly seeing is Tier 1 workloads.
+uU9K3Tgr9- CLAIM-Opinion(view) 2848 3022 And really that I think what we heard a lot was the value of the security and management continue to add more supported endpoints, offer really tremendous value to customers.
+6wH2XmSoro CLAIM-Reformulated 3023 3088 And we did see a bit more strength than I was anticipating in Q4.
+vVaSVZ-KtE CLAIM-Fact 2438 2575 And to your question on the per user services, specifically Enterprise Mobility, Keith, it was a bit better than I had anticipated in Q4.
+_cls5vPMvG CLAIM-Fact 2576 2753 And really, driver of these per user services, such as EMS, actually is the value proposition that Satya refers to, and we refer to as Microsoft 365 and we saw strength broadly.
+Ys-A0OjAIQ CLAIM-Reformulated 2754 2847 And if you think about that, it’s the Windows commercial, it’s Office 365 commercial and EMS.
+qbQTNsxdS4 PREMISE-Fact 2127 2355 In some sense, when you think about some of the commitments being made by some of the biggest brands in the world in terms of what they’re doing, one, it’s very core to their operation; and two, they are running it in the cloud.
+rdNbHuSoaq CLAIM-Fact 2356 2427 And so, that’s one thing that definitely is a market difference for us.
+R0 SUPPORT ARG1:qcdDU45czD ARG2:aLiG8bEKNZ
+R1 SUPPORT ARG1:qbQTNsxdS4 ARG2:rdNbHuSoaq
+ArgQ0 aLiG8bEKNZ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 rdNbHuSoaq SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,20 @@
+6lLygzEd7o NON-ARG 539 599 Yes, so let me start with the first question on advertising.
+z55xXUuRMb PREMISE-Statistic 600 797 So other revenue, which is principally advertising grew 45% this quarter, up from 37% last quarter and the biggest thing in there is advertising and advertising grew at a rate higher than that 45%.
+WU23mRxqVr CLAIM-Opinion(view) 799 1144 So we are very happy with the progress in the advertising business, continue to focus on advancing advertising experiences there, helpful for customers, helping them to see new products, we want to empower our businesses to find attracting and engage these customers and it’s increasingly popular with vendor sellers and third-party advertisers.
+8UI9J14jsj CLAIM-Opinion(view) 1145 1415 So it’s still early and what we’re focused on really at this point is relevancy, making sure that the ads are relevant to our customers, helpful to our customers, and to do that, we use machine learning and that’s helping us to drive better, better and better relevancy.
+vA8fZvZLI7 NON-ARG 1429 1434 Yeah.
+pwRi9-XrBY NON-ARG 1435 1464 And then Lloyd, this is Dave.
+6gucYdTH1p NON-ARG 1465 1489 Just quickly on Fire TV.
+-wsjwr0rze PREMISE-RealExample 1490 1664 I mean I have to start with the fact that we did recently introduce 20 new Fire TV products, so that includes the new – and the first Fire TV Edition Sound Bar, Fire TV Cube.
+ENSro1xC2G CLAIM-Fact 1665 1710 So a number of things have come out recently.
+t4Dr13CxnJ CLAIM-Opinion(view) 1711 1784 We’re really excited to get into customers’ hands, so more to come there.
+orOh_OANM1 CLAIM-Opinion(view) 1786 1911 I think specifically on the advertising side and the opportunity with that, we are continuing to see some increased adoption.
+6XI8K8LqeF CLAIM-Fact 1912 1999 You know one of our areas of focus is expanding our video and OTT offerings for brands.
+oI14QsQr_8 PREMISE-RealExample 2000 2396 It’s still early in this space, but we’ve done a few things with IMDb TV, Live Sports, things like adding more inventory through Fire TV apps, and as I said IMDb TV, adding more OTT video supply through Amazon Publisher Services or APS integrations and streamlining access for third party apps and really just making it easier for advertisers to manage their campaigns and provide better results.
+u-68QhIhhE CLAIM-Reformulated 2397 2615 So, as I said early days, but I think with the engagement of the device community, the fact that we’re really excited with the progress and improvements of these devices, I think yeah, again a lot of opportunity there.
+R0 SUPPORT ARG1:z55xXUuRMb ARG2:WU23mRxqVr
+R1 SUPPORT ARG1:-wsjwr0rze ARG2:ENSro1xC2G
+R2 SUPPORT ARG1:oI14QsQr_8 ARG2:6XI8K8LqeF
+ArgQ0 WU23mRxqVr SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 ENSro1xC2G SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 6XI8K8LqeF SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,12 @@
+_Sgdvbea5E NON-ARG 605 609 Yes.
+mphx6x8I-8 NON-ARG 610 625 Thanks, Justin.
+ylcbcoNILu CLAIM-Opinion(view) 844 952 So I think we'll -- we continue to face those headwinds, and they will be more impactful as we move forward.
+KmqVhasjjw CLAIM-Fact 954 1098 In terms of the expense guide in 2020, I would say that obviously we plan to -- a large factor of our expense growth is driven off of headcount.
+fZBPWr9uNY PREMISE-Fact 1099 1230 And we're continuing to invest across the board in terms of our core R&D and innovation efforts in terms of headcount growth there.
+gm3UTn7RAW CLAIM-Opinion(view) 1420 1536 And there's other nonheadcount-related expenses that we expect to grow, including marketing and content investments.
+9EatKZeedj PREMISE-Fact 1232 1419 In addition, growth in infrastructure spend is our large increase in CapEx over the last several years, flows through the income statement as another driver of our expense growth as well.
+Wotvwiy3oc CLAIM-Opinion(view) 626 745 So I don't think anything has changed since Q3 in terms of our outlook on the headwinds that we have around ad signals.
+_PvbwchuH7 CLAIM-Opinion(view) 746 843 I think that's very consistent with what we've been talking about over the last several quarters.
+R0 SUPPORT ARG1:fZBPWr9uNY ARG2:gm3UTn7RAW
+R1 SUPPORT ARG1:9EatKZeedj ARG2:gm3UTn7RAW
+ArgQ0 gm3UTn7RAW SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

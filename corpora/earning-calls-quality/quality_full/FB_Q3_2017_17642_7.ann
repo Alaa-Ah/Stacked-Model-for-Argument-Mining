@@ -1,0 +1,17 @@
+GCpYd8pHxs NON-ARG 805 817 Right, Doug.
+Tossr3G6VS PREMISE-Fact 818 969 So on the first one, the 10,000 number, that encompasses both employees at Facebook and also employees at partners, so it's not all Facebook employees.
+WBlDEuyuUQ CLAIM-Fact 970 1002 So that's a fully loaded number.
+_mLH-m5rF4 NON-ARG 1003 1047 So that's also in the OpEx guidance as well.
+1kgvYmemkS NON-ARG 1048 1109 But yes, you can't compare the 10,000 to the 23,000 directly.
+oTMHr_uRv1 CLAIM-Fact 1110 1237 On the ad pricing, what you're seeing is that most of the advertising that we get isn't necessarily bid on an impression basis.
+P7zFmvceC4 PREMISE-Fact 1238 1404 You're getting people bidding for other actions and optimizing against other actions like a click to a website or a downstream e-commerce transaction, an app install.
+aAc2akQnIb PREMISE-Fact 1585 1783 You do have obviously people who are bidding on impressions if they're looking for a brand campaign or a reach campaign, but those aren't necessarily a part of the business that's driving up prices.
+ksl8-JosWl PREMISE-Fact 1784 1930 It's more around just us doing a better job at being able to optimize campaigns for people who have downstream activities that we can do that for.
+UfIQLzycxL PREMISE-Fact 1405 1584 And our ability to optimize the inventory that we have against those downstream activities allows us to deliver those at still good prices while still seeing effective CPMs go up.
+R0 SUPPORT ARG1:Tossr3G6VS ARG2:WBlDEuyuUQ
+R1 SUPPORT ARG1:P7zFmvceC4 ARG2:oTMHr_uRv1
+R2 SUPPORT ARG1:UfIQLzycxL ARG2:oTMHr_uRv1
+R3 SUPPORT ARG1:aAc2akQnIb ARG2:oTMHr_uRv1
+R4 SUPPORT ARG1:ksl8-JosWl ARG2:oTMHr_uRv1
+ArgQ0 WBlDEuyuUQ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 oTMHr_uRv1 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

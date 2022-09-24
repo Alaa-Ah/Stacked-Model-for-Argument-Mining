@@ -1,0 +1,10 @@
+cd1o_AwHWl NON-ARG 571 628 Yeah, so on wages, nothing to point out for this holiday.
+ZMUCrUwo0L CLAIM-Fact 629 849 Our challenge generally is the volume of head count that we're looking to hire and we work well in advance with agencies to help to get seasonal employees and many of them turn into full-time employees after the holiday.
+JU5WITz--M NON-ARG 850 897 So nothing specific on the wage pressure front.
+3KnkFApR64 PREMISE-Statistic 898 1134 As you probably saw, head count is up 38% year-over-year in Q3 and that is a continuation of a lot of ops roles they're supporting this high demand, the opening of the fulfillment centers we talked about, new Fresh locations, Prime Now.
+teS3BoGefL NON-ARG 1280 1316 And the second, the second question?
+4FP0XpbL7I NON-ARG 1234 1279 Ben Schachter - Macquarie Capital (USA), Inc.
+Ryb5Zc-7HX PREMISE-Fact 1135 1233 But also a lot of hiring in our tech areas particularly around AWS and also the Echo, Alexa areas.
+R0 SUPPORT ARG1:Ryb5Zc-7HX ARG2:ZMUCrUwo0L
+R1 SUPPORT ARG1:3KnkFApR64 ARG2:ZMUCrUwo0L
+ArgQ0 ZMUCrUwo0L SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

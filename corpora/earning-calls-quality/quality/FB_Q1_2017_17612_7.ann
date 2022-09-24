@@ -1,0 +1,14 @@
+nmCm6KFGkk NON-ARG 599 612 Sure, Justin.
+CYWcGQ7E9w NON-ARG 613 670 I'm not breaking out specific drivers on the supply side.
+q_WD-fpakh NON-ARG 671 773 Supply growth was healthy, and we had contributions from users' time spent and ad load in the quarter.
+YChbb6XhC- CLAIM-Fact 774 924 In terms of what drove the improvement in the pricing, it's strong demand, so that's playing through in the face of a little bit slower supply growth.
+EsZo7bcspo PREMISE-Fact 925 1133 And so you're seeing – of course, the auction drives pricing and there has been interplay between the supply growth and the pricing growth, and we're seeing the strong demand play through on the pricing side.
+EQQHYtl2qT PREMISE-Fact 1134 1253 When we get to lapping our efforts on desktop, I do think you're going to – you have a secular trend away from desktop.
+xfDMzT67em CLAIM-Opinion(view) 1254 1397 So that's going be an overall factor in desktop, our ability to grow and maintain the desktop business, so I think that's an underlying factor.
+VG6UkUvLPP PREMISE-Fact 1398 1477 We're always going be in a back-and-forth with ad blockers on the desktop side.
+vWA9mbSNWQ CLAIM-Reformulated 1478 1563 So I think that's going to constantly be a thing that plays into the desktop revenue.
+R0 SUPPORT ARG1:EsZo7bcspo ARG2:YChbb6XhC-
+R1 SUPPORT ARG1:EQQHYtl2qT ARG2:xfDMzT67em
+R2 SUPPORT ARG1:VG6UkUvLPP ARG2:xfDMzT67em
+ArgQ0 YChbb6XhC- SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 xfDMzT67em SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

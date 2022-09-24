@@ -1,0 +1,22 @@
+7Ts8WGzTgQ CLAIM-Fact 838 927 For Messenger and WhatsApp, our focus right now continues to be on growth and engagement.
+CwbsiWH0IE PREMISE-Fact 928 1049 We are not rolling out any monetization products on WhatsApp right now, but we did start that process at F8 on Messenger.
+-WptE9FjFn PREMISE-Fact 1050 1148 And what we're doing is following the organic activity that's happening on the Messenger platform.
+XXZG80tMjl NON-ARG 1149 1258 Businesses and consumers are using Messenger to connect to each other in a more personal, more immediate way.
+OxwkosSrcp CLAIM-Fact 1259 1356 And we rolled out a platform beta, which gives new opportunities to build compelling experiences.
+RaVA8BGvd7 PREMISE-Fact 1357 1462 Bots, very early but giving the opportunity for more personal interactions between businesses and mobile.
+z2zcGWLGZa PREMISE-Fact 1463 1626 The 10 received APIs (56:26), so that businesses could send immediate responses to common questions, including engaging images and call to action as well as texts.
+VADXMHK1l4 CLAIM-Fact 1627 1672 In terms of the timing, this is really early.
+2II7iFfyak PREMISE-Fact 1673 1758 We have a lot of opportunity to invest in advertising across our different platforms.
+ArXtHiqPlm PREMISE-Fact 1759 1841 And so we want to make sure we get this right as we focus on continued engagement.
+MNoNlknjpU NON-ARG 1842 1989 You're right that over time, when we make these investments, we are going to be able to rely on some of the core aspects of the ads infrastructure.
+Dg1s-XQtpT NON-ARG 1990 2236 Certainly, our long base of advertisers, some of the things we understand about how ads perform and the functionality will be an important part of the product offerings in the future, but those are not immediate by any stretch of the imagination.
+rwjuWcURHT NON-ARG 2254 2300  Operator, we have time for one last question.
+R0 SUPPORT ARG1:CwbsiWH0IE ARG2:7Ts8WGzTgQ
+R1 SUPPORT ARG1:-WptE9FjFn ARG2:7Ts8WGzTgQ
+R2 SUPPORT ARG1:RaVA8BGvd7 ARG2:OxwkosSrcp
+R3 SUPPORT ARG1:z2zcGWLGZa ARG2:OxwkosSrcp
+R4 SUPPORT ARG1:2II7iFfyak ARG2:VADXMHK1l4
+R5 SUPPORT ARG1:ArXtHiqPlm ARG2:VADXMHK1l4
+ArgQ0 7Ts8WGzTgQ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 OxwkosSrcp SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 VADXMHK1l4 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

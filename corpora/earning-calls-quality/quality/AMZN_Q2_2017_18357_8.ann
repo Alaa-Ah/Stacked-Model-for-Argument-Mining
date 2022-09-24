@@ -1,0 +1,13 @@
+sipUbMiDOd NON-ARG 838 843 Sure.
+98RlIsdxQT NON-ARG 844 848 Yes.
+j5aMuQj8BQ NON-ARG 849 877 It's early on the Echo Show.
+XnYcQc2iPm PREMISE-Fact 878 1066 As you know, we just started shipping those in late June, but we're very excited about the potential and the addition of the video screen and the messaging capability and video capability.
+CBLiBGPg__ NON-ARG 1067 1106 So it's – I've used mine, it's awesome.
+Hm0wuHgz0j PREMISE-Statistic 1191 1402 On advertising, technically what I said is the sales force has grown higher than the rate of growth in the business itself, which was 42% regular head count and that sales force is primarily AWS and advertising.
+TNoZc3B-3F CLAIM-Fact 1403 1607 So, we built self-service tools and obviously we want to make those as efficient as possible for customers and advertisers, but we realize that we will need actual sales contact with the accounts as well.
+JgD_1JK2xK CLAIM-Reformulated 1608 1622 So it's a mix.
+50kmdO2JcN NON-ARG 1623 1688 I can't get into the split, really, but I would see both growing.
+GkFp29B6aq CLAIM-Fact 1107 1190 It's a big step up in my mind, but we'll get more customer feedback as we go along.
+R1 SUPPORT ARG1:Hm0wuHgz0j ARG2:TNoZc3B-3F
+ArgQ0 GkFp29B6aq SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 TNoZc3B-3F SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

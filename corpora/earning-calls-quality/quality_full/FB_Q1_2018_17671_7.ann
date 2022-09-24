@@ -1,0 +1,22 @@
+QNQjCc8AKB NON-ARG 724 757 Do you want to take that, Sheryl?
+pR7q9uiX29 NON-ARG 780 785 Yeah.
+hr0tWGzvGn CLAIM-Fact 786 1013 On the GDPR changes, so we just started rolling out the GDPR controls in Europe and we're going to make all the same controls and settings available every way, which gives people the same opportunities to make the same choices.
+2MA20EOXCw PREMISE-Fact 1014 1059 It's not going to be exactly the same format.
+1zvbALAsRx PREMISE-Fact 1060 1128 It's going to be localized instead for different parts of the world.
+ygApeWMY-0 PREMISE-Fact 1129 1189 And so we think some of the differences will come from that.
+LOr4N56yc_ CLAIM-Opinion(view) 1214 1648 And on the testimony, these are important issues and I think that that was an important moment to be able to go and hear what people were wondering about and just to have a public hearing of answering all of the questions around Cambridge Analytica and what we knew and all the steps that we're taking on data privacy and developers to make sure that this doesn't happen again and to lay out all the different things that we're doing.
+zh0wqxOFZI PREMISE-Fact 1649 1696 I mean, the hearings didn't just touch on that.
+F62pXWEU-k PREMISE-Fact 1697 1859 They also touched on a number of the other issues that we face, including foreign interference in elections and that's something that we're incredibly focused on.
+VZlw_e9Xgq CLAIM-Fact 1860 1917 2018 is going to be an incredibly important year on this.
+cBkQVR86Sg PREMISE-RealExample 1918 2099 There are big elections, not just the U.S. midterms, but the major elections upcoming in Mexico, in Brazil, in India, and Pakistan, and a number of other countries around the world.
+ygmTO_Bl4N CLAIM-Reformulated 2100 2218 So this is important and it was an important moment for the company to hear the feedback and to show what we're doing.
+deI5F4Mtww CLAIM-Opinion(view) 2219 2349 And now I think the important thing is that we execute on all the things that we need to do to make sure that we keep people safe.
+R0 ATTACK ARG1:2MA20EOXCw ARG2:hr0tWGzvGn
+R1 SUPPORT ARG1:1zvbALAsRx ARG2:hr0tWGzvGn
+R2 SUPPORT ARG1:ygApeWMY-0 ARG2:hr0tWGzvGn
+R3 SUPPORT ARG1:zh0wqxOFZI ARG2:LOr4N56yc_
+R4 SUPPORT ARG1:F62pXWEU-k ARG2:LOr4N56yc_
+R5 SUPPORT ARG1:cBkQVR86Sg ARG2:VZlw_e9Xgq
+ArgQ0 hr0tWGzvGn SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 LOr4N56yc_ SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 VZlw_e9Xgq SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

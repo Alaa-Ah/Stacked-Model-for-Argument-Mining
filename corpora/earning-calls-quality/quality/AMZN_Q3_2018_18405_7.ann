@@ -1,0 +1,13 @@
+KuCvCd9lr_ NON-ARG 603 630 Let me start with PillPack.
+0_wLcAzzME PREMISE-Fact 631 660 The deal closed in September.
+T1jbrH03_z CLAIM-Opinion(view) 661 790 So it wasn't a material impact on the quarter, but we're excited, really excited to start working with the management team there.
+Pg4qr3An_X PREMISE-Fact 791 811 They're very strong.
+ah6yf_ICG0 PREMISE-Fact 812 925 They've done a great job building a highly differentiated customer experience, just customer-centric like we are.
+sYyEmFNpNA CLAIM-Fact 926 1045 And right now our focus is on learning from them and innovating with them on how best to meet customer needs over time.
+fRpiG9yA0h NON-ARG 1046 1087 I'll let Dave handle the second question.
+IOCvamDprV NON-ARG 1101 1106 Yeah.
+ksg-qQgcJG CLAIM-Fact 1107 1209 I think, I mean, we have no plans to build an ad-supported Prime Video offering for free at this time.
+R0 SUPPORT ARG1:0_wLcAzzME ARG2:T1jbrH03_z
+R1 SUPPORT ARG1:Pg4qr3An_X ARG2:T1jbrH03_z
+R2 SUPPORT ARG1:ah6yf_ICG0 ARG2:T1jbrH03_z
+ArgQ0 T1jbrH03_z SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

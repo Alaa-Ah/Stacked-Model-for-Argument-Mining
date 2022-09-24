@@ -1,0 +1,18 @@
+p1Eq7Ur_Qe PREMISE-Fact 842 1082 And 365 has that characteristic and Office has it, EMS has it, and so this quarter actually what we saw, was actually some strength in education was added a good amount seats this quarter as well as good execution across our other segments.
+SueuZvYchs CLAIM-Opinion(view) 1083 1239 And so, we did see a bit of growth that we were excited to see frankly on a segment where we’ve been working hard to make additional progress and add value.
+m1E0-bbFPS NON-ARG 737 812 This is one where overtime there’s certainly is going to be a deceleration.
+pq4SgUh81i NON-ARG 813 841 This is a per user business.
+5tKZtxeOQx CLAIM-Fact 1240 1375 The team has actually done nice job in that segment, created some really modern offers, to get back and to enhance market that as well.
+BUxtHM3J9o CLAIM-Fact 1376 1668 But over the long term and as we continue to move aggressively, we will continue to seek growth dissipate, but I would also say this is going to take longer than I think many people would have thought, there’re lots of users as we continue to redefine what Office is that you add to the base.
+GkfADXpHqc PREMISE-Fact 1669 1960 Whether that's first client workers, whether that’s an increasing number of small businesses who finally have access and value that we’re creating for them across things from scheduling all the way to being able to work through minor business process adjustments like Satya has talked about.
+cTdeR-QZXE CLAIM-Reformulated 1961 2339 So, really as we continue to redefine what Office means from something that people will always associate with Word, Excel and PowerPoint, to things that mean in mobile or video would stream, or collaboration with teams, I think we have opportunity to continue to add those new users, new types of users that we haven’t had access before and the capability even to users we have.
+mjut21mjkY NON-ARG 2357 2412 That wraps up the Q&A portion of today’s earnings call.
+TpWk0Sfwud NON-ARG 2413 2501 Thank you for joining us today and we look forward to speaking with you all of you soon.
+ZV-clN5WUW NON-ARG 2502 2578 You can find additional details on the Microsoft Investor Relations website.
+4xJVAFDF9T NON-ARG 2579 2586 Thanks.
+7qUPqP4yeT NON-ARG 2597 2616 Thank you everyone.
+sUz1oQPjvc NON-ARG 2632 2652 Thank you very much.
+R0 SUPPORT ARG1:p1Eq7Ur_Qe ARG2:SueuZvYchs
+R1 SUPPORT ARG1:GkfADXpHqc ARG2:BUxtHM3J9o
+ArgQ0 SueuZvYchs SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 BUxtHM3J9o SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

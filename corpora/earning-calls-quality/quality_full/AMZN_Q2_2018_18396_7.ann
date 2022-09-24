@@ -1,0 +1,47 @@
+p9H1n1_zeH NON-ARG 2660 2683 Yeah, and this is Dave.
+f2eZOvGyp8 CLAIM-Fact 2787 2879 When you look at the Amazon Music Unlimited subscription, it continues to grow very quickly.
+5nV8Aq6lQ6 NON-ARG 2684 2786 Just quickly on Music, as you mentioned, tens of millions of paid customers are enjoying Amazon Music.
+qIK146sQUE PREMISE-Statistic 2880 3061 We've got those offerings in more than 30 countries now and the catalog there's tens of millions of songs, and a lot of rich playlists, personalized stations, those kinds of things.
+m_azJyN_9u CLAIM-Opinion(view) 3062 3323 Of course we started in Music with Prime Music, a little bit earlier in that space, and I think that's been a great way for Prime members to enjoy some of that catalog for free, and then as they enjoy that, be able to move into the Amazon Music Unlimited skill.
+GtJViRhExc PREMISE-RealExample 3324 3594 One of the great things that's also part of that, I think, you alluded to it is just Alexa, and one of the most popular features we see as you probably imagine for using those devices are just interacting with Alexa, wherever you may be is being able to listen to music.
+GfSfCZ8So2 PREMISE-Statistic 3740 3799 We now have more than 45,000 skills available to customers.
+ofd1XtktKL CLAIM-Reformulated 3595 3739 So that's proven to be a, I think, a good skill for folks to be able to enjoy in addition to a really kind of rich and growing Amazon skill set.
+YoR-a4641B NON-ARG 862 907 Sure, let me start with that second question.
+oEFLrfm1FF CLAIM-Fact 908 1001 So, yes, we have seen over the last few quarters, improved operating margins internationally.
+hOu9PNhVcC PREMISE-Fact 1002 1229 I would say in places like Europe and Japan, we're seeing many of the efficiencies I talked about earlier on fixed head count, operations costs, infrastructure costs, and also things like marketing working to be very efficient.
+dmkXyvvjZ3 NON-ARG 1430 1447 But you're right.
+2ehaFdrh0T CLAIM-Fact 1448 1470 We continue to invest.
+Y1wBWoD97B PREMISE-Fact 1542 1659 We just passed our Fifth Year Anniversary – celebrated our Fifth Year Anniversary, as the most visited site in India.
+if3iIqOPGX PREMISE-Fact 1792 1836 But you're also seeing additional expansion.
+_k4qY0Tzuw PREMISE-RealExample 1837 1898 So we launched Prime in Australia; we're rolling devices out.
+C_JyZ8EaqJ PREMISE-RealExample 1899 1936 We launched Echo and Alexa in France.
+e6Je1M6PQ_ PREMISE-RealExample 1937 2062 The Echo Spot in India and Japan, and we announced that we're going to expand Echo and Alexa soon to Italy, Mexico and Spain.
+U1eT-H6cYu CLAIM-Fact 2063 2153 So I would say that we're continuing to frontload Prime benefits in the newer geographies.
+hEjos-jOLK PREMISE-Fact 1230 1370 I would also say that, although it's smaller internationally the impact of advertising is starting to show up more and more internationally.
+oHc_Pq1rpR PREMISE-Fact 1371 1429 It's growing quite quickly just as it is in North America.
+aSekYrdeWY CLAIM-Fact 1471 1541 We're investing in India obviously, and have seen good traction there.
+kmn2exqoFn CLAIM-Opinion(view) 1660 1791 So we think there's a lot of great innovation that has continued to occur for Indian consumers and sellers, and that will continue.
+zvGInHS5_6 PREMISE-Fact 2311 2487 We also like that the – on Prime Day, we were able to expand our list of countries that experience Prime Day; this year to Australia, Singapore, the Netherlands and Luxembourg.
+o7gW8C6a91 CLAIM-Fact 2488 2540 So we're very bullish on our International business.
+ra2grhI2tQ CLAIM-Fact 2541 2646 We do realize it's a period of investment and we're in different stages of growth in different countries.
+m7_IKcbfLa CLAIM-Opinion(view) 2217 2257 But we think it's the right thing to do.
+odMKESLRnf PREMISE-Fact 2154 2216 So that's one of the issues that we see with operating margin.
+wVg7ofz8bR CLAIM-Fact 2258 2310 We are seeing strong traction in that front as well.
+R0 SUPPORT ARG1:GtJViRhExc ARG2:m_azJyN_9u
+R1 SUPPORT ARG1:GfSfCZ8So2 ARG2:m_azJyN_9u
+R2 SUPPORT ARG1:hOu9PNhVcC ARG2:oEFLrfm1FF
+R3 SUPPORT ARG1:hEjos-jOLK ARG2:oEFLrfm1FF
+R4 SUPPORT ARG1:oHc_Pq1rpR ARG2:oEFLrfm1FF
+R5 SUPPORT ARG1:Y1wBWoD97B ARG2:aSekYrdeWY
+R6 SUPPORT ARG1:if3iIqOPGX ARG2:U1eT-H6cYu
+R7 SUPPORT ARG1:_k4qY0Tzuw ARG2:U1eT-H6cYu
+R8 SUPPORT ARG1:C_JyZ8EaqJ ARG2:U1eT-H6cYu
+R9 SUPPORT ARG1:e6Je1M6PQ_ ARG2:U1eT-H6cYu
+R10 SUPPORT ARG1:zvGInHS5_6 ARG2:o7gW8C6a91
+R11 ATTACK ARG1:odMKESLRnf ARG2:m7_IKcbfLa
+ArgQ0 m_azJyN_9u SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 oEFLrfm1FF SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 aSekYrdeWY SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 U1eT-H6cYu SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 o7gW8C6a91 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 m7_IKcbfLa SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

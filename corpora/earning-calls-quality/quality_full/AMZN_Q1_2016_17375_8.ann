@@ -1,0 +1,11 @@
+KgtoNyWpHo NON-ARG 358 363 Sure.
+KP39NZQRvS PREMISE-Fact 805 880 You also have to keep in mind that we're making large investments in India.
+GKrrlIvtul CLAIM-Opinion(view) 881 966 We're very excited about what we see and we will continue to invest heavily in India.
+cd8ukppIYw CLAIM-Fact 710 804 So we continue to build the underpinnings of the Prime program in our international countries.
+t9HkW-f57a PREMISE-Fact 364 511 So, on the op margin side, although there was improvement year-over-year and, yeah, you're right, it is still on FX-neutral basic – basis negative.
+SePbHl4n-W PREMISE-Fact 512 709 We have, as I said earlier, selection expansion, infrastructure investments, fulfillment network and AWS – excuse me, that's not the international segment – fulfillment network and digital content.
+R0 SUPPORT ARG1:t9HkW-f57a ARG2:cd8ukppIYw
+R1 SUPPORT ARG1:SePbHl4n-W ARG2:cd8ukppIYw
+R2 SUPPORT ARG1:KP39NZQRvS ARG2:GKrrlIvtul
+ArgQ0 cd8ukppIYw SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 GKrrlIvtul SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

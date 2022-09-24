@@ -1,0 +1,25 @@
+xQTj02fCPK NON-ARG 910 949 Let me start with your middle question.
+qhipyvGxIW NON-ARG 950 992 I think it was about Latin America growth.
+VVs3S7s5YM NON-ARG 993 1057 Let me step back and talk about international growth in general.
+Et5p2Yt7rR CLAIM-Fact 1058 1155 So our approach varies by country, and if you look, historically we've taken multiple approaches.
+3z9pkkS3ei PREMISE-Fact 1156 1233 So in China, we bought an existing business Joyo.com and built off that base.
+oyVaoffHA0 PREMISE-Fact 1234 1309 In India, we started from scratch and have built a lot of things ourselves.
+crcHrUkyUv NON-ARG 1310 1447 And it's always going to depend on the country that the dynamics in that country both for retail, for online, and for foreign investment.
+vLwT-3_GyV PREMISE-Fact 1448 1527 But a real key factor in all of this generally is management bandwidth as well.
+uNemmH4k58 PREMISE-Fact 1528 1560 So, we pick our spots carefully.
+JWDkcK0xeu NON-ARG 1561 1665 You'll see – you heard in the quarter that we've announced the intention to buy Souq in the Middle East.
+aCEs7HsyoT NON-ARG 1666 1705 Where does that fit into this strategy?
+T-C68JHL0b PREMISE-Fact 1706 1889 Well, Souq's pioneered e-commerce in the Middle East, and they're creating great shipping experience for their customers and they're multiple countries, and they're doing a great job.
+JnwDHYuGnS NON-ARG 1890 2028 So we see this as an example where we can learn from them, and also support their efforts with our Amazon technology and global resources.
+LIPBbJVtWp NON-ARG 2029 2095 So we're in Mexico, but we're not in other parts of Latin America.
+u_EheLSL1Z PREMISE-Fact 2096 2125 We have a business in Brazil.
+GxsQdRlrwK NON-ARG 2126 2281 But other countries we'll take on a case-by-case basis, again, bounded by what our management bandwidth can support and prioritization versus other things.
+KwvIBqslXZ NON-ARG 2282 2330 You obviously heard my long list of investments.
+Bys1wPBqAw NON-ARG 2447 2539 So international expansion gets played off in the same prioritization that other efforts do.
+mcZyBSADO9 NON-ARG 2331 2446 All of those are pretty much gated by the need for people and software engineers and strong teams to approach them.
+R0 SUPPORT ARG1:oyVaoffHA0 ARG2:Et5p2Yt7rR
+R1 SUPPORT ARG1:3z9pkkS3ei ARG2:Et5p2Yt7rR
+R2 SUPPORT ARG1:vLwT-3_GyV ARG2:Et5p2Yt7rR
+R3 SUPPORT ARG1:uNemmH4k58 ARG2:Et5p2Yt7rR
+R4 SUPPORT ARG1:T-C68JHL0b ARG2:Et5p2Yt7rR
+ArgQ0 Et5p2Yt7rR SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

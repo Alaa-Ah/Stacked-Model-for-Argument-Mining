@@ -1,0 +1,38 @@
+WctPY684sP NON-ARG 2924 2928 Yes.
+ZOy5RV9P6q NON-ARG 2929 2942 This is Dave.
+dDi8pXEUnN NON-ARG 2943 3016 Just kind of on the modeling point too on that the $800 million is in Q1.
+wUR457TUI7 CLAIM-Opinion(view) 3017 3148 We do think that the -- for that accounting impact effectively, we expect that that amount will decrease as we go through the year.
+SJhkdX_kLM PREMISE-Fact 3149 3185 And it's tech infrastructure assets.
+6cGreaOyaL PREMISE-Fact 3186 3254 So, it's -- I should say the servers are tech infrastructure assets.
+6G7HTEAEjM CLAIM-Fact 3255 3337 So, when you think about segments the majority of these relate to the AWS segment.
+2aD5jm57Hc NON-ARG 694 699 Sure.
+rqs5CnT9XS NON-ARG 700 728 Thanks for bringing that up.
+yB3vOevQQ5 NON-ARG 729 958 So, we as a practice monitor and review, the useful life of our depreciable assets on a regular basis to make sure that our financial statements reflect our best estimate of how long the assets are going to be used in operations.
+_wfD9iOv_Z NON-ARG 959 1056 In Q4 -- and we've been looking at it in both the FCs, fulfillment centers and also AWS annually.
+5vtsQk4ypb PREMISE-Fact 1183 1266 We have been -- for our servers and we had been depreciating them over three years.
+6uT94eFlNV CLAIM-Fact 1267 1332 So, we are going to start depreciating them on a four year basis.
+tWnr80MkeX PREMISE-Fact 1333 1395 It doesn't unwind any depreciation that's already been booked.
+g5Zea9KUWw CLAIM-Fact 1396 1605 It just takes the asset from its current status and extends the depreciation period and then new assets will be put into play will extend out for four years instead of three and we'll continue to revisit this.
+S0ZCjTnQOa CLAIM-Fact 1606 1672 I do want to point out it's not just an accounting-related change.
+gCOCpwR9T- CLAIM-Fact 1673 1766 It's rather a reflection of the work that we've done to make our server capacity last longer.
+Kh59rqhCFc CLAIM-Fact 1767 1911 We've been operating at scale for over 13 years in this business and we continue to refine our software to run more efficiently on the hardware.
+5cQpUTwTpV PREMISE-Fact 1912 2086 It then lowers stress and extends the useful life both through servers that we used in the AWS business and also the servers that we use to support our own Amazon businesses.
+JG92z4HPLX CLAIM-Fact 2087 2256 So -- and despite that we give AWS customers and actually because of this, AWS customers continue to get access to the latest technologies more quickly than ever before.
+8zxVz_-0YD CLAIM-Reformulated 2257 2418 So, we are essentially reflecting the fact that we have gotten better at extending the useful life here and now building that into our financials moving forward.
+m5yQeIVpwZ NON-ARG 2419 2437 Yes, you're right.
+GKRdJe3ZYi CLAIM-Fact 2438 2495 It should also impact our need and our timing of capital.
+1o01943FVa CLAIM-Fact 2496 2656 I would say that it's also been part of the reason that we've been able to keep capital relatively under in check the last two years in the infrastructure area.
+Vn5cusDKKF CLAIM-Opinion(view) 1057 1182 As we looked in Q4 of 2019, we believe it's -- there's enough trend now to show that the useful life is exceeding four years.
+8JJjdKwFxd PREMISE-Statistic 2657 2764 But its $800 -- excuse me $800 million lower depreciation expense in the quarter and it will be consistent.
+LaMmGASaMx CLAIM-Fact 2765 2799 It will change quarter-to-quarter.
+lr_-dp63F9 CLAIM-Fact 2800 2819 We will update you.
+ALFGCpR-xO PREMISE-Statistic 2820 2910 But as you can see in our financial statements, it's about $2.3 billion impact in Q2 2020.
+R0 SUPPORT ARG1:SJhkdX_kLM ARG2:6G7HTEAEjM
+R1 SUPPORT ARG1:6cGreaOyaL ARG2:6G7HTEAEjM
+R2 SUPPORT ARG1:5cQpUTwTpV ARG2:Kh59rqhCFc
+R3 SUPPORT ARG1:5vtsQk4ypb ARG2:6uT94eFlNV
+R4 SUPPORT ARG1:tWnr80MkeX ARG2:g5Zea9KUWw
+ArgQ0 6G7HTEAEjM SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Kh59rqhCFc SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 6uT94eFlNV SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 g5Zea9KUWw SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

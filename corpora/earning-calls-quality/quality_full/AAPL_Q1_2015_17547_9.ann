@@ -1,0 +1,43 @@
+V82oqceLpi CLAIM-Opinion(view) 550 586 My expectations are very high on it.
+K-MlctY8na PREMISE-RealExample 587 650 I'm using it every day and love it and I can’t live without it.
+MVGCKa8Lu6 PREMISE-Fact 719 854 The number of developers that are writing apps more for it are impressive and we’re seeing some incredible innovation coming out there.
+zqBLu9bMwC CLAIM-Reformulated 651 718 So I see that we’re making great progress on the development of it.
+1YcDcjNN12 CLAIM-Fact 1056 1134 And so to us it's sort of within the range and it’s basically when we thought.
+gPFnTU4oh_ PREMISE-Fact 855 1055 And just to clarify, what we had been saying was early 2015, and we sort of look at the year and think of early as the first four months, mid is the next four months and late is the final four months.
+tHAy5yC4WX CLAIM-Opinion(view) 1135 1222 We’re going to -- but most importantly we’re going to be thrilled to start shipping it,
+aZzbR7neH7 PREMISE-Fact 1223 1285 because we got a lot of customers that are wanting to get one.
+lyeCBaLyv0 PREMISE-Fact 1522 1621 The local competition was obviously there this quarter and has been there for many quarters before.
+qfhtsGqfNE CLAIM-Fact 1622 1662 And so the local competition is not new.
+HjBvh49ttb CLAIM-Opinion(view) 1663 1696 I think we did really well there.
+-4a8OQ3bU- PREMISE-RealExample 1732 1778 I was there right after the launch in October.
+K51y-yl1at PREMISE-RealExample 1779 1860 And the excitement around the iPhone 6, iPhone 6 Plus were absolutely phenomenal.
+XGt916Xj__ PREMISE-Statistic 1861 2036 And you can see that in the results with Mainland China being up 100% year-on-year, despite not having a full quarter of sales since we launched in the second half of October.
+7VzX43nxR1 CLAIM-Opinion(view) 2037 2088 You can tell by that we’re a big believer in China.
+03NHc0v0RE PREMISE-Fact 2122 2157 We’re growing the number of stores.
+IeEC9hHV2_ PREMISE-Statistic 2158 2286 We’ll hit 20 soon and we’re doubling that by mid-2016 as Angela has said earlier and Luca said in his prepared comments as well.
+Bq6GBKiQKM PREMISE-Fact 2089 2121 We’re looking at our investment.
+27s8fV5epH PREMISE-Fact 2287 2324 We’re also growing the channel there.
+nwF93twYTH PREMISE-Statistic 2325 2483 Our online store has expanded to over 350 cities now, and in fact our online revenues in China last quarter were more than the sum of the previous five years.
+HDvEPq2OKT CLAIM-Fact 2484 2517 And so it’s an incredible market.
+VwyV6XyJvw CLAIM-Opinion(view) 2518 2605 I think people love Apple products and we are going to do our best to serve the market.
+gOUeZnmhK8 CLAIM-Reformulated 1697 1731 I'm very proud of how we’re doing.
+R0 SUPPORT ARG1:K-MlctY8na ARG2:V82oqceLpi
+R1 SUPPORT ARG1:gPFnTU4oh_ ARG2:1YcDcjNN12
+R2 SUPPORT ARG1:aZzbR7neH7 ARG2:tHAy5yC4WX
+R3 SUPPORT ARG1:lyeCBaLyv0 ARG2:qfhtsGqfNE
+R4 SUPPORT ARG1:-4a8OQ3bU- ARG2:HjBvh49ttb
+R5 SUPPORT ARG1:K51y-yl1at ARG2:HjBvh49ttb
+R6 SUPPORT ARG1:XGt916Xj__ ARG2:HjBvh49ttb
+R7 SUPPORT ARG1:Bq6GBKiQKM ARG2:7VzX43nxR1
+R8 SUPPORT ARG1:03NHc0v0RE ARG2:7VzX43nxR1
+R9 SUPPORT ARG1:IeEC9hHV2_ ARG2:7VzX43nxR1
+R10 SUPPORT ARG1:27s8fV5epH ARG2:7VzX43nxR1
+R11 SUPPORT ARG1:nwF93twYTH ARG2:7VzX43nxR1
+R12 SUPPORT ARG1:MVGCKa8Lu6 ARG2:zqBLu9bMwC
+ArgQ0 V82oqceLpi SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 1YcDcjNN12 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 tHAy5yC4WX SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 qfhtsGqfNE SPECIFIC_2 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 HjBvh49ttb SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ5 7VzX43nxR1 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ6 zqBLu9bMwC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,39 @@
+r1DrfIsyC0 NON-ARG 57 82 And on virtual reality...
+wwXZJCyw-C NON-ARG 100 140 Mark has a second part of that question.
+Rck9JtmU7m PREMISE-Fact 165 412 So on virtual reality here, I think the big picture is that every 10 to 15 years or so there is a major new computing paradigm, right, whether that's DOS and then Windows and kind of desktop UI and then web browsers and now mobile phones and apps.
+QHR8bLdNpf CLAIM-Opinion(view) 413 480 So it strikes me as inevitable that that progression will continue.
+hSUzMc7xN_ PREMISE-Fact 481 605 And each one gets to be more natural to interact with, more natural gestures for controlling, more immersive, more portable.
+AaJFdnsglM CLAIM-Reformulated 606 716 So I think it strikes me as very likely that the next one is going to be around virtual and augmented reality.
+pBhosw6dme CLAIM-Fact 717 749 So we're investing a lot in this
+ArwlUMEv3q PREMISE-Fact 750 842 because, frankly, we haven't to date been a hardware company or an operating system company.
+a0phh8XuNy PREMISE-Hypothesis 843 1007 And we think that we need to build up a lot of different muscles in order to be competitive and be able to succeed in that space and to be able to shape that space.
+cQCUYzMdsF PREMISE-Fact 1248 1293 I mean, iOS and Android came out around 2007.
+FeM_8anvmd PREMISE-Fact 1294 1337 We were really small company at that point.
+nwWu5mM34n PREMISE-Fact 1338 1390 So that just wasn't a thing that we were working on.
+lJA_etmODl PREMISE-Other 1391 1545 But now I think we're living in a world where – the way that I think about this is that people should really be at the center of how we design technology.
+e8rc64AN3s PREMISE-Other 1546 1583 It shouldn't be designed around apps.
+ym9l4MKb45 PREMISE-Other 1584 1669 It should be designed around our relationships because that's what matters to people.
+IWUZ90RrgC PREMISE-Fact 1670 1714 And that's not the world we're on on mobile.
+qbrw3BYbJF CLAIM-Opinion(view) 1715 1843 So I really am very committed to this idea of making sure that the next platform reflects those values that Facebook stands for.
+LBOYkF5Heu CLAIM-Opinion(view) 1844 1889 I think this is going to be an exciting year.
+oqvuKEvbVA CLAIM-Reformulated 1933 2134 We have the prototype and the developer kit around the higher-end stand-alone coming out as well, and we're doing a number of other things that I think are going to be quite exciting over time as well.
+qjzzxXMcRF NON-ARG 2135 2180 But that's how I think about the whole space.
+qTjWQO_s69 NON-ARG 2183 2234 don't know exactly when it's going to be a big deal
+erkepZitz7 NON-ARG 2236 2395 When we started talking about this, I said that I thought that this was going to be a 10-year journey before this was really a very mainstream, major platform.
+ZOsaE4k3fY NON-ARG 2396 2535 And I think the reality is Facebook needs to be investing before it is a big thing in order to build some of the muscles to be competitive.
+Ubl6An6jf3 CLAIM-Reformulated 2536 2621 We're committed to doing that because I think that this is important for our mission.
+AkpHpCoykF PREMISE-Fact 1008 1247 One of my great regrets in how we've run the company so far is I feel like we didn't get to shape the way that mobile platforms developed as much as would be good because they were developed contemporaneously with Facebook early on, right.
+KP5I6k35qC PREMISE-Fact 1890 1932 As you mentioned, Oculus Go is coming out.
+kEcIhHWdqn NON-ARG 2180 2183  I 
+R0 SUPPORT ARG1:Rck9JtmU7m ARG2:QHR8bLdNpf
+R1 SUPPORT ARG1:hSUzMc7xN_ ARG2:QHR8bLdNpf
+R2 SUPPORT ARG1:ArwlUMEv3q ARG2:pBhosw6dme
+R3 SUPPORT ARG1:a0phh8XuNy ARG2:pBhosw6dme
+R4 SUPPORT ARG1:AkpHpCoykF ARG2:qbrw3BYbJF
+R5 SUPPORT ARG1:cQCUYzMdsF ARG2:qbrw3BYbJF
+R6 SUPPORT ARG1:FeM_8anvmd ARG2:qbrw3BYbJF
+R7 SUPPORT ARG1:nwWu5mM34n ARG2:qbrw3BYbJF
+R8 SUPPORT ARG1:e8rc64AN3s ARG2:qbrw3BYbJF
+R9 SUPPORT ARG1:ym9l4MKb45 ARG2:qbrw3BYbJF
+R10 SUPPORT ARG1:IWUZ90RrgC ARG2:qbrw3BYbJF
+R11 SUPPORT ARG1:KP5I6k35qC ARG2:LBOYkF5Heu

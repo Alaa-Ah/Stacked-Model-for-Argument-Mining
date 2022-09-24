@@ -1,0 +1,25 @@
+4DlIIsNDR_ NON-ARG 864 869 Sure.
+GZ7qQOd1hX NON-ARG 870 901 So first on your video comment.
+YN0x0aa20S PREMISE-Fact 902 969 We're in four countries right now, the U.S., UK, Germany and Japan.
+B43_0CkNUD PREMISE-Fact 970 1019 And we have stated that we will be in India soon.
+XAkJwXBvT5 PREMISE-Fact 1020 1185 So the content that we are creating, especially through Amazon Studios, we are generally holding the worldwide rights to and can use that in other countries as well.
+6susy6v0Ae PREMISE-Fact 1186 1246 And the cost of that then gets amortized to those countries.
+TxdiweVGll PREMISE-Fact 1247 1300 It becomes part of the International segment results.
+2S7d4d5C3T CLAIM-Opinion(view) 1301 1470 So yes, and we consider that to be very valuable as opposed to, versus licensing many times by country, the third-party rights to content that we don't create ourselves.
+vYEVUotHUC NON-ARG 1471 1553 Your question on fulfillment expenses, I can't extend the guidance into next year.
+Eqk3rSEotR NON-ARG 1554 1607 We will do that obviously at the end of next quarter.
+zvfm1QnOTx CLAIM-Opinion(view) 1608 1765 But I would say this was an extraordinary step up, as I mentioned, in Q3 that is tied to very rapid growth in not only paid units but Amazon fulfilled units.
+nlafzevqx5 NON-ARG 1766 1895 So really, our forecast for additional capacity additions and the rate of additions will be tied to those growth factors as well.
+hP8v0jso7a NON-ARG 1896 1917 So we'll have to see.
+-KWEWCPorD PREMISE-Fact 1918 1970 We right now are working on getting the capacity in.
+_a3AptVaNQ PREMISE-Statistic 1971 2095 It was very lumpy this time with 18 warehouses in one quarter and another five in the first three weeks of the next quarter.
+S6t-midkMr PREMISE-Fact 2096 2230 So ,and obviously we'll be working on the efficiencies of all the warehouses we have, including the ones we just started up this year.
+R0 SUPPORT ARG1:YN0x0aa20S ARG2:2S7d4d5C3T
+R1 SUPPORT ARG1:XAkJwXBvT5 ARG2:2S7d4d5C3T
+R2 SUPPORT ARG1:6susy6v0Ae ARG2:2S7d4d5C3T
+R3 SUPPORT ARG1:TxdiweVGll ARG2:2S7d4d5C3T
+R4 SUPPORT ARG1:-KWEWCPorD ARG2:zvfm1QnOTx
+R5 SUPPORT ARG1:_a3AptVaNQ ARG2:zvfm1QnOTx
+R6 SUPPORT ARG1:S6t-midkMr ARG2:zvfm1QnOTx
+ArgQ0 2S7d4d5C3T SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 zvfm1QnOTx SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

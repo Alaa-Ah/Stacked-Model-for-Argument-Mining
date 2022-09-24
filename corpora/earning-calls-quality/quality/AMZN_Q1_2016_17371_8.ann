@@ -1,0 +1,37 @@
+Ok1bMRlhW8 NON-ARG 658 692 Yeah, let me start with the Prime.
+XR28yK0mKT CLAIM-Fact 693 798 Yes, we have had very strong growth the last two years and earlier, obviously on Prime growth of members.
+AXx7s95b9T CLAIM-Opinion(view) 799 881 I would say it's a culmination of a lot of separate investments that we're making.
+IzHfrEviqj PREMISE-Fact 882 1002 So if you look at the success of our devices, we are seeing tablets where we sold twice the volume in Q1 year-over-year.
+_VSsDpLhsf PREMISE-Statistic 1003 1201 Fire TV Stick, you may have read in our press release that it has greater than 100,000 customer reviews, the most reviewed product ever, 62,000 or over 62,000 of those reviews are five-star reviews.
+KQuEvIurJ3 PREMISE-RealExample 1202 1348 We've not only had the Echo, but we have the Echo Dot and Tab, so we're branching off that product line and having trouble keeping those in stock.
+2fFYYMOiir PREMISE-RealExample 1349 1405 And of course we launched the new Kindle Oasis e-reader.
+77mK0Vrrtz NON-ARG 1406 1448 So that is an important part of the story.
+TDWZ4gXUZt PREMISE-Fact 1449 1593 As it is with digital content, you may have seen the recent announcements that we're working on a great amount of new content for Prime members.
+BUuS89l_ZS CLAIM-Opinion(view) 1594 1785 We love the – customers love the content and we like the results we see, particularly around Prime free trial conversion and renewal rates for subscribers who use and take advantage of Prime.
+Ts3J7GoSSI CLAIM-Opinion(view) 1786 1944 So beyond the awards that the content is winning and the success we're having with Amazon, particularly our Amazon Originals, we feel that program is working.
+0w6k7fDfWV PREMISE-Other 1945 2006 We're going to significantly increase our spend in that area.
+EM80Y4Dr-9 PREMISE-Other 2007 2076 Some of that is in Q2, you'll see that more in the next few quarters.
+90jcIqMK_W NON-ARG 2288 2361 This is Phil Hardin and I'll jump in on the second part of your question.
+I8XLj89Y8y NON-ARG 2362 2407 So for the trucks, it – really it's trailers.
+85fDqAea2x PREMISE-Fact 2494 2563 So we're running enough volume there that we're using trucks already.
+ADPwtPGpyk PREMISE-Fact 2564 2680 We thought it made sense to go ahead and buy some trailers, we're actually still contracting out for the truck part.
+5TGP41DcSe CLAIM-Opinion(view) 2681 2759 And it gives us flexibility, we think the economics will make sense over time.
+3VMJThY8vT CLAIM-Fact 2408 2493 The typical use case is running a lag between a fulfillment center and a sort center.
+iK2bXNqWBU PREMISE-Fact 2760 2968 Similarly, we've announced an agreement to lease some airplanes with Air Transport Services Group, an agreement to lease up to 20 Boeing 767s there, and similar use case, it's products that are already boxed.
+05NklmbofQ CLAIM-Reformulated 2969 3073 And we think again, this is activities we've been doing already which need to grow at a very rapid rate.
+ns0ubdUgqV CLAIM-Opinion(view) 3074 3209 This gives us extra capacity and we think it's good to be able to deliver to customers, and we think it makes sense over the long-term.
+yVNv0SUL8B CLAIM-Reformulated 2077 2274 But we think that's working and look forward to bringing a lot of new content to our Prime subscriber base, both through our normal Prime subscription and also the monthly plan that you alluded to.
+R0 SUPPORT ARG1:0w6k7fDfWV ARG2:Ts3J7GoSSI
+R1 SUPPORT ARG1:EM80Y4Dr-9 ARG2:Ts3J7GoSSI
+R2 SUPPORT ARG1:IzHfrEviqj ARG2:AXx7s95b9T
+R3 SUPPORT ARG1:_VSsDpLhsf ARG2:AXx7s95b9T
+R4 SUPPORT ARG1:KQuEvIurJ3 ARG2:AXx7s95b9T
+R5 SUPPORT ARG1:2fFYYMOiir ARG2:AXx7s95b9T
+R6 SUPPORT ARG1:TDWZ4gXUZt ARG2:AXx7s95b9T
+R7 SUPPORT ARG1:85fDqAea2x ARG2:3VMJThY8vT
+R8 SUPPORT ARG1:ADPwtPGpyk ARG2:3VMJThY8vT
+R9 SUPPORT ARG1:iK2bXNqWBU ARG2:5TGP41DcSe
+ArgQ0 Ts3J7GoSSI SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 AXx7s95b9T SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_0
+ArgQ2 3VMJThY8vT SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 5TGP41DcSe SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

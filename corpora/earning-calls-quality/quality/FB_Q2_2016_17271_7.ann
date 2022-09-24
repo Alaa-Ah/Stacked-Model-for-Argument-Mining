@@ -1,0 +1,27 @@
+L6v4fNF80C NON-ARG 499 538 If I can take Instant Articles quickly.
+np57pRUS0C CLAIM-Opinion(view) 539 563 I think it's going well.
+P2OiRCOE2W PREMISE-Fact 564 592 It's a good user experience.
+TB2lhIplZ5 PREMISE-Fact 593 608 People like it.
+WCdkUEAtcX PREMISE-Hypothesis 609 795 The hypothesis when we rolled it out was that if we removed the latency, which is often 10 seconds to 15 seconds of opening up a web view from News Feed that more people would read news.
+0ZhTPIFJHc PREMISE-Fact 796 856 I think the initial data suggests that that's probably true.
+EzIyp8zL5b NON-ARG 857 872 So that's good.
+s1aoOWIiAA PREMISE-Fact 873 904 We're getting more partners on.
+UKADoKK1Kg CLAIM-Opinion(view) 905 1108 And over the long-term, I think one of the big things that we need to do is see if we can not only make this good for engagement for our partners, but also a really positive business driver for them too.
+hUNdW3L6qV NON-ARG 1109 1206 So that's something that I'm excited about, and we'll hopefully have more news on that coming up.
+dAZ1xqJuEm NON-ARG 1224 1324 So, on the 49% year-over-year growth in impression, we're not providing a specific break down there.
+rDJjco09KL CLAIM-Fact 1325 1403 I would say that it's primarily driven by growth in Facebook mobile News Feed.
+u31VwZEESN PREMISE-Fact 1404 1607 We've talked about the drivers of supply being growth in DAU, growth in time spent per DAU and ad load, and obviously, we've given stats around rough stats around – we've given specific stats around DAU.
+rRJ5PSBKoE PREMISE-Fact 1608 1668 We've talked about time spent per DAU being up double-digit.
+ajw4T5JFNg NON-ARG 1669 1722 So I think you can make some assumptions around that.
+bp7hQrhbk- NON-ARG 1723 1773 So that's probably the way to triangulate on that.
+kmvif0gL3E NON-ARG 1774 1824 I think we have time for one more question, Chris.
+R0 SUPPORT ARG1:P2OiRCOE2W ARG2:np57pRUS0C
+R1 SUPPORT ARG1:TB2lhIplZ5 ARG2:np57pRUS0C
+R2 SUPPORT ARG1:WCdkUEAtcX ARG2:np57pRUS0C
+R3 SUPPORT ARG1:0ZhTPIFJHc ARG2:np57pRUS0C
+R4 SUPPORT ARG1:s1aoOWIiAA ARG2:UKADoKK1Kg
+R5 SUPPORT ARG1:u31VwZEESN ARG2:rDJjco09KL
+R6 SUPPORT ARG1:rRJ5PSBKoE ARG2:rDJjco09KL
+ArgQ0 np57pRUS0C SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 UKADoKK1Kg SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 rDJjco09KL SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

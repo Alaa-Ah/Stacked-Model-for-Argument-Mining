@@ -1,0 +1,22 @@
+NVwoFxgfd1 NON-ARG 636 641 Sure.
+AiZcTp1cxK NON-ARG 642 673 Thanks for your question Heath.
+1fpWeKaowu CLAIM-Fact 674 730 I will point out that we have continued to lower prices.
+0gKtvoGrgy PREMISE-Fact 731 770 We've had multiple price cuts this year
+dMQoeySuWK PREMISE-Statistic 772 813 We are now up to 49 since launch in 2006,
+QD2BBApsL0 CLAIM-Fact 814 864 so it is a fundamental part of our business model.
+abToL_FgD3 CLAIM-Fact 865 882 So is innovation.
+5fmJrST2lx PREMISE-Statistic 883 1007 As I said, we have over 350 new features and services – also significant features and services that have launched this year.
+k9wyubk3Nb PREMISE-Fact 1008 1121 And as we were just talking with Carlos, the capital investment is very large as well, so we continue to fund it.
+Ra95Jqr6qB CLAIM-Reformulated 1278 1322 And price reductions are part of that model.
+cGvzBg18yx CLAIM-Opinion(view) 1240 1277 so we are thrilled with the business.
+eV8VhdZFLk PREMISE-Fact 1122 1239 And we are super excited with the customer reception that we are getting and the feedback we get from large customers
+lhLJyy1MJ4 CLAIM-Fact 1323 1376 And again, as I said earlier, we're in the long haul.
+ZKTzi7idjQ CLAIM-Reformulated 1377 1409 We're in this for the long haul.
+DqFV47z3nW CLAIM-Policy 1410 1506 We are looking for return on invested capital, free cash flow, and happy customers in the space.
+R0 SUPPORT ARG1:0gKtvoGrgy ARG2:1fpWeKaowu
+R1 SUPPORT ARG1:dMQoeySuWK ARG2:1fpWeKaowu
+R2 SUPPORT ARG1:5fmJrST2lx ARG2:abToL_FgD3
+R3 SUPPORT ARG1:k9wyubk3Nb ARG2:abToL_FgD3
+R4 SUPPORT ARG1:eV8VhdZFLk ARG2:abToL_FgD3
+ArgQ0 1fpWeKaowu SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 abToL_FgD3 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

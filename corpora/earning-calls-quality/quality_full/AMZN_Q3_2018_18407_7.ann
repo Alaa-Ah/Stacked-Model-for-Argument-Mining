@@ -1,0 +1,22 @@
+gL8aixIOZz NON-ARG 1892 1915 Yeah, and this is Dave.
+Rd8HMzN52M CLAIM-Opinion(view) 2043 2174 I think we clearly had a lot of exciting things happen in the last month or two in terms of new announcements in devices out there.
+SDFGaOYLTf CLAIM-Fact 2175 2364 And I mean really looking at that, the goal is to make customers' lives easier and make it more convenient and a lot of that is you're seeing that in the homes and to some extent on the Go.
+0USM5QB8Ha NON-ARG 2365 2444 So I think if you look at the recent announcements, you're seeing a few things.
+SMT5dK72Ox CLAIM-Fact 1916 2042 Just jumping on the Alexa point, I mean, I think the short answer is we don't have any plans to add paid advertising to Alexa.
+QA2gGO3eUN PREMISE-Fact 2445 2517 I mean, one, we're bringing a lot of cool hardware options to customers.
+lu1CAvwCyC PREMISE-Fact 2518 2573 Second thing, I mean, making the Alexa service smarter.
+E5EFny4jIX PREMISE-Fact 2574 2612 It's getting smarter and more capable.
+mBdlTfmE4R PREMISE-Fact 2613 2705 And then also delivering tools for developers, helping them build for and really with Alexa.
+e-nTUSI_Mo CLAIM-Opinion(view) 2902 3029 So really excited about the customer response with those devices and those tools so far and looking forward to doing even more.
+6Is6cqsP5j CLAIM-Opinion(view) 2706 2901 So I think making her smarter and seeing that she gets smarter with all the skills, leveraging the cloud and AI, becoming more knowledgeable and introducing a lot of really new cool new features.
+mB8XKC77kA NON-ARG 853 915 Yeah, let me talk a little bit more broadly about advertising.
+kzxHRA3FxE CLAIM-Fact 916 1105 So yeah, we are seeing really strong adoption across a number of groups, Amazon vendors and sellers for sure, authors, as well as third-party advertisers who want to reach Amazon customers.
+w07Dp4ExYn CLAIM-Opinion(view) 1106 1329 As far as penetration, we don't have that quantified for you, but we still believe that there is a lot of room to continue to improve the presentation of and bringing to our customers new and more relevant purchase options.
+dPCcH6hkaN CLAIM-Fact 1330 1625 So we're continuing to invent both on the product side, the tools side with our goal being improve the usability of the tools for advertisers, make smarter recommendations for customers, automate activities so that advertisers don't have to work as hard, and invent new products for advertisers.
+qRIIiKPQ_I CLAIM-Opinion(view) 1626 1727 If we do this right, we think we'll both help advertisers and help Amazon consumers at the same time.
+qQ5PWuNLQc NON-ARG 1728 1878 So I know it doesn't answer the question about specific rate increases or capacity, but that is the general strategy that we're seeing in advertising.
+R0 SUPPORT ARG1:QA2gGO3eUN ARG2:SDFGaOYLTf
+R1 SUPPORT ARG1:lu1CAvwCyC ARG2:SDFGaOYLTf
+R2 SUPPORT ARG1:E5EFny4jIX ARG2:SDFGaOYLTf
+R3 SUPPORT ARG1:mBdlTfmE4R ARG2:SDFGaOYLTf
+ArgQ0 SDFGaOYLTf SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

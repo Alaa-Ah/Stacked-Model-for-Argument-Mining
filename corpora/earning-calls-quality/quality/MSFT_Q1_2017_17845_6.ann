@@ -1,0 +1,7 @@
+zEa4lS9pSc PREMISE-RealExample 1157 1419 How we're doing containers for example in Windows Server 2016 we have great container support as well as support for things like our service fabric so that people can have absolute application portability and in fact people can even [indiscernible] applications.
+LXj7xx8x91 CLAIM-Fact 528 1156 I spoke to this a little earlier because from day one we have this vision of how we want to build for the future distributed computing would include our hyper scale cloud service which is Azure an impact Azure is built on Hyper-V and we always said that we were going to build our server as the edge of our hyper scale cloud and so that's what Windows Server 2016 represents, that’s what SQL Server 2016 represents and so we have this unique capabilities like be able to stretch even a single table in a database in SQL 2016 all the way to the cloud for having infinite table capacity and then having your apps and queries work.
+L2F6jaBhri PREMISE-Fact 1420 1504 We have many customers who tier their storage and compute across a hybrid backplane.
+c0CUrpXWBr CLAIM-Reformulated 1505 1743 So this is an architectural design point that we have built from the ground up from day one and it's good to see people validating it now and elsewhere and we will take that as a validation of something that we thought of a long time ago.
+R0 SUPPORT ARG1:zEa4lS9pSc ARG2:LXj7xx8x91
+R1 SUPPORT ARG1:L2F6jaBhri ARG2:LXj7xx8x91
+ArgQ0 LXj7xx8x91 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

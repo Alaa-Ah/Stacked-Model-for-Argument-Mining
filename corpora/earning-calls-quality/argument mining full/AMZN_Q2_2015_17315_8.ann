@@ -1,0 +1,14 @@
+PqAEixEtdV NON-ARG 888 898 Yes, Mark.
+iACaAalOTv NON-ARG 899 924 Thanks for your question.
+oJwyYEOVMv PREMISE-Statistic 997 1044 we will say the growth of 81% was up 49% in Q1.
+cfc-xoRDxU NON-ARG 925 996 We will not be providing the granular customer detail unfortunately but
+-ORLMudMEI CLAIM-Fact 1164 1193 a very strong quarter in AWS.
+PFfwII87ns PREMISE-Fact 1045 1131 You remember that we are lapping a number of large price decreases in Q2 of last year,
+eVsAYwVdDc NON-ARG 1132 1163 so it was somewhat expected but
+ds-Hzr3vDp PREMISE-Fact 1194 1229 We did announce a region in India. 
+liHceRICkK CLAIM-Fact 1404 1462 From a distribution of customers, it is a global business.
+o1MWrjXYcT PREMISE-Fact 1463 1608 We have regions spread throughout the world; we have 11 regions at this point and have announced plans to launch a region in India in the future.
+LiNSZaJhaD NON-ARG 1229 1364 The other thing to mention is that we continue to see very strong usage of growth that's outpacing the revenue growth of 81% obviously.
+mRmlesYUkO NON-ARG 1365 1403 And so, we're really excited about it.
+R0 SUPPORT ARG1:o1MWrjXYcT ARG2:liHceRICkK
+R1 SUPPORT ARG1:oJwyYEOVMv ARG2:-ORLMudMEI

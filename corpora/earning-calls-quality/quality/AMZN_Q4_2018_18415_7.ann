@@ -1,0 +1,16 @@
+-d6toXQPb9 NON-ARG 686 691 Sure.
+wLErfUxsvp NON-ARG 692 731 Let me start with your second question.
+7X3-fvEerF CLAIM-Fact 732 816 Obviously, third party sellers are an important part of our value proposition there.
+A19eI3IGjK PREMISE-Fact 817 925 They’ve had great success on our site, the -- more than half of our units sold are from third party sellers.
+h5fmxUOg1i CLAIM-Reformulated 926 1032 So it's very important to us that we have the right business profile, both for Amazon and for the sellers.
+t708GZY1Lr CLAIM-Fact 1231 1279 So you're going to see this continually from us.
+6x85U0kNgo PREMISE-Statistic 1432 1517 On the international, on an FX neutral basis, the growth was 15% in Q3 and 19% in Q4.
+YPBnmOKntq CLAIM-Fact 1033 1230 So we will always be evolving that, part of that involves changing fee structures, sometimes, adding new fees or subtracting old ones, part of it involves raising or lowering fees that sellers pay.
+F0UNn9ofJy CLAIM-Fact 1280 1431 We generally work to change the fees to make sure that the incentives are strong on both sides and we continue to have a healthy growth in third party.
+BwYGCH25lU NON-ARG 1518 1630 But last call, if you remember, I talked about the timing of Diwali and the impact that had on our growth rates.
+49fFr9Ob72 NON-ARG 1631 1757 If we adjust for that and again Diwali had, took place primarily in Q4 this year and it was split between Q3 and Q4 last year.
+ry_nV2MLNI NON-ARG 1758 1826 If we adjust for that, international growth is pretty flat Q3 to Q4.
+R0 SUPPORT ARG1:A19eI3IGjK ARG2:7X3-fvEerF
+R1 SUPPORT ARG1:6x85U0kNgo ARG2:F0UNn9ofJy
+ArgQ0 7X3-fvEerF SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 F0UNn9ofJy SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2

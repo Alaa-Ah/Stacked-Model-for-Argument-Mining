@@ -1,0 +1,16 @@
+5sfVbIrFSO CLAIM-Opinion(view) 819 1000 Our approach to monetization anywhere is always very cautious and we are very - moving very slowly on Messenger, where we remain primarily focused on consumer growth and engagement.
+MufzFaVuuO CLAIM-Fact 1001 1145 Our real focus has been on the organic connections between businesses and consumers, where this is a really strong channel for customer service.
+jR16rNm-Vh PREMISE-Statistic 1146 1231 We now have 10 billion messages being sent between people and businesses every month.
+QcQK8_95O5 PREMISE-Fact 1232 1288 And of course, that includes automated messages as well.
+Jh7dp5yaEm CLAIM-Fact 1289 1336 We continue to make progress with monetization.
+9FThYtmcBz PREMISE-Fact 1337 1445 We're starting to roll out Stories ads, but it is very early days and we think it will be a long road ahead.
+tsff3vKdU_ PREMISE-Fact 1446 1670 It's also probably worth noting that the experiences we had to date, moving from Facebook to Instagram, were more similar, that the Instagram feed is similar to the Facebook feed in terms of what you can do with advertising.
+L-8tMJ45X4 PREMISE-Fact 1671 1797 And so Messenger and messaging services, if Stories is one click different from that, that's a few clicks different than that.
+lB0KxEm1le CLAIM-Reformulated 1798 1842 So we're going to have some real work to do.
+R0 SUPPORT ARG1:jR16rNm-Vh ARG2:MufzFaVuuO
+R1 SUPPORT ARG1:QcQK8_95O5 ARG2:MufzFaVuuO
+R2 SUPPORT ARG1:9FThYtmcBz ARG2:Jh7dp5yaEm
+R3 SUPPORT ARG1:tsff3vKdU_ ARG2:Jh7dp5yaEm
+R4 SUPPORT ARG1:L-8tMJ45X4 ARG2:Jh7dp5yaEm
+ArgQ0 MufzFaVuuO SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Jh7dp5yaEm SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

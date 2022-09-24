@@ -1,0 +1,20 @@
+j1cWlSpotE NON-ARG 435 440 Sure.
+ZxQyn9Juyb CLAIM-Policy 441 505 Well, what I can say is our approach to pricing has not changed.
+DfBG2v7rqq CLAIM-Fact 506 638 And through Q4 [ph] we did everything we could to have the best prices available for customers and in stock in time for the holiday.
+x6ntvDbSK6 PREMISE-Statistic 639 842 Another dynamic of Q4 was that it was a huge FBA quarter, nearly 50% of our third party units were FBA and our third party units were also up to 47% of our paid units, up 400 basis points year-over-year.
+zzYSuBQfAU PREMISE-Fact 843 913 So a really strong quarter for our FBA sellers using our FBA services.
+1kBpVFfc2Q PREMISE-Fact 914 977 It did put a lot of demands on our warehouses and we were full.
+1yuvlicKaC PREMISE-Fact 978 1120 It was a very busy quarter and it did increase some of our variable costs as a result, primarily in the US, but a very strong quarter for FBA.
+f_Ob73yfx4 CLAIM-Opinion(view) 1121 1161 It exceeded our - even our expectations.
+bZeEAAlbVm NON-ARG 1263 1273 I'm sorry.
+XkZvZCFGvz NON-ARG 1274 1292 You cut off there.
+DRVARhYXky NON-ARG 1293 1324 Could you repeat your question?
+m_-xUUhdQy NON-ARG 1468 1485 Nothing specific.
+VZsEnFS4cO NON-ARG 1486 1673 I will say, you know, one interesting enhancement this year was our Prime Now service, which allowed people order in selected markets up until 11.59 on New Year, excuse me, Christmas Eve.
+T2I-KhQvI7 NON-ARG 1674 1749 So that was a valuable service to many late shoppers, last-minute shoppers.
+R0 SUPPORT ARG1:x6ntvDbSK6 ARG2:DfBG2v7rqq
+R1 SUPPORT ARG1:zzYSuBQfAU ARG2:DfBG2v7rqq
+R2 SUPPORT ARG1:1kBpVFfc2Q ARG2:DfBG2v7rqq
+R3 SUPPORT ARG1:1yuvlicKaC ARG2:f_Ob73yfx4
+ArgQ0 DfBG2v7rqq SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 f_Ob73yfx4 SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3

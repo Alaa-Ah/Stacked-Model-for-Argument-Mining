@@ -1,0 +1,22 @@
+ENCMhctNeZ NON-ARG 988 993 Sure.
+iwXERHKGah NON-ARG 994 1026 So I can speak to both of those.
+92qyCpmKHV NON-ARG 1027 1249 For the News Feed question, the North Star for us in News Feed is that we want to produce the best experience for everyone who is using the app and loading News Feed to see what is going on in the world around them, right?
+FkMO7F4vpE NON-ARG 1250 1457 So when it comes to – there are lots of businesses on Facebook, there are professional content producers, our main interest here is the people in the community who are using News Feed, not those guys, right?
+w3GR_vVcK_ CLAIM-Opinion(view) 1458 1822 So of course we want to build tools to enable them to share their content and all of that, but we're constantly refining the algorithms in order to make it so the experience is the best for you when you open up your phone and look at Facebook and, there are a bunch of things that are going on, we want to make sure that we're getting what you care about the most.
+ZMQMf8bLG1 PREMISE-Fact 2060 2355 We also do a lot of qualitative surveys to see what people, what makes – what people write in that they want to see from us, what people tell us is the most important thing that they saw in Facebook today or saw anywhere in the world today and what they would've wanted to have seen on Facebook.
+GKTDdvMbsf CLAIM-Reformulated 2356 2539 And our goal is to just constantly refine this and make it better and we're going to keep on doing that because we think there's a lot of upside and there's a lot more that we can do.
+VJSpDxAwdZ PREMISE-Fact 1823 2059 And we go to a lot of lengths to make sure that we're getting signals from people in our community to make sure that we're doing this correctly, in addition to the different signals that we would get from seeing people use the products.
+KUbNuTqSZK NON-ARG 3625 3863 You know, I haven't actually spent that much time with this so far so, I mean, I mostly just want to congratulate Apple on shipping something that seems like a pretty amazing piece of technology and work, and we're proud to be supporting.
+wMCGpTerNA NON-ARG 3864 4031 And I know that we have a bunch of apps, and it's a space that's going to be really interesting and we're going watch closely and build what our community wants us to.
+yFe0D6rrvx NON-ARG 3520 3530 The watch.
+v6tRLZbso4 NON-ARG 3555 3569 Oh, the watch.
+ozoqUYZoPT NON-ARG 3590 3600 Wearables.
+taL4WhH8AE PREMISE-Hypothesis 2762 3042 But if you're a professional publisher, you need to have the ability to share a version of the content that you're producing that you're proud of, that can load quickly, that can be as rich as the tools enable people to see, and we're working on a lot of different tools for that.
+QyFyOku69m CLAIM-Fact 2540 2761 Now, at the same time, in order to make this experience good, there also needs to be good content in the system, right, so we need to make sure that people have the tools to able to share the moments that they care about.
+AyggZPt8RU PREMISE-Fact 3043 3434 And you can imagine that as the tools for any of this content get better, people taking photos, newspapers, writing news articles, advertisers, putting out ads for content that they want to sell, the better that content gets, the more people are excited to see it and then that informs the ranking in what the community qualitatively tells us that they want to see from us over time as well.
+ZvboZiObVd NON-ARG 3435 3473 So it's just a constant cycle on that.
+NHSeQPLovP NON-ARG 3474 3502 What was the other question?
+R0 SUPPORT ARG1:VJSpDxAwdZ ARG2:w3GR_vVcK_
+R1 SUPPORT ARG1:ZMQMf8bLG1 ARG2:w3GR_vVcK_
+R2 SUPPORT ARG1:taL4WhH8AE ARG2:QyFyOku69m
+R3 SUPPORT ARG1:AyggZPt8RU ARG2:QyFyOku69m

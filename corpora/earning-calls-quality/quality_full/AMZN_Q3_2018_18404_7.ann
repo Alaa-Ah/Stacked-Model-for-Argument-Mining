@@ -1,0 +1,14 @@
+uZ1_ea94rE NON-ARG 742 747 Sure.
+RhHwX-L2_p CLAIM-Opinion(view) 748 797 I think it's comparable to – last question first.
+UEXMnHb5l7 CLAIM-Reformulated 798 878 I think the 15% is comparable to the 30%-plus that I mentioned in 2016 and 2017.
+QpZ-jHnUko CLAIM-Opinion(view) 1272 1342 We're not expecting a material impact from these rate changes in 2019.
+Rzz2BfAreo PREMISE-Fact 1343 1543 Annual rate increases from our transportation partners is a really regular occurrence and we negotiate hard and we'll always work hard internally to get even more efficient on our own shipping method.
+5HCgz6sv9X CLAIM-Reformulated 1544 1588 So, we don't see that as being a huge issue.
+5SX1ZD1Gqm NON-ARG 1142 1271 But the other comment about cost, I believe you're probably referring to the U.S. rumored USPS rate hikes in transportation cost.
+LdrTp4iqwR PREMISE-Statistic 1589 1775 On wages, of course, we did raise wages and starting November 1 just under 400,000 employees, both full-time and part-time in the U.S. and UK will be getting a substantial wage increase.
+00-GJQRctz CLAIM-Fact 1776 1927 So that is factored – I'm not quantifying that today, but it's factored into our Q4 guidance and it will be obviously factored into guidance into 2019.
+h7OB9Rh5rx NON-ARG 879 1141 We are debating whether the dynamics of the warehouse are changing so that square footage may not be the main indicator, might be cubic feet, but if we switch to that way of looking at it, we'll make sure that we bridge the gap on the difference between the two.
+R0 SUPPORT ARG1:Rzz2BfAreo ARG2:QpZ-jHnUko
+R1 SUPPORT ARG1:LdrTp4iqwR ARG2:00-GJQRctz
+ArgQ0 QpZ-jHnUko SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 00-GJQRctz SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,39 @@
+Q3MYQcOdXA NON-ARG 571 612 The answer to your first question is yes.
+aHTX8pO5DO CLAIM-Opinion(view) 613 672 I do think that we can grow both in units and market share.
+lxQBwpYsWr NON-ARG 673 761 We don't predict those things, but yes, if you ask me what I think, that's what I think.
+twmmzYV6WX NON-ARG 762 790 And so what are the drivers?
+YWd8Ckm-LW CLAIM-Fact 856 899 That will generate more upgrades over time.
+d_qfa8gSOn PREMISE-Fact 791 821 The installed base is growing.
+FvtBAKvnI1 PREMISE-Other 822 855 It's still growing very strongly.
+56ksOgzXbA CLAIM-Opinion(view) 900 959 I feel good about our ability to convince people to switch.
+QVLSIJU2wt PREMISE-Fact 960 1131 And where the developed markets the first-time buyer rates are down other than places like Japan perhaps, the emerging markets, we haven't even gotten started yet, really.
+obAPOdJWPn CLAIM-Fact 1132 1194 From a revenue point of view, we had very strong growth there.
+AHc16n5zSe PREMISE-Statistic 1195 1246 Emerging markets ex-China were up 18% year on year.
+-V4sQMhDTV CLAIM-Fact 1247 1319 It was a record for us, so we see a lot of opportunity in these markets.
+UE6i5quPx5 CLAIM-Fact 1320 1346 We are investing in India.
+-rqJnLiRC8 PREMISE-Fact 1347 1435 As you mentioned in your second point, we've already launched an app accelerator center.
+EFICQJI3gp CLAIM-Fact 1436 1531 That's on top of working with the channel and looking at expanding our go-to-market in general.
+bxiUQKZvAE CLAIM-Opinion(view) 1765 1833 And so I'm very, very bullish and very, very optimistic about India.
+gwcFf1o18J PREMISE-Other 1699 1764 I see a lot of similarities to where China was several years ago.
+V9JOcxFAr0 CLAIM-Opinion(view) 1532 1641 And we began to produce the iPhone SE there during the quarter, and we're really happy with how that's going.
+HSB8R3QdhQ CLAIM-Fact 1642 1698 And so we're bringing all of our energies to bear there.
+UXWdbHi17F NON-ARG 1882 1906 Thanks very much, Brian.
+WUHdsAlhzJ NON-ARG 1907 2052 A replay of today's call will be available for two weeks as a podcast on the iTunes Store, as a webcast on apple.com/investor, and via telephone.
+v7iMiPnAjF NON-ARG 2053 2126 And the numbers to the telephone replay are 888-203-1112 or 719-457-0820.
+4mj9Lh-eTe NON-ARG 2127 2166 Please enter confirmation code 6376964.
+hYgZXBcUWu NON-ARG 2167 2247 And these replays will be available by approximately 5:00 PM Pacific Time today.
+XYEZTvvigx NON-ARG 2248 2338 Members of the press with additional questions can contact Kristen Huguet at 408-974-2414.
+xfq1tB4cyv NON-ARG 2339 2418 And financial analysts can contact Joan Hoover or me with additional questions.
+2_WVpNAlAE NON-ARG 2419 2467 Joan is at 408-974-4570 and I'm at 408-974-5420.
+SQ5FQCU2sU NON-ARG 2468 2496 Thanks again for joining us.
+R0 SUPPORT ARG1:d_qfa8gSOn ARG2:YWd8Ckm-LW
+R1 SUPPORT ARG1:FvtBAKvnI1 ARG2:YWd8Ckm-LW
+R2 SUPPORT ARG1:QVLSIJU2wt ARG2:56ksOgzXbA
+R3 SUPPORT ARG1:AHc16n5zSe ARG2:obAPOdJWPn
+R4 SUPPORT ARG1:-rqJnLiRC8 ARG2:UE6i5quPx5
+R5 SUPPORT ARG1:gwcFf1o18J ARG2:bxiUQKZvAE
+ArgQ0 YWd8Ckm-LW SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 56ksOgzXbA SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 obAPOdJWPn SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ3 UE6i5quPx5 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 bxiUQKZvAE SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

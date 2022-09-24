@@ -1,0 +1,14 @@
+OE15e8O-sh NON-ARG 494 504 Sure, Ken.
+EHcQGW-I0T CLAIM-Fact 505 571 I mean, we obviously are focused on hiring top engineering talent.
+zaSfzjA6uM PREMISE-Fact 572 681 It's key to our 2017 goals and executing on our three, five, and 10-year roadmap, the one that Mark outlined.
+ZYPumnT5Tg CLAIM-Opinion(view) 682 811 One thing that we're optimistic about is our ability to hire technical talent outside of the Bay Area as well as in the Bay Area.
+YAvjeKrwPv PREMISE-RealExample 812 930 And that's because we've built up engineering locations in key areas like Seattle, London, New York, Boston, Tel Aviv.
+dqQOYBAgZx PREMISE-Fact 931 1028 So we've got other markets in which we can recruit and grow engineering and other technical team.
+pHe0AsiHJh PREMISE-Fact 1029 1095 And that's really different from where we were a couple years ago.
+IpDoPTa0Q_ NON-ARG 1096 1216 So that's an important part of the infrastructure that we've put in place in the last two years that we're pleased with.
+R0 SUPPORT ARG1:YAvjeKrwPv ARG2:ZYPumnT5Tg
+R1 SUPPORT ARG1:dqQOYBAgZx ARG2:ZYPumnT5Tg
+R2 SUPPORT ARG1:pHe0AsiHJh ARG2:ZYPumnT5Tg
+R3 SUPPORT ARG1:zaSfzjA6uM ARG2:EHcQGW-I0T
+ArgQ0 ZYPumnT5Tg SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 EHcQGW-I0T SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

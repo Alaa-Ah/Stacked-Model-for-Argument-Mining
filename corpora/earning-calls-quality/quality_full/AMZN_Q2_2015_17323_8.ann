@@ -1,0 +1,10 @@
+l3sF0S1bN_ NON-ARG 716 738 What I can tell you is
+KsbPL9-quI CLAIM-Fact 739 829 we have seen great efficiency on the cost side, the cost to generate the capacity for AWS.
+c7wMr0XM7e CLAIM-Reformulated 1077 1182 We are getting great efficiency from our external AWS business but also from our own use of AWS services.
+4_Lx4uKeZx PREMISE-Fact 830 1006 I will also say that Amazon is one of the primary large customers of AWS so we see it in the consumer side of the business as well, although that's not included in AWS revenue.
+hUlpacmjzs PREMISE-Fact 1007 1042 It's an inter-company relationship.
+OwUmH16X7z PREMISE-Fact 1043 1076 So, we get a double whammy there.
+R0 SUPPORT ARG1:4_Lx4uKeZx ARG2:KsbPL9-quI
+R1 SUPPORT ARG1:hUlpacmjzs ARG2:KsbPL9-quI
+R2 SUPPORT ARG1:OwUmH16X7z ARG2:KsbPL9-quI
+ArgQ0 KsbPL9-quI SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

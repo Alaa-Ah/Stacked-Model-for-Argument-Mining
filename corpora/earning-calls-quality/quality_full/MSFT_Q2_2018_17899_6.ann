@@ -1,0 +1,27 @@
+rZ_oSvpV65 NON-ARG 629 648 Let me take a shot.
+_2txWCg47L NON-ARG 649 744 The way I think about bookings growth every quarter, as you tend to look at a couple of things.
+Wfg-GOueO5 PREMISE-Fact 745 889 And I would say, I start with renewals, not just that we renew the contract but how many new products, new services did we add to that contract?
+RBqHvFJXqk PREMISE-Fact 890 964 Do we expand our footprint, our percentage of the IT budget at a customer?
+0xZtr4CbQO PREMISE-Fact 965 1020 Do they rely on us for more products and more services?
+xXIgbkMKNK PREMISE-Fact 1021 1070 This quarter is a good example of that happening.
+yUczxDDCLz PREMISE-Fact 1071 1450 And if you think about the connection to why that happens it's not just a terrific engineering work that we've done in product value, it's also the investments that we've made to put resources and some of these larger accounts to continue to add new workloads that are only possible in the cloud and we've added resources that we're seeing the revenue get recaptured in that way.
+gIqwVWKR-f CLAIM-Opinion(view) 1451 1533 So that I think feels very good from a resource allocation and return perspective.
+ECxwyPvKcp NON-ARG 1534 1622 And so, then the next component obviously is being able to grow just brand new accounts.
+OuAYDfN8ug PREMISE-Fact 1623 1653 Are we growing customer bases?
+5EB_Z4-l9S PREMISE-Fact 1654 1719 Are we penetrating segments and you also saw that in the quarter.
+L3h6epMRph PREMISE-Fact 1720 1910 So at a high-level you can either sort of add more, expand your footprint or you get to add a new customer and both of those are motions that we focus on and I feel good about our execution.
+iHIpHSz6lV CLAIM-Opinion(view) 1911 2160 I think there is and you'll see that dynamic, so if the expiry base is a little bigger, you'd expect obviously a number bigger than that on the booking side and when the expiry rates' growth - it's really about the delta between the two as you know.
+pDm8uI3e09 CLAIM-Reformulated 2161 2207 And our execution this quarter was quite good.
+NIuWMfJlpW CLAIM-Fact 2208 2359 But it's come from sustainable investment and our sales, technical resources, and in the engineering to deliver a differentiated value at the customer.
+NGUdLDmRZZ NON-ARG 2412 2427  Thanks, Gregg.
+xhbXvzxlSU NON-ARG 2428 2465 We'll take the next question, please.
+R0 SUPPORT ARG1:Wfg-GOueO5 ARG2:gIqwVWKR-f
+R1 SUPPORT ARG1:RBqHvFJXqk ARG2:gIqwVWKR-f
+R2 SUPPORT ARG1:0xZtr4CbQO ARG2:gIqwVWKR-f
+R3 SUPPORT ARG1:xXIgbkMKNK ARG2:gIqwVWKR-f
+R4 SUPPORT ARG1:yUczxDDCLz ARG2:gIqwVWKR-f
+R5 SUPPORT ARG1:5EB_Z4-l9S ARG2:iHIpHSz6lV
+R6 SUPPORT ARG1:OuAYDfN8ug ARG2:iHIpHSz6lV
+R7 SUPPORT ARG1:L3h6epMRph ARG2:iHIpHSz6lV
+ArgQ0 gIqwVWKR-f SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 iHIpHSz6lV SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

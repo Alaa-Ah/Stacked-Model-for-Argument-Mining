@@ -1,0 +1,26 @@
+ECJENTLzEn CLAIM-Opinion(view) 627 927 I think one of the things that's interesting about Instagram is while the ads are really visually appealing and that brings to mind certain verticals like fashion or autos, things where the visual really matters, what we're seeing is that lots of different verticals can use the platform really well.
+rRj37Ipo2g PREMISE-RealExample 928 1065 So a recent example, HTC working with their agency Swift did Instagram videos to raise awareness of their mobile device warranty program.
+ZlVT7V621g PREMISE-Fact 1066 1269 So they targeted 18- to 34-year olds, they did five short videos with these funny moments of where you're about to break your phone, and they got a 6 point lift in awareness of what is a warranty program
+O5aUkkAIxy PREMISE-Fact 1271 1342 I think that's not something you would think of typically as Instagram.
+yYZiV8DyyL CLAIM-Opinion(view) 1343 1587 In terms of Instagram and Facebook, we believe that marketers are looking to connect with people in a really deep way, connect with the right people, and our targeting we think is really strong compared to any other platform, at the right time.
+bYvdshpAAj PREMISE-Fact 1588 1617 And that really means mobile.
+Jjg_mn4VKQ PREMISE-Fact 1618 1856 And we see such engagement on both Facebook and Instagram along with the different targeting and ad formats, we believe we'll be able to have and are already starting to have a relationship with marketers which grow across both platforms.
+ccHikCOV8E CLAIM-Fact 1857 1921 Our focus with our marketing partners is their business results.
+Gb1i9_Vl4O PREMISE-Fact 1922 1985 I talked about in my remarks how we're looking for conversions.
+tPdqmvgw8T PREMISE-Fact 1986 2020 We're trying to help them measure.
+0PSXEHkD7T PREMISE-Other 2021 2090 If you do a car ad for us, how many vehicles were driven off the lot?
+Tl5D36NaOQ PREMISE-Fact 2091 2289 We see what products you use within Facebook or Instagram, or Facebook and Instagram, as less important as the best products for the right marketer at the right time to drive their business results.
+zOLH2TY7sJ CLAIM-Opinion(view) 2290 2407 And we like having more abilities, more products, more apps to work with so that we can drive those business results.
+R0 SUPPORT ARG1:rRj37Ipo2g ARG2:ECJENTLzEn
+R1 SUPPORT ARG1:ZlVT7V621g ARG2:ECJENTLzEn
+R2 ATTACK ARG1:O5aUkkAIxy ARG2:ECJENTLzEn
+R3 SUPPORT ARG1:bYvdshpAAj ARG2:yYZiV8DyyL
+R4 SUPPORT ARG1:Jjg_mn4VKQ ARG2:yYZiV8DyyL
+R5 SUPPORT ARG1:Gb1i9_Vl4O ARG2:ccHikCOV8E
+R6 SUPPORT ARG1:tPdqmvgw8T ARG2:ccHikCOV8E
+R7 SUPPORT ARG1:0PSXEHkD7T ARG2:ccHikCOV8E
+R8 SUPPORT ARG1:Tl5D36NaOQ ARG2:zOLH2TY7sJ
+ArgQ0 ECJENTLzEn SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 yYZiV8DyyL SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 ccHikCOV8E SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 zOLH2TY7sJ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,52 @@
+C96mr4jtG_ NON-ARG 776 833 I can start off talking about Oculus and virtual reality.
+096vZtCPo6 CLAIM-Fact 834 943 So the first thing that I want to stress here is that these kind of new platforms take a long time to develop
+Q6Rv5GbWDg PREMISE-Fact 945 1063 So we've said often that we think that virtual reality and augmented reality could be the next big computing platform.
+cGVXSqi7rm PREMISE-RealExample 1064 1340 But just to put that in perspective and compare it to the development of previous computing platforms like phones and computers, I think the first smartphones came out in 2003, and in the first year, I think BlackBerry and Palm Treo were the initial smartphones that came out.
+-5nFxS5_t2 CLAIM-Reformulated 1407 1559 So just to kind of give a sense of the timeframe that we're thinking about this and how we expect this to develop, that's how we're thinking about that.
+czXJ8pn1F2 CLAIM-Opinion(view) 1560 1654 In terms of the actual content, first, we think gaming is going to be the most obvious market.
+cLxK-Byz9F PREMISE-Statistic 1655 1955 There are around, I think, more than 200 million, almost 250 million people who have either an Xbox, a PlayStation or a Wii, and we think that that audience is going to the type of people who are going to be very excited about the type of experiences initially that you can have with virtual reality.
+HPuSu4KvBD CLAIM-Fact 1956 2042 And the advantage of that is also that some of those can be single player experiences.
+Wb42y_2l5x PREMISE-Fact 2043 2150 They don't require a big network effect or a lot of people having the technology or a large installed base.
+U3B44760aZ CLAIM-Opinion(view) 2151 2463 Once we start getting a bit further along with that, then the next thing that we think is going to be huge is video and immersive experiences, both things that people can create, like the social content that they share on Facebook today, and more professional and premium content both short form and longer form.
+JVvZRrf_N1 NON-ARG 2464 2518 But we'll start to see some experimentation with that.
+YDCLyDmNwO PREMISE-Fact 2519 2559 There already is some very good content.
+JBx0Dm_v1C PREMISE-Fact 2560 2706 But until there are millions of units out in the market, I don't expect that to be a big industry for folks to be investing a huge amount in 2016.
+Ry7ZohyxCq PREMISE-Fact 2707 3025 Then when they're starting to get to be more units, just like every other major computing platform before that, what we expect is that a large portion of what people do in it will be communication and social behavior, and that's where Facebook really has the DNA and experience to, I think, build the best experiences.
+iH__1B05hl PREMISE-Fact 3225 3344 On Instagram, we think that with Facebook and Instagram, we now have the two most important mobile platforms out there.
+LqmVCLwPFA PREMISE-Fact 3345 3401 And what we bring to this is a common ad infrastructure.
+0JuccBFYQQ CLAIM-Opinion(view) 3402 3706 So Instagram ads, now that we've rolled out as we have this past quarter and gotten to a really good product offering, combined the creative format of Instagram which is very visually compelling and has a lot of engagement from people with the back-end infrastructure and marketer base that Facebook has.
+iTAAOHEpSO PREMISE-Fact 3707 3751 So now, we have self-service ads rolled out.
+DKL-vn4Qdk PREMISE-Fact 3752 3814 We've rolled out in all countries where we offer Facebook ads.
+a7l-r72VZS PREMISE-Fact 3815 3852 We have new ad formats for Instagram.
+azLe09Orcq PREMISE-Fact 3853 4035 We're able to do more business objectives, all of which can use the same targeting as we have on Facebook and all of which are increasingly tapping into our measurement capabilities.
+BBCgKl5qe1 CLAIM-Fact 4036 4206 On ad load, we have a lot of experience rolling out ads into feed-based products and we monitor it very carefully and we're going to continue to monitor really carefully.
+HfpgOND9jP CLAIM-Opinion(view) 4207 4255 We're also excited about how they work together.
+LkaQ-5izQL CLAIM-Opinion(view) 1341 1406 And I think they each sold in the hundreds of thousands of units.
+Kjbp4lVGRe CLAIM-Fact 3026 3204 And we're investing in trying to figure out what that's going to look like, and that's ultimately a lot of what we're extremely excited about for a number of years down the road.
+1isFR7zZtY PREMISE-RealExample 4256 4442 Just to share one example, American Express working with Digitas, rolled out carousel ads on Instagram that targeted travel-related interest groups for people who are 18 years and older.
+77jzAB9MYz PREMISE-RealExample 4443 4494 They then retargeted those same people on Facebook.
+4PlVarsAbn PREMISE-RealExample 4495 4664 And what they created was a really visual journey using the format that is Instagram, the format that is Facebook and combining the two platforms that they're targeting.
+2FfqnKLtTW CLAIM-Opinion(view) 4665 4747 We think we're at the very beginning of what's possible when we combine these two.
+R0 SUPPORT ARG1:Q6Rv5GbWDg ARG2:096vZtCPo6
+R1 SUPPORT ARG1:cGVXSqi7rm ARG2:096vZtCPo6
+R2 SUPPORT ARG1:cLxK-Byz9F ARG2:czXJ8pn1F2
+R3 SUPPORT ARG1:YDCLyDmNwO ARG2:U3B44760aZ
+R4 ATTACK ARG1:JBx0Dm_v1C ARG2:U3B44760aZ
+R5 SUPPORT ARG1:Ry7ZohyxCq ARG2:U3B44760aZ
+R6 SUPPORT ARG1:iH__1B05hl ARG2:0JuccBFYQQ
+R7 SUPPORT ARG1:LqmVCLwPFA ARG2:0JuccBFYQQ
+R8 SUPPORT ARG1:iTAAOHEpSO ARG2:BBCgKl5qe1
+R9 SUPPORT ARG1:DKL-vn4Qdk ARG2:BBCgKl5qe1
+R10 SUPPORT ARG1:a7l-r72VZS ARG2:BBCgKl5qe1
+R11 SUPPORT ARG1:azLe09Orcq ARG2:BBCgKl5qe1
+R12 SUPPORT ARG1:Wb42y_2l5x ARG2:HPuSu4KvBD
+R13 SUPPORT ARG1:1isFR7zZtY ARG2:HfpgOND9jP
+R14 SUPPORT ARG1:77jzAB9MYz ARG2:HfpgOND9jP
+R15 SUPPORT ARG1:4PlVarsAbn ARG2:HfpgOND9jP
+ArgQ0 096vZtCPo6 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 czXJ8pn1F2 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 U3B44760aZ SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 0JuccBFYQQ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ4 BBCgKl5qe1 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 HPuSu4KvBD SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ6 HfpgOND9jP SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

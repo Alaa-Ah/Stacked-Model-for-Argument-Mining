@@ -1,0 +1,12 @@
+3YoxJHeDmA NON-ARG 375 561 As you know, Simona, we do not provide guidance around units and around channel inventory reduction, but our goal is always to have the right amount of weeks of inventory in the channel.
+6RuPbAJgSP NON-ARG 562 740 And if you look at our history over the last several years, we have fairly consistently reduced channel inventory in the June quarter, so I think it's a fair expectation to have.
+Do9hYvBPTs NON-ARG 1193 1235 We make it a point not to forecast by geo.
+Z9CtQlL1C7 NON-ARG 1236 1279 We just provide a current quarter forecast.
+scvnLVPHLi CLAIM-Fact 1280 1396 But as hopefully you've seen as we began to give you more information about India, we've been investing quite a bit.
+N19a6y29UF PREMISE-Fact 1397 1567 We have a ton of energy going into the country on a number of fronts, and it is the third largest smartphone market in the world today behind China and the United States.
+Hd1V6H5huJ CLAIM-Opinion(view) 1568 1738 And so we believe, particularly now that the 4G infrastructure is going in the country and is continuing to be expanded, that there is a huge opportunity for Apple there.
+F21XwXszC5 CLAIM-Reformulated 1739 1829 And so that and the demographics of the country is why we're putting so much energy there.
+xkWKeeLnlu NON-ARG 1876 1894 Thank you, Simona.
+nYUVWb7aZA NON-ARG 1895 1935 Could we have the next question, please?
+R0 SUPPORT ARG1:N19a6y29UF ARG2:Hd1V6H5huJ
+ArgQ0 Hd1V6H5huJ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,36 @@
+Lafqz3tkCW NON-ARG 664 692 Keith, it's a good question.
+hQBf03s5g5 CLAIM-Reformulated 1639 1893 And so I actually think between those two items, it's the biggest impact that we've seen in the quarter, and I expect to see it again next quarter, given I don't think the macro or IT spend environment should change in any way between these two quarters.
+fpd-qKNoNo CLAIM-Fact 795 869 There is clearly a macro impact, especially on the transactional business.
+8PgcuJIqzv PREMISE-Fact 870 1028 Transactional businesses tend to be more impacted in emerging markets where we have a higher percentage of non-annuity business that's transactional business.
+MsvPre-o3X PREMISE-Fact 1029 1172 Those have been the weakest markets in this macro environment and specifically some of the geos we called out have more exposure in this place.
+gQ6RAo_2tg PREMISE-RealExample 1395 1472 If you look at server shipments, you'd say that's actually a macro statement.
+o2z1uEetCb PREMISE-Fact 1473 1638 We didn't see it in any one particular workload; it's weakness across workloads, which tends to make more sense frankly with a macro or a budget IT spend constraint.
+9s6Tz0y4jH CLAIM-Opinion(view) 1894 1938 So I think less about it being cannibalistic
+oWYXghIS34 PREMISE-Fact 1939 2027 because so many of the scenarios in this time period, we've seen the growth we expected.
+6qoPgCTGGB PREMISE-Fact 2028 2094 We've seen it across our premium services as well as core compute.
+s84zkYfejl PREMISE-Other 2095 2232 I should also say most of the weakness we saw was in the standard workloads, which I think lends itself to again some of those pressures.
+e5_QyMQq2c PREMISE-Other 2233 2316 We also saw, and I would expect annuity shifts there, which is the final component.
+wAmMLyA_5T PREMISE-Other 2472 2615 And so for me, I do tend to think it's a bit more of the macro pressure and budget impacts than it is frankly any other statement or execution.
+24HtDFKraH NON-ARG 693 773 Let me go through a number of factors that really impact transactional business.
+gImhx9UKRE NON-ARG 774 794 First, you're right.
+TZQOfDryrn PREMISE-Fact 1173 1287 And so you're certainly seeing the macro impact in the intelligent cloud segment and the server weakness is there.
+0H7pfW7v2u PREMISE-Fact 1288 1394 And because frankly we saw that macro weakness, you have even seen it in terms of server shipments, right.
+TJVp1tXCWm PREMISE-Fact 2317 2393 Our annuity numbers and renewal numbers were very good in Intelligent Cloud.
+X1dcVco45q PREMISE-Fact 2394 2471 And in fact, they came right where we expected in terms of unearned balances.
+VEOKusSZdp NON-ARG 2676 2694  Thank you, Keith.
+zhtXwZvGTB NON-ARG 2695 2732 We'll take the next question, please.
+R0 SUPPORT ARG1:8PgcuJIqzv ARG2:fpd-qKNoNo
+R1 SUPPORT ARG1:MsvPre-o3X ARG2:fpd-qKNoNo
+R2 SUPPORT ARG1:TZQOfDryrn ARG2:fpd-qKNoNo
+R3 SUPPORT ARG1:0H7pfW7v2u ARG2:fpd-qKNoNo
+R4 SUPPORT ARG1:gQ6RAo_2tg ARG2:fpd-qKNoNo
+R5 SUPPORT ARG1:o2z1uEetCb ARG2:fpd-qKNoNo
+R6 SUPPORT ARG1:oWYXghIS34 ARG2:9s6Tz0y4jH
+R7 SUPPORT ARG1:6qoPgCTGGB ARG2:9s6Tz0y4jH
+R8 SUPPORT ARG1:s84zkYfejl ARG2:9s6Tz0y4jH
+R9 SUPPORT ARG1:e5_QyMQq2c ARG2:9s6Tz0y4jH
+R10 SUPPORT ARG1:TJVp1tXCWm ARG2:9s6Tz0y4jH
+R11 SUPPORT ARG1:X1dcVco45q ARG2:9s6Tz0y4jH
+R12 SUPPORT ARG1:wAmMLyA_5T ARG2:9s6Tz0y4jH
+ArgQ0 fpd-qKNoNo SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 9s6Tz0y4jH SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

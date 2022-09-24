@@ -1,0 +1,14 @@
+R7kjmDdDhT CLAIM-Fact 800 829 And there's volatility to it.
+uy_tX_r64O CLAIM-Opinion(view) 830 1025 So the way to think about it is over the year, it's up a little and in Q2, it happens to be just a low quarter of the 12 that come up through the cycle, much like Q4 was quite large in the cycle.
+YDzd3AU1lw CLAIM-Fact 1026 1072 And Azure actually falls a couple of patterns.
+r8FEy9XMhy PREMISE-Fact 1153 1457 Because it tends to be project-based as well and many of the investments we've made in sales capacity, and the reason we did some of the sales transformation, was to invest a lot more in that project-led motion, which is a bit disconnected actually from the EA renewal cycle, and you've really seen that.
+_RGffZivRr CLAIM-Opinion(view) 1458 1616 The Azure pace is not, if you drew a line, as correlated to EAs as it even was 3 years ago, as we've I think matured the product and matured our sales cycles.
+QTztjDuqCI CLAIM-Fact 1073 1152 It's not just about EA attach although it absolutely can be one of the motions.
+3kxbdPRR7V NON-ARG 1673 1691 Thank you, Walter.
+GjnTuAt7US NON-ARG 1692 1730 We'll go to the next question, please.
+O4AEtuNkXv CLAIM-Opinion(view) 623 692 Yeah, I wouldn't call it pressure, Walter, just how I think about it.
+jJshOQfgP5 PREMISE-Fact 693 753 There's just an expiration base that comes up every quarter.
+R0 SUPPORT ARG1:r8FEy9XMhy ARG2:QTztjDuqCI
+R1 SUPPORT ARG1:jJshOQfgP5 ARG2:O4AEtuNkXv
+ArgQ0 QTztjDuqCI SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 O4AEtuNkXv SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

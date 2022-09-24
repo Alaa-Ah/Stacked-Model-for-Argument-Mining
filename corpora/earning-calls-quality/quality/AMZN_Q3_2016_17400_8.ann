@@ -1,0 +1,25 @@
+xcHjAcz1L8 NON-ARG 922 927 Sure.
+IUjjoTpAAx CLAIM-Fact 928 1087 So the fulfillment network as we built it, yes, they'll be more productive next year than they are this holiday peak and probably even more productive in 2018.
+VE5V48g9z3 PREMISE-Fact 1088 1271 So I can't forecast it for you into next year quite yet, but we certainly had productivity add additional cost to Q3 and even into Q4 of this year as we build the additional capacity.
+S6jfVkNDvj PREMISE-Fact 1272 1433 Again, the underlying reason for that capacity build is the strength in paid units and even more so in the units that we're fulfilling driven by our FBA program.
+rhzgF1aLc7 CLAIM-Fact 1434 1488 The FBA program is a key pillar of our Prime offering.
+a7HkVF3BFb CLAIM-Opinion(view) 1627 1662 So we're glad to have that problem.
+QU-XjPZ2zA PREMISE-Fact 1663 1758 We are just working very hard to get capacity in place and in productive use for Q4 and beyond.
+KaxMN2ytto PREMISE-Fact 1489 1507 It adds selection.
+gor2YZCP69 PREMISE-Fact 1508 1626 It makes Prime stronger and then that's a self-reinforcing where Prime then – the Prime success attract mores sellers.
+UyicDHMVyV NON-ARG 1772 1782  Hi Brian.
+qvBiSuXXqd NON-ARG 1783 1797 This is Darin.
+qaGYoLxyYU NON-ARG 1798 2021 On the AWS question, yeah, we continue to invest in AWS on behalf of our customers in addition to the technologies that make integrations easier that helps companies move from an on-prem or a hybrid IT environment into AWS.
+sCdgGbwgOa NON-ARG 2022 2238 So we're going to continue to do that, specifically things like the database migration tool that are helpful for customers when they move production databases from on premises to the cloud with virtually no downtime.
+fgFHsVmRVT NON-ARG 2239 2450 And also many of our AWS customers are beginning to choose and continue to choose the AWS Schema Conversion Tool which really switches database engines to get out of old guard proprietary databases and onto AWS.
+bHRUVUCuvz NON-ARG 2451 2545 And so we'll continue to react to customer needs and that will include opening up new regions.
+ErjTgXvsoV NON-ARG 2546 2679 We've opened up Ohio this past quarter and we've highlighted that we'll have another number of regions coming online in a few months.
+jAbCBVsaCY NON-ARG 2680 2775 So yeah, were doing a lot of things to help make it easier for all customers to migrate to AWS.
+R0 SUPPORT ARG1:VE5V48g9z3 ARG2:IUjjoTpAAx
+R1 SUPPORT ARG1:S6jfVkNDvj ARG2:IUjjoTpAAx
+R2 SUPPORT ARG1:KaxMN2ytto ARG2:rhzgF1aLc7
+R3 SUPPORT ARG1:gor2YZCP69 ARG2:rhzgF1aLc7
+R4 SUPPORT ARG1:QU-XjPZ2zA ARG2:a7HkVF3BFb
+ArgQ0 IUjjoTpAAx SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 rhzgF1aLc7 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 a7HkVF3BFb SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

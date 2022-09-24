@@ -1,0 +1,53 @@
+a2VWxjlcON NON-ARG 1368 1437 I think it's a good question, a number of points that I want to make.
+vGGXUcFX0R CLAIM-Fact 1438 1656 Starting with the growth in the install base of iPhones, yes, it's growing strong double digits, and that's very good for us for a number of reasons, including the fact that it's a big driver for our Services business.
+7ZKgaqcrXn CLAIM-Opinion(view) 1657 1730 When we look at it geographically, I think we see different developments.
+VY8V8OcoWU PREMISE-Fact 1731 1835 For example, we felt very, very good about the unit growth that we had in many markets around the world.
+rrZc5DZS_5 PREMISE-Fact 1836 1893 You've been quoting an overall total company growth rate.
+s94fDH75sG CLAIM-Reformulated 2408 2476 So I think geographically we are seeing very, very good performance.
+CUe2zkQGXu PREMISE-Other 2609 2824 Could we sell significantly more and significantly faster from an upgrade cycle standpoint in places outside the United States, where we've been forced to increase prices by up to 20%, 30%, 40% in certain countries?
+4Uct_kOJsh PREMISE-RealExample 2224 2363 Same happened in a number of countries around the world, starting with Canada and Australia but also many places in Western Europe as well.
+bZSoX2zwAw PREMISE-RealExample 2364 2407 Japan grew double digits in terms of units.
+mh38mIiQLU CLAIM-Fact 2477 2608 The point that I think I need to make when you think about upgrade rates, clearly, this issue of the strong dollar doesn't help us.
+YkOpy7MVNG PREMISE-Fact 2825 2924 And you think about the impact that this is having on local demand, obviously that doesn't help us.
+L8fdiBVj9G NON-ARG 2925 3221 But overall, I would say as Tim said, when we look at the upgrade rate for and we look at it from the standpoint of the new phones, right, the new generation phones, the upgrade rate, the percentage of people that have upgraded to the new phone has been very similar to what we've seen last year.
+KmMMMnyhqL PREMISE-Fact 3268 3322 There was pent-up demand for the larger screen phones.
+I-5ULm2KtA PREMISE-RealExample 1894 2223 But when we look at a country-specific level, there were a lot of countries, I would say the majority of the countries, where iPhone units grew strong double digits, starting here in the United States, where for example, the fact that annual upgrade programs are becoming more and more popular is proving to be a positive for us.
+imPGmYTkv_ CLAIM-Fact 3222 3267 The 6 cycle was certainly a phenomenal cycle.
+wleCaxgnM_ CLAIM-Fact 3323 3378 And certainly as we look ahead, we have a role to play.
+QixvCyzE1o PREMISE-Fact 3379 3491 The more we're able to innovate with new generations of products, clearly that plays a role in the upgrade rate.
+IvUmBY5uE2 NON-ARG 4092 4135 I feel the same way I did in April of 2012.
+mUjnHbDX3A CLAIM-Fact 4190 4284 And so you should take from our filing that we viewed it as we didn't see another way forward.
+7us9anoV_F PREMISE-Fact 4285 4377 They were insisting on charging royalties for technologies that they had nothing to do with.
+G6jaLSsXzc PREMISE-Fact 4378 4640 And so we were in a situation where the more we innovated with unique features like Touch ID or advanced displays or cameras, just to name a few, the more money Qualcomm would collect for no reason and the more expensive it would be therefore for us to innovate.
+JToa579dTL PREMISE-Other 4641 4780 And so it's somewhat like buying a sofa, and you charge somebody a different price depending upon the price of the house that it goes into.
+txQk3PHOwE CLAIM-Reformulated 5061 5116 And so we felt like we had no choice was the net of it.
+esz6YpYE5O NON-ARG 5117 5154 In terms of where it goes, we'll see.
+pFFzT97wL5 NON-ARG 5155 5179 I don't like litigation.
+1jvCGSQTaY NON-ARG 5180 5270 And so if there's another way, then that would be great, but at this point I don't see it.
+UScgLWj5bE NON-ARG 5271 5428 I fully expect at this point in time that it will take some time, but in the end I think common sense will prevail and the courts will see it for what it is.
+3PfpBkm-j7 NON-ARG 5429 5460 And so that's the way I see it.
+AJ_js-ZGu4 NON-ARG 5461 5486 Thanks for your question.
+a99O95fbJ4 PREMISE-Other 4136 4189 I don't like litigation and view it as a last resort.
+S207RL-Tk7 PREMISE-Statistic 4891 5060 In addition to that, as a part of their increasingly radical steps they were taking to try to hold up that model, they withheld $1 billion in payments that they owed us.
+xLW19YrISJ CLAIM-Reformulated 4781 4890 Just from our point of view, this doesn't make sense, and we don't believe it will pass muster in the courts.
+dGfYmIODdm NON-ARG 5500 5517  Thank you, Toni.
+GieWAcSeFH NON-ARG 5518 5558 Could we have the next question, please?
+R0 SUPPORT ARG1:VY8V8OcoWU ARG2:7ZKgaqcrXn
+R1 SUPPORT ARG1:rrZc5DZS_5 ARG2:7ZKgaqcrXn
+R2 SUPPORT ARG1:I-5ULm2KtA ARG2:7ZKgaqcrXn
+R3 SUPPORT ARG1:4Uct_kOJsh ARG2:7ZKgaqcrXn
+R4 SUPPORT ARG1:bZSoX2zwAw ARG2:7ZKgaqcrXn
+R5 SUPPORT ARG1:CUe2zkQGXu ARG2:mh38mIiQLU
+R6 SUPPORT ARG1:YkOpy7MVNG ARG2:mh38mIiQLU
+R7 SUPPORT ARG1:KmMMMnyhqL ARG2:imPGmYTkv_
+R8 SUPPORT ARG1:QixvCyzE1o ARG2:wleCaxgnM_
+R9 ATTACK ARG1:a99O95fbJ4 ARG2:mUjnHbDX3A
+R10 SUPPORT ARG1:7us9anoV_F ARG2:mUjnHbDX3A
+R11 SUPPORT ARG1:G6jaLSsXzc ARG2:mUjnHbDX3A
+R12 SUPPORT ARG1:JToa579dTL ARG2:mUjnHbDX3A
+R13 SUPPORT ARG1:S207RL-Tk7 ARG2:mUjnHbDX3A
+ArgQ0 7ZKgaqcrXn SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 mh38mIiQLU SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 imPGmYTkv_ SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 wleCaxgnM_ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 mUjnHbDX3A SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

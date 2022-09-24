@@ -1,0 +1,43 @@
+euMqGuaItg NON-ARG 769 819 Yes, I can take the first one on the Facebook app.
+tgNVrvSxhD CLAIM-Opinion(view) 820 891 It's a bunch of different places in which I think we made improvements.
+O3oI1tmPPj PREMISE-Fact 892 999 I would say globally especially outside the US, we saw good improvements around -- engagement around video.
+rRKpQqT5U7 PREMISE-Fact 1000 1067 In the US, I think it was less video and more core feed engagement.
+YebwAlvOCc CLAIM-Reformulated 1068 1195 So it's a bunch of different factors and I think we're seeing good engagement from a bunch of cohorts in the US, which is good.
+dTiN5zIXH9 NON-ARG 1369 1470 In terms of monetization opportunities, I can speak to that and Mark can add color if you would like.
+upeSywPNIG NON-ARG 1471 1527 Obviously -- and Sheryl would like to add color as well.
+vBA8jsZnqH CLAIM-Fact 1528 1622 So, Stories is obviously one of the big growing areas for us and continues to be a big driver.
+sY8ursvi29 CLAIM-Fact 1623 1696 We're also seeing opportunities around Instagram Explore going into 2020.
+ivjdevH6aX NON-ARG 1697 1851 We're now monetizing with that product and more advertisers are buying from it and then Sheryl is going to jump in and I think give some additional color.
+6e2Wl0GvDO NON-ARG 1196 1256 But of course we are highly penetrated in the US and Canada.
+qSlKGQaJAD NON-ARG 1257 1298 So we would expect that to bounce around.
+UOeZZQykJx NON-ARG 1299 1343 So I think we saw great growth this quarter.
+K7fu8mgK8_ NON-ARG 1344 1368 We are quite penetrated.
+_1CJN553tB CLAIM-Fact 1869 2049 Yes, I think in terms of our core advertising products and growth, it's worth really remembering that our core feed products for Facebook and Instagram are growing nicely and well.
+G-RIaoaGgB CLAIM-Fact 2050 2106 And we see a lot of opportunity to continue that growth.
+n9khE5wTod CLAIM-Fact 2107 2156 Definitely, Stories is a big part of the success.
+Bl2zXoL2ST CLAIM-Opinion(view) 2157 2239 We've had I think a lot of success moving advertisers to where people already are.
+k4nfitun85 CLAIM-Opinion(view) 2347 2508 I think we've taken our experience on how to help advertisers migrate to the right places and been able to do that even more quickly in new formats like Stories.
+qRoh-8PIS6 PREMISE-Fact 2240 2277 That's what happened with mobile ads.
+kHtb3siQDY PREMISE-Fact 2278 2346 People weren't really doing mobile ads and we helped them get there.
+TzaW8c8kvi NON-ARG 3239 3309 Stories still does monetize at the same rate as a News Feed right now.
+J9otXRVFSN NON-ARG 3310 3343 So, we're keeping an eye on that.
+bNCB0A2IOt NON-ARG 3344 3396 But the growth over the long run is pretty exciting.
+hYzwxKWHs- CLAIM-Reformulated 3397 3507 And I think our ability to help people migrate is something that we're able to prove out quarter over quarter.
+ity--Kxa6M PREMISE-Statistic 2509 2639 So of our more than 7 million advertisers, we already have 3 million advertising across Facebook, Instagram and Messenger Stories.
+i8pYNXjOHO PREMISE-RealExample 2722 2823 So for example, advertisers can now buy Stories across Facebook, Instagram and Messenger all at once.
+c8w_tIuyTN PREMISE-Fact 2824 3013 We had automatic default templates which convert your feed ads into vertical Stories format and this quarter we just launched customizable templates, which help you save time and resources.
+l-Kx8u1JOf PREMISE-Fact 3014 3185 So as we have to help advertisers move, we've learned how to make those investments in making the formats really easy, the measurement really easy, the buying really easy.
+FwlanDvB5- CLAIM-Opinion(view) 2640 2721 And I think that's because we learned that we have to do a lot to help them move.
+MKsYvV8sHW CLAIM-Reformulated 3186 3238 Now, the mix to Stories is a big opportunity for us.
+R0 SUPPORT ARG1:O3oI1tmPPj ARG2:tgNVrvSxhD
+R1 SUPPORT ARG1:rRKpQqT5U7 ARG2:tgNVrvSxhD
+R2 SUPPORT ARG1:qRoh-8PIS6 ARG2:Bl2zXoL2ST
+R3 SUPPORT ARG1:kHtb3siQDY ARG2:Bl2zXoL2ST
+R4 SUPPORT ARG1:ity--Kxa6M ARG2:k4nfitun85
+R5 SUPPORT ARG1:i8pYNXjOHO ARG2:FwlanDvB5-
+R6 SUPPORT ARG1:c8w_tIuyTN ARG2:FwlanDvB5-
+R7 SUPPORT ARG1:l-Kx8u1JOf ARG2:FwlanDvB5-
+ArgQ0 tgNVrvSxhD SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Bl2zXoL2ST SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 k4nfitun85 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 FwlanDvB5- SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,19 @@
+G3MpeA9AW0 CLAIM-Reformulated 2544 2644 It's hard to be too prescriptive about 2020 and beyond, but I think the biggest change will be 2019.
+K-QENKRAqY CLAIM-Opinion(view) 2419 2543 So I would expect us to have the biggest change in our margin structure to happen in 2019 and for it to moderate from there.
+4OrxqNxhAa PREMISE-Other 2331 2418 And, Lloyd, on the margin question, as I mentioned, 2019 will be a big investment year.
+-FEmUxH5Gt NON-ARG 939 1033 So on Stories, I don't know if we've given any metrics on time spent or anything on that side.
+Yd6Gv1ZCtb CLAIM-Opinion(view) 1034 1413 But what I can say is that all of the trends that we've seen suggests that in the not too distant future people will be sharing more into Stories than they will into feeds, and that the whole market across all of the Stories type of products will be bigger in a market where people are sharing more moments from their days into Stories-type products than into feed-type products.
+y0mnVyEWyI PREMISE-Fact 1414 1452 And this happened very quickly, right?
+TTNnzhpupd PREMISE-Fact 1453 1583 I mean this whole trend is much newer than the trend with News Feed and feeds overall and it continues to grow incredibly quickly.
+GZTQPNsKAI CLAIM-Reformulated 1584 1635 So we just see that there is a lot of upside there.
+lSYPHZj0UB PREMISE-Fact 1636 1877 Now, on the flip side, I try to be very careful in my remarks to be clear that this is one of those situations where the community growth that we're seeing is outpacing the progress that we've made so far on developing the ads in that space.
+XfTcqhZagV CLAIM-Opinion(view) 1878 2000 And I think we'll get there over time, where the performance for Stories ads will converge with what we have seen in feed.
+4wPJWAgYU1 CLAIM-Reformulated 2001 2126 And I think that the opportunity will be bigger because there will be more in Stories – or more Stories overall than in feed.
+QBFRE9iB43 CLAIM-Opinion(view) 2127 2313 But I can't tell you just yet what that timeframe is going to look like, but I think we're well-positioned over the long-term because we're leading in Stories in basically every country.
+R0 SUPPORT ARG1:4OrxqNxhAa ARG2:K-QENKRAqY
+R1 SUPPORT ARG1:y0mnVyEWyI ARG2:Yd6Gv1ZCtb
+R2 SUPPORT ARG1:TTNnzhpupd ARG2:Yd6Gv1ZCtb
+R3 SUPPORT ARG1:lSYPHZj0UB ARG2:XfTcqhZagV
+ArgQ0 K-QENKRAqY SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 Yd6Gv1ZCtb SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 XfTcqhZagV SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

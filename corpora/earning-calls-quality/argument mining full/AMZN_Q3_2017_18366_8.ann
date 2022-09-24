@@ -1,0 +1,23 @@
+neuVcBZVAs NON-ARG 716 727 Yeah, Ross.
+D_upVZDR5b NON-ARG 728 752 Thanks for the question.
+pQA7WxQhch NON-ARG 753 766 This is Dave.
+i6KUsZ59d- PREMISE-Fact 767 868 On Brazil, just briefly, yeah we did recently expand and add an electronics category there in Brazil.
+P3prxXsTYH PREMISE-Fact 869 909 It's a third-party marketplace offering.
+nTmPrMFnSt PREMISE-Fact 910 1157 You may recall we've been in Brazil for a number of years now, initially launched with really a Kindle and e-books offering without the sort of physical categories and, more recently, added physical books again, a third-party marketplace offering.
+M8NFq9Yi-c CLAIM-Opinion(view) 1158 1225 So, I think, we're excited about the electronics getting out there.
+-kkPUb_wxF PREMISE-Fact 1226 1339 There is a wide variety of products included in that category: smartphones, tablets, cameras, TVs, what have you.
+JVb6mdtLxW CLAIM-Reformulated 1340 1422 So, I think, we're really excited to get that technology out there for Brazilians.
+vWXGcZ0M2f PREMISE-Statistic 1600 1674 And on Whole Foods, yes, I believe the total is 465 stores or thereabouts.
+9EML_kNPA8 PREMISE-Statistic 1675 1705 And we have 12 bookstores now.
+qwjLcDZbK1 PREMISE-Fact 1706 1791 We are adding a few more in the near future in California, Washington DC, and Austin.
+rx-uD0oNO8 CLAIM-Fact 1792 1838 So, yeah, you will see more expansion from us.
+C8VPZlzSZj NON-ARG 1839 1988 We're not ready to announce what that will look like and we are working with the Whole Foods team on how many more stores we might have in that area.
+X3o5Z5PDVx NON-ARG 1989 2044 But still early, so those plans will develop over time.
+JQ0NjlGhcV NON-ARG 1423 1580 And I think beyond that, we really just focus on those categories and growing selection there, but I can't speculate on what we might do in the future there.
+R0 SUPPORT ARG1:i6KUsZ59d- ARG2:M8NFq9Yi-c
+R1 SUPPORT ARG1:P3prxXsTYH ARG2:M8NFq9Yi-c
+R2 SUPPORT ARG1:nTmPrMFnSt ARG2:M8NFq9Yi-c
+R3 SUPPORT ARG1:vWXGcZ0M2f ARG2:rx-uD0oNO8
+R4 SUPPORT ARG1:9EML_kNPA8 ARG2:rx-uD0oNO8
+R5 SUPPORT ARG1:qwjLcDZbK1 ARG2:rx-uD0oNO8
+R6 SUPPORT ARG1:-kkPUb_wxF ARG2:M8NFq9Yi-c

@@ -1,0 +1,19 @@
+-XoWKRNiw8 PREMISE-Fact 1139 1280 In some sense, if you compare it to the TAM of STB versus what we now describe as intelligent cloud, we're operating in a much bigger market.
+nUh4Xaw_1d PREMISE-Fact 1281 1444 And that's because first of all the move to the cloud combines a whole bunch of different categories as well as takes something that you mentioned, which is Linux.
+8a-nzYG1Ip PREMISE-Statistic 1445 1666 We now have the ability to take Linux workloads and run them first class and over 20% plus of Azure is Linux workloads, which was sort of a growth opportunity we tapped into with the cloud which we didn't have previously.
+DtelJx6iF6 PREMISE-Fact 1667 1826 And even take something like EMS, which is a service you could say in the past we participated with Active Directory, but we, and some amount of system center.
+3sdTUKX9tt PREMISE-Other 1827 1991 But now with the growth of actually mobile devices and SaaS applications, our opportunity with EMS is much bigger than anything that we had in the client server era
+dwhdhjvM2E CLAIM-Fact 1993 2075 So clearly we are migrating some workloads and structurally, some of that helps us
+ZI-CgR47q5 PREMISE-Fact 2076 2133 because we have that position in the client server space.
+1Bkb9u29IR PREMISE-Fact 2134 2340 But when we look at what we're doing in the cloud, it's mostly about attaching to one of the secular growth trajectories going forward, be it open source Linux development, mobile use and SaaS applications.
+iwmohyRPjf CLAIM-Reformulated 2341 2428 So those are all things that we participate in which we didn't participate in the past.
+le8ek1PUvZ CLAIM-Fact 1000 1138 Yeah, the thing, Heather, the move to the cloud has done for us is expanded the market opportunity that we have had more than ever before.
+R0 SUPPORT ARG1:-XoWKRNiw8 ARG2:le8ek1PUvZ
+R1 SUPPORT ARG1:nUh4Xaw_1d ARG2:le8ek1PUvZ
+R2 SUPPORT ARG1:8a-nzYG1Ip ARG2:le8ek1PUvZ
+R3 SUPPORT ARG1:DtelJx6iF6 ARG2:le8ek1PUvZ
+R4 SUPPORT ARG1:3sdTUKX9tt ARG2:le8ek1PUvZ
+R5 SUPPORT ARG1:ZI-CgR47q5 ARG2:dwhdhjvM2E
+R6 SUPPORT ARG1:1Bkb9u29IR ARG2:dwhdhjvM2E
+ArgQ0 le8ek1PUvZ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 dwhdhjvM2E SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

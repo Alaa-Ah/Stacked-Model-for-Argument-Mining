@@ -1,0 +1,23 @@
+kMinKjLUwI NON-ARG 381 397 I can take this.
+WOUiMvJCmF NON-ARG 398 494 I mean, in terms of – in terms of what percentage of videos or ads, we're not breaking that out.
+idqF1urUII CLAIM-Opinion(view) 495 586 I think what we said was that we're really pleased with the consumer adoption we're seeing.
+NaW5ShRSVH PREMISE-Statistic 587 771 That's kind of the fundamental table stakes that need to be there and that's the most important thing, and we're really pleased with the 4 billion video views daily that we're getting.
+XRsizHkFjI CLAIM-Opinion(view) 807 843 so there's a great opportunity here.
+-wouSMtbKs NON-ARG 844 861 It's still early.
+ewvcQgM6rD PREMISE-Fact 862 956 It's worth pointing out that, as Sheryl mentioned, video does displace other ads in News Feed.
+tktxMGp4IK NON-ARG 957 1026 And let me just kind of speak to how that plays into pricing as well.
+Vh1DBFvogt CLAIM-Fact 1258 1383 But there's not really a price differential you're paying for a video, it's just what are you willing to pay into the system.
+PAd1vanUUU PREMISE-Fact 1027 1078 Video is just a format that's bid into the auction.
+8MeS3SpwV1 PREMISE-Hypothesis 1079 1148 So video is effectively winning in the auction if it's higher priced.
+8NByY9ut4V PREMISE-Hypothesis 1149 1257 So if somebody's willing to pay more for a video, it's going to get served before another type of format ad.
+pGYL-IQVL6 CLAIM-Reformulated 1384 1581 So there's not differential pricing by product, it's just what are you willing to bid for the format that you want to show to the people that you want to show it to and that's how the system works.
+OkKVPpWkIF PREMISE-Fact 772 806 We know that marketers love videos
+R0 SUPPORT ARG1:NaW5ShRSVH ARG2:idqF1urUII
+R1 SUPPORT ARG1:ewvcQgM6rD ARG2:idqF1urUII
+R2 SUPPORT ARG1:OkKVPpWkIF ARG2:XRsizHkFjI
+R3 SUPPORT ARG1:PAd1vanUUU ARG2:Vh1DBFvogt
+R4 SUPPORT ARG1:8MeS3SpwV1 ARG2:Vh1DBFvogt
+R5 SUPPORT ARG1:8NByY9ut4V ARG2:Vh1DBFvogt
+ArgQ0 idqF1urUII SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 XRsizHkFjI SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Vh1DBFvogt SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

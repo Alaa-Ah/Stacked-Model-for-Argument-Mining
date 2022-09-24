@@ -1,0 +1,16 @@
+qvB_sLiFjp NON-ARG 623 628 Sure.
+4f2mrKul6f NON-ARG 629 726 On the first one, we have a long-standing practice of not commenting on regulatory or tax matter.
+QafCohrq-6 NON-ARG 727 788 So I'm not going to comment on any proposed issues out there.
+_0IvGOLtU7 NON-ARG 789 894 We certainly keep an eye on external issues and weigh in when we think it's going to impact our business.
+I0J69_NAxb NON-ARG 895 913 But, your – sorry.
+fn5pFXp7uh NON-ARG 914 946 Your second question was on FCs.
+PbZLteccf4 CLAIM-Fact 947 981 We will continue to invest in FCs.
+u_a17LsF3o PREMISE-Statistic 982 1151 The comparable I'll give you is that I won't forecast 2017, but the 20% growth in square footage that we saw in 2015 was followed by 30% square footage increase in 2016.
+RULgzD35Gm PREMISE-Statistic 1152 1222 That generally went to service that 40% growth in units, in AFN units.
+jqq541s5Ay NON-ARG 1223 1304 It also included some of the additional logistics delivery stations and all, too.
+Obu2oGodg7 PREMISE-Fact 1305 1356 So it's not all FC capacity, that's square footage.
+wh1AaMKRGl CLAIM-Reformulated 1357 1535 But I would say that we are going to continue to invest in fulfillment centers as long as our AFN growth rate maintains high, and we certainly want to keep that high and growing.
+R0 SUPPORT ARG1:u_a17LsF3o ARG2:PbZLteccf4
+R1 SUPPORT ARG1:RULgzD35Gm ARG2:PbZLteccf4
+R2 SUPPORT ARG1:Obu2oGodg7 ARG2:PbZLteccf4
+ArgQ0 PbZLteccf4 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0

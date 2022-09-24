@@ -1,0 +1,12 @@
+4r_4NaYRk2 CLAIM-Fact 566 631 On the DAU impact any Advertiser response our business is strong.
+SSLrGk1leg PREMISE-Statistic 632 774 We have over 184 million people using Facebook everyday in the U.S., which is considerably more than the Super Bowl every day on mobile alone.
+jGazYNP4vc PREMISE-Fact 775 896 We also have – we think the best stability to target and make advertising relevant for businesses and people who see ads.
+ASIrIAPkZS PREMISE-Fact 897 1081 We're continuing to build the products that allow businesses to get a higher return for the dollars they spend and allow people to see more relevant information in ads on our platform.
+n4EwnLAJKb CLAIM-Reformulated 1082 1189 So we're pleased with the growth and we believe that that delivering the strong quarter we have shows that.
+hqQ93v2zGG NON-ARG 1190 1221 On Watch, it’s just early days.
+B4Yn4XsZwZ CLAIM-Fact 1222 1342 We have a dedicated place for people to watch and comment, where heavily focused on the social aspects of video viewing,
+lMd0sWTpQ- NON-ARG 1343 1392 but it’s too early to report any really findings.
+R0 SUPPORT ARG1:SSLrGk1leg ARG2:4r_4NaYRk2
+R1 SUPPORT ARG1:jGazYNP4vc ARG2:4r_4NaYRk2
+R2 SUPPORT ARG1:ASIrIAPkZS ARG2:4r_4NaYRk2
+ArgQ0 4r_4NaYRk2 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

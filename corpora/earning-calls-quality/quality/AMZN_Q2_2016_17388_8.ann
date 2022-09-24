@@ -1,0 +1,21 @@
+s2_sil_H4_ NON-ARG 819 824 Sure.
+KFbzp1mjAn CLAIM-Fact 825 1036 On tech and content, that's going to be a combination of our people cost related to many areas of the website and also the infrastructure cost to run it, at both the Amazon Web Services and also the Amazon site.
+HjKmhomtHS PREMISE-Fact 1037 1152 We've been seeing some great efficiencies in our infrastructure, both internally as Amazon and also as part of AWS.
+QlM3CFL2rs PREMISE-Fact 1153 1265 We have great people working on not only better efficiency, but also driving cost out of our acquisition prices.
+lFIck6OkjN CLAIM-Reformulated 1266 1390 So, there's a lot of great work going on there and I think that's what you're seeing reflected in the tech and content line.
+lc9q_JIMyg CLAIM-Opinion(view) 1391 1510 Again, this can fluctuate quarter-to-quarter, but we're happy with the current trend and you see it in the AWS margins.
+q_bXg_84Kt NON-ARG 1511 1564 On Prime Now versus Fresh, they are separate – sorry.
+Y-xLi0WzZi PREMISE-Fact 1565 1715 The – we'll point out in Q2 that we added London and Boston as two new sites in London for AmazonFresh, and that was the first international location.
+JdVYLc3JjN PREMISE-Fact 1716 2008 But we've been running AmazonFresh for seven years, or excuse me, since 2007 in Seattle and what you've seen as we've been testing the model, we've been expanding in North America and more so we've been expanding within the cities that we're in, adding zip codes, adding additional customers.
+JKNbXnnCES CLAIM-Fact 2009 2158 So, the move into Boston and also now into London give us some really good data points and as – it's a great customer feature for the Prime offering.
+Dnq0Nt0h7O CLAIM-Opinion(view) 2159 2230 Prime Now is a little bit easier to build up from scratch, I would say.
+2-dm3UAmrK NON-ARG 2231 2303 The – it has a different purpose, although some of the products overlap.
+vycKND3dSq NON-ARG 2304 2457 Again, this is more about immediacy of one-hour and two-hour delivery of a curated list of important products that people need in a short period of time.
+tIEDzSOdby NON-ARG 2458 2488 So, they have different roles.
+MWgSYjHcVC NON-ARG 2489 2603 Some of the products overlap, of course, but we're happy with both, and we think that customers like both of them.
+R0 SUPPORT ARG1:HjKmhomtHS ARG2:KFbzp1mjAn
+R1 SUPPORT ARG1:QlM3CFL2rs ARG2:KFbzp1mjAn
+R2 SUPPORT ARG1:Y-xLi0WzZi ARG2:JKNbXnnCES
+R3 SUPPORT ARG1:JdVYLc3JjN ARG2:JKNbXnnCES
+ArgQ0 KFbzp1mjAn SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 JKNbXnnCES SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

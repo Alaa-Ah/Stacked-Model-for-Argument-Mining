@@ -1,0 +1,19 @@
+3oAFaJVNFJ NON-ARG 847 852 Yeah.
+tnFOro0fUx NON-ARG 853 877 Let me start with video.
+eqhFlVlVBE CLAIM-Fact 878 964 We're not quantifying the Prime video spend today, but we do – it has been increasing.
+UK11PEQWfj CLAIM-Opinion(view) 965 1011 We expect it to increase even further in 2019.
+4TW89OVDJB PREMISE-Fact 1012 1168 We're seeing a lot of again continued strong adoption and the usage and viewing and hours watched of our -- both our music and our seasoned video and music.
+Gbf_vL0JeI PREMISE-Fact 1169 1327 And as a step back, it builds stronger Prime connectivity with our Prime members, at least, the higher membership renewal rates and higher overall engagement.
+ilAaVrpeSg CLAIM-Fact 1328 1397 And as we like, we see -- we continue to see that engagement growing.
+vuDVGQ8o2c CLAIM-Fact 1398 1641 I would say that we've had some particular success in -- recently with 10 Golden Globe nominations and 3 Oscar nominations and Jack Ryan homecoming in season two of the [indiscernible] in particular, were very well received during the quarter.
+klE5FMakCf NON-ARG 1655 1660 Yeah.
+FFVH2Lu_1w PREMISE-RealExample 1661 2037 And then on your second question, just around advertising opportunities and around video, you may have seen it not that long ago, IMDB or Internet Movie Database, one of our subsidiaries, launched FreeDive, which is an ad supported free streaming video channel that's available in the US and it enables customers to watch TV shows and movies without purchasing a subscription.
+pLc7Z-N7AO PREMISE-Fact 2038 2136 So ad supported, so that's available on the IMDB website with your laptop or personal computer on.
+VRNtPa4x2V CLAIM-Opinion(view) 2137 2226 I think it's definitely on the Fire TV devices as well is a great way to consume content.
+d05jgKqX3r CLAIM-Opinion(view) 2227 2730 So I think excited about that, other opportunities we've been working with in ads, video for a bit longer period of time have been things like our sports offering, some of the live sports that we've done, things like Thursday Night Football, really like the success that we've seen on those and been learning from that and looking forward to pursuing more opportunities to engage and serve with customers with those types of video offers, but also take some opportunity to monetize with the advertising.
+R0 SUPPORT ARG1:4TW89OVDJB ARG2:ilAaVrpeSg
+R1 SUPPORT ARG1:Gbf_vL0JeI ARG2:ilAaVrpeSg
+R2 SUPPORT ARG1:FFVH2Lu_1w ARG2:VRNtPa4x2V
+R3 SUPPORT ARG1:pLc7Z-N7AO ARG2:VRNtPa4x2V
+ArgQ0 ilAaVrpeSg SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 VRNtPa4x2V SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

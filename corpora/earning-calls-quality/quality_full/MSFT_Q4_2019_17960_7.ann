@@ -1,0 +1,11 @@
+yLaqjSRqlU CLAIM-Opinion(view) 769 1076 What we said for FY20 and certainly in Q1 as we expected to be up sequentially in Q1 and we will continue to get some headwind because of the strong Azure IaaS and PaaS growth we expect through the year, but we certainly think that Azure fundamental gross margin improvement will help offset that next year.
+bIAnKhbvIJ NON-ARG 1128 1183 That wraps up the Q&A portion of today's earnings call.
+qFz2TFFyuC NON-ARG 1184 1264 We appreciate you joining us, and look forward to speaking with all of you soon.
+NVElb40NIq NON-ARG 1265 1272 Thanks.
+elOcpE1I0U NON-ARG 1283 1300 Thanks, everyone.
+3qozx0ZpD0 NON-ARG 1316 1331 Thank you, all.
+btMHDdLBhb NON-ARG 1332 1352 Thank you very much.
+weJtGqBDTn CLAIM-Fact 625 768 This is really about seeing improvement in some of our largest services and continue to see improvement year-over-year in the largest services.
+VOVnlw3X68 PREMISE-Fact 556 624 There were not any one-time benefits in this quarter that helped us.
+R0 SUPPORT ARG1:VOVnlw3X68 ARG2:weJtGqBDTn
+ArgQ0 weJtGqBDTn SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

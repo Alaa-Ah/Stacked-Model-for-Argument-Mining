@@ -1,0 +1,19 @@
+xzuG3r-AzP NON-ARG 569 635 Yes, I don’t know, Dave if you want to talk about the GDPR impact.
+Cd5ZyG5uOm NON-ARG 636 655 And then I can end.
+H5rsXAPLYv NON-ARG 669 678 Yes, Ben.
+Wd6xj2ChT- PREMISE-Fact 679 886 So, just in terms of GDPR I kind of address that earlier, we do see that having an impact in Europe that we did see a reacceleration in growth in Europe, as we have lapped the initial implementation of GDPR.
+iOsgI15JyM CLAIM-Fact 887 993 So that’s promising, but we continue to see Europe growing just a bit slower than the rest of the regions.
+MpWn2X9pZH NON-ARG 994 1060 But overall, not a whole lot of additional color to provide there.
+FWqBdzvgQj NON-ARG 1078 1082 Yes.
+Hl5k66qESt CLAIM-Fact 1083 1309 And in Marketplace, we definitely are going to focus on some of the areas that you talked about including jobs is already a pretty meaningful focus where a lot of people do find jobs and business is less jobs through Facebook.
+iWOUuH90py NON-ARG 1374 1440 So I’m not going to attempt to site something but it’s meaningful.
+KXQ6hfC6pB PREMISE-Fact 1543 1903 And in order to promote things both in and what we’re doing on Instagram with shopping and in Facebook Marketplace and in the general approach to payments is providing as affordably as possible to improve the user experience and complete transactions which will of course make the tools more valuable for businesses overall and should make the ad prices go up.
+bPK2nQ2lhQ CLAIM-Reformulated 1904 1963 And that should be the primary thing that we’re focused on.
+tEdngBWtew NON-ARG 2064 2085 So there is the stat.
+VJKELpkJoD NON-ARG 1310 1373 I don’t want to, I don’t know what our last public status here.
+Zd36nmjxbV NON-ARG 1441 1542 And the business model around this is probably not going to be charging for listings but advertising.
+saPWOXdWpX NON-ARG 1964 2063 Someone just handed me a piece of paper, which says that we have helped a million people find jobs.
+R0 ATTACK ARG1:Wd6xj2ChT- ARG2:iOsgI15JyM
+R1 SUPPORT ARG1:KXQ6hfC6pB ARG2:Hl5k66qESt
+ArgQ0 iOsgI15JyM SPECIFIC_2 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Hl5k66qESt SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

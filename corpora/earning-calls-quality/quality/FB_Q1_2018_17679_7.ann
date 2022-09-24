@@ -1,0 +1,20 @@
+RwYFr1dxQN NON-ARG 721 735 Sure, Youssef.
+OnflsxJ9_a CLAIM-Fact 736 804 On the growth in MAUs in rest of world, we've had certain slowdowns.
+lVWFJw4aQJ PREMISE-RealExample 805 886 There was an internet shutdown in Ethiopia that contributed a little bit to that.
+R7kUh2dXrL NON-ARG 887 960 So you've got some kind of one-time factors that do come into play there.
+dyTRS3iZkM NON-ARG 961 1010 So I think that's probably what I would point to.
+1SSSrNl38P NON-ARG 1011 1050 Nothing that notable to call out there.
+5uP0L920Dp CLAIM-Fact 1051 1166 In terms of the share repurchase authorization, I would just say that we've just about gotten our way through that.
+aDqozh1EXs PREMISE-Statistic 1167 1225 We had about $2 billion left as of the end of the quarter.
+JcuJjWdsBU PREMISE-Statistic 1226 1326 But we think it's – we asked the board and the board approved a $9 billion additional authorization.
+GekN7NL_xR PREMISE-Fact 1327 1465 We look at it on two fronts: just offsetting the dilution from the share issuances that we have and then secondarily, to be opportunistic.
+mjoXEfCq2L CLAIM-Reformulated 1466 1581 And we think with the cash flow that we're generating, we have a strong financial position with which to fund that.
+7QTAnVMsMm NON-ARG 1600 1606 Great.
+8nplCqP-0e NON-ARG 1607 1638 Thank you for joining us today.
+Zq4lkhqDMx NON-ARG 1639 1711 We appreciate your time, and we look forward to speaking with you again.
+R0 SUPPORT ARG1:lVWFJw4aQJ ARG2:OnflsxJ9_a
+R1 SUPPORT ARG1:aDqozh1EXs ARG2:5uP0L920Dp
+R2 SUPPORT ARG1:JcuJjWdsBU ARG2:5uP0L920Dp
+R3 SUPPORT ARG1:GekN7NL_xR ARG2:5uP0L920Dp
+ArgQ0 OnflsxJ9_a SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 5uP0L920Dp SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3

@@ -1,0 +1,15 @@
+czM90bHmO6 NON-ARG 520 531 Yeah, sure.
+czikSWRmtf PREMISE-Statistic 725 837 EGM in North America grew 32%, which was higher than the revenue growth rate, and also grew 36% internationally.
+SFgxD6GuUI CLAIM-Fact 532 724 First, on EGM, I'll just say the growth is across a lot of different products, none to exactly call out here, and we think that a lot of it is, of course, driven by the growth of Prime itself.
+zPTK1-s5tD NON-ARG 979 1078 On transportation, I think your question was about whether that's impacting our short-term results.
+I0HgehQuw7 NON-ARG 1079 1082 No.
+hvM8mVfnMu NON-ARG 1083 1100 The answer is no.
+VUVsf6oXsC NON-ARG 1101 1261 We are certainly expanding our service offerings in the transportation side and we have been for many years, things like sortation centers and delivery methods.
+MMfK7VOwuJ NON-ARG 1262 1522 The plane deal that we were talking about is essentially planes that we're going to be leasing from other companies, and you'll hear more about that as we go forward, but that is to essentially take on the demand for internal flights as we move product around.
+bt0JvqluN9 NON-ARG 1523 1558 It certainly will be well utilized.
+OflDxMAEa6 PREMISE-Fact 838 914 So when people join Prime, they are certainly buying EGM in strong quantity.
+yqCT3QDd4L PREMISE-Fact 915 978 So that continues to grow with the growth of the Prime program.
+R0 SUPPORT ARG1:czikSWRmtf ARG2:SFgxD6GuUI
+R1 SUPPORT ARG1:OflDxMAEa6 ARG2:SFgxD6GuUI
+R2 SUPPORT ARG1:yqCT3QDd4L ARG2:SFgxD6GuUI
+ArgQ0 SFgxD6GuUI SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

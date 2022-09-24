@@ -1,0 +1,34 @@
+2eeIArBRJi NON-ARG 535 539 Yes.
+ExSsIZI301 NON-ARG 540 564 Let me start with India.
+2qtadEq02U CLAIM-Fact 769 930 We've invested a lot in our global selling program, which helps Indian sellers not only reach customers in India, but also in other geographies around the world.
+wu1UR-lTX1 PREMISE-RealExample 931 1109 We started Amazon Flex in India, which helps our local partners to deliver packages, gives them jobs, grows our delivery capacity for sellers and increases our speed of delivery.
+IL6YR1cjdf PREMISE-Fact 1129 1196 We've also introduced package-free shipment program in nine cities.
+bqgS4myxKT PREMISE-Fact 1197 1311 This is going to be a big part of our shipment zero program, a vision to make all Amazon shipment net carbon zero.
+HqhiJRCeAJ CLAIM-Fact 565 666 So yes, continue to see growth in programs for both sellers -- for our sellers and delivery partners.
+sFT9Bvmh0Z CLAIM-Opinion(view) 667 768 In the last 18 months, we've doubled the number of paid Prime member, which we're very excited about.
+-Z_lOS6Fac CLAIM-Reformulated 1110 1128 So it's a win-win.
+dY2BuklJ2h PREMISE-Fact 1312 1541 On the government side, our engagement with the Indian government makes us optimistic about partnering and collaborating to seek a stable predicable policy that allow us to continue investing in our technology and infrastructure.
+62Ots_SQQu PREMISE-Fact 1542 1605 And it also helps us to create jobs and scale local businesses.
+GevUtXNR6i CLAIM-Opinion(view) 1606 1736 So, we think there's a lot of shared purpose there and a good quarter where we're looking forward to the Diwali holiday this year.
+CTWf_EoDLj PREMISE-Fact 1737 1860 The events we have for Diwali were all in Q4 last year some of them are in Q3 this year based on the timing of the holiday.
+XJW4m1r-Ct CLAIM-Fact 1861 1958 So, that's factored into our international – excuse me, our, revenue growth rate for the quarter.
+KT4pD3y0Wl NON-ARG 1972 1983 Yes, Jason.
+SY5QgeAvsp NON-ARG 1984 1997 This is Dave.
+ubNJTGqait CLAIM-Fact 1998 2078 Just quickly on the Alexa point and auto, Alexa is really a more and more place.
+d2cENnMLgn NON-ARG 2079 2198 I think the point you're probably referencing is, we're now seeing hundreds of third-party devices with Alexa built in.
+N71d5eoAAR PREMISE-Fact 2199 2305 So that runs the gamut from smart thermostat and another smart home devices, headphones, but also vehicle.
+6e3WzBNlfA PREMISE-RealExample 2306 2457 So we've seen a lot of good partnerships and arrangements with companies like BMW and Mini and not just in the U.S., but in places like Europe as well.
+p34TJ1Fl06 PREMISE-Fact 2458 2726 So a lot of this of course is just around the great power of Alexa and being able to offer even greater convenience and touch points where customers can interact with that and we're seeing a lot of good momentum with usage and how customers are interacting with Alexa.
+R0 SUPPORT ARG1:wu1UR-lTX1 ARG2:2qtadEq02U
+R1 SUPPORT ARG1:IL6YR1cjdf ARG2:2qtadEq02U
+R2 SUPPORT ARG1:bqgS4myxKT ARG2:2qtadEq02U
+R3 SUPPORT ARG1:dY2BuklJ2h ARG2:GevUtXNR6i
+R4 SUPPORT ARG1:62Ots_SQQu ARG2:GevUtXNR6i
+R5 SUPPORT ARG1:CTWf_EoDLj ARG2:XJW4m1r-Ct
+R6 SUPPORT ARG1:N71d5eoAAR ARG2:ubNJTGqait
+R7 SUPPORT ARG1:6e3WzBNlfA ARG2:ubNJTGqait
+R8 SUPPORT ARG1:p34TJ1Fl06 ARG2:ubNJTGqait
+ArgQ0 2qtadEq02U SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 GevUtXNR6i SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 XJW4m1r-Ct SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ3 ubNJTGqait SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

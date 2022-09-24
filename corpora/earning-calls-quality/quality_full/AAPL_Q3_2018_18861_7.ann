@@ -1,0 +1,37 @@
+DGe40YYSzv NON-ARG 808 845 Yeah, Katy, thanks for your question.
+K1KJud23ZE NON-ARG 846 858 This is Tim.
+jexFedyRVe CLAIM-Opinion(view) 859 913 On the services side, we're thrilled with the results.
+mzSJ603jsN CLAIM-Fact 914 941 They were very broad based.
+z-b0-K6f-q PREMISE-Statistic 942 1256 We had double digit services growth in all of the geographic segments and the App Store, AppleCare, Apple Music, cloud services, Apple Pay all set new June quarter records and of course subscriptions have now passed the 300 million, as I'd mentioned before, and so we couldn't be happier with how things are going.
+-3Va6YSvli CLAIM-Reformulated 1257 1483 In terms of the next leg of this, given the momentum that we're seeing across the board, we feel great about our current services, but obviously we're also thrilled about our pipeline that have some new services in it as well.
+FlmsoLStU1 CLAIM-Reformulated 1484 1602 And so with the combination of these, we feel great about hitting our objectives and maybe even doing a little better.
+_JAcTNpHvz NON-ARG 1617 1790 Katy, for margins, let me tell you about the puts and takes for the June quarter, then I'll talk about the guidance for Q4 and make some general observations for the future.
+mSYYmCjzeg NON-ARG 3742 3758 Thank you, Katy.
+PsWQOVaRD4 NON-ARG 3821 3858 Can we have the next question please?
+l4trOQ_6Lp NON-ARG 3859 3896 Can we have the next question please?
+EBg1EdRyzG PREMISE-Statistic 1916 1947 Last year, we were down 40 bps.
+leB8OQLVoJ PREMISE-Statistic 1948 1983 Two years ago we were down 140 bps.
+yM9Xfp8dQG CLAIM-Fact 1791 1915 Starting with the June quarter, typically we see a decline in gross margin going from the March quarter to the June quarter.
+HgpR7OMZML CLAIM-Fact 1984 2037 This year, we were able to keep GM flat sequentially.
+P9z_qA2AFD CLAIM-Opinion(view) 2274 2442 Unfortunately, as you know, the U.S. dollar has already appreciated again recently, so we do not expect to see that favorability to repeat during the September quarter.
+DUNJjgl2ss CLAIM-Opinion(view) 2443 2552 So those are the puts and takes for June and we're very happy to see gross margin sequentially flat for June.
+doK7TxOh37 CLAIM-Fact 2553 2627 For September, we're also guiding about flat sequentially at the midpoint.
+zT4HgyJE-I CLAIM-Reformulated 2131 2273 This year we were able to offset that with some cost improvements and also we had some favorability in foreign exchange on a sequential basis.
+M_dRNJ74gV CLAIM-Fact 2038 2130 During the quarter, we always have some loss of leverage because of our typical seasonality.
+q1r5M14ZKQ PREMISE-Statistic 2628 2851 As you know, we typically have what we call product transition costs during the September quarter, and this year we also have about 30 bps of headwind from foreign exchange again because the dollar has appreciated recently.
+748W3s4gM4 CLAIM-Opinion(view) 2852 3049 We expect those two factors to be offset by positive leverage, because you've seen the revenue guidance that we provided and the mix to services that you've actually mentioned during your question.
+_o56aBkFLa CLAIM-Opinion(view) 3050 3120 So we feel pretty good about also the guidance for the fourth quarter.
+aFMvkswJOx CLAIM-Opinion(view) 3121 3340 Looking forward, you know we don't provide guidance beyond the current quarter, but I think we have a pretty good record over the last several years to make good business decisions, balancing units, revenue and margins.
+HShp9Ms9-9 PREMISE-Fact 3341 3475 As you know, foreign exchange has been a very significant headwind over the last three-plus years, but we've been able to manage that.
+CmqloPL1PN NON-ARG 3476 3544 On the memory front, it is true that prices have started to decline.
+CJ-p2NPb7Q NON-ARG 3545 3652 It has been a significant headwind for the last 12, 18 months and still in the June quarter was a negative.
+ZA1mcLye9D CLAIM-Opinion(view) 3653 3727 We believe that we're going to start seeing some improvement from here on.
+R0 SUPPORT ARG1:z-b0-K6f-q ARG2:mzSJ603jsN
+R1 SUPPORT ARG1:EBg1EdRyzG ARG2:yM9Xfp8dQG
+R2 SUPPORT ARG1:leB8OQLVoJ ARG2:yM9Xfp8dQG
+R3 ATTACK ARG1:q1r5M14ZKQ ARG2:doK7TxOh37
+R4 SUPPORT ARG1:HShp9Ms9-9 ARG2:aFMvkswJOx
+ArgQ0 mzSJ603jsN SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 yM9Xfp8dQG SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ2 doK7TxOh37 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 aFMvkswJOx SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0

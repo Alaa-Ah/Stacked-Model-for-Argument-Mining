@@ -1,0 +1,52 @@
+NvPu5XXVCE CLAIM-Opinion(view) 1922 2166 But I would say, in general, I think it's important to keep in mind that if we look around the world, we do see a lot of positive signs, but we also know that the macroeconomic environment is slowing down in a number of places around the world.
+-mXFe920-H CLAIM-Reformulated 2167 2223 And that needs to be taken into account in our guidance.
+G1_QizduoX NON-ARG 1859 1921 As you know, we do not provide guidance for channel inventory.
+NeSOesWWuD NON-ARG 1198 1219 Toni, let me take it.
+jrfJviZMfA NON-ARG 1220 1401 Starting with your comments on the June quarter, I just want to point out that when we talk about a $3.6 billion channel inventory reduction, that is not entirely related to iPhone.
+OFDQEMkQEN NON-ARG 1402 1505 iPhone is the vast majority of that, but we did reduce channel inventory on all other products as well.
+AUknthTQgn NON-ARG 1506 1599 So that probably leads you to different conclusions to the math that you have just expressed.
+kVIw2EKs-b PREMISE-Fact 1600 1858 On the September quarter, when I look at the sequential increase for iPhone units that we are expecting, I would say that it is, even with the sell-through adjustments that you've talked about, it's still pretty much in line with what we've seen in the past.
+yXquapvaBT CLAIM-Opinion(view) 4458 4598 A killer user experience that's integrated across their lives I think becomes more important and I think that really plays to our advantage.
+BOAjWb55EQ PREMISE-Fact 4042 4457 And we think that from a user point of view, as the smartphone itself becomes more and more essential to people's daily lives, which is a part of what I had talked about before, a part of bringing it into the home in a bigger way and in the car and at work and so forth, we think people will put more and more focus on what they're buying and the thing that Apple does best, which is provide this killer experience.
+HEJsHer8m2 CLAIM-Opinion(view) 4599 4683 I also think that the deployment of AI technology is something that we will excel at
+lzAzWrsjHA PREMISE-Fact 4684 4744 because of our focus on user experience, and so I like that.
+LryRBkGAf8 CLAIM-Opinion(view) 3708 3749 And so there's quite a bit of room there.
+XrDMPbCAAi PREMISE-Statistic 3544 3707 And so if you take it in reverse order for a minute and look at a new smartphone, smartphone penetration right now around the world at the end of December was 42%.
+g-9GW4av6G PREMISE-Fact 3750 3891 It is true that a lot of those are in emerging markets, but we have done – we've had reasonable business success in several emerging markets.
+tkcdyAvN5s PREMISE-Fact 3892 3985 And so we don't enter into those with no experience, although we will enter into them humbly.
+IabGFcfUmy CLAIM-Opinion(view) 3986 4041 On the switcher side, we really like what we're seeing.
+ZM4Ui2j4kp CLAIM-Opinion(view) 4745 4817 From an upgrade point of view, there are pluses and minuses as I see it.
+2hIl2qjkkx PREMISE-Fact 4818 4891 A plus is that more and more people have already joined upgrade programs.
+9pzfaswzhN NON-ARG 4892 4997 Some of these programs, like the one that you referenced that we've done, replaces the iPhone every year.
+SVNrHkThWn CLAIM-Fact 5227 5271 And so there's various time schedules there.
+1ylyuWh7-9 PREMISE-RealExample 4998 5115 There are also carriers that have similar kind of plans, where they also replace or change out the iPhone every year.
+J52QY3EqT6 PREMISE-RealExample 5116 5146 Others have an 18-month clock.
+R2I05BZ1ru PREMISE-RealExample 5147 5226 Some have a 24-month clock, and there are even some that have a 30-month clock.
+3xFSREnRUj CLAIM-Reformulated 5272 5392 And so, as of today, there are obviously a lot more people on those programs than ever before because they just started.
+rkoePByk2S PREMISE-Fact 5634 5822 The subsidy, the lack of that – and this is more of a U.S. phenomenon than the rest of the world, some of that can be a shock for people that were used to paying $199 for their smartphone.
+L22cTqRFSI CLAIM-Reformulated 5915 5965 And so there's lots of pluses and minuses on this.
+CVc9CmbR9j NON-ARG 5966 6095 But overall, as I look at this for Apple, and this is not a statement on the industry itself, but for Apple, I'm very optimistic.
+8rHuAflLLY PREMISE-Fact 5521 5633 The minus side is that the bifurcation of the smartphone from the service itself has a plus and a minus into it.
+tJH8jgqtRJ PREMISE-Fact 5823 5914 They come back in and they pay less for the service but they pay more for their smartphone.
+EBbOGRpQaP NON-ARG 5393 5471 It really got underway in a big way last year, in a smaller way two years ago.
+QbviJxxSNV NON-ARG 5472 5520 And so we'll see more of those this coming fall.
+XsFRChTukZ NON-ARG 3453 3544  The iPhone demand is made up, as you know, of upgraders, switchers and new to smartphone. 
+R0 SUPPORT ARG1:kVIw2EKs-b ARG2:NvPu5XXVCE
+R1 SUPPORT ARG1:BOAjWb55EQ ARG2:yXquapvaBT
+R2 SUPPORT ARG1:lzAzWrsjHA ARG2:HEJsHer8m2
+R3 SUPPORT ARG1:XrDMPbCAAi ARG2:LryRBkGAf8
+R4 SUPPORT ARG1:g-9GW4av6G ARG2:LryRBkGAf8
+R5 SUPPORT ARG1:tkcdyAvN5s ARG2:LryRBkGAf8
+R6 SUPPORT ARG1:R2I05BZ1ru ARG2:SVNrHkThWn
+R7 SUPPORT ARG1:J52QY3EqT6 ARG2:SVNrHkThWn
+R8 SUPPORT ARG1:1ylyuWh7-9 ARG2:SVNrHkThWn
+R9 SUPPORT ARG1:2hIl2qjkkx ARG2:ZM4Ui2j4kp
+R10 SUPPORT ARG1:8rHuAflLLY ARG2:ZM4Ui2j4kp
+R11 SUPPORT ARG1:rkoePByk2S ARG2:ZM4Ui2j4kp
+R12 SUPPORT ARG1:tJH8jgqtRJ ARG2:ZM4Ui2j4kp
+ArgQ0 NvPu5XXVCE SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 yXquapvaBT SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 HEJsHer8m2 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 LryRBkGAf8 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 SVNrHkThWn SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 ZM4Ui2j4kp SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

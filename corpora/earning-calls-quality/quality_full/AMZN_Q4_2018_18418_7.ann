@@ -1,0 +1,18 @@
+Q-N2SDHoKW NON-ARG 422 427 Yeah.
+ImVVGTA0Eg NON-ARG 428 461 Thanks, Jason for your questions.
+13Hdf8o4OE NON-ARG 462 509 Let me start with the physical stores revenues.
+BmXei7JeTR NON-ARG 1492 1497 Yeah.
+bHZOma7Xgk CLAIM-Fact 1624 2118 So it's at 97%, still very strong, year-over-year growth in the fourth quarter in other revenue as I think you're aware, there are a number of components, but the largest by a good margin is the advertising revenue and we are comping a period of rapid growth in the prior year, so that is part of the factor there as you mentioned, but I’d just reiterate, we're continuing to see quite strong adoption across Amazon’s vendors, sellers, authors, all types of advertisers that are utilizing that.
+jVzDQgYhx3 PREMISE-Fact 1498 1623 And then just on your second question around advertising, if you look at the other revenue, the growth rate decelerated some.
+vCVWZ_0Uc5 PREMISE-Statistic 510 678 So physical stores decreased 3% year-over-year and this is primarily Whole Foods, but also includes our other stores, the Amazon Books stores, Amazon Go, Amazon 4 star.
+PRrGCgp3FI PREMISE-Fact 679 817 What happened in the quarter was we were lapping a period last year when we – we had purchased Whole Foods in Q3, as you remember of 2017.
+V_UsVbLO4q PREMISE-Fact 818 945 In Q4, we adjusted their fiscal calendar to link it up with Amazon's and it added about 5 days of revenue into Q4 of last year.
+ixUvSrLfS_ CLAIM-Fact 946 983 So we're comping that year-over-year.
+Q7j5iPW63A PREMISE-Fact 984 1214 The second piece is that, the -- as you said, the online orders where people go to the Prime Now app and then order for delivery or pick up at Whole Foods stores does count or is counted in the online stores component of revenues.
+Rasw4O3fcn PREMISE-Statistic 1215 1336 So if you adjust for those, with the Whole Foods growth year-over-year on an apples-to-apples basis was approximately 6%.
+Hanq-IpvT0 PREMISE-Statistic 1337 1478 Because of some of those, again, mostly the year-over-year accounting days, true up issue, it's showing up as negative 3% in physical stores.
+R0 SUPPORT ARG1:jVzDQgYhx3 ARG2:bHZOma7Xgk
+R1 SUPPORT ARG1:PRrGCgp3FI ARG2:ixUvSrLfS_
+R2 SUPPORT ARG1:V_UsVbLO4q ARG2:ixUvSrLfS_
+ArgQ0 bHZOma7Xgk SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 ixUvSrLfS_ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

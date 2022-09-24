@@ -1,0 +1,39 @@
+AqCfcwQ_5X CLAIM-Fact 599 669 Our growth this quarter was very broad-based across all of the regions
+ttKa49l90T PREMISE-RealExample 671 767 We had especially strong growth in APAC and the U.S. and Canada, so that was part of the growth.
+q_oIJfR2kY CLAIM-Fact 768 898 In terms of our marketer segments from brands to direct response to SMBs to developers, the growth is really strong there as well.
+ET1IERVibn PREMISE-Statistic 899 1026 We're really excited today to announce that we have 60 million small business pages that are using Facebook on a monthly basis.
+81PSYBCV41 CLAIM-Fact 1027 1108 And we're very focused on the opportunity to upsell them to advertising products.
+6g0hLxf8wz CLAIM-Fact 1153 1198 We're also seeing a lot of strength in brand.
+c-wmtFr2wK CLAIM-Reformulated 2420 2535 They have an increased opportunity to grow, and that's why we think our growth to-date continues to be broad-based.
+8MNUoaj-m- PREMISE-RealExample 1401 1491 So to share one example, Jack In The Box use our Canvas ads, which are very immersive ads.
+1jQFarYSZk PREMISE-RealExample 1492 1590 They're really good for a brand experience, to roll out a new menu item, their Double Jack burger.
+HqqmOfxA4U PREMISE-RealExample 1591 1744 They worked with agencies Horizon, David & Goliath and Adaptly, and they targeted millennials on Facebook to create two different custom audience groups.
+dVhMNS6wvx CLAIM-Opinion(view) 1199 1332 And I think that's because we have a combination of the creative and the story telling, so the art with the science of the targeting.
+rg525OELPb CLAIM-Fact 1333 1400 And when people do that well together, you see great opportunities.
+UrKmRcE8ra CLAIM-Reformulated 2188 2419 And so I think what you're seeing is that across all of the objectives people have from brand marketers to direct response to SMBs to developers, as our ad products get more sophisticated, our targeting and measurements get better.
+DcB9_3ZQ1N PREMISE-Statistic 1963 2187 They had an average view rate of 23 seconds across those Canvas ads, so clearly people were really engaged in the brand experience of the ads, and they had a 13-point lift in add recall and a 9-point lift in purchase intent.
+-sEX1s3bJq PREMISE-Fact 1745 1844 One group was customers who had visited the restaurant web page or engaged with previous video ads.
+aalATzKL8X PREMISE-Fact 1845 1962 And the second group were people that hadn't engaged with them directly but were quick service restaurant purchasers.
+szIQUK9m9P CLAIM-Opinion(view) 1109 1152 We think we have a good track record there.
+-gGiMHDIc8 NON-ARG 2553 2605 Yeah, and, Brian, I'll take the Live video question.
+hOctMTYBYb NON-ARG 2606 2655 It's hard to compete with the Double Jack burger.
+tvS-q0MiQh NON-ARG 2656 2702 But in terms of Live video, it's really early.
+t-vV9eUl30 CLAIM-Opinion(view) 2703 2964 We're really excited about it in terms of it providing an authentic and real form of sharing for people, and we're really trying to give people the full range of tools to share what they care about with anyone that they want, and Live is really effective there.
+ssZnMZZF1s PREMISE-RealExample 2965 3123 And we've seen experiences both in terms of a lighthearted like Candace Payne and also more serious, more serious issues around the U.S. and around the globe.
+R5qWYp6-u- PREMISE-Fact 3124 3217 So it's really an important part of what we're offering for people to share real experiences.
+VIHhZngxM2 CLAIM-Fact 3218 3293 Video as a whole is making a significant contribution to time spent growth.
+aK2HtzWDFq CLAIM-Reformulated 3294 3455 So, when we talk about the time spent per DAU growing worldwide across our family in double-digit percentages, video is making a contribution there more broadly.
+R0 SUPPORT ARG1:ttKa49l90T ARG2:AqCfcwQ_5X
+R1 SUPPORT ARG1:ET1IERVibn ARG2:q_oIJfR2kY
+R2 SUPPORT ARG1:8MNUoaj-m- ARG2:6g0hLxf8wz
+R3 SUPPORT ARG1:1jQFarYSZk ARG2:6g0hLxf8wz
+R4 SUPPORT ARG1:HqqmOfxA4U ARG2:6g0hLxf8wz
+R5 SUPPORT ARG1:-sEX1s3bJq ARG2:6g0hLxf8wz
+R6 SUPPORT ARG1:aalATzKL8X ARG2:6g0hLxf8wz
+R7 SUPPORT ARG1:DcB9_3ZQ1N ARG2:6g0hLxf8wz
+R8 SUPPORT ARG1:ssZnMZZF1s ARG2:t-vV9eUl30
+R9 SUPPORT ARG1:R5qWYp6-u- ARG2:t-vV9eUl30
+ArgQ0 AqCfcwQ_5X SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 q_oIJfR2kY SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 6g0hLxf8wz SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 t-vV9eUl30 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

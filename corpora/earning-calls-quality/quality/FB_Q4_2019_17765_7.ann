@@ -1,0 +1,15 @@
+2g3iygkPfO NON-ARG 693 718 So I'll take that, Lloyd.
+V34Y0M-WQ- NON-ARG 719 723 Yes.
+02_H2xaRp7 CLAIM-Opinion(view) 724 823 I mean we have -- we are pleased with the engagement that we're seeing on the Facebook app broadly.
+F1s5ZcKIB7 NON-ARG 824 919 And as you'd mentioned, this has been a pretty consistent story over the last several quarters.
+2CanYT9MId CLAIM-Fact 1023 1110 And I'd say the character of the engagement growth is a little bit different by region.
+gKFCTylyVr PREMISE-Fact 1111 1205 In the U.S. and Canada on Facebook, we're seeing strength in sort of nonvideo feed engagement.
+zgDDk2WC1j PREMISE-Fact 1206 1260 In other regions, we're seeing good strength in video.
+LFs9FCYybH CLAIM-Fact 1261 1467 And then I'd say across all of our apps, we're seeing strong adoption of Stories and, on WhatsApp Status products around the world, and that continues to provide another way for people to connect and share.
+ZPiWLWITLd CLAIM-Opinion(view) 1468 1555 But specific to core Facebook, I think those are some of the drivers that I'd call out.
+t1ua9ii-YS NON-ARG 920 1022 So I don't think it's particularly a new story, but we're seeing that across the globe in all regions.
+u6RTykrZTA NON-ARG 682 686 Yes.
+TqQnafC1RB NON-ARG 687 692 Okay.
+R0 SUPPORT ARG1:gKFCTylyVr ARG2:2CanYT9MId
+R1 SUPPORT ARG1:zgDDk2WC1j ARG2:2CanYT9MId
+ArgQ0 2CanYT9MId SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

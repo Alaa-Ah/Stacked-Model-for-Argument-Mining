@@ -1,0 +1,20 @@
+AFQI9hBKGp NON-ARG 2125 2150 Thanks for that question.
+eaEPFFyMvS NON-ARG 2151 2273 I think we've talked about this in prior quarters while I think many people want to see it as a finance concept, it’s not.
+jEVWJbWlKl CLAIM-Opinion(view) 2274 2397 It’s a senior leadership team concept and the leadership environment that I think we're making collective decisions faster.
+th_nyyohGi PREMISE-Fact 2471 2763 I think we have a freedom to make those choices quickly and I feel very good those about the decisiveness that comes with it, but also the empowerment that we give to people within our organizations to make those calls, to increase our performance without waiting to an annual budget process.
+xAt_gKIT3N NON-ARG 2764 2810 I think some people call it dynamic budgeting.
+32Gth70OVR NON-ARG 2811 2971 I think for us, I think it’s more about -- thinking about opportunities we have and stack ranking those every day to improve both our execution and our returns.
+i0gXbrvLaO NON-ARG 589 721 On Azure itself, one of the other elements that I did not actually talk about in response to Phil’s question is the hybrid offering.
+k5Dk3KqFAW CLAIM-Fact 1017 1120 So that's the first thing that we're seeing is increased usage of our servers with the cloud component.
+OkkEtkUQad PREMISE-Fact 1121 1277 Bursting is something for sure a lot of people do but that’s more on the high end because in the SMB segment, the real movement there is more to Office 365.
+2y4YmyL0nQ PREMISE-Fact 1278 1567 In fact, one of the things in Office 365 is we're getting people to effectively use servers, which now happens to be in cloud who never bought servers from us ever before because they didn’t have exchange, they didn’t have link, they didn’t have any of the core capabilities of Office 365.
+kPnm6dFCD1 CLAIM-Fact 722 915 One of the products that's doing very, very well for us is the store simple product, which is essentially a storage product that cloud Tiers virtualization storage from on-premise to the cloud.
+a9Zig4VUov PREMISE-Fact 916 1016 We also have built now into windows server backup and disaster recovery, same thing with SQL server.
+A7jh9csYlc CLAIM-Reformulated 1568 1609 So those are the two trends we're seeing.
+jRKvT8_xch CLAIM-Opinion(view) 2398 2470 I think we are applying our resources to opportunities when we see them.
+MdYmpneaOh NON-ARG 3009 3017  Thanks.
+bgAyhSbEmL NON-ARG 3018 3057 We'll move to the next question please.
+R0 SUPPORT ARG1:th_nyyohGi ARG2:jEVWJbWlKl
+R1 SUPPORT ARG1:a9Zig4VUov ARG2:k5Dk3KqFAW
+R2 SUPPORT ARG1:OkkEtkUQad ARG2:k5Dk3KqFAW
+R3 SUPPORT ARG1:2y4YmyL0nQ ARG2:k5Dk3KqFAW

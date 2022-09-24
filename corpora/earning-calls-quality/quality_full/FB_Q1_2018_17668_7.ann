@@ -1,0 +1,13 @@
+zitbKgr6ac NON-ARG 594 618 Yeah, so I'll take that.
+ZB2ZkA5520 NON-ARG 619 701 In terms of time spent on Facebook, we're not providing a specific update on that.
+xwMDLSoNWf CLAIM-Fact 702 812 I would note that Mark talked about some of the changes we're making to focus on connections over consumption.
+2Y0n7xXjDM PREMISE-Fact 813 963 So we're seeing a decrease in certain types of time spent such as passive video consumption as a result of that and an increase in areas like sharing.
+xuQMhhZehF PREMISE-Fact 964 1088 So, we're not really optimizing the business on time spent, but rather the kind of quality of conversations and connections.
+WcnHT9GZuN PREMISE-Fact 1089 1210 So we're continuing to invest in that work, and we think it's the right thing for the Facebook community in the long run.
+w8eN_piEP9 PREMISE-Fact 1211 1261 And I think it's also good for overall engagement.
+qpA3F85KW0 NON-ARG 1262 1480 For Instagram, that continues to perform very well, not providing kind of a separate breakout of that, but Instagram continues to grow nicely, both as a – both from an engagement perspective and a business perspective.
+R0 SUPPORT ARG1:2Y0n7xXjDM ARG2:xwMDLSoNWf
+R1 SUPPORT ARG1:xuQMhhZehF ARG2:xwMDLSoNWf
+R2 SUPPORT ARG1:WcnHT9GZuN ARG2:xwMDLSoNWf
+R3 SUPPORT ARG1:w8eN_piEP9 ARG2:xwMDLSoNWf
+ArgQ0 xwMDLSoNWf SPECIFIC_0 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

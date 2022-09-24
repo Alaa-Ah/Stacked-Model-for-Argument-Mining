@@ -1,0 +1,26 @@
+zPlP1Obqdj CLAIM-Fact 621 733 I mean, overall we did take an approach that we want to make sure we meet the real world needs across the globe.
+p65dlq0HUJ PREMISE-Fact 734 1031 And we'll continue to do so, when we look at our CapEx spend we want to make sure that the data center regions meet the needs of our customers globally across both consumer workloads and enterprise workloads, where real data sovereignty requirements and speed-of-light issues are already relevant.
+WgaWipTs-r PREMISE-Fact 1032 1105 Having said that, the way it fills up is by the value-add that we can do.
+H8hVaCpVZ_ PREMISE-Fact 1106 1263 So that's why the mix of these higher level services especially around data and AI is definitely driving a lot more consumption of our higher level services.
+WrqOg2y5Mj PREMISE-Fact 1264 1386 And even something like IoT, they're not just at the consumption meters, but they're also got SaaS like qualities to them.
+TNcddyP9Y1 CLAIM-Opinion(view) 1387 1842 So I feel very, very good about ultimately having innovation that drives both the consumption of more higher level services and then also making sure that we are available in all parts of the world, where the demand is going to spread to, because we are in the very, very early innings of essentially this new cloud growth, and there's only going to be increasing demand as there's more digitization of every city, every factory, every hospital and so on.
+rNLgNz98md CLAIM-Opinion(view) 1843 1896 So I think we have a long way to go to still fill up.
+x2rpBqiVHx CLAIM-Fact 1907 2168 And I would say, the way to think about that and you see it in the gross margin percentages and the improvements we've continued to see is the Azure premium revenue growth exceeding the overall revenue growth that actually is a benefit to the gross margin rate.
+dtvZOomud2 PREMISE-Fact 2169 2231 Then again all the work we have done through the supply chain.
+1wC8ZbfGFs PREMISE-Fact 2232 2380 So while we have a signal come in, you see a very quick turn from demand signal to us having servers in place and ready to be utilized very quickly.
+IfR9xBUEO2 PREMISE-Fact 2381 2441 That work continues and the team has done a really nice job.
+Rmf6MlxFjo PREMISE-Fact 2442 2549 And then as well software improvements, they continue to go on to increase our ability to run more or less.
+iT8l7GHLau PREMISE-Fact 2550 2613 Those taken together continue to show gross margin improvement.
+huiOnWbzJF NON-ARG 2651 2666  Thanks, Reimo.
+htZOCWctVW NON-ARG 2667 2707 We will go to the next question, please.
+R0 SUPPORT ARG1:p65dlq0HUJ ARG2:zPlP1Obqdj
+R1 SUPPORT ARG1:WgaWipTs-r ARG2:zPlP1Obqdj
+R2 SUPPORT ARG1:H8hVaCpVZ_ ARG2:zPlP1Obqdj
+R3 SUPPORT ARG1:WrqOg2y5Mj ARG2:zPlP1Obqdj
+R4 SUPPORT ARG1:dtvZOomud2 ARG2:x2rpBqiVHx
+R5 SUPPORT ARG1:1wC8ZbfGFs ARG2:x2rpBqiVHx
+R6 SUPPORT ARG1:IfR9xBUEO2 ARG2:x2rpBqiVHx
+R7 SUPPORT ARG1:Rmf6MlxFjo ARG2:x2rpBqiVHx
+R8 SUPPORT ARG1:iT8l7GHLau ARG2:x2rpBqiVHx
+ArgQ0 zPlP1Obqdj SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 x2rpBqiVHx SPECIFIC_2 PERSUASIVE_1 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

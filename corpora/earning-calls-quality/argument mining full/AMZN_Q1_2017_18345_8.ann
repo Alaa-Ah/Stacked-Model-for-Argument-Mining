@@ -1,0 +1,11 @@
+ZjkSPFc_lK NON-ARG 555 565 Hi, Heath.
+PicUJ4Bs_g NON-ARG 566 580 This is Darin.
+z3rMiUO4VZ PREMISE-Fact 1153 1335 As customers get more comfortable and begin to put more sustained workloads into the AWS services through buying RIs, they're able to get fairly significant discounts on their usage.
+RS0P2TIaIb CLAIM-Fact 1336 1362 And so we like that model.
+iDya8nk5eg CLAIM-Fact 1363 1399 Customers certainly like that model.
+gwQaT39-A3 CLAIM-Fact 1400 1507 And collecting that through deferred revenue and then letting customers use that over time is very helpful.
+sZQRnyCzvu NON-ARG 859 1058 We're not breaking out the specific growth rates for Prime, but certainly it – we like what we see in terms of the growth, and it's been consistent with what we have seen over the last quarter or so.
+WvhBEqOJnS CLAIM-Fact 581 858 Yeah, on a deferred revenue balances, as we've said in the past, the primary drivers of that increase are both the activity that we're seeing with our AWS customers and the purchase of Reserved Instances and prepaid credits for their account, as well as Prime member purchases.
+TsCsIQuc_F PREMISE-Fact 1059 1152 Certainly, the – part of that increase in deferred balances is related to Reserved Instances.
+R0 SUPPORT ARG1:TsCsIQuc_F ARG2:WvhBEqOJnS
+R1 SUPPORT ARG1:z3rMiUO4VZ ARG2:WvhBEqOJnS

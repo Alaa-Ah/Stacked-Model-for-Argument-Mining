@@ -1,0 +1,24 @@
+LpvBitG4-a NON-ARG 388 409 I'll take that, Katy.
+tR8MtWvXpw NON-ARG 410 419 It's Tim.
+uV9QUsC_On CLAIM-Fact 420 583 The ramp for iPhone X is going well, especially considering that iPhone X is the most advanced iPhone we've ever created and it has lots of new technologies in it.
+Ay_k6gmATu CLAIM-Opinion(view) 584 763 And so we're really happy that we were able to increase week by week what we're outputting and we're going to get as many of them as possible to the customers as soon as possible.
+DO7DDzzXNS NON-ARG 764 826 I can't predict, at this point, when that balance will happen.
+LQ_6WNneoH NON-ARG 827 910 And in terms of March, we obviously don't give guidance beyond the current quarter.
+h69RKVxhzt NON-ARG 1313 1405 Let me talk a little bit about Q4 in China to give you a little bit of color on the results.
+4E6yu9HUpl CLAIM-Fact 1477 1565 We hit all-time revenue records for Services and for Mac for the PRC during the quarter.
+raHdYkvSto CLAIM-Fact 1566 1608 We've had very strong iPad revenue growth.
+zEgCpe9QrM CLAIM-Fact 1609 1791 We had double digit unit growth in iPhone and both the upgraders and Android switchers were both up on a year over year basis during the quarter, and so the results were broad based.
+8mYNeQvK-p CLAIM-Fact 1406 1476 We increased market share for iPhone, Mac and iPad during the quarter.
+Xzstcl6-lB CLAIM-Fact 1848 1952 The other thing that's happened is that the decline that we've been experiencing in Hong Kong moderated.
+tJYpv5TwZe PREMISE-Fact 1953 2068 And so it's still down year over year but less so than it was and part of that is the compare is an easier compare.
+oX-WzKnfGu PREMISE-Statistic 2202 2259 Last quarter in China, it affected us 1 percentage point.
+AqmtDlQE_C CLAIM-Opinion(view) 2260 2319 And so the sum of all that, I feel great about the results.
+HD1UtM_2-V NON-ARG 2487 2503 Thank you, Katy.
+UdK6J_0Msr NON-ARG 2504 2544 Could we have the next question, please?
+PhCPPpHIAL CLAIM-Reformulated 1792 1847 They were pretty much across the board, as I indicated.
+nlVCyRTaye CLAIM-Fact 2069 2201 And then finally, in terms of another headwind that is a little less than it was, currency has been affecting us more significantly.
+u-zm3TFMdZ CLAIM-Opinion(view) 2320 2472 We don't obviously provide geographic-specific guidance but you can see from our overall guidance, we think we're going to have a really strong quarter.
+R0 SUPPORT ARG1:tJYpv5TwZe ARG2:Xzstcl6-lB
+R1 SUPPORT ARG1:oX-WzKnfGu ARG2:nlVCyRTaye
+ArgQ0 Xzstcl6-lB SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 nlVCyRTaye SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2

@@ -1,0 +1,32 @@
+3asYgF1m5S NON-ARG 595 839 Yeah, Rod, let me give you some detail both on a sequential basis and I'll give you also something on a year-over-year basis because maybe that's where the disconnect comes from, looking at the last year's gross margins in the December quarter.
+NcaOpmhV41 CLAIM-Fact 840 927 On a sequential basis, we are essentially guiding to some improvement in gross margins.
+5K3nqoTKU- PREMISE-Statistic 928 993 We had 38% both in the June quarter and in the September quarter.
+YsHpzKwCYm PREMISE-Fact 994 1175 We're guiding slightly higher for the December quarter because on the positive, we're going to have of course better leverage and the mix in the December quarter tends to be better.
+9a7herwKB5 CLAIM-Opinion(view) 1176 1464 But we need to keep into account the fact that these positives are going to be partially offset by the cost structures of the new products that we are launching now and we've launched already a few during the September quarter and that will have an impact on our December quarter results.
+Ityo2Ap69B NON-ARG 1465 1673 On a year-over-year basis, keep in mind that last year we did, in Q1, we did 40%, around 40%, 40%, 41%, but there's a couple of things that I think need to be considered before doing a year-over-year compare.
+o1vnFYObUs CLAIM-Opinion(view) 2083 2192 It is very, very important I think for investors to understand that what's happened during the last two years
+nrbWFWTwAG PREMISE-Statistic 2194 2311 During the last two years, the U.S. dollar has appreciated by 15% over the basket of currencies where we do business.
+y5WjP0yQ79 PREMISE-Statistic 2312 2437 And we're a company that generates two thirds of our revenues outside the United States, 15% appreciation of the U.S. dollar.
+7CiSbpp08_ CLAIM-Opinion(view) 2778 2890 And I think over the years, we made very good trade-offs and our gross margins have been quite stable over time.
+kH0VpRQ0Rs PREMISE-Statistic 1674 1767 And it's the fact that last year we had this award for a patent infringement of $548 million.
+2qdgRBcXcu PREMISE-Statistic 1768 1814 That is, at the gross margin level, is 40 bps.
+DsJfi1uj3X PREMISE-Statistic 1815 1916 And then we've got the FX situation, which I mentioned before, which is worth another 60 bps, 70 bps.
+6g1xA5jt3H CLAIM-Reformulated 1917 2082 And so you're left with less than 100 basis points deterioration on a year-over-year basis where again, we have the reality of new cost structures into our products.
+evZVO9rZ_D CLAIM-Value 2438 2529 So on a year-over-year basis, just 2016 over 2015 was 340 bps impact from foreign exchange.
+_LEkFaPBaO NON-ARG 2530 2777 This is something that we have offset almost entirely through a number of initiatives going from pricing actions to cost initiatives to our hedging program, but at some point, the strong dollar becomes the new normal and we need to work with that.
+cbQIErV7IB CLAIM-Opinion(view) 3679 3811 We very much believe that Apple is very undervalued, and so we're investing with confidence in the company that we know really well.
+qikxnHofOJ NON-ARG 3486 3606 We review the capital return annually, and we've established a cadence now to announce our thinking on that every April.
+1YWtnWmfi6 NON-ARG 3607 3678 And so we have a robust discussion around the dividend and the buyback.
+dyYluM3PJI NON-ARG 4134 4206 And so we'll be able to say more on that I'm sure in April of next year.
+dVzxo7Kwng CLAIM-Opinion(view) 3915 4133 And in addition to that, we know that some shareholders really like a dividend and some ongoing income, and so we've provided a amount that we think is a good amount and have a good track record of raising it annually.
+i_WbAiZ5IM CLAIM-Opinion(view) 3812 3914 And so that thinking has I think proven out over time and I think been very good for our shareholders.
+R0 SUPPORT ARG1:5K3nqoTKU- ARG2:NcaOpmhV41
+R1 SUPPORT ARG1:YsHpzKwCYm ARG2:NcaOpmhV41
+R2 SUPPORT ARG1:kH0VpRQ0Rs ARG2:9a7herwKB5
+R3 SUPPORT ARG1:2qdgRBcXcu ARG2:9a7herwKB5
+R4 SUPPORT ARG1:DsJfi1uj3X ARG2:9a7herwKB5
+R5 SUPPORT ARG1:nrbWFWTwAG ARG2:evZVO9rZ_D
+R6 SUPPORT ARG1:y5WjP0yQ79 ARG2:evZVO9rZ_D
+ArgQ0 NcaOpmhV41 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 9a7herwKB5 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 evZVO9rZ_D SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

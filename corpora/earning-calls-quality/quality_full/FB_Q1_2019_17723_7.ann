@@ -1,0 +1,27 @@
+NfeqhN4nRd PREMISE-Statistic 937 1100 Instagram specifically where we launched checkout, 130 million Instagram accounts are tapping to reveal products or learn more about products in posts every month.
+vjhmFuhk7J CLAIM-Opinion(view) 1101 1140 So I think there is a real opportunity.
+6fTjAlSBa_ PREMISE-Fact 856 936 So in shopping in general, we do see a lot of interest in our apps and shopping.
+obHoJcbAAn CLAIM-Opinion(view) 1141 1216 We're excited about checkout but I really want to stress how early this is.
+EI7bjzTxZL PREMISE-Statistic 1217 1308 This is a small closed beta with 23 brands and for us that's obviously a very small number.
+HMG92oToTe PREMISE-Fact 1309 1380 And it's not primarily a monetization product as your question assumes.
+IZCzNL9i5R PREMISE-Fact 1538 1724 Obviously, if people learn about things through our ads and then close the loop all the way to purchase, it's very strong for proving ROI, it also helps as a measure that return as well.
+Io9BJd2F_4 CLAIM-Reformulated 1725 1806 We're excited about this kind of thing but this is as early as anything could be.
+zwu47P49WO PREMISE-Fact 1381 1537 Really, the benefit here is enabling a better experience for people, that when they're interested in a product they can learn more and checkout right there.
+XWeTr2Rrnt CLAIM-Opinion(view) 1951 2032 And I think that broadly paints the right picture in terms of engagement as well.
+-lImuckaG0 CLAIM-Reformulated 2033 2138 We're not providing a specific time spent update but I think it paints the picture well on the DAU front.
+HBn-oeTkAU PREMISE-Fact 2139 2345 In terms of the strength that we're seeing in the U.S. and Canada on the revenue front, obviously, Instagram is playing a big, big role there and the growth of impressions from Stories is factoring into it.
+WUr3j8yYZK PREMISE-Fact 2346 2462 And at the same time we're seeing continued pricing growth on feed, and that's true for both Facebook and Instagram.
+spkQSKIRuB CLAIM-Fact 2463 2523 And there, we're relying on continuing to improve targeting.
+UzVQWRBmO7 PREMISE-Fact 2524 2681 And so you've got – the risk there is of course the headwinds that we talked about on the ad targeting front and how that will play into U.S. growth as well.
+MoKm4UM_oI NON-ARG 1820 1950 Yes, Anthony, on the DAU in the U.S. and Canada, yes, true, that was stable so in terms of the number of DAU quarter-over-quarter.
+R0 SUPPORT ARG1:6fTjAlSBa_ ARG2:vjhmFuhk7J
+R1 SUPPORT ARG1:NfeqhN4nRd ARG2:vjhmFuhk7J
+R2 SUPPORT ARG1:EI7bjzTxZL ARG2:obHoJcbAAn
+R3 SUPPORT ARG1:HMG92oToTe ARG2:obHoJcbAAn
+R4 SUPPORT ARG1:zwu47P49WO ARG2:obHoJcbAAn
+R5 SUPPORT ARG1:IZCzNL9i5R ARG2:obHoJcbAAn
+R6 SUPPORT ARG1:WUr3j8yYZK ARG2:spkQSKIRuB
+R7 ATTACK ARG1:UzVQWRBmO7 ARG2:spkQSKIRuB
+ArgQ0 vjhmFuhk7J SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 obHoJcbAAn SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 spkQSKIRuB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

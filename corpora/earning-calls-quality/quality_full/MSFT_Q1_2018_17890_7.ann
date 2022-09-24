@@ -1,0 +1,30 @@
+jw-XfZLhUz CLAIM-Fact 2142 2231 And because of that, you're actually already seeing that impact in the MPC gross margins.
+ctqFHGXNQ7 PREMISE-Fact 2270 2465 There was material improvement in gross margin in that segment, and a lot of that was actually due to the higher margins that we have structurally in that software and services revenue from Xbox.
+r-eTmBlm6B CLAIM-Opinion(view) 2466 2765 And as I believe, the industry that Satya is talking about pivots to be more about the engagement and monetization of that member network, you can expect that margin profile as well of our traditional, more hardware-focused Xbox to evolve, to be a real combination of those two things going forward.
+nY2_YyacoB CLAIM-Fact 2766 2834 And structurally, that would of course have higher operating margin.
+VrSju-Vz6p NON-ARG 2930 2936 Great.
+GdA4pU0mTI NON-ARG 2937 2944 Thanks.
+YCv5RobsmJ NON-ARG 2945 2978 We'll take next question, please.
+P4LtAHBUzB NON-ARG 2835 2918 Michael Nemeroff - Credit Suisse Securities (USA) LLC (Broker) Thank you very much.
+-Cw-M2ADVR CLAIM-Fact 2232 2269 Even this quarter is a great example.
+-LVpE7CtZ7 NON-ARG 791 809 I can start again.
+pJSQl2OL6h CLAIM-Fact 810 1093 I would say from a Gaming perspective, one of the bigger changes that has happened in the last, I would say, couple of years is one, of course the vibrancy of the Xbox Live network across the PC and the console and now increasingly even on the phone because of titles like Minecraft.
+Jm6oR9rslE CLAIM-Fact 1094 1168 And once you have the network, you have plenty of different opportunities.
+lb2yAWPYCQ PREMISE-RealExample 1169 1444 In particular, we now have a subscription offer with Game Pass that's off to a good very good start and our goal is to be able to have essentially a Netflix for games, so that we can have the game subscriptions that people can use across all of the devices that they play in.
+-pDV5dTo5m CLAIM-Fact 1445 1473 The other area is streaming.
+eMgeAVOYSU PREMISE-Fact 1474 1570 As you know, there is game playing and game watching and there is secular growth on both fronts.
+WxysOwpuPo CLAIM-Opinion(view) 1571 1684 And we feel very, very good about the engagement increases in a pretty unique value proposition we have in Mixer.
+rOM6r6fbuw CLAIM-Opinion(view) 1685 1788 So that's another opportunity that we believe will shape in addition to things like e-sports and so on.
+gxBATEJFcK CLAIM-Reformulated 1789 1818 So it's the totality of that.
+3lsmzMLraI PREMISE-Statistic 1819 2003 And one of the numbers that I did put in my script was that 20% growth in what we call software and services, that's perhaps a leading indicator of where we think the opportunity lies.
+kZp2WkE-WG CLAIM-Fact 2004 2128 These are early days for us, but that said, that's probably one of the key numbers to watch as we make progress and execute.
+R0 SUPPORT ARG1:ctqFHGXNQ7 ARG2:jw-XfZLhUz
+R1 SUPPORT ARG1:ctqFHGXNQ7 ARG2:-Cw-M2ADVR
+R2 SUPPORT ARG1:lb2yAWPYCQ ARG2:Jm6oR9rslE
+R3 SUPPORT ARG1:eMgeAVOYSU ARG2:-pDV5dTo5m
+R4 SUPPORT ARG1:3lsmzMLraI ARG2:kZp2WkE-WG
+ArgQ0 jw-XfZLhUz SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 -Cw-M2ADVR SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 Jm6oR9rslE SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 -pDV5dTo5m SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 kZp2WkE-WG SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

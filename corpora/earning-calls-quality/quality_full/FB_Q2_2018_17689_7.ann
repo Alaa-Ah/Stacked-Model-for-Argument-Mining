@@ -1,0 +1,17 @@
+lKEZJq74OB NON-ARG 788 799 Sure, Mark.
+WNFhyvjW4U NON-ARG 800 817 Let me take that.
+IfYCfl5xeP CLAIM-Fact 818 911 So GDPR didn't have a significant impact in Q2, partially because of its implementation date.
+TMwWdZyMz- PREMISE-Fact 912 982 So you're just seeing effectively one month of it in terms of revenue.
+5PzYDk1m6Y CLAIM-Opinion(view) 983 1121 We do think that there will be some modest impact, and I don't want to overplay these factors, but you've got a couple of things going on.
+1KdmOQ3EQw PREMISE-Fact 1122 1159 You've got the impact of the opt-outs
+BUe6z0dekB CLAIM-Opinion(view) 1161 1274 And while we're very pleased with the vast majority of people opting into the third-party data use, some did not.
+TX_SDkOJdI CLAIM-Opinion(view) 1275 1326 So that will have a small impact on revenue growth.
+J1YnLvAvuI PREMISE-Fact 1327 1421 And then we're seeing some impact from how advertisers are using their own data for targeting.
+OcBQ0h6iEq CLAIM-Opinion(view) 1422 1474 So, again, that will have a modest impact on growth.
+A1USfYACTa CLAIM-Opinion(view) 1475 1644 And then in addition, we're continuing to focus our product development around putting privacy first and that's going to, we believe, have some impact on revenue growth.
+gPuFifAAeb NON-ARG 1645 1744 So it's really a combination of kind of how we're approaching privacy as well as GDPR and the like.
+S-oSEDW3VU NON-ARG 1745 1881 So I think all of those factors together are one of the factors that we're talking about; the other being, obviously, the currency flip.
+R0 SUPPORT ARG1:1KdmOQ3EQw ARG2:5PzYDk1m6Y
+R1 SUPPORT ARG1:J1YnLvAvuI ARG2:5PzYDk1m6Y
+R2 SUPPORT ARG1:TMwWdZyMz- ARG2:5PzYDk1m6Y
+ArgQ0 5PzYDk1m6Y SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

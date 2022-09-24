@@ -1,0 +1,19 @@
+E9-5FEXVxR NON-ARG 402 417 Katy, it's Tim.
+USJNmNSXqR CLAIM-Opinion(view) 418 520 We are very thrilled with what we're seeing in early going on iPhone 11 and iPhone 11 Pro and Pro Max.
+4TjX0LuMVY CLAIM-Reformulated 521 562 It's early but the trends look very good.
+6m2utd7GqW NON-ARG 563 614 So I don't want to make a long-range forecast here.
+Fyb_p5dkF2 CLAIM-Fact 615 712 We've put our current thinking in the guidance and you can tell from the guidance we are bullish.
+GAlJHhwUFC NON-ARG 1093 1097 Yes.
+b2prDkMUBI NON-ARG 1098 1114 Katy, of course.
+b5qdwhuEdO CLAIM-Fact 1115 1202 As you said, I mean at the midpoint of the range, we are essentially flat sequentially.
+JGtoBQdEp- CLAIM-Opinion(view) 1203 1290 On one side, we expect -- on the positive side, we expect leverage from higher revenue.
+y5K9IRjzvU CLAIM-Value 1291 1467 On the other side, foreign exchange for us continues to be probably the biggest headwind that we've got right now is going to be negative 70 basis points on a sequential basis.
+dL2pio48qR PREMISE-Fact 1467 1661 Also keep in mind that during the holiday season, we have a higher mix of products revenue than we have in other quarters, and that obviously is dilutive to the company -- to the company margin.
+ouCHVLnTKy PREMISE-Fact 1661 1711 On a year-over-year basis, we are also about flat.
+8xz1RSPFdX PREMISE-Statistic 1712 1903 And on one side, we've got better commodity pricing, the environment is better than it was a year ago, but foreign exchange is a negative impact of 120 basis points on a year-over-year basis.
+bMGanWCxzS NON-ARG 1918 1934 Thank you, Katy.
+rSEeZrjBB6 NON-ARG 1935 1972 Can we have the next question please?
+R0 SUPPORT ARG1:dL2pio48qR ARG2:b5qdwhuEdO
+R1 SUPPORT ARG1:ouCHVLnTKy ARG2:b5qdwhuEdO
+R2 SUPPORT ARG1:8xz1RSPFdX ARG2:b5qdwhuEdO
+ArgQ0 b5qdwhuEdO SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0

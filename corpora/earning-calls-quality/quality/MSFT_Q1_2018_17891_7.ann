@@ -1,0 +1,25 @@
+s7c7W36N4b NON-ARG 581 635 Hopefully, we picked it up a lot earlier than you did.
+9enrQ3Ewq- NON-ARG 636 648 But we have.
+5V5AcqftXG NON-ARG 649 689 So we do have a very different dialogue.
+4aJUMrrPOQ NON-ARG 690 826 You think about it, all of the customers that we have worked with, we have always worked with them historically even in our server days.
+r8a5tiBV_7 CLAIM-Opinion(view) 827 1045 But to your point, Raimo, I think what has happened is the change, even in the financial services, the segments that you all represent, the kinds of workloads now that are moving to the cloud has qualitatively changed.
+2QF_IrmXy6 PREMISE-Fact 1046 1217 In the past we participated, but a lot of Tier 1 workloads were not on Microsoft stack, whereas now, a lot of Tier 1 workloads are in fact increasingly on Microsoft cloud.
+5s-SCLeJBC CLAIM-Reformulated 1218 1423 And so to me, that represents a qualitative change, and so the type of dialogue we have, whether it's with an auto company or a financial services company or a retail company, is much deeper, much broader.
+adlbMNJ6oK CLAIM-Opinion(view) 1424 1484 And I would use the word we are deeply partnering with them.
+REMXSmy9Ph PREMISE-Fact 1485 1714 It's no longer just simple vendor relationships, because as they are trying to build their own software capability, they need a trusted partner who's more interested in making sure that they build their own technology capability.
+7T0WsKfHKD CLAIM-Fact 1715 1750 And that's what we're investing in.
+COj779-6zD CLAIM-Opinion(view) 1764 1936 And I would say, Raimo, a way to think about this is we've always had that trusted relationship, which we're incredibly proud of as a company with our enterprise customers.
+WenvdAxs7U PREMISE-Fact 1937 2129 The investments we've made over the past years are about hiring the type of talent that can go and sit with a customer and drive the customer's successful outcomes of the projects they deploy.
+pEtMFe9AMR NON-ARG 2130 2154 And that's what we mean.
+9R3kNV4TNI PREMISE-Fact 2155 2255 It's about the investment we've made in capability, the evolution of the product and its innovation.
+77lz2lVlci CLAIM-Opinion(view) 2256 2363 And I think using and trying to continue to earn the customer trust to deliver these world-class workloads.
+9SciUw4fGP CLAIM-Reformulated 2364 2468 So I do think this is really an output of multiple years of concentration on delivering that capability.
+qGLBclXoU6 NON-ARG 2516 2533 Thank you, Raimo.
+DCNdIKAYZm NON-ARG 2534 2588 Jessie, we'll have time for one more question, please.
+R0 SUPPORT ARG1:2QF_IrmXy6 ARG2:r8a5tiBV_7
+R1 SUPPORT ARG1:REMXSmy9Ph ARG2:adlbMNJ6oK
+R2 SUPPORT ARG1:WenvdAxs7U ARG2:77lz2lVlci
+R3 SUPPORT ARG1:9R3kNV4TNI ARG2:77lz2lVlci
+ArgQ0 r8a5tiBV_7 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 adlbMNJ6oK SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 77lz2lVlci SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

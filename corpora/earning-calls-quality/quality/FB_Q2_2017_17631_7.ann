@@ -1,0 +1,28 @@
+QxfooNCmFV NON-ARG 3267 3288 And I would just add.
+oIzVbuvCcD NON-ARG 3289 3325 We don't know at what level that is.
+jlFGKdfpMm NON-ARG 3326 3453 We've had more experience with feed-based products, so we know how those play out, and so this is in very much early days mode.
+rFyGpClrCi NON-ARG 1904 2119 But I feel there's a pretty clear playbook that we have here of first building up the consumer usage, then building up the organic person-to-business interaction, making sure it works for both people and businesses.
+D2JAWAUFFP CLAIM-Fact 2120 2248 And then once you have that, the quality of those interactions is really what contributes to the scale of how much you can grow.
+jpXVmbZ6YM PREMISE-Fact 2249 2282 We've seen this in News Feed too.
+v4ZxSJ7rAv PREMISE-Fact 2283 2368 One of the factors that's contributed to ad load over time is the quality of the ads.
+4JnP66M6Zx PREMISE-Fact 2369 2468 If ad quality was low, we wouldn't be able to put as many ads in because people wouldn't want them.
+GkTqFmoAeH PREMISE-Fact 2469 2690 But in a lot of markets around the world, we see that ad quality is increasing at a very fast rate, and that makes it so that a lot of times people do ask for the content, which of course creates a very different dynamic.
+fVS7aA_V-6 CLAIM-Policy 2691 2730 So we need to get to that in messaging.
+q6agM3ZHrx PREMISE-Fact 2731 2965 And because messaging really started from the place of people communicating one to one with each other and is now adding all these other uses, it's just a lot of investment and a lot of different functionality that needs to get added.
+ak8cIysQJ6 NON-ARG 2966 3249 But for all the reasons that I've said here around our own experience doing this in other contexts with Facebook and Instagram, proof points in the market of how it's worked, I think over the long term I'm pretty confident that we will get there, and it's our job to just go do that.
+nZA4XxXSBf NON-ARG 1066 1071 Sure.
+bHiGmD86Xv CLAIM-Opinion(view) 1072 1381 So we're currently going through the process of figuring out what we want to invest in over the next year and doing our long-range planning, and this is certainly one of the areas where I think we want to be investing a lot more in and believe that there's a big opportunity and can accelerate all the effort.
+YXi9cp7qsI PREMISE-Fact 1382 1597 I do think, as you say, this is one of the rare times in business where you can look at messaging platforms that exist and see how they've successfully monetized in other parts of the world and have that be a floor.
+y5TDk5M_cS PREMISE-Fact 1598 1804 I think that over time, we should be able to do better, but that at least provides this existence proof that despite – regardless of what our internal logic is of what we're doing, that someone has done it.
+SK03hGrZ9N PREMISE-Fact 1805 1903 So that gives us some degree of confidence there in addition to our own execution on other things.
+R0 SUPPORT ARG1:YXi9cp7qsI ARG2:bHiGmD86Xv
+R1 SUPPORT ARG1:y5TDk5M_cS ARG2:bHiGmD86Xv
+R2 SUPPORT ARG1:SK03hGrZ9N ARG2:bHiGmD86Xv
+R3 SUPPORT ARG1:jpXVmbZ6YM ARG2:D2JAWAUFFP
+R4 SUPPORT ARG1:v4ZxSJ7rAv ARG2:D2JAWAUFFP
+R5 SUPPORT ARG1:4JnP66M6Zx ARG2:D2JAWAUFFP
+R6 SUPPORT ARG1:GkTqFmoAeH ARG2:D2JAWAUFFP
+R7 SUPPORT ARG1:q6agM3ZHrx ARG2:fVS7aA_V-6
+ArgQ0 bHiGmD86Xv SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 D2JAWAUFFP SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 fVS7aA_V-6 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

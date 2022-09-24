@@ -1,0 +1,17 @@
+e0PlFO0Ysr CLAIM-Fact 589 615 Yes, a couple things Brad.
+yLtgyyj5Ir CLAIM-Fact 616 831 One is, overall the need to get on the latest and greatest database technology just because of what is the increasing need for compute and data at the edge is what's driving a lot of the conversations on SQL Server.
+n2k6k1P_aO CLAIM-Fact 1041 1311 The other one is in terms of the cloud migration there is a variety of different used cases, we see people are using SQL DB, which is essentially PaaS service but it's a complete compatibility of SQL Server, they want to managed services around SQL Server which we have.
+3PHoCxCRBw CLAIM-Fact 1312 1363 And so both of those are all happening in parallel.
+1NErVeT9L_ CLAIM-Reformulated 832 1040 Interesting enough, we have a lot of requirements around edge devices even, so that you can have databases with compute so that you can really have what is needed at the edge, that’s sort of one conversation.
+kjud8l_IWF PREMISE-RealExample 1364 1458 A good example of this is in fact even the rewrite of complete revamp I would say of Dynamics.
+X0wF5bFigU PREMISE-RealExample 1459 1766 Dynamics 365 and its architecture at least in my eyes is a thing of beauty because it's completely been rewritten for the new database technology, whether it is on the data base side or on the data warehouse side, again uses a whole bunch of micro services and functions so that you can do AI close to data.
+KmjJklRXwu CLAIM-Fact 1767 1886 That type of architectural approach is what we see is possible now for every SaaS application vendor out there as well.
+latYd1ocRh PREMISE-Fact 1887 2118 Because you think about the number of SaaS -- the number of business applications that were built on SQL Server I feel that that's an architecture that can support both what they want to do on the edge, but as well as on the cloud.
+Hx9pLYuCuA CLAIM-Fact 2129 2294 And on the contextualizing opportunity, the reason I said it's not the primary driver is because of that vast, vast majority of our server business is annuity based.
+3DsTQ5j5Ih CLAIM-Fact 2295 2412 And so when it's annuity based there is really no opportunity to see it as upside in Q4 from an end of support frame.
+6MFzhLrbyk CLAIM-Reformulated 2413 2670 For the smaller portion of our business it’s still non-annuity per transactional, it does provide as I talked about earlier some opportunity but it’s not that large just because the nature of the commitment our customers now is far more of the annuity type.
+R0 SUPPORT ARG1:kjud8l_IWF ARG2:3PHoCxCRBw
+R1 SUPPORT ARG1:X0wF5bFigU ARG2:3PHoCxCRBw
+R2 SUPPORT ARG1:latYd1ocRh ARG2:KmjJklRXwu
+ArgQ0 3PHoCxCRBw SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 KmjJklRXwu SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

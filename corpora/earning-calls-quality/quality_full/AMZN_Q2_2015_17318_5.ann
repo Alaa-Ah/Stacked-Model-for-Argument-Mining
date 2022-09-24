@@ -1,0 +1,17 @@
+ZvijI84Lvz CLAIM-Fact 734 812 We saw good acceleration in both North America and International this quarter.
+943PP03Fyh NON-ARG 723 733 Certainly.
+VArwEEXsl9 PREMISE-Statistic 813 1040 North America was up 200 basis points sequentially and International was up 800 basis points and half of that you remember we've spoken about the impact of the Japanese consumption tax that was instituted last – April 1 of 2014
+ESy0k1KpGN PREMISE-Fact 1042 1128 It had a measurable impact on our run rate, our growth rate last year particularly Q2.
+1TTudn_MHJ PREMISE-Statistic 1129 1230 And so we are lapping that, which sequentially makes up half of the 800 basis points sequential gain.
+NF5CxIomNo CLAIM-Fact 1484 1715 So I would say the Prime membership to Prime flywheel, the additional benefits we are adding to Prime, not only in North America but also Internationally, and additional selection both retail and FBA which feeds the Prime flywheel.
+2sYY1jL8PI CLAIM-Fact 1231 1310 But independent of that, yes, you're right; Prime membership continues to grow.
+QlrLOLFuId CLAIM-Opinion(view) 1429 1483 and we are happy with both growth rates quite frankly.
+tpRZzJA5xk PREMISE-Fact 1369 1428 It's growing faster outside the U.S. than it is in the U.S.
+Q7ZGezGvre PREMISE-Fact 1311 1368 Faster outside, data that we gave at the end of the year.
+R0 SUPPORT ARG1:VArwEEXsl9 ARG2:ZvijI84Lvz
+R1 SUPPORT ARG1:ESy0k1KpGN ARG2:ZvijI84Lvz
+R2 SUPPORT ARG1:1TTudn_MHJ ARG2:ZvijI84Lvz
+R3 SUPPORT ARG1:Q7ZGezGvre ARG2:2sYY1jL8PI
+R4 SUPPORT ARG1:tpRZzJA5xk ARG2:2sYY1jL8PI
+ArgQ0 ZvijI84Lvz SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 2sYY1jL8PI SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

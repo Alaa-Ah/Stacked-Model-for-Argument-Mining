@@ -1,0 +1,24 @@
+NyjeFD-KM8 PREMISE-RealExample 1054 1384 For example, in FinServ, some very Tier 1 trading applications now using some of our capabilities in service fabric, which is really a PaaS service, which allows you to manage microservices with low latency and high scale, that's a place where we are seeing in fact activity, whether it's game development or trading applications.
+674iYlxFEb PREMISE-Fact 1385 1477 We are seeing even interesting use cases of Azure functions, which is completely serverless.
+mYhvgz5XfZ PREMISE-Fact 1478 1596 In fact, you can think of it as a price cut for anybody who cares about being very, very smart about cloud consumption
+ro24TxWnsc PREMISE-Fact 1598 1653 Going serverless is something that we in fact advocate.
+x-cESa6wi8 PREMISE-Fact 1654 1862 So across the board, I feel we have the right mix of IaaS, PaaS, SaaS, and per user SaaS services like Azure Active Directory, which gives us the right mix to be able to even have the right margins long term.
+LtbcDS4sga PREMISE-Fact 2112 2186 And we are now seeing even a single customer estate spanning all of these.
+WHeI4MaLXX CLAIM-Fact 801 971 Overall, I think some of the trends that you've referenced, whether it's Tier 1 workloads or serverless or even complete data center migrations, all of that is happening.
+SlwZznsEYp PREMISE-Fact 972 1053 Even the customer examples I gave, they were littered with example after example.
+IIq2335j_l NON-ARG 2200 2344 And, Mark, I'm not sure I want to get into our pricing theory on the call on a go-forward basis in terms of whether or not we match competitors.
+aTo7tbEO0M NON-ARG 781 800 Yeah, let me start.
+LNQlHE8Njs PREMISE-Fact 1863 2111 We're not concentrated in any one layer of the stack, which is something we do by design because our vision has always been that we want to of course offer all of these layers, and customers will choose depending on their needs and their scenarios.
+FAADPUEYLY NON-ARG 2345 2511 But what I would say is really fundamentally related to Satya's point around differentiation of the entire stack and what customers are doing in their digital estate.
+HggUQmsJ8M CLAIM-Fact 2512 2633 And the ability to earn margin through that is actually more impactful than whether or not you match pricing at the core.
+oAPicMOtSM NON-ARG 2667 2684  Thank you, Mark.
+qEMmyfPlgb NON-ARG 2685 2722 We'll take the next question, please.
+R0 SUPPORT ARG1:SlwZznsEYp ARG2:WHeI4MaLXX
+R1 SUPPORT ARG1:NyjeFD-KM8 ARG2:WHeI4MaLXX
+R2 SUPPORT ARG1:674iYlxFEb ARG2:WHeI4MaLXX
+R3 SUPPORT ARG1:mYhvgz5XfZ ARG2:WHeI4MaLXX
+R4 SUPPORT ARG1:ro24TxWnsc ARG2:WHeI4MaLXX
+R5 SUPPORT ARG1:x-cESa6wi8 ARG2:WHeI4MaLXX
+R6 SUPPORT ARG1:LNQlHE8Njs ARG2:WHeI4MaLXX
+R7 SUPPORT ARG1:LtbcDS4sga ARG2:WHeI4MaLXX
+ArgQ0 WHeI4MaLXX SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

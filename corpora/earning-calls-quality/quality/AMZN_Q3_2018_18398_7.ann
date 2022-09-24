@@ -1,0 +1,30 @@
+Y9XdHRk04- NON-ARG 1854 1880 And, Justin, this is Dave.
+eLtWB5VrNW NON-ARG 1881 1904 Just to add on to that.
+sXs0cmXCSf NON-ARG 1905 1937 You mentioned the online stores.
+uHq3Eucxnp CLAIM-Fact 1938 2016 Just a reminder, there is a little bit of impact from the revenue recognition.
+i-UHsxNZ6s PREMISE-Statistic 2017 2136 So you see the online stores revenue growing about 11% ex-FX, to be higher than that, but for the adoption ad standard.
+X60D0VrdKQ CLAIM-Reformulated 2137 2189 So there's a little bit of a headwind there as well.
+Z5ZXBAaGvO NON-ARG 574 592 Thank you, Justin.
+SKb7qyTykM NON-ARG 593 656 Yeah, let me just remind you a couple of things from last year.
+huNnNrZuud NON-ARG 657 771 We had two reactions on our Super Saver Shipping threshold in the first half of the year between February and May.
+0rYqSwPl91 CLAIM-Fact 772 839 That did spur a lot of unit growth in the second and third quarter.
+lBLb1B30SC CLAIM-Fact 840 1015 We also have issue with digital content, not an issue, but the fact that digital content is moving to subscriptions, Amazon Music Unlimited and Kindle Unlimited in particular.
+s5fxKPteNj PREMISE-Fact 1016 1041 It's been really popular.
+fiZ5SaioWJ CLAIM-Opinion(view) 1160 1316 So, yeah, I would say essentially with that backdrop, we're still very, very encouraged by the demand and the reception from customers on the consumer side.
+88xjFIV_E0 PREMISE-Fact 1317 1389 We have Amazon fulfilled units are still growing faster than paid units.
+Xxeqj7jXN2 PREMISE-Statistic 1390 1430 3P is now up to 53% of total paid units.
+lXkNpQy6Oq PREMISE-Fact 1431 1502 In-stock is very strong, especially as we head into the holiday period.
+8a2lQIVvnd CLAIM-Opinion(view) 1503 1549 I think we're well positioned for the holiday.
+3BAhr_Pu_s PREMISE-Statistic 1550 1659 We have over 100 million Prime eligible items that are available for FREE Two-Day Shipping for Prime members.
+4hW73YRRD8 CLAIM-Fact 1042 1159 I'll just remind you that the units – those do not count in our unit totals nor do the units from Whole Foods Market.
+2jxN3ucrBk CLAIM-Reformulated 1660 1840 And again, when we're talking about the unit deceleration, a lot of the fastest growing areas, things like subscription services, AWS and advertising are not caught in that metric.
+R0 SUPPORT ARG1:i-UHsxNZ6s ARG2:uHq3Eucxnp
+R1 SUPPORT ARG1:s5fxKPteNj ARG2:lBLb1B30SC
+R2 SUPPORT ARG1:88xjFIV_E0 ARG2:fiZ5SaioWJ
+R3 SUPPORT ARG1:Xxeqj7jXN2 ARG2:fiZ5SaioWJ
+R4 SUPPORT ARG1:lXkNpQy6Oq ARG2:8a2lQIVvnd
+R5 SUPPORT ARG1:3BAhr_Pu_s ARG2:8a2lQIVvnd
+ArgQ0 uHq3Eucxnp SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 lBLb1B30SC SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 fiZ5SaioWJ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 8a2lQIVvnd SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

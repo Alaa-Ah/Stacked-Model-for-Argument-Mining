@@ -1,0 +1,12 @@
+oHxSCYbHg8 NON-ARG 620 654 Let me start with that second one.
+XbVHWiN6N5 NON-ARG 655 692 Prime Now you said, and Amazon Fresh.
+AdHMLyPODR CLAIM-Fact 693 734 We are working very quickly on Prime Now.
+_UiUMJiLJk PREMISE-Fact 735 845 We've now expanded to nine cities, three more in the quarter including our first International city in London.
+UTitKL6s_J PREMISE-Fact 846 917 So, we're moving quick, but we'd always like to move quicker obviously.
+F6FzX46Igb NON-ARG 918 987 On AWS I think your question was more around the ability to fund AWS?
+KnMRShVigi NON-ARG 988 1020 No comment specifically on that.
+pNR-TngWqq NON-ARG 1248 1361 So, we're certainly cognizant of the capital part of the calculation, so not much more I can add on that, Carlos.
+aFOo-GqW4c CLAIM-Opinion(view) 1021 1247 We do realize it's a capital-intensive business and we have modeling that shows it's going to be a very – it is a very good business for us and that's what we aim for as long-term return on invested capital and free cash flow.
+R0 SUPPORT ARG1:_UiUMJiLJk ARG2:AdHMLyPODR
+R1 SUPPORT ARG1:UTitKL6s_J ARG2:AdHMLyPODR
+ArgQ0 AdHMLyPODR SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

@@ -1,0 +1,5 @@
+YHh0jytMPw NON-ARG 814 824 Yes, sure.
+9A7AJfHuHu CLAIM-Fact 825 929 So on the second one, I would say we’re certainly very diligent on trying to catch counterfeit products.
+KQYyOv6m-V PREMISE-Fact 930 1068 We put a lot of effort into that, we put a lot of human effort, we put a lot of machine learning and algorithmic effort into that as well.
+R0 SUPPORT ARG1:KQYyOv6m-V ARG2:9A7AJfHuHu
+ArgQ0 9A7AJfHuHu SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

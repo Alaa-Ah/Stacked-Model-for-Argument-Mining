@@ -1,0 +1,40 @@
+ELy8Py2W28 NON-ARG 982 1014 Thanks, Keith, for the question.
+BRa_fciTP_ NON-ARG 1015 1063 Let me start and then, Amy, you can add to this.
+V8LE_4Awre CLAIM-Fact 1064 1255 First of all, it is very important for us to ensure that we did everything to enable LinkedIn to keep their product and cultural ethos of putting members first and innovating on their behalf.
+Iql4Z5Nc3B CLAIM-Reformulated 1256 1313 I mean, that was sort of our priority one, two and three.
+_qOOAWjzM7 PREMISE-Fact 1314 1411 And that's what you see in their sessions growth, engagement growth, their quality member growth.
+S5yuMIWlYl PREMISE-Fact 1412 1555 And obviously that all translates into the revenue growth as well across all of the marketing solutions, talent solutions, and sales solutions.
+LoVkl9wTu6 CLAIM-Fact 1556 1605 We also, during that one year, done integrations.
+vpiub2s81V NON-ARG 1606 1617 You see it.
+tx3Vayk7E0 PREMISE-Fact 1618 1658 I see it every day in my Outlook Mobile.
+QD4lIEtDKs PREMISE-Fact 1659 1700 I see it in Sales Navigator and Dynamics.
+eUsgltAbTA PREMISE-Fact 1701 1890 And so, you will see us – with Windows 10, so you'll see us continue to do these integrations that add value again to both the Microsoft 365 and Dynamics users, as well as LinkedIn members.
+heMnIFBh2G PREMISE-Fact 1891 2036 And clearly that's increasing engagement as well and that obviously then translates into revenue growth of those business solutions we mentioned.
+VdlWOyRNrI PREMISE-Fact 2080 2260 but mostly because product synergies are showing up, and that's because of the product ethos of LinkedIn around member-first is what we have maintained throughout this integration.
+1yd2fXY-Hu CLAIM-Fact 2037 2078 So, yes, revenue synergies are showing up
+JQdPXFROJ6 CLAIM-Fact 2274 2354 And I would also add, Keith, the LinkedIn team has really done a tremendous job.
+C8CpeRbqDf PREMISE-Fact 2355 2610 So let me also say, after a year of working with them closely, my appreciation and, frankly, a lot of inspiration that I think you've seen in our own product development has been their focus on users and how important it is and how focused they are on it.
+yp60YmADy2 PREMISE-Fact 2611 2769 In some of the products, I would urge people to look at the Outlook Mobile experience and how really meaningful the experience is for the user and the member.
+ft_cJJ-65c CLAIM-Opinion(view) 2770 2859 And I think sometimes it's harder for us to measure exactly what a revenue synergy means.
+ZzOrhmt40G PREMISE-Statistic 2860 3140 But I think I look at this and say, at a 37% growth rate, plus some of the integrations we've seen and the growth in uses and users of things like Outlook Mobile, I believe that we're probably a little bit on the front end of the revenue synergies you'll see in product over time.
+Q2U4ywj7Db CLAIM-Fact 3141 3613 When it comes to our appetite for M&A, actually it has remained unchanged, which is when things meet our criteria and when we feel like it's in core areas for us, where markets are expanding, where the companies have a unique asset, I think that our ability to both execute on those and see them both execute on their own and execute inside Microsoft, I actually feel quite good that we don't worry about our ability to do them, but I wouldn't say that's new this quarter.
+xreVl7hhVZ NON-ARG 3629 3634 Yeah.
+AM0X0XqrHw CLAIM-Opinion(view) 3635 3915 And I think just to add on that, which is whether it's Minecraft or LinkedIn or many other acquisitions we've done as part of Azure, I think the key thing that we are very, very focused on is how do we make this culturally accretive, management times accretive as well as revenue.
+VnjgnlUiq5 CLAIM-Opinion(view) 3916 3988 And that's where we are building good muscle and we'll continue on that.
+nSvcXvZLtx NON-ARG 4060 4075  Thanks, Keith.
+ouJiClkmMU NON-ARG 4076 4116 We'll take the next question now please.
+R0 SUPPORT ARG1:_qOOAWjzM7 ARG2:V8LE_4Awre
+R1 SUPPORT ARG1:S5yuMIWlYl ARG2:V8LE_4Awre
+R2 SUPPORT ARG1:tx3Vayk7E0 ARG2:LoVkl9wTu6
+R3 SUPPORT ARG1:QD4lIEtDKs ARG2:LoVkl9wTu6
+R4 SUPPORT ARG1:eUsgltAbTA ARG2:LoVkl9wTu6
+R5 SUPPORT ARG1:heMnIFBh2G ARG2:LoVkl9wTu6
+R6 SUPPORT ARG1:VdlWOyRNrI ARG2:1yd2fXY-Hu
+R7 SUPPORT ARG1:C8CpeRbqDf ARG2:JQdPXFROJ6
+R8 SUPPORT ARG1:yp60YmADy2 ARG2:JQdPXFROJ6
+R9 ATTACK ARG1:ZzOrhmt40G ARG2:ft_cJJ-65c
+ArgQ0 V8LE_4Awre SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 LoVkl9wTu6 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 1yd2fXY-Hu SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 JQdPXFROJ6 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 ft_cJJ-65c SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

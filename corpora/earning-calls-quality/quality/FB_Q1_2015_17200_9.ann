@@ -1,0 +1,42 @@
+u-0H_aEnMF CLAIM-Opinion(view) 1343 1369 so I'm excited about that.
+-DmAcdxtIt PREMISE-Fact 998 1342 So in terms of news and different kinds of content, I know this has traditionally been something that we've delivered a really good experience for in terms of people being able to share the content that they want, being able to get access to the content that they want, different recommendations from friends, and we've a lot more coming there,
+buW10-d8ys PREMISE-Fact 1370 1768 And we definitely do see in this family of app strategy that there's so many new ways that people want to share content, and so many different types of sets of people that people want to share with, right, ranging from one person at a time and that would be messaging or small group sharing or sharing with interest-based communities or sharing with all your friends at once or sharing with public.
+kcPh5OZkU_ CLAIM-Fact 1769 1838 There are just a lot of different experience that needs to get built.
+svAgI_GkHg CLAIM-Opinion(view) 2138 2176 But we're happy with where we are now.
+s__jBqIiWu PREMISE-Fact 1839 2093 And a lot of what we're trying to do is enable a number of those things through Facebook, while also building unique world-class services to enable people to share all the things they care about with all the different sets of people that they care about.
+sTTeWK2cRW PREMISE-Fact 2094 2137 So we're going to keep on doing more there.
+kU_Nuj2hxe PREMISE-Fact 2177 2281 We have a number of services that are reaching pretty good scale and I think we'll keep on pushing that.
+9LSFQOaYfg NON-ARG 2302 2415 To your question on targeting and closing the loop, these are two really important pieces for what we want to do.
+RYW79NBIxw PREMISE-Fact 2667 2855 So with targeting, a more relevant ad is just better, it's better experience for consumers because they see something they like in their News Feed and it has a higher return for marketers.
+1PJOFQhbJ0 CLAIM-Opinion(view) 3283 3374 I think our targeting abilities are really second to none, and I'll share a recent example.
+llnk8XYO_v PREMISE-RealExample 3375 3568 XFINITY put out a voice guide for visual disabilities, and they did this, they did this by doing an Oscar commercial with a girl who is blind imagining what Wizard of Oz characters looked like.
+5YnMJOZzl_ PREMISE-RealExample 3569 3731 Now by doing that at the Oscars, that's obviously TV and it's a very broad ad and that's because they were both showing a product but also working on their brand.
+6r61XHe4TE PREMISE-RealExample 3732 3860 On Facebook, they took that ad and showed it to movie fans, Wizard of Oz fans and also people connected to accessibility causes.
+mgcBLlacqL CLAIM-Reformulated 3861 4096 That's actually pretty specific targeting that lets them hit exactly the right audience and amplify what they were doing on TV, and I think that's the kind of thing that only we can do at scale, and it shows how important targeting is.
+0TGSGjGwOJ PREMISE-Hypothesis 4182 4408 because if we can connect, people seeing ads on Facebook to what they buy, in stores or in other ways, that's how you close the loop and that's why we put so much investment and hopefully so much innovation behind measurement.
+q97HIDyY0k CLAIM-Opinion(view) 4097 4181 When you think about closing the loop, you then have to add in the measurement piece
+WD7xXNBq33 NON-ARG 4682 4750 It compares test groups that see ads with control groups that don't.
+p1Fp4_bIWL NON-ARG 4751 4921 So whatever you're measuring in terms of conversions whether it's sales or website clicks or registrations, we can A, B test and see exactly what the impact Facebook has.
+Cr8k8tGw83 CLAIM-Opinion(view) 4922 4967 I think we're still at the beginning of this.
+fYN-YScZTO CLAIM-Reformulated 4968 5166 I think there is so much more we can do to make ads more relevant on Facebook and so much more we can do to measure results, and I think our future growth will depend on executing on that very well.
+-EvujiLBvH CLAIM-Policy 2416 2666 Our goal when we work with marketers is to drive their business, and that means their products off the shelves, their services into the hands of people, and so in order to do that well, we need to work on targeting and we need to work on measurement.
+a5-rgeh8A9 PREMISE-RealExample 2856 3282 And so we're very focused on getting more people to use our targeting tools from Custom Audiences which lets people target ads differently to their current customers or people who they'd like to be their customers to look like audiences which enables us to identify the kind of characteristics of your current customers and then find other people on Facebook who share those characteristics so, again, the ad is well targeted.
+zWUyGU2TsI PREMISE-Fact 4409 4681 So conversion tracking is increasingly used, and we work with our marketers to use it even more, and we're also really excited about conversion list because that's the first product we've had which scientifically measures the additional business you get from Facebook ads.
+EwRTKCepwy NON-ARG 991 998  Yeah. 
+R1 SUPPORT ARG1:buW10-d8ys ARG2:kcPh5OZkU_
+R2 SUPPORT ARG1:s__jBqIiWu ARG2:kcPh5OZkU_
+R3 SUPPORT ARG1:sTTeWK2cRW ARG2:kcPh5OZkU_
+R4 SUPPORT ARG1:kU_Nuj2hxe ARG2:svAgI_GkHg
+R5 SUPPORT ARG1:llnk8XYO_v ARG2:1PJOFQhbJ0
+R6 SUPPORT ARG1:5YnMJOZzl_ ARG2:1PJOFQhbJ0
+R7 SUPPORT ARG1:6r61XHe4TE ARG2:1PJOFQhbJ0
+R8 SUPPORT ARG1:0TGSGjGwOJ ARG2:q97HIDyY0k
+R9 SUPPORT ARG1:RYW79NBIxw ARG2:-EvujiLBvH
+R10 SUPPORT ARG1:a5-rgeh8A9 ARG2:-EvujiLBvH
+R11 SUPPORT ARG1:zWUyGU2TsI ARG2:q97HIDyY0k
+ArgQ0 u-0H_aEnMF SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 kcPh5OZkU_ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 svAgI_GkHg SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 1PJOFQhbJ0 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 q97HIDyY0k SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 -EvujiLBvH SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

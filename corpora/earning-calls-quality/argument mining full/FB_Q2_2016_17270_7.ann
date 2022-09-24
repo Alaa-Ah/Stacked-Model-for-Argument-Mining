@@ -1,0 +1,24 @@
+OuGCPHyKUK NON-ARG 636 641 Sure.
+DaABPDWynf NON-ARG 642 662 And they're related.
+pgEY_k16ki CLAIM-Opinion(view) 663 992 So, overall, people are spending more and more time on mobile, and that means that there are always more services that people use whether it's YouTube or there's some really interesting ones with younger folks, especially like musical.ly and live.ly that I think are pretty interesting as well, the Snapchat, which you mentioned.
+wHbEb6dqml PREMISE-Fact 993 1225 And part of why I think you see this is that there are just so many different ways that people want to share so many different kinds of content, ranging from text to photo to video, just richer and richer and more immersive content.
+L2vw6pw-0b PREMISE-Fact 1226 1396 And also there's a range from private one-on-one type sharing to small groups, all of your friends at once, large interface communities, and then ultimately fully public.
+FAAVOlDm7g PREMISE-Fact 1397 1564 And there are different apps that explore different regions of that space and do a good job with it, and offer ideas that I think the whole market needs to learn from.
+YiyzAjZgQ5 CLAIM-Fact 1565 1661 Right now, the big theme and strategy that we're executing is we're going to become video first.
+Aq6YU30Ka1 PREMISE-Fact 1662 1844 And what I mean by that is that there's this trend where ten years back, most of what you saw and shared online was text, and then we went through a phase where most of it is photos.
+XCfn8phOWO PREMISE-Fact 1845 2021 And we really believed that, and call it five years, or whatever the period of time that it takes to get there, I think most of what people consume online is going to be video.
+fqpaMFbQra CLAIM-Fact 2022 2144 And that means that there needs to be a whole range of new production tools and consumption experiences for enabling that.
+6rpebM1SbI PREMISE-Fact 2145 2362 For production, I think that means that you need to get the camera experience, and the experience for capturing and uploading videos that you've captured to be much better in a more central part the of the experience.
+LKmhXxkdSV PREMISE-Fact 2363 2644 On consumption, there are innovations that we've had like auto play in feed, but what's the next version of that, that makes it so that people can have an even more native and default video experience when they're in News Feed, as well as private areas like Messenger and WhatsApp.
+K2wtU-Lejh CLAIM-Opinion(view) 2645 2704 So I think you're going to see this across all of our apps.
+Ey6MlCBwKh PREMISE-Fact 2705 2834 More focused on producing this kind of content, and making it first class to consume as well, both in private and public context.
+AtdiOCfdBs NON-ARG 2835 3007 And I think that that's just a big trend across the market, and one of the big things that if we get right, I think it's going to unlock a lot of sharing and opportunities.
+gGbZ9A--OL NON-ARG 3025 3331 And then just following up on Ross's question on Instagram in the U.S., because I think Ross, you were asking, we've provided some rough percentages around international and U.S., and I just wouldn't – I wouldn't – those are very approximate, and I wouldn't base any trending on that, on those percentages.
+R0 SUPPORT ARG1:wHbEb6dqml ARG2:pgEY_k16ki
+R1 SUPPORT ARG1:L2vw6pw-0b ARG2:pgEY_k16ki
+R2 SUPPORT ARG1:FAAVOlDm7g ARG2:pgEY_k16ki
+R3 SUPPORT ARG1:Aq6YU30Ka1 ARG2:YiyzAjZgQ5
+R4 SUPPORT ARG1:XCfn8phOWO ARG2:YiyzAjZgQ5
+R5 SUPPORT ARG1:6rpebM1SbI ARG2:fqpaMFbQra
+R6 SUPPORT ARG1:LKmhXxkdSV ARG2:fqpaMFbQra
+R7 SUPPORT ARG1:Ey6MlCBwKh ARG2:K2wtU-Lejh

@@ -1,0 +1,25 @@
+DxUV4G0Ada NON-ARG 744 777 Yeah, maybe I can start and then…
+5cZ3oEYymP NON-ARG 788 835 Why don't you start and I will do the next one.
+wquDHGM58_ CLAIM-Opinion(view) 851 1240 So one of the things that we are very excited about and have learnt a lot from is the secure productive enterprise offer that we have had now last year and impacted Q4, it really accelerated significantly, and so that has helped us in fact come up with Microsoft 365 at this very strong offering that brings together Office 365, Windows 10, as well as our enterprise mobility and security.
+UXpDW_Zl2v NON-ARG 1241 1281 And support even cross-platform devices.
+3n2zSryttp CLAIM-Opinion(view) 1282 1603 So we think of the modern workplace as having a very significant footprint of Windows, but also people will use phones of iOS and Android, but they need both productivity, creativity, and security across all of this estate of theirs, and that’s where I think we have a competitive advantage and a great value proposition.
+i-G_6Q0mib PREMISE-Fact 1604 1642 So that’s what Microsoft 365 embodies.
+aSTPw26AXd CLAIM-Reformulated 1643 2030 It’s today available for enterprises and in the fall you will have the midmarket version of it, which I think is a another very big opportunity because it really helps take what we have learnt in the large enterprises and scale it to where perhaps the need is even more acute and so we are excited about that and at Inspire the partner channel obviously is very excited about it as well.
+pBQHIxv3CH CLAIM-Opinion(view) 2041 2211 And so to your point and it’s a nice transition from Satya's point about, especially the midmarket offering coming in the fall for Microsoft 365 is installed base growth.
+KXpQtzJBU9 PREMISE-Fact 2212 2340 You are right, in terms of Office commercial 365 the primary driver is still installed base, both the transition as well as new.
+JPPvzhwZ95 CLAIM-Opinion(view) 2341 2657 I think we are optimistic as we head into FY 2018 for the installed base growth possible in particular for some of these midmarket offerings that we’re quite proud off The ARPU growth that you saw and have seen in the past couple of quarters continues to primarily, Phil, be related still to the E1 to E3 transition.
+_EN_Yffuwo CLAIM-Opinion(view) 2658 2803 When we mentioned E5, I think that’s frankly encouraging for us because all of these premium offers do best when you start the deployment motion.
+1i0QUhd9Du PREMISE-Fact 2804 2909 People start using E1 then they use E3 and then you start to see the momentum in E5, and we did see that.
+iu8ljN0NVx PREMISE-Fact 2910 2971 However, in terms of ARPU impact very, very small in quarter.
+NqnOdccKoU PREMISE-Fact 2972 3071 So that’s something that over time you will continue to see improvement in terms of impact on ARPU.
+nVjoPQMnQV NON-ARG 3124 3132  Thanks.
+GQmcWvylYE NON-ARG 3143 3154  Thank you.
+SyBekMRTDF NON-ARG 3155 3193 We will take the next question please.
+R0 SUPPORT ARG1:i-G_6Q0mib ARG2:3n2zSryttp
+R1 SUPPORT ARG1:KXpQtzJBU9 ARG2:pBQHIxv3CH
+R2 SUPPORT ARG1:1i0QUhd9Du ARG2:_EN_Yffuwo
+R3 ATTACK ARG1:iu8ljN0NVx ARG2:_EN_Yffuwo
+R4 SUPPORT ARG1:NqnOdccKoU ARG2:_EN_Yffuwo
+ArgQ0 3n2zSryttp SPECIFIC_2 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 pBQHIxv3CH SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 _EN_Yffuwo SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

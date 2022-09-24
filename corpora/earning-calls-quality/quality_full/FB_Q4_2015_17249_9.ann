@@ -1,0 +1,32 @@
+_GFQvCwYZO CLAIM-Opinion(view) 649 729 On the Sports Stadium, this is an early test, but we’re pretty excited about it.
+Q1CFhANaDt PREMISE-Statistic 730 836 We are the largest community of sports fans in the world; we have 650 million sports fans on our platform.
+W_C2OUXpgN PREMISE-Fact 837 908 And people are already using Facebook to share during real-time events.
+wi1C-7b4Qg CLAIM-Fact 909 956 It’s an increasingly important use case for us.
+EmiH1l_5WO PREMISE-Fact 957 1042 So this gives people to share, a place to share that one event and participate in it.
+FfaeswwRPb CLAIM-Opinion(view) 1043 1135 I think what you will see from us is always a focus on driving users and driving engagement.
+8YMJFhF-ye PREMISE-Fact 1136 1161 This is one way to do it.
+ymSgkd1kgP PREMISE-Other 1162 1223 We’ll see how it works; we’re pretty open to experimentation.
+WhELYPdLlA NON-ARG 1376 1396 And Paul, it’s Dave.
+fKDHiftyQ2 NON-ARG 1962 1970 Alright.
+_maMjnR3F2 NON-ARG 1971 2002 Thank you for joining us today.
+cmnxl7tKRH NON-ARG 2003 2074 We appreciate your time and we look forward to speaking with you again.
+okEVJUbcZG NON-ARG 1397 1507 I think that question is really around sort of FX and how it relates on the revenue side versus the cost side.
+oiiE7UOKMV PREMISE-Fact 1508 1594 And on that front, we’re -- substantial majority of our expenses are U.S. dollar base.
+TBdGEcVpyh CLAIM-Fact 1595 1653 So certainly we see an impact to margins with FX headwind.
+JmnZtW-yAi PREMISE-Fact 1654 1749 So that’s just the reality of having most of our development resources for instance in the U.S.
+iouldUMfsk CLAIM-Fact 1750 1854 So beyond that, we don’t do geographic cost breakouts and allocations; it’s not how we run the business.
+-S_OFVpYzB CLAIM-Reformulated 1224 1362 So, we feel pretty confident that real-time sharing is an increasingly important part of the platform and one we’ll continue to invest in.
+UpmwjAYZK9 PREMISE-Fact 1855 1943 But certainly from an FX point of view, FX headwinds have a dampening effect on margins.
+R0 SUPPORT ARG1:Q1CFhANaDt ARG2:_GFQvCwYZO
+R1 SUPPORT ARG1:W_C2OUXpgN ARG2:wi1C-7b4Qg
+R2 SUPPORT ARG1:EmiH1l_5WO ARG2:wi1C-7b4Qg
+R3 SUPPORT ARG1:8YMJFhF-ye ARG2:FfaeswwRPb
+R4 SUPPORT ARG1:ymSgkd1kgP ARG2:FfaeswwRPb
+R5 SUPPORT ARG1:oiiE7UOKMV ARG2:TBdGEcVpyh
+R6 SUPPORT ARG1:JmnZtW-yAi ARG2:TBdGEcVpyh
+R7 SUPPORT ARG1:UpmwjAYZK9 ARG2:iouldUMfsk
+ArgQ0 _GFQvCwYZO SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 wi1C-7b4Qg SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 FfaeswwRPb SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 TBdGEcVpyh SPECIFIC_2 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 iouldUMfsk SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

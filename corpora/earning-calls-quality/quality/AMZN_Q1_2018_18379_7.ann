@@ -1,0 +1,56 @@
+I64sBQahn5 NON-ARG 546 562 Yes, sure, Eric.
+Q4QNuWwcF_ CLAIM-Fact 917 1203 So our philosophy there again is we're continuing to focus on finding valuable ways to make our advertising opportunities better for customers, showing them new products that they may not have seen otherwise and also for emerging and established brands, helping them to reach customers.
+U07NoEgk0E CLAIM-Opinion(view) 1204 1397 I think the advertisers generally are all shapes and sizes, and their common theme is they all want to reach our customers generally to drive brand awareness, discovery and eventually purchase.
+SaWWYH2ilH NON-ARG 1398 1485 Before I go into the second question, I want to make a comment about the Prime program.
+_YrXFvSlgE CLAIM-Fact 563 669 I would say advertising continues to be a bright spot both from a product standpoint and also financially.
+YHttS00Sck CLAIM-Fact 670 733 It continued to be a strong contributor to profitability in Q1.
+lzL3T29gil CLAIM-Fact 734 773 It's now a multibillion-dollar program.
+uRfJRv5cyM PREMISE-Fact 774 916 You can see the – in our supplemental revenue disclosure, it's in other revenue, and it's the majority of the other revenue in that line item.
+YtQ5vdrmwM CLAIM-Fact 1486 1603 The Prime program continues to drive great strength in our top line, as you've seen over the last few years actually.
+liTeoGbv02 CLAIM-Fact 1604 1708 We continue to increase the value of Prime, including speed selection and digital entertainment options.
+8Vg7YysNz_ PREMISE-RealExample 1709 1773 We've been expanding FREE Same-Day Shipping and One-Day options.
+sNfiJCMOkN PREMISE-Statistic 1774 1885 And our Two-Day shipping, it's now available on over 100 million items, up from 20 million as recently as 2014.
+-zN80ovHXd PREMISE-RealExample 1886 1943 And we continue to add digital benefits like Prime Video.
+zqOVm8toqM CLAIM-Reformulated 2306 2445 Prime provides a unique combination of benefits, and we continue to invest in making this Prime program even more valuable for our members.
+fM3rr4ZbxX CLAIM-Fact 1944 1999 The value of Prime to customers has never been greater.
+2aY_koKDNX PREMISE-Fact 2000 2134 And the cost is also high, as we pointed out especially with shipping options and digital benefits, we continue to see rises in costs.
+6L9peW0Xmn CLAIM-Fact 2135 2247 So effective May 11, we're going to increase the price of our U.S. annual plan from $99 to $119 for new members.
+oXglyExDr9 CLAIM-Reformulated 2248 2305 The new price will apply to renewals starting on June 16.
+n7JjUJbOv_ NON-ARG 3521 3595 As you look at the other supplemental line item, just a few items of note.
+KXs1v9WVDz PREMISE-Statistic 3596 3659 The line item online stores revenue increased about 13%, ex-FX.
+E21XlJBK-V PREMISE-Fact 3660 3890 Beginning in the first quarter, sales of apps, in-app content, and certain digital media content are now presented on a net revenue basis and included in third-party seller services revenue, rather than that online stores revenue.
+PsPbFrj2HF PREMISE-Statistic 3989 4090 And then the line item, subscription services revenue, that increased about 56% ex-FX year-over-year.
+Usw9lJOFAw PREMISE-Fact 4091 4135 Prime memberships are included in that line.
+A_sineweoq PREMISE-Fact 4136 4263 Again, beginning in the first quarter, we now recognize annual Prime membership revenue straight line over the 12-month period.
+sDKZ9obz93 PREMISE-Fact 4264 4391 Prior to 2018, we recognized this revenue over the 12-month period with more revenue allocated to the fourth quarter each year.
+99tBSKLc7i CLAIM-Fact 4392 4494 So in Q1 of this year, subscription services revenue would have been lower, but for this new standard.
+hzbq9EAtdQ CLAIM-Fact 3891 3988 So in the first quarter, online stores revenue would have been higher, but for this new standard.
+GrHoonjW5a NON-ARG 2446 2567 As a reminder, we haven't increased the U.S. annual price of Prime since our single increase, which was in March of 2014.
+TflPRDAM7V NON-ARG 2581 2586 Yeah.
+URKBQ2F0wf NON-ARG 2587 2752 And, Eric, sorry to just go back to your initial question too, just to hop back on that, just wanted to remind folks that we mentioned this last quarter on the call.
+-smobKaz1W NON-ARG 2753 2858 But on January 1, we adopted an accounting standard update that amended our revenue recognition policies.
+kdQwYJwlQr NON-ARG 2859 2966 So the net impact to revenue in the first quarter was not material, but I do want to highlight a few areas.
+_JxLQ3_dl4 PREMISE-Fact 2967 3106 As part of the adoption beginning in Q1, certain advertising services were classified as revenue rather than a reduction of costs of sales.
+vIxTK1JTvf PREMISE-Statistic 3107 3278 So the impact of this change was an increase of $560 million to other revenue in Q1, which is – the other revenue is, of course, part of our supplemental sales disclosure.
+pIRRGa8zn_ CLAIM-Value 3279 3400 So you'll see that other revenue, in total, increased 132% ex-FX year-over-year to about $2 billion in the first quarter.
+PldElx0GLX PREMISE-Statistic 3401 3520 Again, $560 million is included in there, and the majority of that is – would be included in the North America segment.
+R0 SUPPORT ARG1:uRfJRv5cyM ARG2:lzL3T29gil
+R1 SUPPORT ARG1:8Vg7YysNz_ ARG2:liTeoGbv02
+R2 SUPPORT ARG1:sNfiJCMOkN ARG2:liTeoGbv02
+R3 SUPPORT ARG1:-zN80ovHXd ARG2:liTeoGbv02
+R4 SUPPORT ARG1:2aY_koKDNX ARG2:6L9peW0Xmn
+R5 SUPPORT ARG1:KXs1v9WVDz ARG2:hzbq9EAtdQ
+R6 SUPPORT ARG1:E21XlJBK-V ARG2:hzbq9EAtdQ
+R7 SUPPORT ARG1:PsPbFrj2HF ARG2:99tBSKLc7i
+R8 SUPPORT ARG1:Usw9lJOFAw ARG2:99tBSKLc7i
+R9 SUPPORT ARG1:A_sineweoq ARG2:99tBSKLc7i
+R10 SUPPORT ARG1:sDKZ9obz93 ARG2:99tBSKLc7i
+R11 SUPPORT ARG1:_JxLQ3_dl4 ARG2:pIRRGa8zn_
+R12 SUPPORT ARG1:vIxTK1JTvf ARG2:pIRRGa8zn_
+R13 SUPPORT ARG1:PldElx0GLX ARG2:pIRRGa8zn_
+ArgQ0 lzL3T29gil SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 liTeoGbv02 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 6L9peW0Xmn SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 hzbq9EAtdQ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ4 99tBSKLc7i SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ5 pIRRGa8zn_ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

@@ -1,0 +1,36 @@
+Wob4-erMBB NON-ARG 686 691 Sure.
+uAKmEqvwXB PREMISE-Fact 692 812 The -- of course the proportion of one-day shipments is higher in international to begin with in a lot of our countries.
+iAk-2Rfl-Q CLAIM-Opinion(view) 813 920 So we will -- we expect it to be very valuable to customers as we add selection into that one-day category.
+wF_7993SKU CLAIM-Opinion(view) 921 1039 But we think the biggest elasticity is probably in North America where the standard has been 2-day shipping for Prime.
+25BBQKsa-0 PREMISE-Fact 1128 1156 It's automatically built in.
+x9rCqBn32R PREMISE-Other 1157 1187 You're surprised by the speed.
+iDN552T3kK PREMISE-Fact 1188 1280 It's not like you have to search one-day shipping specifically to find out what's available.
+Zk1Jjrv8GR CLAIM-Fact 1040 1127 So yes, I would say, you're faced with the -- you see it every time you go to our site.
+H6yeLKn6jU PREMISE-Fact 1281 1313 It's growing and it's pervasive.
+tfsOq58kad CLAIM-Opinion(view) 1314 1486 So I think what that does is, again it strengthens your purchase decision, it strengthens the need to not have to go elsewhere to buy a product because you need it quickly.
+s2Z3J1N4he CLAIM-Opinion(view) 1487 1534 So I think it's becomes a part of your routine.
+EV4BvNSP4x CLAIM-Reformulated 1535 1586 At least that's what we're seeing in North America.
+gc00tycC5N CLAIM-Opinion(view) 1587 1793 And we hope again as we build this capacity to more and more regions and more and more ZIP codes and adding more and more selection that everyone will see the same thing that we see already in major cities.
+MpeB_tRrxp CLAIM-Fact 1794 2039 I do want to add one point though because when we talk about operating income in both in Q2 and Q3 and we talk about the cost and penalty of one-day, I would like to highlight there's some other investment areas that are certainly going on here.
+1V0vte_PLh CLAIM-Fact 2040 2148 If you look at Q2, our marketing expense was up 48% year-over-year and that's a combination of a few things.
+MG3r7GV213 CLAIM-Fact 2149 2214 First, we're continuing to add our AWS sales and marketing teams.
+owZkPtsu5i CLAIM-Reformulated 2318 2389 So we continue to build out our sales force and our marketing programs.
+SRt07EHmxI CLAIM-Fact 2390 2530 We're also adding more and more advertising as we roll out devices and Prime Video -- new Prime Video content in particular internationally.
+4aPX-y9ZGm CLAIM-Reformulated 2531 2570 So we're seeing higher marketing costs.
+E496BW1hH_ CLAIM-Fact 2571 2631 We're also seeing a higher stock-based compensation expense.
+X_YZVKFrzv PREMISE-Statistic 2632 2663 That was up 36% year-over-year.
+FXeEg7KYN3 PREMISE-Statistic 2664 2722 And you'll see that our headcount grew 13% year-over-year.
+whIjtqtYOo PREMISE-Fact 2723 2995 So when you look at some of our most quickly growing areas things like Alexa and AWS and also teams working on machine learning and other high-end technical projects, our technical headcount actually grew twice that rate or nearly twice that rate based on total headcount.
+8_l1zb8hoL CLAIM-Reformulated 2996 3144 So there's a lot of moving parts within our headcount number, but there's a very strong investment going on in AWS devices and videos in particular.
+jPcmUsnhqf CLAIM-Fact 2215 2317 We see great opportunity there to help customers engage with our services and migrate to our products.
+R0 SUPPORT ARG1:uAKmEqvwXB ARG2:iAk-2Rfl-Q
+R1 SUPPORT ARG1:25BBQKsa-0 ARG2:Zk1Jjrv8GR
+R2 SUPPORT ARG1:x9rCqBn32R ARG2:Zk1Jjrv8GR
+R3 SUPPORT ARG1:iDN552T3kK ARG2:Zk1Jjrv8GR
+R4 SUPPORT ARG1:H6yeLKn6jU ARG2:Zk1Jjrv8GR
+R5 SUPPORT ARG1:X_YZVKFrzv ARG2:E496BW1hH_
+R6 SUPPORT ARG1:FXeEg7KYN3 ARG2:E496BW1hH_
+R7 SUPPORT ARG1:whIjtqtYOo ARG2:E496BW1hH_
+ArgQ0 iAk-2Rfl-Q SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Zk1Jjrv8GR SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 E496BW1hH_ SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

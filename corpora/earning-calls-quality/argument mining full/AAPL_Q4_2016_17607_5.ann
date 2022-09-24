@@ -1,0 +1,43 @@
+wL-AhR-UKX NON-ARG 1111 1141 Yeah, thanks for the question.
+48KXVEu3Xv NON-ARG 1142 1188 I'll let Luca talk about the OpEx piece of it.
+dGPSr1zkgL PREMISE-Statistic 1413 1507 And the age of the population, if you look at India, almost 50% of the population is under 25.
+ABXoInPOgq CLAIM-Opinion(view) 1189 1412 On India, I think it's important to look not only at per capita income, which may be what you're looking at, but sort of look at the number of people that are or will move into the middle class sort of over the next decade.
+YnbedZyx3- CLAIM-Fact 1508 1554 And so you have a very, very young population.
+DiDj9HTYwm CLAIM-Opinion(view) 1930 2000 And so I see a lot of the factors moving in the right direction there.
+SOPECzfslI CLAIM-Opinion(view) 2665 2839 And given our starting point, even though we've been growing a lot, there is a lot of headroom there in our mind, and so we are working very hard to realize that opportunity.
+VLXPaFiKxR CLAIM-Fact 1555 1611 The smartphone has not done as well in India in general.
+GJFQeOC99z PREMISE-Fact 1612 1693 However, one of the key reasons for that is the infrastructure hasn't been there.
+xIoiXbkTCq PREMISE-Fact 1694 1929 But this year or this year and next year, there are enormous investments going in on 4G and we couldn't be more excited about that because it really takes a great network working with iPhone to produce that great experience for people.
+4TrB1oMnXZ CLAIM-Opinion(view) 2001 2113 I also think the government is much more focused on the infrastructure and on creating jobs, which is fantastic,
+_jIhbfI_Nl PREMISE-Fact 2114 2195 because you really need the kind of infrastructure and the technology to do that.
+coHDSH33HC NON-ARG 2196 2223 Will it be as big as China?
+0lmYBu9rFm CLAIM-Opinion(view) 2224 2355 I think it's clear that the population of India will exceed China sometime in probably the next decade or so, maybe less than that.
+5DSMMw0uu_ CLAIM-Opinion(view) 2356 2470 I think it will take longer for the GDP to rival it, but that's not critical for us to have a great success there.
+-Ml35rlqB_ PREMISE-Other 2471 2664 The truth is, there's going to be a lot of people there and a lot of people in the middle class that will really want a smartphone, and I think we can compete well for some percentage of those.
+FJcY0EnB_d CLAIM-Opinion(view) 2873 2926 our approach to OpEx is quite clear and quite simple.
+hn1hvDs2fp PREMISE-Fact 3035 3090 So you see that we make significant investments in R&D.
+ajPI0-1crg PREMISE-Fact 3091 3150 You've seen the growth rates over the last couple of years.
+fS6TBq6lRU PREMISE-Fact 3151 3252 We are making important investments in data centers because we want to support our services business.
+K1tijYXFjw PREMISE-Fact 3253 3304 We continue to open retail stores around the world.
+UBEPC2M1gB PREMISE-Fact 3305 3356 We continue to invest in marketing and advertising.
+FuaJQnodjz PREMISE-Statistic 3510 3649 So what you've seen, for example in fiscal 2016, you've seen investments in R&D growing at 25% and then our SG&A expenses to be about flat.
+ce8LVc3_z5 PREMISE-Statistic 3740 3874 If you step back for a second and you look at our implied guidance for the December quarter, we got an expense to revenue ratio of 9%.
+DQmsvRfKw3 NON-ARG 3875 3948 This is extremely competitive in our industry and I would say in general.
+9_aJ8u0HPs CLAIM-Policy 2927 3034 We want to continue to invest in the business in all the areas where we think is critical for us to invest.
+sj0ciNxiO1 NON-ARG 3357 3420 At the same time, we want to continue to be efficient and lean.
+nV-xdfWQt4 NON-ARG 3421 3509 It's something that we've done very well over the years and want to continue to do that.
+zvUb-GJdoZ NON-ARG 3650 3739 And this is kind of the approach that we want to take and continue to take going forward.
+PIirw16Y-n CLAIM-Reformulated 3949 4046 And so we want to continue to have this balance, make the right investments and remain efficient.
+PHntJnzlwv NON-ARG 2853 2873  And, Jim, on OpEx, 
+R0 SUPPORT ARG1:dGPSr1zkgL ARG2:YnbedZyx3-
+R1 SUPPORT ARG1:GJFQeOC99z ARG2:VLXPaFiKxR
+R2 SUPPORT ARG1:xIoiXbkTCq ARG2:DiDj9HTYwm
+R3 SUPPORT ARG1:_jIhbfI_Nl ARG2:4TrB1oMnXZ
+R4 SUPPORT ARG1:-Ml35rlqB_ ARG2:5DSMMw0uu_
+R5 SUPPORT ARG1:hn1hvDs2fp ARG2:9_aJ8u0HPs
+R6 SUPPORT ARG1:ajPI0-1crg ARG2:9_aJ8u0HPs
+R7 SUPPORT ARG1:fS6TBq6lRU ARG2:9_aJ8u0HPs
+R8 SUPPORT ARG1:K1tijYXFjw ARG2:9_aJ8u0HPs
+R9 SUPPORT ARG1:UBEPC2M1gB ARG2:9_aJ8u0HPs
+R10 SUPPORT ARG1:FuaJQnodjz ARG2:9_aJ8u0HPs
+R11 SUPPORT ARG1:ce8LVc3_z5 ARG2:9_aJ8u0HPs

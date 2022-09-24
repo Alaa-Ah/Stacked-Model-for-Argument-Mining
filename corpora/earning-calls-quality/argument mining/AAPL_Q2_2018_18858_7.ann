@@ -1,0 +1,29 @@
+9rbd548WiO NON-ARG 498 518 Yeah, good question.
+g3niQg1lEr NON-ARG 519 580 Let me start with India, and then I'll talk more about China.
+BDdT56CP3k CLAIM-Fact 620 786 So we continue to put great energy there and try to – our objective over time is to go in there with all of our different initiatives from retail and everything else.
+15UXETL34t CLAIM-Reformulated 787 828 And so we're working toward those things.
+ZmyFVFtS0E PREMISE-Fact 829 961 It's a huge market and it's clear that many people will be moving into the middle class over time, as we've seen in other countries.
+VOMwpypZUZ PREMISE-Fact 581 619 India, we set a new first-half record.
+EtLwERe8kk CLAIM-Opinion(view) 962 1133 China, I continue to believe is a phenomenal country with lots of opportunity from a market point of view, but also lots of opportunity from a app developer point of view.
+sVPJmq__-B PREMISE-Statistic 1134 1305 We have almost 2 million application developers in China that are writing apps for iOS and the App Store, and they're doing unbelievably creative work and innovative work.
+QEcd47fPUN CLAIM-Reformulated 1306 1361 So we look at China holistically, not only as a market.
+LIRYh1VopD PREMISE-Fact 1362 1485 On the market side, we've seen iPhone X, as I had mentioned before, as being the top selling smartphone during the quarter.
+B28uqJ56N8 PREMISE-Fact 1486 1521 We gained share during the quarter.
+eAM7z17_mb NON-ARG 1522 1594 I read some notes here and there about the market itself not being good.
+bfepvTotFh CLAIM-Opinion(view) 1595 1674 I think on any kind of, on a 90-day clock, lots of different things can happen.
+NMDbEwyiwR CLAIM-Reformulated 1675 1853 But my own personal view of China is that it's a great market, and we are certainly looking far beyond 90 days and feel very bullish on the opportunity and the environment there.
+Aw4D5JaLUM PREMISE-Fact 1910 1945 The Mac gained share there as well.
+1NRrmGHbtt PREMISE-Fact 1946 1987 The Watch is getting some traction there.
+f-wt1rpT8z PREMISE-Fact 1988 2021 Services is doing extremely well.
+Z8AVuaV99N CLAIM-Opinion(view) 2022 2137 And so it has several catalysts and I'm very pleased with the results that we were able to show during the quarter.
+SbzkqWnYPB PREMISE-Fact 1854 1909 I would say that the market for us is more than iPhone.
+PzlVzfubHi NON-ARG 2186 2200 Thanks, Brian.
+oLQmyJNlrP NON-ARG 2201 2241 Could we have the next question, please?
+R0 SUPPORT ARG1:VOMwpypZUZ ARG2:BDdT56CP3k
+R1 SUPPORT ARG1:ZmyFVFtS0E ARG2:BDdT56CP3k
+R2 SUPPORT ARG1:sVPJmq__-B ARG2:EtLwERe8kk
+R3 SUPPORT ARG1:LIRYh1VopD ARG2:Z8AVuaV99N
+R4 SUPPORT ARG1:B28uqJ56N8 ARG2:Z8AVuaV99N
+R5 SUPPORT ARG1:SbzkqWnYPB ARG2:Z8AVuaV99N
+R6 SUPPORT ARG1:Aw4D5JaLUM ARG2:Z8AVuaV99N
+R7 SUPPORT ARG1:1NRrmGHbtt ARG2:Z8AVuaV99N

@@ -1,0 +1,39 @@
+TmmXuO0IXu CLAIM-Fact 486 553 So obviously FX has been a significant hit in many ways, of course.
+c4ZpMMtXEx PREMISE-Fact 733 876 And really when you look around the world, it's really if you exclude China, essentially every single currency has weakened against the dollar.
+auh0CeQ-df CLAIM-Fact 1504 1747 But really remarkable to see how resilient iPhone sales have been, because we have increased, in spite of these price increases, we've increased sales and we've increased market share in all our geographies around the world, without exception.
+nfSGOvnmkg CLAIM-Fact 1253 1343 Look, in the long run a strong US dollar is not a positive for our international business.
+VyMNf-KD0J PREMISE-Fact 1344 1398 It's normal to see a drop in demand when prices go up.
+fYppDTxx4e NON-ARG 1399 1424 That goes without saying.
+7f8JDStetW PREMISE-Fact 1425 1503 It has been remarkable so far to see that we did take prices in a few markets.
+OdSXdsXmL8 NON-ARG 1212 1252 I have to say that it's been remarkable.
+Tcd0tWLVKb PREMISE-Fact 1047 1182 We've had circumstances around the world this year where frankly we didn't have many options because the currency movement was so large
+X7vddIwcSk CLAIM-Fact 1183 1211 and so we've had to reprice.
+ougvlTjhl6 NON-ARG 877 1046 We are pretty careful and thoughtful about where we increase prices and when and by how much during mid-cycle because it's not something that we particularly like to do.
+hMuzl2l02g CLAIM-Opinion(view) 2395 2457 And so the Watch had a more of a back-ended kind of a skewing.
+8mYqSkkbpc PREMISE-Fact 2225 2284 On the Watch, our June sales were higher than April or May.
+RXfMNMH4Cg NON-ARG 2285 2394 I realize that's very different than what some of the, is being written, but the June sales were the highest.
+jmKemQRNvB NON-ARG 2129 2153 Yeah, Shannon, it's Tim.
+nEOieaVUqZ NON-ARG 2154 2224 Maybe the best way to talk about this is sort of at the product level.
+xB0BWK26Os CLAIM-Fact 2635 2713 There is no obvious impact from the last quarter in the Greater China numbers.
+GXaFyYLozX PREMISE-Statistic 2714 2839 And obviously with the aggregate or the consolidated number being 112%, it's hard to find a lot of bad things in the numbers.
+ObqwhLTkfU NON-ARG 2458 2536 The phone itself followed what I would call a normal seasonal kind of pattern.
+hgbdQGQXOH NON-ARG 2537 2634 And if you look at the – it sounds like you're honing in on the Greater China results themselves.
+euIiF5933f PREMISE-Hypothesis 589 732 We would be 800 basis points higher this quarter from the 33% that we've reported if it wasn't for the movement in currencies around the world.
+Xb1sPt8K-T PREMISE-Fact 554 588 I mean it reduces our growth rate.
+MiIrMCytvF NON-ARG 85 106  Thank you very much.
+ExMCaPqwcN NON-ARG 107 174 I wanted to talk about FX but not necessarily from a direct impact.
+rbNEZARvmV NON-ARG 175 457 But what are you seeing in terms of demand as you've raised prices in various geographies and how are you thinking about it as you go into sort of the next iPhone cycle in terms of having to sort of normalize the pricing for what some of the currencies have done over the past year?
+tyoEMwYdbK NON-ARG 471 486  Yes, Shannon. 
+pynexoUDzB NON-ARG 1765 1772  Great.
+dSclJDCEAD NON-ARG 1773 1858 And then can you talk a bit about linearity during the quarter on a geographic basis?
+RUrCDnPEFs NON-ARG 1859 1964 Somewhat going back to the China question, I mean did you see it slow down toward the end of the quarter?
+DZTgPUWahh NON-ARG 1965 1992 Or was it solid through it?
+UgqXcoAGqs NON-ARG 1993 2111 And just any other color you can give geographically with Europe and some of the other macro events that are going on.
+R0 SUPPORT ARG1:c4ZpMMtXEx ARG2:TmmXuO0IXu
+R1 SUPPORT ARG1:VyMNf-KD0J ARG2:nfSGOvnmkg
+R2 SUPPORT ARG1:7f8JDStetW ARG2:nfSGOvnmkg
+R3 SUPPORT ARG1:Tcd0tWLVKb ARG2:X7vddIwcSk
+R4 SUPPORT ARG1:GXaFyYLozX ARG2:xB0BWK26Os
+R5 SUPPORT ARG1:8mYqSkkbpc ARG2:hMuzl2l02g
+R6 SUPPORT ARG1:Xb1sPt8K-T ARG2:TmmXuO0IXu
+R7 SUPPORT ARG1:euIiF5933f ARG2:TmmXuO0IXu

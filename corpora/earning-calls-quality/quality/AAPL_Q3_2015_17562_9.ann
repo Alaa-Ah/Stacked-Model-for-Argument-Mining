@@ -1,0 +1,69 @@
+EWn88yxSvN NON-ARG 750 792 Okay Gene, let me start with gross margin.
+RUtly6Sh5z NON-ARG 793 855 As Tim said before, obviously we guide to the current quarter.
+Q7j0zZN5e_ NON-ARG 856 900 You know, as we look at it at a macro level.
+LkkHAcEj4c CLAIM-Opinion(view) 901 979 I think there are, you know every cycle is different for a variety of reasons.
+KV3aSb8_CC PREMISE-RealExample 1047 1123 So for example, currency markets can be very different one year to the next.
+arBVf3zob4 PREMISE-Fact 1124 1230 We know that the next year is going to represent an additional challenge given where the dollar has moved.
+yC6Ki6oLJQ PREMISE-RealExample 1231 1298 Commodity markets may be very different from one year to the other.
+HI523oml8z PREMISE-Fact 980 1046 There are also things that are not necessarily within our control.
+8Glv5KgBeF NON-ARG 1612 1747 Having said that, as you know we've got a very, very good track record to reduce those cost factors over the lifecycle of the products.
+LanSxVHUVV NON-ARG 1748 1792 I think this should give you a bit of color.
+lJbkOYaMdh CLAIM-Opinion(view) 1793 1933 Of course maybe the one thing that I want to point out again as we get into the following year, is that of course currency will be an issue.
+-BQMt5_0bl NON-ARG 1987 2010 Yeah Gene, this is Tim.
+VHMGUIA034 NON-ARG 2011 2044 Let me talk about the Watch some.
+XjLgjkeNx5 NON-ARG 2045 2320 As you know, we made a decision back in September, quite several months ago not to disclose the shipments on the Watch and that was not a matter of not being transparent, it was a matter of not giving our competition insight that's a product that we've worked really hard on.
+FwrhUbu23R NON-ARG 2321 2405 However, let me give you some color so to avoid reaching sort of a wrong conclusion.
+E-Fs5djVJF CLAIM-Fact 2406 2636 If you look at the other products category and look at the revenue in this category, it would not be an accurate thing to just look at the sequential change or the year over year change and assume that were the total Watch revenue
+T-kLQNHsi4 PREMISE-Fact 2637 2735 because the aggregate balance of that category, both sequentially and year over year, is shrinking
+PPV_U3TjN- PREMISE-Fact 2737 2853 Obviously iPod is a part of that, but there are other things in there, accessories and so forth, that are shrinking.
+FOFUgXpzwb CLAIM-Opinion(view) 3607 3686 And so as I look at all of these things, we feel really great about how we did.
+1ZiW37D3KC PREMISE-Fact 3019 3223 And to give you a little additional insight, through the end of the quarter, in fact the Apple Watch sell-through was higher than the comparable launch periods of the original iPhone or the original iPad.
+9h7pwLlxU8 PREMISE-Statistic 3224 3288 And we were able to do that with having only 680 points of sale.
+MWto4QuayB PREMISE-Fact 3289 3455 And as you probably know, as I had reviewed earlier, the online sales were so great at the beginning, we were not able to feed inventory to our stores until mid-June.
+1XLTmfprkc PREMISE-Fact 3456 3606 And so those points of sale pretty much, the overwhelming majority of the low numbers of sales were not there until the last two weeks of the quarter.
+jVXd14-PgU CLAIM-Fact 2854 3018 Secondly to provide a bit more color, sales of the Watch did exceed our expectations and they did so despite supply still trailing demand at the end of the quarter.
+WQUF7QGv0n CLAIM-Fact 3687 3744 Now our objective for the quarter wasn't primarily sales.
+2qXESl2qXG PREMISE-Other 3745 3892 Beyond the very good news on sales, we're more excited about how the product is positioned for the long term because we're starting a new category.
+wRhMhKOEiP PREMISE-Statistic 3893 3947 And as I back up and look at this, we have 8,500 apps.
+lfR_Ao8iT9 PREMISE-RealExample 3948 4009 We've already announced the next operating system, watchOS 2.
+WEDR9k4ZXf PREMISE-Fact 4010 4078 It will bring native apps which are going to be killer to the Watch.
+IFyt1gpH5b CLAIM-Other 4170 4255 Based on that experience, we're now planning to expand our channel before the holiday
+TNt2hoWdoQ PREMISE-Other 4256 4353 because we're convinced that the Watch is going to be one of the top gifts of the holiday season.
+4X3q2SkXVr CLAIM-Opinion(view) 4354 4428 Now most importantly of all of this is that customer sat is off the charts
+ZSfzzOuJ4z PREMISE-Fact 4429 4550 because we've constantly seen if you can get the customer sat off the charts you can wind up doing fairly well over time.
+kAoI2H2SED PREMISE-Fact 4551 4624 We've also learned a lot about managing quite an assortment and so forth.
+tl_Ki7Zr_W CLAIM-Opinion(view) 4625 4822 And so I sort of back up and look at this and I feel fantastic about what the team has done and delivered and I know I never go anywhere without the Watch and it's not because I'm the CEO of Apple.
+-ciKC2bXUj NON-ARG 4823 4915 I'm that attached to it and I get lots of notes from a lot of people that feel the same way.
+0fXSQyaHhk NON-ARG 4916 4954 And so that's how I look at the Watch.
+lTgSESI1OP CLAIM-Fact 1299 1373 There are things that remain relatively similar as we launch new products.
+v_uwKGLAO6 PREMISE-RealExample 1374 1412 For example, we innovate the products.
+kGuIGMbjUH PREMISE-Fact 1413 1611 We want to make them better all the time, and that typically requires additional cost and so the cost structures of our products, new products, tend to be higher than the products that they replace.
+UsOsMF8qox PREMISE-Fact 4079 4169 Even though the store layout was delayed, we've learned a lot about the buying experience.
+R0 SUPPORT ARG1:HI523oml8z ARG2:LkkHAcEj4c
+R1 SUPPORT ARG1:KV3aSb8_CC ARG2:LkkHAcEj4c
+R2 SUPPORT ARG1:arBVf3zob4 ARG2:LkkHAcEj4c
+R3 SUPPORT ARG1:yC6Ki6oLJQ ARG2:LkkHAcEj4c
+R4 SUPPORT ARG1:T-kLQNHsi4 ARG2:E-Fs5djVJF
+R5 SUPPORT ARG1:PPV_U3TjN- ARG2:E-Fs5djVJF
+R6 SUPPORT ARG1:1ZiW37D3KC ARG2:jVXd14-PgU
+R7 SUPPORT ARG1:9h7pwLlxU8 ARG2:jVXd14-PgU
+R8 SUPPORT ARG1:MWto4QuayB ARG2:jVXd14-PgU
+R9 SUPPORT ARG1:1XLTmfprkc ARG2:jVXd14-PgU
+R10 SUPPORT ARG1:2qXESl2qXG ARG2:WQUF7QGv0n
+R11 SUPPORT ARG1:wRhMhKOEiP ARG2:WQUF7QGv0n
+R12 SUPPORT ARG1:lfR_Ao8iT9 ARG2:WQUF7QGv0n
+R13 SUPPORT ARG1:WEDR9k4ZXf ARG2:WQUF7QGv0n
+R14 SUPPORT ARG1:TNt2hoWdoQ ARG2:IFyt1gpH5b
+R15 SUPPORT ARG1:ZSfzzOuJ4z ARG2:4X3q2SkXVr
+R16 SUPPORT ARG1:v_uwKGLAO6 ARG2:lTgSESI1OP
+R17 SUPPORT ARG1:kGuIGMbjUH ARG2:lTgSESI1OP
+R18 SUPPORT ARG1:UsOsMF8qox ARG2:FOFUgXpzwb
+R19 SUPPORT ARG1:kAoI2H2SED ARG2:FOFUgXpzwb
+ArgQ0 LkkHAcEj4c SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 E-Fs5djVJF SPECIFIC_2 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 jVXd14-PgU SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ3 WQUF7QGv0n SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 IFyt1gpH5b SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 4X3q2SkXVr SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ6 lTgSESI1OP SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ7 FOFUgXpzwb SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

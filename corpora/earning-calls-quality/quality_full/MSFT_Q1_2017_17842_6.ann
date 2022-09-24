@@ -1,0 +1,30 @@
+1NmciAVXpW PREMISE-RealExample 491 622 Again Mark this goes back to a little bit of understanding I guess how we think about both X as well as OpEx in terms of our cloud.
+ztej80pNVD PREMISE-RealExample 623 842 The architectural design we have for example when we do X we are buying the four everything that Microsoft does which is everything from Azure to Office 3652 Dynamics 365 as well as our consumer services like Xbox live.
+QlMaVMsfIv PREMISE-Fact 843 906 And you see the growth that we talked about across all of this.
+e_7BWWGNKj PREMISE-Fact 907 1010 Then we have a very common platform both for first party workloads as well as our third party business.
+32i3FseWA5 PREMISE-RealExample 1011 1237 And so then as we drive efficiency and our cloud infrastructure, when we for example use to be more out of our network, that's efficiency that we gain across the marginal cost and gross margin that spans everything that we do.
+533uvGhNWR PREMISE-RealExample 1238 1458 Then also what we think about as the mix our goal is not just to sell commodity services, but to actually use commodity services in some cases as a bootstrap for higher level services because of things like data gravity.
+m30sLS9izw PREMISE-Fact 1459 1507 So there will be differences quarter to quarter.
+hvVGwwjF4M PREMISE-Fact 1508 1668 We may impact on board a few customers who first on board a lot of storage at commodity service levels, and then later on start some of the high level services.
+aZ-PoH7cMI PREMISE-Fact 2466 2644 The overall commercial cloud revenue mix, but I would also say the directionality of the Azure gross margin for example which recent significantly improved we expect to continue.
+v4jNZMTA20 NON-ARG 2645 2705 Certainly over the course of this year as we have discussed.
+EavNErQZ3I CLAIM-Opinion(view) 2197 2279 But I would say in terms of sustainability are quarter to quarter, Satya is right.
+HVfVDKEYOT CLAIM-Reformulated 2706 2856 So I think the directionality of sustainability is correct and I think the variability can certainly occur from any of the reasons Satya talked about.
+COUxfDnxqE NON-ARG 439 490 Let me start market and then Amy you can add to it.
+MLZhsPhCgL CLAIM-Fact 1669 1962 So the margin improvement on a lot over a period of time is something that we are absolutely going to see, but from quarter to quarter there will be more volatility, but I would ask our investor base to think more about the architecture as well as the financial outlays of what we're building.
+djg0sN3V2Q NON-ARG 1963 2186 We're not just building Azure we're building from 13 Office 365 Dynamics 365 as well as our consumer services withdrawal cloud oriented and it's a combination of that that's driving margin, but Amy I will let you add there.
+KUEercKjH8 PREMISE-Fact 2280 2351 There is going to be very ability the variability is really two things.
+liJV-aHUqA PREMISE-Fact 2352 2465 One is the case of the mix shift to Azure as it grows at the pace we're seeing it does impact quarter to quarter.
+R0 SUPPORT ARG1:aZ-PoH7cMI ARG2:EavNErQZ3I
+R1 SUPPORT ARG1:1NmciAVXpW ARG2:MLZhsPhCgL
+R2 SUPPORT ARG1:ztej80pNVD ARG2:MLZhsPhCgL
+R3 SUPPORT ARG1:QlMaVMsfIv ARG2:MLZhsPhCgL
+R4 SUPPORT ARG1:e_7BWWGNKj ARG2:MLZhsPhCgL
+R5 SUPPORT ARG1:32i3FseWA5 ARG2:MLZhsPhCgL
+R6 SUPPORT ARG1:533uvGhNWR ARG2:MLZhsPhCgL
+R7 SUPPORT ARG1:m30sLS9izw ARG2:MLZhsPhCgL
+R8 SUPPORT ARG1:hvVGwwjF4M ARG2:MLZhsPhCgL
+R9 SUPPORT ARG1:KUEercKjH8 ARG2:EavNErQZ3I
+R10 SUPPORT ARG1:liJV-aHUqA ARG2:EavNErQZ3I
+ArgQ0 EavNErQZ3I SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 MLZhsPhCgL SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,20 @@
+ehEK8Xq5Ax NON-ARG 756 761 Sure.
+-OKDMTHmHJ NON-ARG 762 794 Thanks Heather for the question.
+Mv8BA0pt33 NON-ARG 795 831 I'll start and then Amy you can add.
+HW360fQzhy CLAIM-Opinion(view) 832 950 I mean, I think what you're fundamentally seeing in that overall KPI is what I think are two major advantages we have.
+sLTpVtkUwc CLAIM-Fact 951 1017 One is an architectural technology advantage around hybrid, right.
+0hi9NDNQ1Q CLAIM-Opinion(view) 1018 1085 So we don't think of hybrid as some stopgap as a move to the cloud.
+boU6lKHC5e CLAIM-Opinion(view) 1086 1265 We think about it's the coming together of distributed computing where the cloud and the edge work together for not just the old workloads, but most importantly for new workloads.
+2AtDEOmu4T CLAIM-Fact 1266 1376 And that's where we are seeing some very significant good feedback loops and shaping even our future road map.
+ZeQBQhDt3Y CLAIM-Fact 1377 1418 And this is a place where we are leading.
+wKUPoRrWNf CLAIM-Fact 1419 1512 The second thing, as you pointed out in your question, is we have a business model advantage.
+kXcaAH9Y0- CLAIM-Opinion(view) 1513 1645 The Azure benefits are things both for Windows Server as well as for SQL which I think are very, very unique to us and you see that.
+zq13GrxqyL CLAIM-Fact 1646 1881 So the combination of the technology advantage and the business model advantage is what I see in the results, whether it's the standalone Azure growth, which is what we expected and it's very strong and the server KPI is even stronger.
+jP35-MVyFj NON-ARG 1882 1942 So I think that's at least how I would answer that question.
+FCtX9_ZwsQ CLAIM-Fact 1956 2102 And to your specific question, Heather, on the impact of some of the price increases that went into effect in Q2, I'd say it's a couple of points.
+ssAfyxmxhc NON-ARG 2103 2152 So I would not sort of over-rotate on that topic.
+s5dCF8xwsA PREMISE-Statistic 2153 2404 The overall number, even if you take a couple points off that 28% is a very good performance, that I believe to Satya's point, is the impact you've seen of the very aligned technology road map on the architecture plus a business model that matches it.
+jBoREvLZ0t NON-ARG 2467 2483 Thanks, Heather.
+oDdmemxZcf NON-ARG 2484 2530 Operator, we'll take the next question please.
+R0 SUPPORT ARG1:s5dCF8xwsA ARG2:FCtX9_ZwsQ
+ArgQ0 FCtX9_ZwsQ SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

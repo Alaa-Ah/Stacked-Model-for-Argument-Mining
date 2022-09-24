@@ -1,0 +1,15 @@
+vZSjju4i9u CLAIM-Fact 615 821 That was one of our biggest strategic objectives was to get active devices and with Store integrated into the installed base and in the user experience so that we could increase these successful developers.
+5S5hEXvslc PREMISE-Fact 822 855 And we're seeing good early signs
+1GuiQ7C_37 PREMISE-RealExample 857 1089 In my opening commentary, I talked a little bit about both the increased visits to the Store and transactions as well as the fact that we are attracting new applications from developers like Netflix to Wall Street Journal to others.
+6KyJzYO3hS CLAIM-Fact 1278 1374 So those are the natural places where you'll see us gain more developers and gain more traction.
+jZ3eYiXEN4 PREMISE-RealExample 1090 1277 And as you can imagine, our share is today in desktops, in emerging in tablets, in 2-in-1 and of course now with Xbox as well, which is you know got great attraction to gaming developers.
+TtzZikbqq- PREMISE-Other 1375 1592 We are big believers in a unified developer platform and a unified Store, and then as Windows 10 monthly active devices increases and the Store usage increases, we'll see more and more developers take advantage of it.
+jGQ1l_xldt NON-ARG 550 614 Yeah, thanks for the question and yeah, you're absolutely right.
+LxwkTjCtWP NON-ARG 1639 1654  Thanks, Raimo.
+hhHRlOZfmh NON-ARG 1655 1692 We'll take the next question, please.
+R0 SUPPORT ARG1:5S5hEXvslc ARG2:vZSjju4i9u
+R1 SUPPORT ARG1:jZ3eYiXEN4 ARG2:6KyJzYO3hS
+R2 SUPPORT ARG1:TtzZikbqq- ARG2:6KyJzYO3hS
+R3 SUPPORT ARG1:1GuiQ7C_37 ARG2:6KyJzYO3hS
+ArgQ0 vZSjju4i9u SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 6KyJzYO3hS SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

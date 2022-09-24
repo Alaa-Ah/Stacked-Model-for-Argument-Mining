@@ -1,0 +1,15 @@
+GabEsSS_OX NON-ARG 697 708 I'll start.
+hcUjjo8Kl_ PREMISE-Statistic 709 763 I think you see the growth rate of the segment at 27%.
+7wd2wKxMlu CLAIM-Fact 764 817 It's showing the success we're having with customers.
+cCE3t6Q6ki CLAIM-Fact 818 879 When we grow at that clip, we can do a lot of good things it.
+b1x6EBz_B_ PREMISE-Fact 880 1040 We can – on the cost side, we run our facilities more efficiently, we can buy better, we can look to in-source some things that we may have paid externally for.
+-t5u1PkipW NON-ARG 1041 1132 So, there's a number of things that we can do that I think will show up on the bottom line.
+uT7jl-f7Lq CLAIM-Reformulated 1133 1253 But principally, what we're trying to do now is – again, make the Prime experiences as strong as possible for consumers.
+Kfbgo82Tx_ NON-ARG 1267 1280 This is Phil.
+_8TW_EFe86 CLAIM-Fact 1281 1458 The other thing I would add to that is that the margin you see in any quarter is really the output of our rate of investment at some places and drive for efficiencies in others.
+Bd5EWM0i0y PREMISE-Fact 1459 1544 And we're not really trying to optimize for any particular number in a given quarter.
+uuDXK-t05v PREMISE-Fact 1545 1640 We're just trying to make the best decisions we can to grow long-term free cash flow per share.
+b-ULhlS-76 CLAIM-Reformulated 1641 1870 And so, again, we're juggling the investment in the places where we feel like we have long-term opportunities where we need to invest with making sure we're getting continuously better in all our other processes at the same time.
+R0 SUPPORT ARG1:hcUjjo8Kl_ ARG2:7wd2wKxMlu
+R1 SUPPORT ARG1:b1x6EBz_B_ ARG2:cCE3t6Q6ki
+R2 SUPPORT ARG1:Bd5EWM0i0y ARG2:_8TW_EFe86

@@ -1,0 +1,12 @@
+l039j2Fw8m NON-ARG 413 437 Let me start on traffic.
+kDsFeVsdkF NON-ARG 429 437 traffic.
+HuDeuymSpz NON-ARG 438 478 So we're not disclosing traffic figures.
+rtpWnHQhHW CLAIM-Fact 538 595 So you'll see a better perspective on the entire quarter.
+jUziAWA8ri NON-ARG 818 844 Yeah, Jason, this is Dave.
+eKeRblqd6q CLAIM-Opinion(view) 845 1094 On the ad supported question, I think what you've seen to-date is really particularly as you're looking as a customer, as a Prime Video member and watching content, we view that as you've paid into that service and able to watch those shows ad free.
+z2turo7hXb CLAIM-Reformulated 1095 1354 There may be instances where you're viewing a first episode and there's an ad leading into that if it's the first free episode, but generally we like to have that as customers have paid into that program and they'll be able to enjoy that without interruption.
+cvZX1jp_YX PREMISE-Other 479 537 Whole Foods will be issuing a final 10-K early next month.
+J5_QbtDAg0 PREMISE-Fact 596 766 The quarter that, or the four week period that you see running through the Amazon P&L this quarter is pretty hard to draw conclusions on other than revenue at this point.
+MM8l25lmix NON-ARG 767 804 But Dave, do you have more on the...?
+R0 SUPPORT ARG1:cvZX1jp_YX ARG2:rtpWnHQhHW
+R1 SUPPORT ARG1:J5_QbtDAg0 ARG2:rtpWnHQhHW

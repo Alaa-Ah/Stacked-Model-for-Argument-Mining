@@ -1,0 +1,21 @@
+6VBCJTLhsm NON-ARG 873 897 Hey, Michael, it’s Dave.
+tL8t5cJlcB NON-ARG 898 950 I guess we’re not really providing detail on region.
+xayC5cwxpl CLAIM-Fact 951 1049 I would say Stories is today from an impression growth perspective really about Instagram Stories.
+GCLRVXWFdL PREMISE-Fact 1050 1113 So it maps where we’ve got good adoption of Instagram globally.
+4haxFtXjmh PREMISE-Fact 1114 1236 So we’re certainly seeing good growth in places where Instagram is strong, including the U.S., so that’s been good to see.
+A_ygxyWO2v CLAIM-Fact 1237 1390 And as we continue to work on Facebook Stories, we’ll have more opportunity as well with Facebook and will map to the reasons where Facebook is stronger.
+C7BzGlGlgP CLAIM-Opinion(view) 1391 1441 So, I think we’re seeing good growth on Instagram.
+cKcojYgEzs CLAIM-Opinion(view) 1442 1622 I think that will continue and continue to drive impression growth and then we hope to continue to make progress on Facebook where we’re seeing growth, but it’s off a smaller base.
+3kYo9xaEmN NON-ARG 1640 1690 And on payments, I mean, the short answer is, yes.
+rZS-WNL9gt CLAIM-Fact 1691 1958 We’re very focused on payments with fiat currencies as well and making it so that when you pay in one service, whether it’s WhatsApp or in Instagram Shopping or in Marketplace your credentials can be shared and there’s a shared payment system across all those things.
+vi9CclJ3d_ CLAIM-Fact 1959 2009 So that’s a – certainly a big area for investment.
+bkQvCZT-ex CLAIM-Opinion(view) 2010 2153 Overall these areas around commerce and payments, I think are one of the most exciting areas of product development for the next several years.
+nY6tHuas1g PREMISE-Fact 2154 2633 I mean the way that we kind of see the products now is we’ve helped people map out and wire up their networks over the last several years, and now in each of these apps we have opportunities to help people get more value from the networks that they’ve created in some of that is going to be on the social side, especially around creating communities and groups and some of it is going to be more on the economic and opportunity side and there we’re doing a whole lot of projects.
+M2p6mX_p_A PREMISE-Fact 2634 3248 I know that Libra is the one that has gotten the most attention recently, but it’s really just one of a set of things everything from Instagram, Shopping which is going to help people connect to brands and emerging creators to Facebook marketplace, which is more consumer-to-consumer paying and buying and selling used goods to things like WhatsApp business, which is more about connecting with small businesses and then across the payment landscape, helping people do payments and existing currencies and also trying some newer approaches that can hopefully bring down the cost of doing payments around the world.
+tgTHk8v-SM CLAIM-Reformulated 3249 3396 We’re just very excited about all the – everything in this area and it’s one of the biggest areas that we’re focused on for the next several years.
+R0 SUPPORT ARG1:GCLRVXWFdL ARG2:xayC5cwxpl
+R1 SUPPORT ARG1:4haxFtXjmh ARG2:xayC5cwxpl
+R2 SUPPORT ARG1:nY6tHuas1g ARG2:bkQvCZT-ex
+R3 SUPPORT ARG1:M2p6mX_p_A ARG2:bkQvCZT-ex
+ArgQ0 xayC5cwxpl SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 bkQvCZT-ex SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

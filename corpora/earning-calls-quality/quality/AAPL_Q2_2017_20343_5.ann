@@ -1,0 +1,45 @@
+5SnkTeBpzC NON-ARG 603 639 Thank you, Katy, a lot of questions.
+NYPYWMUqOz NON-ARG 640 668 Let me take them one by one.
+VjyOdFFFPm NON-ARG 669 756 Let me start with our performance for the March quarter, which we were very happy with.
+O4DUrCgLkH PREMISE-Fact 811 936 And this is in spite of the fact, as you know, that we lose leverage as we go from the December quarter to the March quarter.
+S3Ei1cKZ5e PREMISE-Statistic 937 1010 The foreign exchange headwind on a sequential basis was 100 basis points.
+OnBesTcWhy PREMISE-Fact 1048 1168 And as you said, we started to experience some level of cost pressure on the memory side, particularly on NAND and DRAM.
+gqPXB_wchJ CLAIM-Fact 3038 3143 Katy, one of the things that we did not get right was the mix between the iPhone 7 and the iPhone 7 Plus.
+xPRYOyXSac PREMISE-Fact 3144 3238 There was – wound up that demand was much stronger to the iPhone 7 Plus than we had predicted.
+6vFOp3F1oC PREMISE-Fact 3239 3404 And so it took us a little while to adjust all the way back through the supply chain and to bring iPhone 7 Plus into balance, which occurred early this past quarter.
+goZj2aVRhZ NON-ARG 3405 3431 What did we learn from it?
+CR5URVJmNE CLAIM-Fact 3432 3486 Every time we go through a launch, we learn something.
+75QCKjY3j2 CLAIM-Opinion(view) 3487 3591 And you can bet that we're brushing up our models, and we'll apply everything we learn to the next time.
+-H04ys4Vp6 PREMISE-Fact 1011 1047 Obviously, that was also a negative.
+urWA8NhPNU CLAIM-Opinion(view) 1431 1470 So that answers the question around Q2.
+NbSUjDPzEU PREMISE-Statistic 757 810 As you said, we were up 40 basis points sequentially.
+w4qcLLwON4 PREMISE-Fact 1275 1430 And the fact that our Services mix increases as we go through the year, that is of course also helping, given the profile of our gross margin for Services.
+AAjSV6EG_T PREMISE-Fact 1169 1273 To offset that, and actually do better than that, we had very good cost performance on other commodities
+mFqpiS2DeL PREMISE-Fact 1698 1818 We also have a different mix of products as we move into the June quarter, and the cost pressures on memory will remain.
+mj2szgTmv1 CLAIM-Fact 1471 1625 As we move into the June quarter, as you know, we tend to have some level of gross margin compression as we go from the March quarter to the June quarter.
+XfMFF08VDQ PREMISE-Fact 1626 1697 Again, the majority of that comes from the sequential loss of leverage.
+kd5CE77Neq CLAIM-Opinion(view) 1819 1938 We expect to offset partially these impacts with other cost efficiencies, and again, with a mix shift towards Services.
+NvrL3ULhMY CLAIM-Fact 2267 2415 So we didn't get any benefit in our P&L, in our margins, during the March quarter, and we're not getting any benefit during the June quarter either.
+YyXkQ1Bijz PREMISE-Fact 2120 2194 On Qualcomm, I just want to make it very, very clear that we are accruing.
+SEGUJ7QewZ PREMISE-Fact 2195 2266 We do not expect to be paying more than what we are accruing right now.
+hnUsnv0P4l CLAIM-Opinion(view) 1939 2023 The impact on NAND and DRAM will continue to be there, and we expect it to be there.
+W9FhSku4zm CLAIM-Reformulated 2024 2119 You know we don't guide past the June quarter, but we expect it to be there for the time being.
+xHxzJOOPns NON-ARG 3638 3655  Thank you, Katy.
+yMzSxDFmvM NON-ARG 3656 3696 Could we have the next question, please?
+R0 SUPPORT ARG1:xPRYOyXSac ARG2:gqPXB_wchJ
+R1 SUPPORT ARG1:6vFOp3F1oC ARG2:gqPXB_wchJ
+R2 SUPPORT ARG1:NbSUjDPzEU ARG2:urWA8NhPNU
+R3 SUPPORT ARG1:O4DUrCgLkH ARG2:urWA8NhPNU
+R4 SUPPORT ARG1:S3Ei1cKZ5e ARG2:urWA8NhPNU
+R5 SUPPORT ARG1:-H04ys4Vp6 ARG2:urWA8NhPNU
+R6 SUPPORT ARG1:OnBesTcWhy ARG2:urWA8NhPNU
+R7 SUPPORT ARG1:AAjSV6EG_T ARG2:urWA8NhPNU
+R8 SUPPORT ARG1:w4qcLLwON4 ARG2:urWA8NhPNU
+R9 SUPPORT ARG1:YyXkQ1Bijz ARG2:NvrL3ULhMY
+R10 SUPPORT ARG1:SEGUJ7QewZ ARG2:NvrL3ULhMY
+R11 SUPPORT ARG1:XfMFF08VDQ ARG2:mj2szgTmv1
+R12 SUPPORT ARG1:mFqpiS2DeL ARG2:mj2szgTmv1
+ArgQ0 gqPXB_wchJ SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 urWA8NhPNU SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 NvrL3ULhMY SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ3 mj2szgTmv1 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2

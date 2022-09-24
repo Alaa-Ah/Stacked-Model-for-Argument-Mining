@@ -1,0 +1,40 @@
+JvY9Dhu6gt NON-ARG 940 1036 Let me just quickly hit on the constant currency question I think you had at the beginning Mark.
+XnYKIPeMqk PREMISE-Fact 1037 1181 The acceleration we saw from Q3 to Q4 was currency for Europe, but Europe continues to grow at a very healthy pace on a constant currency basis,
+a672igrhXa CLAIM-Opinion(view) 1182 1271 so we're very pleased with the results both in constant currency terms and nominal terms.
+naIWw9qW7l NON-ARG 1272 1288 And then Sheryl.
+rPuXZn14Vj NON-ARG 1306 1336 So to take the first question,
+SGEvtBdMKV CLAIM-Fact 1337 1387 the EU, the strength in Europe was driven by SMBs.
+K4ApzsCU4L PREMISE-Fact 1388 1479 We grew across the board with large companies too, but SMBs were really important for this.
+QLWygZRI-F PREMISE-Statistic 1480 1593 There are 18 million small businesses on Facebook in Europe, and I had a chance to meet a lot of them on my trip.
+xUL4wJzKOg PREMISE-RealExample 1594 1703 But to mention just one which shows the point, a couple named Linda and Marius started a company called iELM.
+A6nm7l53lF PREMISE-Fact 1704 1737 They’re a kids clothing retailer.
+Zl9qP1tsSF PREMISE-RealExample 1738 1773 They started in Sweden on Facebook.
+xX6hzb83wy PREMISE-Fact 1774 1834 She was selling clothes in her living room and selling them.
+HsKx95-AEL PREMISE-Fact 1835 1878 Facebook is driving about half their sales.
+4hhh69OTGO PREMISE-RealExample 1879 2049 They then opened a factory in Romania and moved back to Romania, where they're now employing 100 people and they're shipping across Sweden, Romania, Germany, and Austria.
+59Ez38i-xi PREMISE-Fact 2050 2192 There's still a small business at 100 people, but they are a growing business and showing the power of how our work with SMBs is growing jobs.
+0aUPE1B35W NON-ARG 2193 2295 You're asking also for an example of a demand generation going all the way down to demand fulfillment.
+92ghgVIMAh NON-ARG 2296 2327 Here's another one from Europe.
+22SlSwZpBq PREMISE-RealExample 2328 2381 Gymshark is a fitness clothing brand based in the UK.
+9yr5YzoLCM PREMISE-Fact 2382 2619 They ran Facebook video ads and Instagram Story ads for their Black Friday Campaign and then they target with a look a like people who had previously purchased and custom audiences that people who started, but then complete the purchase.
+0ohjJDAaqU PREMISE-Statistic 2620 2697 And they saw 9.3 times return of investment over the two week holiday period.
+QKd0hkfOIB PREMISE-Fact 2698 2889 What happens on our platform is often that people will start out during demand generation and then use the repeat opportunity to show people ads, moving down the funnel to demand fulfillment.
+CeZLjFgYVQ CLAIM-Fact 2890 2978 If you use our targeting tools well, you can actually start out with demand fulfillment.
+CN16b1j4bG CLAIM-Reformulated 2979 3226 So some of these examples I've shared on this call from holiday end to Gymshark are about people using the targeting tools to find the people who are interested in the products and then you can get closer and down the funnel to demand fulfillment.
+R0 SUPPORT ARG1:XnYKIPeMqk ARG2:a672igrhXa
+R1 SUPPORT ARG1:K4ApzsCU4L ARG2:SGEvtBdMKV
+R2 SUPPORT ARG1:QLWygZRI-F ARG2:SGEvtBdMKV
+R3 SUPPORT ARG1:xUL4wJzKOg ARG2:SGEvtBdMKV
+R4 SUPPORT ARG1:A6nm7l53lF ARG2:SGEvtBdMKV
+R5 SUPPORT ARG1:Zl9qP1tsSF ARG2:SGEvtBdMKV
+R6 SUPPORT ARG1:xX6hzb83wy ARG2:SGEvtBdMKV
+R7 SUPPORT ARG1:HsKx95-AEL ARG2:SGEvtBdMKV
+R8 SUPPORT ARG1:4hhh69OTGO ARG2:SGEvtBdMKV
+R9 SUPPORT ARG1:59Ez38i-xi ARG2:SGEvtBdMKV
+R10 SUPPORT ARG1:22SlSwZpBq ARG2:CeZLjFgYVQ
+R11 SUPPORT ARG1:9yr5YzoLCM ARG2:CeZLjFgYVQ
+R12 SUPPORT ARG1:0ohjJDAaqU ARG2:CeZLjFgYVQ
+R13 SUPPORT ARG1:QKd0hkfOIB ARG2:CeZLjFgYVQ
+ArgQ0 a672igrhXa SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 SGEvtBdMKV SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 CeZLjFgYVQ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

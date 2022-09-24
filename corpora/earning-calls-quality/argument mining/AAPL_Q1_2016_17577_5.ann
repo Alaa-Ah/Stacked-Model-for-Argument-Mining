@@ -1,0 +1,34 @@
+G4k5Z-FC2h NON-ARG 504 532 Couple of points here, Katy.
+LP2PUiljut CLAIM-Fact 744 795 So, obviously, the mix of products was very strong.
+QFfjx5dnuO PREMISE-Statistic 533 585 Our iPhone ASP was $691 during the December quarter.
+xNjrWYH-3q PREMISE-Statistic 674 743 Keep in mind that the foreign exchange impact on that number was $49.
+bQTvDk4N_C PREMISE-Other 586 673 We couldn't be happier with the level of ASP that we generated in the December quarter.
+dzi3qZGli3 CLAIM-Opinion(view) 1067 1166 So, we feel very good about that and we feel that we have a very, very strong portfolio for iPhone.
+0S0XVKveZl PREMISE-Fact 970 1066 But overall, when you look at the outcome during the December quarter, it was very, very strong.
+a8LOQC1E9F CLAIM-Opinion(view) 1478 1522 So, we feel that we are in good shape there.
+NeSGbg_Pru PREMISE-RealExample 1523 1617 And we've exited the quarter also on iPad and Mac well within the ranges that we want to have.
+8KSg_w7xMS PREMISE-Fact 1167 1339 On the question around channel inventory, we entered the quarter, the December quarter -- and we mentioned it back in October below our target range of five to seven weeks.
+aSAZK7185O CLAIM-Fact 2644 2726 and so this is the year where we've got our peak requirements in terms of capital.
+3qXuASQYhP PREMISE-RealExample 2530 2643 And then around facilities, you probably know that we are nearing completion of our new campus here in Cupertino,
+hhR3CrOvtC CLAIM-Fact 2462 2529 So, that type of expenditure goes together with the installed base.
+9Y_GXzxKES PREMISE-Fact 2348 2461 And the data center capacity that we put in place is to provide the services that are tied to the installed base.
+NQbU75zcbf PREMISE-Fact 2207 2346 because, as we mentioned in our prepared remarks, our installed base of customers and devices is growing, and is growing very significantly
+e3nMz2g63q CLAIM-Fact 2129 2206 Then we've got data centers and data centers is a growing expenditure for us,
+wlSlIWgVcz NON-ARG 1972 1976 Yes.
+xyvPAhAPhz NON-ARG 1977 2014 So that is kind of the ranking, Katy.
+edJBieYRIw NON-ARG 2015 2128 It starts always for us with our tooling and manufacturing process equipment and that is up a bit year-over-year.
+LnqmzuctX0 PREMISE-Fact 796 880 We had great reception for the new iPhones that we launched at the end of September.
+upwiTRAZax PREMISE-Fact 881 969 Of course, we have a very strong mid-tier this year in the portfolio, with 6 and 6 Plus.
+VBvRdyOwKc NON-ARG 1339 1415  We have built a bit of inventory during the course of the December quarter.
+yBelLLztHK NON-ARG 1416 1477 But we have exited at the low end of the five to seven weeks.
+R0 ATTACK ARG1:xNjrWYH-3q ARG2:LP2PUiljut
+R1 SUPPORT ARG1:bQTvDk4N_C ARG2:LP2PUiljut
+R2 SUPPORT ARG1:QFfjx5dnuO ARG2:LP2PUiljut
+R3 SUPPORT ARG1:0S0XVKveZl ARG2:dzi3qZGli3
+R4 SUPPORT ARG1:NeSGbg_Pru ARG2:a8LOQC1E9F
+R5 SUPPORT ARG1:8KSg_w7xMS ARG2:a8LOQC1E9F
+R6 SUPPORT ARG1:3qXuASQYhP ARG2:aSAZK7185O
+R7 SUPPORT ARG1:9Y_GXzxKES ARG2:hhR3CrOvtC
+R8 SUPPORT ARG1:NQbU75zcbf ARG2:e3nMz2g63q
+R9 SUPPORT ARG1:LnqmzuctX0 ARG2:dzi3qZGli3
+R10 SUPPORT ARG1:upwiTRAZax ARG2:dzi3qZGli3

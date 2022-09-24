@@ -1,0 +1,30 @@
+rMJElQG7GB NON-ARG 478 530 Well, I, like everyone else, am enjoying Pokémon Go.
+S_iqNnfnse CLAIM-Opinion(view) 531 858 And the biggest thing that I think we can take away from this as we invest in augmented reality in addition to virtual reality, is that the phone is probably going to be the mainstream consumer platform that a lot of these AR features first become mainstream rather than glasses form factor that people will wear on their face.
+6wedxAn5BC PREMISE-Fact 859 985 So I think we're seeing this in a number of places, whether it's location through Pokémon or some of the face filter activity.
+bE6ksF3v3y PREMISE-RealExample 986 1052 I referenced the MSQRD app that we acquired earlier in my remarks.
+-ulff4Zy_E NON-ARG 1053 1091 That's a kind of a fun way to augment.
+uA84wpKtst PREMISE-Fact 1092 1152 You know, social experience that you're having with someone.
+JIPrdFIHIH CLAIM-Opinion(view) 1153 1260 I think that there's a big opportunity to build out that platform and a lot more functionality around that.
+0krD_E23Im PREMISE-Fact 1261 1558 And one of the big themes that we're talking about here is becoming video first, right, and as people look for richer and richer ways to express themselves just like people in the past just shared a lot of text and photos on Facebook, we think that in the future more of that is going to be video.
+64rQZua5Hr PREMISE-Fact 1559 1727 And more of these augmented reality tools I think are going to be an important part of delivering that experience to making that fun to use and expressive as it can be.
+30tvQBRvhs CLAIM-Fact 1745 1909 And, Mark, we've talked about our strategy on how we go about monetizing the different apps in our portfolio, and we usually talk about it in terms of three phases.
+O1i1dGFO3S PREMISE-Fact 1910 1967 Phase one is really growing the user base and engagement.
+7bISuvqJeb NON-ARG 1968 2100 And we're really pleased with where we are with Messenger and WhatsApp in that perspective with it's over 1 billion monthly actives.
+qNhZi9Tocf PREMISE-Fact 2101 2288 The second phase is really working on buildings organic interactions between businesses and consumers; and then finally, the third phases is about building those commercial opportunities.
+aTRpy_bc1W CLAIM-Fact 2289 2348 With Messenger, we're really at the beginning of phase two.
+tCNmuz14Mv PREMISE-Statistic 2349 2444 Messenger today has 1 billion organic interactions between businesses and consumers each month.
+TSSdrNpVHd PREMISE-Fact 2445 2548 But in terms of where we are in having in terms of actual monetization, incredibly early on that front.
+2RLkFvsQoN CLAIM-Reformulated 2549 2658 We're really in the – in that phase two where we're really talking about building those organic interactions.
+R0 SUPPORT ARG1:6wedxAn5BC ARG2:S_iqNnfnse
+R1 SUPPORT ARG1:bE6ksF3v3y ARG2:S_iqNnfnse
+R2 SUPPORT ARG1:uA84wpKtst ARG2:JIPrdFIHIH
+R3 SUPPORT ARG1:0krD_E23Im ARG2:JIPrdFIHIH
+R4 SUPPORT ARG1:64rQZua5Hr ARG2:JIPrdFIHIH
+R5 SUPPORT ARG1:O1i1dGFO3S ARG2:30tvQBRvhs
+R6 SUPPORT ARG1:qNhZi9Tocf ARG2:30tvQBRvhs
+R7 SUPPORT ARG1:tCNmuz14Mv ARG2:aTRpy_bc1W
+R8 SUPPORT ARG1:TSSdrNpVHd ARG2:aTRpy_bc1W
+ArgQ0 S_iqNnfnse SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 JIPrdFIHIH SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 30tvQBRvhs SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 aTRpy_bc1W SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

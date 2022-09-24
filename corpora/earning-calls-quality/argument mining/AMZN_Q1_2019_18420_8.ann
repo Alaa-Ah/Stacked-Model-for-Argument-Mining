@@ -1,0 +1,19 @@
+OVEUdWT_iJ NON-ARG 827 838 Sure, Mark.
+PLSGxKfBfy NON-ARG 839 865 Thanks for your questions.
+WjCIPJTtxa NON-ARG 866 891 I'd start on unit growth.
+IuggKgBXmq NON-ARG 892 915 So unit growth was 10%.
+o4DTZa1zCp NON-ARG 916 1172 Again, as I mentioned last quarter, it is a measurement, excludes a lot of our fastest growing businesses, things like AWS, advertising, subscription services, which cannibalize the unit calculation, things like Kindle Unlimited and Amazon Music Unlimited.
+ZwodDmM35I NON-ARG 1173 1226 And then, also it doesn't include Whole Foods Market.
+Yf15QSOOXl CLAIM-Fact 1650 1698 But for the full quarter the impact was minimal.
+ZtgnesEifY NON-ARG 1294 1339 So your question was on international growth.
+xbr7EA_dY- PREMISE-Fact 1503 1588 We did make some changes to our structure to stay in compliance with all regulations.
+uUea5o89Zj PREMISE-Fact 1589 1649 There were a few days of downtime for some of our selection.
+cUBgyfPCZd PREMISE-Fact 1699 1787 And we're in compliance and very, very happy with the progress of the business in India.
+ZiBo6L9J3e CLAIM-Opinion(view) 1933 2020 But we feel pretty good about the Q1 growth there, even despite some downtime in India.
+oLSjkb1d0R PREMISE-Fact 1788 1932 So as far as the growth is concerned in international, we had some noise in Q3 and Q4, if you'll remember with the timing of the Diwali holiday.
+kWlp-aEinF NON-ARG 1227 1293 So while it is meaningful, it needs to be understood and caveated.
+0KujgHzTYO CLAIM-Fact 1340 1502 Yeah, talking more about specifically India, so India, for those of you on the call last quarter, we're just heading into an uncertain period with the PN2 ruling.
+R0 SUPPORT ARG1:xbr7EA_dY- ARG2:0KujgHzTYO
+R1 SUPPORT ARG1:uUea5o89Zj ARG2:0KujgHzTYO
+R2 SUPPORT ARG1:cUBgyfPCZd ARG2:Yf15QSOOXl
+R3 SUPPORT ARG1:oLSjkb1d0R ARG2:ZiBo6L9J3e

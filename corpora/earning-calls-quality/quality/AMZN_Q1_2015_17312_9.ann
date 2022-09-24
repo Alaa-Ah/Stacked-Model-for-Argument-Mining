@@ -1,0 +1,16 @@
+8T7DhEew94 NON-ARG 565 645 Yes, in terms of our consumer business, we love the business that we have today.
+UlNQgzFL_h NON-ARG 763 876 In terms of other things we have long standing practice of not talking about what we might or might not do there.
+y3lEW-MNeW NON-ARG 877 961 In terms of the second part India, and China could you repeat that part, I am sorry?
+JJ9HA7MzwA NON-ARG 1342 1346 Yes.
+06-OaegSmm NON-ARG 1347 1374 Thank you for the question.
+8tq1-VfyJt NON-ARG 1451 1507 We talked about last year and its increasing investment.
+wv10ixGK6I CLAIM-Opinion(view) 1508 1595 I think the biggest differences there focused on sellers and the connection of sellers.
+MU3AdPoeWi PREMISE-Fact 1786 1871 So that helps them manage our inventory better and also respond to customer inquires.
+YzGdspwNdg CLAIM-Reformulated 1872 1950 So that’s probably the biggest difference that we see between India and China.
+Tibs-25eOs NON-ARG 1951 1994 But and still very, very early on in India.
+oc-nEA9cL6 PREMISE-Fact 1596 1785 A big part of the challenge there is helping sellers all across India to succeed and grow their online businesses, you'll see from our press release that we've launched a new apps for that.
+GO3zX3WE_2 CLAIM-Fact 1375 1450 They are very different, you'll see the growth rate in India is very rapid.
+w8xZCJvkej CLAIM-Opinion(view) 646 762 We love – we think there is a great opportunity to do that to continue to expand the existing business that we have.
+R0 SUPPORT ARG1:oc-nEA9cL6 ARG2:wv10ixGK6I
+R1 SUPPORT ARG1:MU3AdPoeWi ARG2:wv10ixGK6I
+ArgQ0 wv10ixGK6I SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

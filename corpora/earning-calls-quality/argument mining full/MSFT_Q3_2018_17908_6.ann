@@ -1,0 +1,33 @@
+7EKcfGUnEP PREMISE-Fact 764 863 Yes, I mean, one of the things that I talked about in my remarks this time was this power platform.
+LM7VFh6LJt PREMISE-Fact 864 973 One of the areas of in fact real breakout growth in differentiation as being in Power BI, PowerApps and Flow.
+RjCY7fVpcD PREMISE-Fact 974 1112 For the first time in fact, in our own Microsoft history, we have an extensibility model that is the same for Office 365 and Dynamics 365.
+oJCwhoNzdQ PREMISE-RealExample 1113 1184 This has been a dream of mine for, I don't know, for 15 years probably.
+KNlpuOlJDf PREMISE-Fact 1185 1241 And we are finally here and we are executing super well.
+46WJyt2ozZ PREMISE-Fact 1242 1320 But the interesting thing is it's not just even for our own SaaS applications.
+eJcqK91fCC PREMISE-Hypothesis 1321 1419 It is the extensibility model for every SaaS application out there, including a common data model.
+_vKXm5xmCb CLAIM-Opinion(view) 1420 1467 So I think that that's where the synergies lie,
+1H5v5Tvw0o PREMISE-Fact 1468 1875 because AI starts with having a data estate that can really bring data from all of your applications, silos in some sense, together so that you can start doing, building that analytical power that you can then visualize and put in the hands of people using Power BI or run an AI model that does some prediction that you can deploy in your system, whether it's forecasting, sales lead scoring, what have you.
+c-iZ7JvAZV PREMISE-Fact 1876 1920 So that workflow, we have every layer of it.
+E1WeTfYTLb PREMISE-RealExample 1921 1986 We have the best deployment tools and development tools in Azure.
+-gfmBsq80v PREMISE-RealExample 1987 2018 We have this common data model.
+rQfZR3poUa PREMISE-RealExample 2019 2080 On top of this, we have the best BI visualization technology.
+gMZgisdGbI PREMISE-Fact 2081 2138 So that's what you're seeing increasingly as the synergy.
+HkPmiomRNN PREMISE-Fact 2139 2451 But most importantly, architectural benefit for customers because by having incoherence around these layers is where you may feel like you're making some great best-of-breed sort of choices in individual layers, but you'll bear that expense in your overall agility as well as your overall management of your data
+eJGPIc9gnP PREMISE-Fact 2453 2509 And that's where I think we will be very differentiated.
+qQCrpTvVHH NON-ARG 2562 2570  Thanks.
+dpVDAlqbYF NON-ARG 2571 2610 Let's move to the next question please.
+R0 SUPPORT ARG1:7EKcfGUnEP ARG2:_vKXm5xmCb
+R1 SUPPORT ARG1:LM7VFh6LJt ARG2:_vKXm5xmCb
+R2 SUPPORT ARG1:RjCY7fVpcD ARG2:_vKXm5xmCb
+R3 SUPPORT ARG1:oJCwhoNzdQ ARG2:_vKXm5xmCb
+R4 SUPPORT ARG1:KNlpuOlJDf ARG2:_vKXm5xmCb
+R5 SUPPORT ARG1:46WJyt2ozZ ARG2:_vKXm5xmCb
+R6 SUPPORT ARG1:eJcqK91fCC ARG2:_vKXm5xmCb
+R7 SUPPORT ARG1:1H5v5Tvw0o ARG2:_vKXm5xmCb
+R8 SUPPORT ARG1:c-iZ7JvAZV ARG2:_vKXm5xmCb
+R9 SUPPORT ARG1:E1WeTfYTLb ARG2:_vKXm5xmCb
+R10 SUPPORT ARG1:-gfmBsq80v ARG2:_vKXm5xmCb
+R11 SUPPORT ARG1:rQfZR3poUa ARG2:_vKXm5xmCb
+R12 SUPPORT ARG1:gMZgisdGbI ARG2:_vKXm5xmCb
+R13 SUPPORT ARG1:HkPmiomRNN ARG2:_vKXm5xmCb
+R14 SUPPORT ARG1:eJGPIc9gnP ARG2:_vKXm5xmCb

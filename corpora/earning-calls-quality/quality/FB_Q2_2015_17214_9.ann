@@ -1,0 +1,30 @@
+iBvwbQmA__ CLAIM-Fact 748 873 On the first, we're always trying to improve our ad products so marketers can buy what they want and pay as they want to pay.
+o9p0kSS12y PREMISE-Fact 874 978 We recently announced that we're updating the definition of CPC so that includes only websites and apps.
+rsQzZNbPNl PREMISE-Fact 979 1077 But you can also buy on a cost per engagement basis, and that include likes, comments, and shares.
+-HawjoxCys CLAIM-Reformulated 1078 1322 It's too early to see any direct impact, but I think it's part of the innovation that you'll see from us as we continue to roll out different ways that marketers can use our tools, different ways they can pay, different results they can target.
+MS8CPMxf2j PREMISE-Fact 1392 1502 We're broad-based against all of our segments of marketers, so brand and direct response, SMBs and developers.
+bA2G6iBhK6 CLAIM-Fact 1503 1548 Definitely a part of the story here is video.
+Q9ZVCCC0H_ PREMISE-Fact 1549 1579 Our video demand is very deep.
+6xckBeMOBF PREMISE-Fact 1580 1612 People love the format of video.
+VgZZgPf3_o PREMISE-Fact 1613 1724 It's long been used to reach people in a compelling way, and we can do targeting in a way that's really unique.
+B1U430q1wF NON-ARG 1725 1755 So I'll share another example.
+PplkSOWhNp PREMISE-RealExample 1756 1914 Wendy's, working with their agency, VML, launched their Jalapeno Fresco Spicy Chicken product and they were trying to reach millennials and spicy food lovers.
+pUEZs9eqfr PREMISE-RealExample 1915 2120 So working with us, they did five video ads, and on our platform, they could not just do the video format but they could target millennials and people who like spicy food, which is very specific targeting.
+_Q28qfv1sP PREMISE-Statistic 2121 2234 They got an eight-point lift in ad recall and a four-point lift in purchase intent among their millennial target.
+h-PRi89tPp CLAIM-Reformulated 2235 2392 And so what that shows is our growth is being driven by the ability of us to do this broad-based consumer media advertising but do it in a more targeted way.
+v1YP0x_zym NON-ARG 2410 2415 Yeah.
+z1oZSCukuA NON-ARG 2416 2478 And I think, Brian, you were also commenting on North America.
+UsrC_KGb3u CLAIM-Fact 2479 2776 Obviously, it's probably, everybody realizes this, but the big disparity between the U.S.-Canada growth rates versus the other regions like Europe and the rest of world are the currency headwinds, which had a very significant impact to the year-over-year advertising growth rates in those regions.
+yTLQvYvXZd CLAIM-Fact 1323 1391 When you look at our overall growth, our growth is very broad-based.
+R0 SUPPORT ARG1:o9p0kSS12y ARG2:iBvwbQmA__
+R1 SUPPORT ARG1:rsQzZNbPNl ARG2:iBvwbQmA__
+R2 SUPPORT ARG1:MS8CPMxf2j ARG2:yTLQvYvXZd
+R3 SUPPORT ARG1:Q9ZVCCC0H_ ARG2:bA2G6iBhK6
+R4 SUPPORT ARG1:6xckBeMOBF ARG2:bA2G6iBhK6
+R5 SUPPORT ARG1:VgZZgPf3_o ARG2:bA2G6iBhK6
+R6 SUPPORT ARG1:PplkSOWhNp ARG2:bA2G6iBhK6
+R7 SUPPORT ARG1:pUEZs9eqfr ARG2:bA2G6iBhK6
+R8 SUPPORT ARG1:_Q28qfv1sP ARG2:bA2G6iBhK6
+ArgQ0 iBvwbQmA__ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 yTLQvYvXZd SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 bA2G6iBhK6 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

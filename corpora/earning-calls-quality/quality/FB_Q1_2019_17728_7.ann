@@ -1,0 +1,32 @@
+2qP9-MZTpJ NON-ARG 773 778 Sure.
+tUfwgpWrxP NON-ARG 2892 2927 The other question was about voice.
+LumV09H7De CLAIM-Reformulated 3608 3814 But in all of these different ways, voice and how people interact with each other and eventually building products that allow people to interface with our products through that, we’re quite focused on this.
+Weo0yp-97w PREMISE-Fact 2928 3124 Most of what we build – one of the things that’s different about Facebook and social products is more of it is about people interacting with each other than just people interacting with us, right?
+tbHyvEe6bG CLAIM-Fact 3125 3256 And so we’re certainly very focused on things like video calling and voice calling and ways that people can communicate with voice.
+osx_6MVb6e PREMISE-Fact 3257 3351 We have worked on some voice products on Portal; that’s an important way that people interact.
+1J5Fnxth7J NON-ARG 3570 3607 That’s been a meaningful improvement.
+5hFNlVhWNE CLAIM-Opinion(view) 779 1188 So on safety, I think given the volume of content that people share, if you want to have any hope of doing it in real time, the only hope is building AI systems that can either identify things and handle them proactively or at the very least, flag them for a lot of people who work for us who can then look at them rather than waiting for people in our community to flag those after they've already seen them.
+O7-6YB7DQ5 PREMISE-Fact 1189 1404 The reactive model of waiting for people in the community to flag them guarantees that by the time that we get to look at an issue someone has already seen that content, which is not the state that we want to be in.
+ZLGj5DoNaf CLAIM-Fact 1405 1600 So the state that we're trying to get to and hold ourselves accountable to is where we have these transparency reports – right now every six months, but we want to get to quarterly on those soon.
+anW5jsN75T PREMISE-Fact 1601 1751 And in those transparency reports, we break down every category of harmful content, everything from terrorism, to hate speech, to bullying, to nudity.
+05h3L0h8_H PREMISE-Fact 1752 2037 And in each one, we talk about the prevalence of the content that people see because we think what matters is the number of impressions or people who are seeing the content, not just – not if a lot of people are sharing something but no one sees it – but what is actually getting seen.
+Sshbnt-83S NON-ARG 2038 2107 One piece of content that gets seen by a lot of people is a big deal.
+t9KXmt5K3n CLAIM-Fact 2108 2238 And then in these reports, we also talk about and show what percent of the content we handle proactively and identify proactively.
+Dd-KNK16HQ CLAIM-Fact 2239 2293 And our goal is to get that to be as high as possible.
+MS56usWfpc PREMISE-Statistic 2294 2466 In areas like terrorism, for Al Qaeda and ISIS related content, now 99% of the content that we take down in the category our systems flag proactively before anyone sees it.
+cKs5OUQ8EV NON-ARG 2467 2502 That's what really good looks like.
+ORRin8DyO7 NON-ARG 2503 2624 I don't know that in every category we're going to be able to get to 99%; certainly not in the next six months or a year.
+hf5g6i2Hnu NON-ARG 2625 2741 But my hope would be that we can get to 90-plus percent on most of these categories within the next couple of years.
+ZJlrVXGp2J NON-ARG 2742 2790 And that's I think the best hope for doing this.
+97tl9uH4GS NON-ARG 2791 2891 That's going to be a bit continued investment and something that we really care about getting right.
+WWVxiltWQo PREMISE-Fact 3352 3569 And having Portal out in the market has been very valuable in terms of seeing how people want to use that and for – so our teams can have a real target to shoot at and iterate on and continue improving week over week.
+R0 SUPPORT ARG1:Weo0yp-97w ARG2:tbHyvEe6bG
+R1 SUPPORT ARG1:osx_6MVb6e ARG2:tbHyvEe6bG
+R2 SUPPORT ARG1:O7-6YB7DQ5 ARG2:ZLGj5DoNaf
+R3 SUPPORT ARG1:anW5jsN75T ARG2:ZLGj5DoNaf
+R4 SUPPORT ARG1:05h3L0h8_H ARG2:ZLGj5DoNaf
+R5 SUPPORT ARG1:MS56usWfpc ARG2:t9KXmt5K3n
+R6 SUPPORT ARG1:WWVxiltWQo ARG2:tbHyvEe6bG
+ArgQ0 tbHyvEe6bG SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 ZLGj5DoNaf SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 t9KXmt5K3n SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

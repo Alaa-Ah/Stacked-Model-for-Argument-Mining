@@ -1,0 +1,31 @@
+50VVZ-oaMe NON-ARG 552 571 Yeah, thanks, Doug.
+Qvy7-Vez1k CLAIM-Fact 572 700 Well, I will point out that this quarter showed a lot of innovation, a lot of new products and features and a lot of investment.
+g5sxtrf7rM PREMISE-Fact 701 928 We've already talked about India but domestically we are, globally, we are investing very heavily in our Prime platform, both in North America and International and that includes video content and original content, Prime Music.
+o6M0L7zEMK PREMISE-Statistic 929 994 Phil just said the Prime Now has been expanded to 14 metro areas.
+p4_sue8lNF PREMISE-Statistic 995 1045 We've had same-day delivery now in 16 metro areas.
+LSCddzKR-N PREMISE-Statistic 1046 1085 We've built 14 new fulfillment centers.
+Sbi5YPaIKB PREMISE-RealExample 1086 1192 We've launched multiple devices including e-readers, tablets that are priced under $50, Echo, Dash Button.
+XBgoclp8NC CLAIM-Reformulated 1193 1291 So there is a lot of investment going on and there will be continued, especially related to Prime.
+cgrf3FdH66 PREMISE-Statistic 1292 1366 And on the AWS side, as I said, we have 530 new features so far this year.
+0IPJ9Vlg3E CLAIM-Reformulated 1367 1427 So innovation and investment will continue and can be lumpy.
+_Ub8mg2SEW CLAIM-Reformulated 1428 1488 I hate to use that word again, but could be lumpy over time.
+ke9ZH6_Owf CLAIM-Fact 1489 1585 The other dynamic in our company though is definitely working on cost reductions and efficiency.
+ejyQ018cAu PREMISE-Other 1586 1728 And I think you see a lot of that in this quarter's P&L and in our capital efficiency, both in the warehouse world and also in infrastructure.
+tezJDVwzr_ CLAIM-Reformulated 1729 1766 So we will continue to work on costs.
+yS51qDi3mr PREMISE-Fact 1767 1858 The good thing about 30% revenue growth is it gives you a lot more cost to work on as well.
+NOoeHS8oK2 PREMISE-Fact 1859 1932 So I would say it's not as much of pendulum as maybe it's been portrayed.
+Es-8ceVf28 PREMISE-Fact 1933 1957 It's more of a constant.
+Wto4FCg6dq PREMISE-Fact 1958 2178 The investment will, it sometimes ebbs and flows, but the cost reductions will be a constant presence and the increase in customer experience and shortening the time to delivery and making the customer experience better.
+R0 SUPPORT ARG1:g5sxtrf7rM ARG2:Qvy7-Vez1k
+R1 SUPPORT ARG1:o6M0L7zEMK ARG2:Qvy7-Vez1k
+R2 SUPPORT ARG1:p4_sue8lNF ARG2:Qvy7-Vez1k
+R3 SUPPORT ARG1:LSCddzKR-N ARG2:Qvy7-Vez1k
+R4 SUPPORT ARG1:Sbi5YPaIKB ARG2:Qvy7-Vez1k
+R5 SUPPORT ARG1:cgrf3FdH66 ARG2:Qvy7-Vez1k
+R6 SUPPORT ARG1:ejyQ018cAu ARG2:ke9ZH6_Owf
+R7 SUPPORT ARG1:yS51qDi3mr ARG2:ke9ZH6_Owf
+R8 SUPPORT ARG1:Es-8ceVf28 ARG2:ke9ZH6_Owf
+R9 SUPPORT ARG1:Wto4FCg6dq ARG2:ke9ZH6_Owf
+R10 SUPPORT ARG1:NOoeHS8oK2 ARG2:ke9ZH6_Owf
+ArgQ0 Qvy7-Vez1k SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 ke9ZH6_Owf SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

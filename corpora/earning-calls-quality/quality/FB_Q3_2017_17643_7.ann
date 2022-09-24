@@ -1,0 +1,18 @@
+TGdHSRLz5F NON-ARG 497 620 I think it might be useful to talk a step back and first talk about why we're funding lighthouse content and Watch overall.
+CPf6YijNna NON-ARG 621 672 So video is growing incredibly quickly on Facebook.
+WKmUAqI1_m NON-ARG 673 713 And today, most of that is in News Feed.
+R3sxEznVLJ CLAIM-Fact 714 910 But most people who come to News Feed and who come to Facebook today in general are trying figure out – they're trying to see what's going on with their friends, see what's happening in the world.
+dz7zJwiJOU PREMISE-Fact 911 1015 They're not coming necessarily to engage in a specific type of video or specific community around video.
+lLua5gBD-J CLAIM-Fact 1016 1089 So the Watch tab is mainly – it's a way to give people a tool to do that.
+KgyI06j5f6 PREMISE-Fact 1090 1207 When they want to specifically come and engage around video or communities around that, they can go to the Watch tab.
+_g193D0dfr NON-ARG 1208 1241 So the intent there is different.
+iUhiVPzJiv NON-ARG 1242 1425 Now in order to build that up, we think it makes sense to first invest in a bunch of lighthouse content, some that we may produce or some that we may license, to get to your question.
+oJ9R93h_XH NON-ARG 1426 1465 We're pretty agnostic on how that goes.
+-6glio0slK NON-ARG 1466 1654 We just want to start the flywheel going, so that way there's content and communities that are there that support this use case of people coming to Facebook specifically to engage in that.
+VeO1nTZXDD NON-ARG 1655 1874 Long term, our hope is that the business here will primarily be through revenue shares of videos that normal creators and businesses put into the system rather than ones that we proactively go out and license ourselves.
+jrrUbDTx4t NON-ARG 1875 1929 So that's a look at where we're trying to get on this.
+BmKxkvtGOk NON-ARG 1930 2040 But first, we need to build this behavior where people want to come intentionally to engage with this content.
+R0 SUPPORT ARG1:dz7zJwiJOU ARG2:R3sxEznVLJ
+R1 SUPPORT ARG1:KgyI06j5f6 ARG2:lLua5gBD-J
+ArgQ0 R3sxEznVLJ SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 lLua5gBD-J SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

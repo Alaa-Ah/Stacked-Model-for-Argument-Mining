@@ -1,0 +1,12 @@
+VHfLqqXOVP NON-ARG 870 952 Yes, in terms of International, we're not breaking out individual country results.
+Y2-YK8oU0e PREMISE-Statistic 1196 1258 In terms of AWS, we've had 48 price decreases since inception.
+7IhNBDs1kx CLAIM-Fact 1259 1369 The team is doing a terrific job in terms of working on behalf of customers to pass on savings as they see it.
+Ar6TNrlreT NON-ARG 1370 1468 But in terms of any comment on what to expect going forward there is not really much to add there.
+FqyBn_AP5V NON-ARG 953 1091 The one thing that could mentioned around from a country perspective was India in terms of which – it certainly stepped up our investment.
+zEu0qGEkza NON-ARG 1092 1195 And if you look at it year-over-year, so that’s certainly reflected in the numbers that you are seeing.
+L1eggJzcNH CLAIM-Opinion(view) 1674 1878 And so we're very pleased with the kind of continued adoption and usage growth we've seen and obviously the benefits of AWS around their ability – customers ability to be nimble as a primary factor there.
+fsM6gB16lJ PREMISE-Fact 1485 1672 Its probably is worth adding that, although prices are factor, the primary factor for customers choosing with AWS is really around their ability to move quickly and to be nimble and agile
+R0 SUPPORT ARG1:Y2-YK8oU0e ARG2:7IhNBDs1kx
+R1 SUPPORT ARG1:fsM6gB16lJ ARG2:L1eggJzcNH
+ArgQ0 7IhNBDs1kx SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 L1eggJzcNH SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

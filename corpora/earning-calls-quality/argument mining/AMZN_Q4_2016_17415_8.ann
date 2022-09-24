@@ -1,0 +1,21 @@
+JVsGHFPZ8y NON-ARG 863 875 Sure, Colin.
+5GeDrJNSNF NON-ARG 876 946 On your first question, holidays are always a very promotional period.
+mUv314Esk4 NON-ARG 947 1055 So we don't see – I can't really comment on the year-over-year differential in promotional activities to us.
+1f8hRk4kpP NON-ARG 1549 1595 Yes, that is – I saw the announcement on that.
+OMl8ykdMQu CLAIM-Fact 1056 1102 We are always looking to not be beat on price.
+x79V9WkJSl PREMISE-Fact 1103 1220 We want to offer the best options to customers and we saw a lot of great response from customers this holiday season.
+Yrsu0vNiWJ CLAIM-Opinion(view) 1221 1318 I think we would be a very trusted holiday partner particularly as you get closer to the holiday.
+tlMN6AnSnt CLAIM-Opinion(view) 1319 1392 So, on the promotion side, we don't consider it a huge factor either way.
+IbgvANu66_ PREMISE-Fact 1393 1459 It's pretty much a cost of doing business 12 months a year for us.
+kHBSzz3dqY NON-ARG 1460 1548 And, sorry, the second question is on the hub in Cincinnati – or excuse me, in Kentucky.
+9j9Xhk8dh- NON-ARG 1596 1684 That is a partnership we have to build out the facility at the Hebron, Kentucky airport.
+Wp7diLjwUN CLAIM-Opinion(view) 1685 1734 I think it'll create thousands of jobs over time.
+vusA1ZpsnE PREMISE-Fact 1735 1795 What it does for us is it gives us a base for future growth.
+2czxSkqqPx PREMISE-Fact 1796 2078 It's all about supplementing our existing capacity both our partners and ourselves and essentially building capacity that can handle this top line growth and also the growth in AFN or Amazon Fulfilled Network units which as I just mentioned is even higher than our paid unit growth.
+oOVH8A1HB1 NON-ARG 2079 2196 So same as some of the investments you saw in airplanes last year, our partnerships with companies that do air cargo.
+SKeWqnnqce NON-ARG 2197 2264 This is about supplying our need for our customers and our sellers.
+iIXMPjAbgS NON-ARG 2265 2435 We value the partnership with external, the external providers as well and I think we're all dealing with the problem of having lots of incremental volume year-over-year.
+R0 SUPPORT ARG1:x79V9WkJSl ARG2:Yrsu0vNiWJ
+R1 SUPPORT ARG1:IbgvANu66_ ARG2:tlMN6AnSnt
+R2 SUPPORT ARG1:vusA1ZpsnE ARG2:Wp7diLjwUN
+R3 SUPPORT ARG1:2czxSkqqPx ARG2:Wp7diLjwUN

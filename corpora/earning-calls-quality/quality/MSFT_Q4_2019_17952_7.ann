@@ -1,0 +1,22 @@
+x0g1IKiCir NON-ARG 886 900 Thanks, Keith.
+47vqwMtmQe CLAIM-Opinion(view) 901 1087 Let me walk through a little bit of this, because there are some new behaviors that I think are important this quarter, but the fundaments that you talked about are relatively unchanged.
+RYH1ABpRT_ CLAIM-Fact 1088 1217 We continue to see and saw again installed base growth across all of our customer segments from the enterprise to small business.
+egraEaibqb PREMISE-Fact 1218 1403 That’s happening not just because of frontline workers, but also continued expansion and continued movement in every segment where we see the opportunity to increase the installed base.
+17NfLQ_dqe CLAIM-Fact 1404 1440 We did see ARPU growth this quarter.
+LMOvU2ZJ7l CLAIM-Fact 1441 1500 It wasn’t as much different from the -- from past quarters.
+Itkdg_-DmH CLAIM-Fact 1501 1575 We continue to see improvement from E3 and E5 transitions, saw both again.
+witwp864F7 CLAIM-Opinion(view) 1576 1699 And I think we were quite encouraged by E5 performance, particularly in Q4 as we ended the quarter, which was great to see.
+jYhXajG9h_ CLAIM-Fact 1700 1896 What you saw a little bit and I referred to it was some more in-quarter recognition, but let me talk about why that’s happening because it's got two important and positive trends that underlie it.
+LHxPqYdeXi CLAIM-Fact 1897 1948 The first thing is we're seeing longer commitments.
+gLCq2chJn_ PREMISE-RealExample 1949 2032 When you see longer commitments under 606, you often have more recognition upfront.
+tGH3gAA1o- CLAIM-Reformulated 2033 2175 And so, we saw longer commitment and we’ve got a little bit more recognition in the quarter, and so you saw then revenue grow a little faster.
+fCXb1Yn_SN CLAIM-Fact 2176 2488 The other thing that we saw is increasing focus as we were having more conversations across organizations around Azure and rethinking their digital transformation plans with us, it opens up a very large conversation around the value Microsoft 365 can bring as people go through and think about those transitions.
+e2oBcWMOMK CLAIM-Fact 2489 2649 And so, the fact that we then -- we’re often seeing extensions take place of prior commitments on Office 365 to again be longer and include the Azure contracts.
+0fUpOPufDC CLAIM-Opinion(view) 2805 3134 And so, when you have a dynamic where you’re seeing longer contracts plus you’re able to sell more and new things, and I think different conversations around Microsoft 365, it was a good execution by the team and I think a recognition of the value that we continue to put into that what we believe is our hero -- hero experience.
+S29dcZ5qSJ CLAIM-Reformulated 2650 2804 When that happens, it's almost like you’re adding new products and new value and a lot of that gets recognized faster in-quarter when you see that happen.
+7KyqDxxN1r NON-ARG 3190 3204 Thanks, Keith.
+8Boz__dI5i NON-ARG 3205 3253 Operator, we will move to next question, please.
+R0 SUPPORT ARG1:egraEaibqb ARG2:RYH1ABpRT_
+R1 SUPPORT ARG1:gLCq2chJn_ ARG2:LHxPqYdeXi
+ArgQ0 RYH1ABpRT_ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 LHxPqYdeXi SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

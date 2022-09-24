@@ -1,0 +1,48 @@
+SPeLcz1QSQ CLAIM-Opinion(view) 4122 4333 Specifically with regards to Oculus and how that could impact the plan for next year, we're, as Mark said, very bullish about the long-term opportunity for VR and excited about the launch for the Rift next year.
+RlnLaZZ6P- CLAIM-Fact 655 693 So they are very different situations.
+yRzfObwOW3 PREMISE-Statistic 694 812 So India is a unique country where there are 1.25 billion people, more than 1 billion of them are not on the Internet.
+4MHWbxShu0 PREMISE-Fact 813 888 So it is the country in the world that benefits the most from connectivity.
+DzpmWKCvj5 CLAIM-Fact 889 1099 And there's a lot of research that we've seen and reports that third parties have put out that show, that when you connect to place like India, it makes a very big difference socially and for the economy there.
+DOV62Vso_y PREMISE-Statistic 1608 1815 So what we find through the research is that for every 10 people who get connected to the Internet, just a little less than or right around one person gets lifted out of poverty and one new job gets created.
+R6RgyoDdq5 PREMISE-Fact 2253 2323 We're only working with one operator currently in part of the country.
+YglS1X_gXT CLAIM-Fact 2324 2493 So there's a lot of room to expand that and that's just a big opportunity for the Internet overall and for India over the next decade and we hope to play a role in that.
+BGjtMb6Orq PREMISE-Fact 2494 2537 On China, that is a more complex situation.
+9XJB9zw9Vf PREMISE-Fact 2538 2652 Obviously, you can't have a mission of wanting to connect everyone in the world and leave out the biggest country.
+bYafYcIBrO CLAIM-Fact 2653 2752 So over the long-term, that is a situation that we will need to try to figure out a way forward on.
+ruhtDjnA0X CLAIM-Fact 2753 2886 For now, the thing that I would leave you with is that people think that Facebook isn't in China at all and that's actually not true.
+R2Mv2LyduA PREMISE-Fact 2887 3007 Our consumer service isn't active there, but it actually is already one of the biggest advertising markets that we have.
+BhF31L8ZJN PREMISE-Fact 3008 3279 Because there are a lot of really big and important Chinese companies who sell a lot of products to people outside of China, and they use Facebook as one of their primary tools in a lot of cases to spread information about what they're doing and grow their customer base.
+tMOQ7NsTVy PREMISE-Fact 1100 1607 A lot of us here, everyone we know is on the internet and we think about the internet as entertainment and basic communication but if you don't have access to a good school, then getting basic Internet access could be your best educational information or if you don't have access to a good doctor, then getting access to the Internet could be the only way that you can learn about how to avoid certain diseases or how to raise your kids and help them avoid certain diseases and find jobs and a lot of stuff.
+aNFTRe7WPP PREMISE-Fact 4334 4385 But VR is still very much in the development stage.
+Euz46P7Yg7 CLAIM-Fact 4386 4450 So it would be early to be talking about large shipment volumes.
+mxE9-Agio_ CLAIM-Fact 1816 1846 So we're very focused on this.
+Ux7MxFso61 CLAIM-Opinion(view) 1847 2028 It's a huge priority for the Indian government and anything that we can do to help there, we think is very good for the world and we're invested in that, and we're happy to support.
+8FwbMHqNF5 CLAIM-Opinion(view) 2029 2252 So in Internet.org in India now, there are already more than 1 million people who now have access to the Internet who didn't otherwise because of our efforts, so we're proud of that but obviously that's still very early on.
+wMITpNlYf2 CLAIM-Reformulated 3280 3416 So we're happy to do whatever we can to help develop the economies in both of those countries and they're both long-term efforts for us.
+B8gAi4cJ2B NON-ARG 598 603 Sure.
+j-1EniFYHr NON-ARG 604 654 I can start off with the India and China question.
+827yXzk5xm CLAIM-Fact 3568 3741 But we're focused on continuing to invest heavily in the business across our near, mid and long-term opportunities and we see a bunch of great opportunities to invest there.
+WHKmhTt0xC NON-ARG 3434 3567 Doug, on your question on 2016, we're not going to obviously give specific guidance at this time, that'll be coming with our Q4 call.
+IeaZPO_yfZ PREMISE-Fact 3742 3841 So in the near term, we're focused on growing the community and executing on our existing business.
+CsAqwIFHFj PREMISE-Fact 3842 3948 In the medium-term, we're focused on those next generation of services, Instagram, Messenger and WhatsApp.
+FcEFqupYyO PREMISE-Fact 3949 4121 And in the long-term, we've got the investments we're making and things like artificial intelligence, VR, and obviously the Internet.org efforts that Mark just spoke about.
+R0 SUPPORT ARG1:yRzfObwOW3 ARG2:RlnLaZZ6P-
+R1 SUPPORT ARG1:4MHWbxShu0 ARG2:RlnLaZZ6P-
+R2 SUPPORT ARG1:DOV62Vso_y ARG2:DzpmWKCvj5
+R3 SUPPORT ARG1:R6RgyoDdq5 ARG2:YglS1X_gXT
+R4 SUPPORT ARG1:BGjtMb6Orq ARG2:bYafYcIBrO
+R5 SUPPORT ARG1:9XJB9zw9Vf ARG2:bYafYcIBrO
+R6 SUPPORT ARG1:R2Mv2LyduA ARG2:ruhtDjnA0X
+R7 SUPPORT ARG1:BhF31L8ZJN ARG2:ruhtDjnA0X
+R8 SUPPORT ARG1:tMOQ7NsTVy ARG2:DzpmWKCvj5
+R9 SUPPORT ARG1:aNFTRe7WPP ARG2:Euz46P7Yg7
+R10 SUPPORT ARG1:IeaZPO_yfZ ARG2:827yXzk5xm
+R11 SUPPORT ARG1:CsAqwIFHFj ARG2:827yXzk5xm
+R12 SUPPORT ARG1:FcEFqupYyO ARG2:827yXzk5xm
+ArgQ0 RlnLaZZ6P- SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 DzpmWKCvj5 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 YglS1X_gXT SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 bYafYcIBrO SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 ruhtDjnA0X SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 Euz46P7Yg7 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ6 827yXzk5xm SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

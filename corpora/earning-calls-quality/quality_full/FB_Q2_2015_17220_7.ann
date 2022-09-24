@@ -1,0 +1,24 @@
+UYZuKFT2bA CLAIM-Opinion(view) 1049 1137 So on the sales and marketing expenses, Mark, I think you're going to see that be lumpy.
+aDzp7QhYeg PREMISE-Fact 1138 1253 That's just due to product marketing and that's just not going to necessarily be a steady quarter-to-quarter trend.
+XhuYjN4UeS CLAIM-Reformulated 1254 1291 So you're going to see that be lumpy.
+JQarnxFFSl PREMISE-Fact 1292 1368 But, yes, we are investing more in general in sales and marketing over time,
+SXfx_GwQpB CLAIM-Fact 1369 1459 so you'd expect to see that line grow in line with the expense guidance that we're giving.
+GWFSjYN3qM PREMISE-Fact 1460 1594 So it's definitely an area that we'll be investing in on an ongoing basis and I wouldn't read too much into the quarterly trend there.
+WqzM_5_fr1 CLAIM-Opinion(view) 1619 1707 Yeah, and in terms of Instagram, I just think Kevin and the team are doing amazing work.
+_0Xph-B8Ry PREMISE-Fact 1708 1801 The clarity of focus and clarity of the vision that Kevin and Mike have has been exceptional.
+f-jCOgmrpr PREMISE-Fact 1802 1855 And this is something that they've always focused on.
+yKVX1qXrVZ PREMISE-Fact 1856 1936 They've cared deeply about it since the first conversations I've had with Kevin.
+FcuXvuykNT PREMISE-Fact 1937 2163 And I think it takes real composure as a leader to scale something to many x where it was just a few years ago and build up the organization and be able to continue pushing the products forward every day to be able to do that.
+aTvh8vHYp8 CLAIM-Opinion(view) 2164 2259 And I think it's rare that you get someone who's as talented as the folks who are leading this.
+ReIZt_u1-X CLAIM-Reformulated 2260 2298 And they're just doing an amazing job.
+R0 SUPPORT ARG1:aDzp7QhYeg ARG2:UYZuKFT2bA
+R1 SUPPORT ARG1:JQarnxFFSl ARG2:SXfx_GwQpB
+R2 SUPPORT ARG1:GWFSjYN3qM ARG2:SXfx_GwQpB
+R3 SUPPORT ARG1:_0Xph-B8Ry ARG2:WqzM_5_fr1
+R4 SUPPORT ARG1:f-jCOgmrpr ARG2:WqzM_5_fr1
+R5 SUPPORT ARG1:yKVX1qXrVZ ARG2:WqzM_5_fr1
+R6 SUPPORT ARG1:FcuXvuykNT ARG2:aTvh8vHYp8
+ArgQ0 UYZuKFT2bA SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ1 SXfx_GwQpB SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 WqzM_5_fr1 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 aTvh8vHYp8 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

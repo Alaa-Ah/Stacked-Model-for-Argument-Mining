@@ -1,0 +1,13 @@
+l-JrtXoRVZ NON-ARG 534 539 Sure.
+8aG9n5RJlb NON-ARG 540 594 I would probably argue a bit with the growth comments.
+-62kFmuTRM PREMISE-Statistic 595 730 As we see it here, we grew from a $30 billion revenue run rate at the end of 2018 to a $40 billion revenue run rate at the end of 2019.
+m3asHkchWg CLAIM-Opinion(view) 731 784 So, we continue to be happy with our top line growth.
+2poLgcDDYA PREMISE-Fact 785 923 The -- in dollar terms as opposed to percentages, we had a larger dollar increase in revenue both year-over-year and quarter-over-quarter.
+ry0FMlrDoA CLAIM-Opinion(view) 1024 1268 As far as competitive set is concerned, we -- again, we think that we have -- start with a very big lead in this space because of our many years of investment not only in capacity, but also in services and features that we provide to customers.
+v61oUs8afz PREMISE-Fact 1269 1298 We've learned from customers.
+7cOhu-fqHR CLAIM-Reformulated 924 1023 So, we're very happy with the progress of the revenue and our adoption and acceptance by customers.
+R0 SUPPORT ARG1:-62kFmuTRM ARG2:m3asHkchWg
+R1 SUPPORT ARG1:2poLgcDDYA ARG2:m3asHkchWg
+R2 SUPPORT ARG1:v61oUs8afz ARG2:ry0FMlrDoA
+ArgQ0 m3asHkchWg SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 ry0FMlrDoA SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

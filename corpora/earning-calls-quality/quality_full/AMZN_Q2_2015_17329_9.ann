@@ -1,0 +1,28 @@
+wo81ZlAVzt NON-ARG 856 881 Thanks for your question.
+TlbF7dgPjv CLAIM-Policy 1537 1598 On the AWS side we continue to invest in that infrastructure.
+M8lEiIsQ3v PREMISE-Fact 1599 1690 We talked about opening, announcing the region in India so there's expansion there as well.
+bGzbl-dkIM PREMISE-Fact 1691 1834 Future expansion, services expansion Internationally very similar to the U.S. on a number of the Prime fronts but also the investment in India.
+e3UJqB6CbI PREMISE-Fact 1835 1977 And then a few other things you may have seen in our press release today, the launch of Mexico which we are excited about and Amazon business.
+rXXxP_Z63T CLAIM-Reformulated 1978 2036 So lots of – as I said, lots of investment in front of us.
+FFvGCH_qzI NON-ARG 2359 2435 So I think you can look forward to the continuation of that into the future.
+r2cAh_Jfw3 NON-ARG 2037 2065 But we operate in two paths.
+0REPNyBt54 NON-ARG 2066 2151 We are definitely working for operational efficiencies in the business that we're in.
+tKA3CfGK9Z NON-ARG 2152 2221 We're investing wisely in things that we think are big and important.
+eR2fNlJbw_ NON-ARG 2222 2253 And it's not a static activity.
+1vFHPTO_Vg NON-ARG 2254 2358 We continue to evaluate those investments, take into account what customer response is and make changes.
+ifREJmH_rW CLAIM-Policy 882 1057 I can't forecast into the future on that but I will reiterate the investments we have going on right now which again, we're looking to invest to strengthen the Prime platform.
+AtT1iLdhYk PREMISE-Fact 1058 1137 That includes video content including Amazon Originals, Prime Music, Prime Now.
+v3pUQONHe7 PREMISE-Fact 1138 1307 We have robust device business including the launch of a new Paperwhite Fire TV Echo with general availability and numerous other products that we're very excited about.
+1cARryARx4 PREMISE-Fact 1308 1385 That roadmap, we know that those devices drive customer engagement and sales.
+edSrnEUPtu PREMISE-Fact 1386 1472 We build fulfillment centers so that we can add selection and we can add FBA partners.
+DH98UUb3UR PREMISE-Fact 1473 1536 And we had things like same-day delivery which we talked about.
+R0 SUPPORT ARG1:AtT1iLdhYk ARG2:ifREJmH_rW
+R1 SUPPORT ARG1:v3pUQONHe7 ARG2:ifREJmH_rW
+R2 SUPPORT ARG1:1cARryARx4 ARG2:ifREJmH_rW
+R3 SUPPORT ARG1:edSrnEUPtu ARG2:ifREJmH_rW
+R4 SUPPORT ARG1:DH98UUb3UR ARG2:ifREJmH_rW
+R5 SUPPORT ARG1:M8lEiIsQ3v ARG2:TlbF7dgPjv
+R6 SUPPORT ARG1:bGzbl-dkIM ARG2:TlbF7dgPjv
+R7 SUPPORT ARG1:e3UJqB6CbI ARG2:TlbF7dgPjv
+ArgQ0 ifREJmH_rW SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 TlbF7dgPjv SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,21 @@
+ksNT8ysV2J CLAIM-Opinion(view) 1013 1248 We did and we're encouraged by the customer reaction, even our transactional customers, to the security and management value prop as well as the hybrid nature of our SQL and Windows Server 2016 releases that have taken place this year.
+3Y8H05hIOo CLAIM-Opinion(view) 1329 1377 And so I do think that can have an impact in H2.
+Uhg56DgaoA NON-ARG 1378 1418 You heard me talk a little bit about it.
+c4qtdqgijD PREMISE-Fact 1419 1532 With the major currency changes we saw in Q2, we've also done some price adjustments between certain geos for us.
+lz1B2F1VjX CLAIM-Reformulated 1662 1786 But I would reiterate the biggest driver of the transactional performance this quarter was really the value prop people saw.
+CkLZGP9b5p NON-ARG 843 1012 But let me talk a little bit about what impacted the transactional business this quarter, and then we can talk about how to think about it in Q3 and maybe going forward.
+CH_un_E3xY NON-ARG 617 630 Thanks, Mark.
+oUecyHUa7I NON-ARG 631 842 Let me start by saying it's why we tend to focus all up at that server products and services KPI being double digits generally an easier way for us to talk about it all up between Azure and the on-prem business.
+3ykO5em3HS PREMISE-Fact 1249 1279 That value prop is resonating.
+3M9oO8CE99 PREMISE-Fact 1280 1299 We saw some growth.
+Zifn-ihc3K CLAIM-Reformulated 1300 1328 I feel very good about that.
+jMvL3HoCtg PREMISE-Fact 1533 1578 It did pull forward a bit of revenue into Q2.
+YeTt-ud0jQ PREMISE-Fact 1579 1661 And so it will be a bit of a drag on Q3, which is taken into account in the guide.
+xMQNbMjUbg NON-ARG 1864 1878  Thanks, Mark.
+CSmREsbIvH NON-ARG 1889 1906  Thank you, Mark.
+xcChanOups NON-ARG 1907 1944 We'll take the next question, please.
+R0 SUPPORT ARG1:3ykO5em3HS ARG2:ksNT8ysV2J
+R1 SUPPORT ARG1:3M9oO8CE99 ARG2:ksNT8ysV2J
+R2 SUPPORT ARG1:c4qtdqgijD ARG2:3Y8H05hIOo
+R3 SUPPORT ARG1:jMvL3HoCtg ARG2:3Y8H05hIOo
+R4 SUPPORT ARG1:YeTt-ud0jQ ARG2:3Y8H05hIOo

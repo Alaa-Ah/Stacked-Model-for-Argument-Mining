@@ -1,0 +1,37 @@
+ZaCFWwuw5F NON-ARG 822 827 Sure.
+-MRogBATdO CLAIM-Opinion(view) 828 956 For the time frame for this, I think that this is going to be a central focus for the company for the next five years or longer.
+iNU6fwDuh6 PREMISE-Fact 957 1069 Parts of this, we already have a strong foundation on, where WhatsApp and Messenger are strong around the world.
+hI3nD_vhGZ PREMISE-Fact 1070 1244 But in a lot of the most important countries for this like that – like I mentioned in the United States and Japan, we are not the leading private communication service today.
+XblpIZ2hdE CLAIM-Policy 1245 1449 So there, the most important thing that we need to do is get the basics right and make sure that we are providing, hands down, without any question in anyone’s mind, the clear best service in those areas.
+sy6APCV59w NON-ARG 1450 1653 So we’ll talk about both of these things over – a lot over the coming months and the plan – I’ll share a little bit more at F8 next week in terms of the product roadmap and what we expect to see on this.
+AYPJ_zZVi3 CLAIM-Fact 1654 1799 But some of the things we’re also going to intentionally take a longer period of time than we might have previously in order to get safety right.
+dflIQ32Sgm PREMISE-Fact 1800 2181 So when I first announced that we were going to be moving our private communication services to all be end-to-end encrypted, I was very clear that we’re planning on taking at least a year to go consult with experts and governments and law enforcements around the world to make sure that we have the right safety systems in place to make sure that we handle this really well, right?
+EgfUMTBQEu PREMISE-Fact 2182 2378 Because there are really important safety and content issues in messaging and if we don’t have the ability to see the content, we need to make sure we have different tools in place to handle that.
+SElph2CuXp PREMISE-Fact 2379 2458 And this is a different approach than we would’ve taken a few years ago, right?
+oG0T7nX0RV PREMISE-Fact 2459 2718 A few years ago, we probably would’ve rolled this out and tried to deal with issues as they came up with, but now part of our new approach of trying to be more proactive about social issues is trying to build in from the ground up, getting this right upfront.
+1_OuECLYwm CLAIM-Reformulated 2719 2840 So the playbook is going to be work on getting the basics right, make sure that we have safety rights from the beginning.
+Eh1w2arkfB NON-ARG 2841 3041 In countries where we already are the leading platform, there will be more ability to work on things like payments in the near term and build in additional ways that people want to interact privately.
+fg-E1B85Yz NON-ARG 3042 3195 But in terms of when I expect this to be a real contributor to the business, I don’t think in the next couple of years that’s going to be a major driver.
+xStgD9kYn6 NON-ARG 3196 3266 This is just a big focus for us which is why I’m talking about it now.
+dGfj4VgHu3 NON-ARG 3280 3299 So Doug, it’s Dave.
+fj1naGR7Ub NON-ARG 3300 3334 I’ll take the question on Stories.
+nQAUdzcbIa CLAIM-Fact 3335 3485 So we are seeing more of our impression growth coming from Stories, and when I outlined the factors driving impression growth, I listed Stories first.
+GkgCe6JlfM PREMISE-Fact 3486 3568 It was the largest contributor of year-over-year impression growth in the quarter.
+rgomcndWcy PREMISE-Fact 3569 3641 But those impressions are coming in at lower prices than we see in feed.
+NYoaMmIBQI CLAIM-Fact 3642 3757 So if anything, the mix shift on growth towards Stories is certainly in the near term a headwind on revenue growth.
+YZTwXQLEXZ PREMISE-Fact 3758 3969 On pricing specifically, we’re seeing such strong impression growth that this supply growth keeps prices low and creates an opportunity for advertisers, and we’re seeing smart advertisers take advantage of that.
+8oXu-t0YZc CLAIM-Opinion(view) 3970 4117 Ultimately, we believe we can increase demand for Stories as we attract more advertisers and bring more effective direct response units to Stories.
+xbRN1a_e1S NON-ARG 4118 4233 But this – and over time, that will play through to increased prices but this is going to take years, not quarters.
+JOkvExb2F2 NON-ARG 4234 4326 So at least in the near term, we’re going to see a meaningful discount on prices on Stories.
+R0 SUPPORT ARG1:iNU6fwDuh6 ARG2:XblpIZ2hdE
+R1 SUPPORT ARG1:hI3nD_vhGZ ARG2:XblpIZ2hdE
+R2 SUPPORT ARG1:dflIQ32Sgm ARG2:AYPJ_zZVi3
+R3 SUPPORT ARG1:EgfUMTBQEu ARG2:AYPJ_zZVi3
+R4 SUPPORT ARG1:SElph2CuXp ARG2:AYPJ_zZVi3
+R5 SUPPORT ARG1:oG0T7nX0RV ARG2:AYPJ_zZVi3
+R6 SUPPORT ARG1:GkgCe6JlfM ARG2:nQAUdzcbIa
+R7 SUPPORT ARG1:rgomcndWcy ARG2:NYoaMmIBQI
+ArgQ0 XblpIZ2hdE SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 AYPJ_zZVi3 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 nQAUdzcbIa SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 NYoaMmIBQI SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

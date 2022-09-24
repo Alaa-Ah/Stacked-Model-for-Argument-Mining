@@ -1,0 +1,23 @@
+ge3LbVP0XH NON-ARG 1072 1077 Sure.
+CLbnpeS6qa NON-ARG 1078 1240 So, I assume your first question is about the coordination of advertiser with teams that are interacting with vendors and sellers, perhaps is that what you meant?
+7I7lrqH4Dm NON-ARG 1281 1286 Okay.
+tql76-iWRq CLAIM-Fact 1287 1449 Yes, so, first, I'd say we're customer-focused first and primarily, but we need to have good coordination across our teams and we grow fast and we add new things.
+Re9jr9PEQS CLAIM-Fact 1450 1534 So, there's always learnings that we have that's why we say it's still day one here.
+N4RlJYShLX CLAIM-Fact 1535 1618 But we're trying to minimize the negative impact on any vendor or seller out there.
+82BGqTxd-L NON-ARG 1619 1707 So, I can't comment on any certain -- on exactly what issues you might be talking about.
+jZCUYxssn4 CLAIM-Opinion(view) 1708 1916 We have teams dedicated to the seller experience and the vendor experience and we think they do a good job of selling the whole suite of products including advertising -- with the advertising teams at Amazon.
+2cXUk27sH3 PREMISE-Fact 1917 2079 But as you say they're separately run and they can meet at different points and sometimes at certain vendors perhaps that may get out of hand are get out of sync.
+a8s0CwzT4I PREMISE-Statistic 2125 2242 On subscription revenue, yes, we -- you remember we raised the price of Prime in the U.S. last June from $99 to $119.
+xjg6F1Z1_b CLAIM-Fact 2243 2444 So, the largest impact -- favorable impact from that at least from a subscription revenue standpoint would have happened in the subsequent four quarters, less in Q2, more in Q3 through Q2 of this year.
+QlSGHOpwrB CLAIM-Fact 2445 2518 So, yes, that will be a factor that we're comping for the next 12 months.
+_Tmi35iJw1 PREMISE-Fact 2519 2638 Its offset by the growth in the Prime program itself and the expansion of Prime Benefits or the Prime program globally.
+UWcxtHu8Me PREMISE-Other 2080 2124 But hopefully that is a temporary condition.
+9cnhJJUnlf CLAIM-Fact 2639 2733 You may see that -- may have seen we have launched Prime in United Arab Emirates this quarter.
+QeWv52jOsT CLAIM-Fact 2734 2892 So, it's not something -- it's something we've certainly seen in the past with timing of price increases, but it's built into the Q3 guidance that I've given.
+R0 ATTACK ARG1:2cXUk27sH3 ARG2:jZCUYxssn4
+R1 SUPPORT ARG1:UWcxtHu8Me ARG2:jZCUYxssn4
+R2 SUPPORT ARG1:a8s0CwzT4I ARG2:xjg6F1Z1_b
+R3 SUPPORT ARG1:_Tmi35iJw1 ARG2:QlSGHOpwrB
+ArgQ0 jZCUYxssn4 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 xjg6F1Z1_b SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 QlSGHOpwrB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

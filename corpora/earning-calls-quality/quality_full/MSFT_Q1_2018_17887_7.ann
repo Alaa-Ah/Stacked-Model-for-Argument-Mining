@@ -1,0 +1,19 @@
+xJ5RLz582P NON-ARG 672 677 Yeah.
+oXnaWSs3o4 NON-ARG 678 705 Thank you for the question.
+snL34c-xbF NON-ARG 706 841 Overall, I think you sort of speak to I think one of the big advantages and one of the big value propositions we have on to both sides.
+3_xDJc8GQx CLAIM-Fact 842 876 One is to the enterprise customer.
+xJhDBzLGZv CLAIM-Fact 877 902 We are a trusted partner.
+W8N5ZS1ge5 CLAIM-Fact 903 976 And we support them with their hybrid computing needs and their AI needs.
+6BsM6q32R1 PREMISE-Fact 977 1341 One of the things that we emphasize is it's not about our technology, but it's our ability to transfer that capability to our customer because they're increasingly becoming, whether you're in retail or you're in oil and gas or you're in financial services, every one of them is trying to build their own software capability and we are uniquely capable of doing so.
+Qei_HLtIO5 CLAIM-Fact 1342 1370 The second part is the ISVs.
+2bx0p6Ircw CLAIM-Fact 1371 1520 We now, in fact, one of the big areas of investment this year was the core sell capacity in our field so that ISVs can be successful on our platform.
+IpF_J_j99T PREMISE-Fact 1521 1717 Whether it is GE or Adobe and many others can all now benefit, both because of our enterprise partnership and credibility, and more importantly because of the field resources we have put in place.
+-h4stTrJhP CLAIM-Fact 1718 1812 So we are really looking forward to accelerating our business with GE and many others to come.
+9UwPB8hZLp CLAIM-Fact 1813 1923 But it's a very important core sell motion and more importantly building trust on both sides of that equation.
+o8kolPq-tY NON-ARG 1937 1950 Thanks, Kirk.
+C4LipGr3QR NON-ARG 1962 1972 Thank you.
+l3U8M7_VE1 NON-ARG 1973 2010 We'll take the next question, please.
+R0 SUPPORT ARG1:6BsM6q32R1 ARG2:W8N5ZS1ge5
+R1 SUPPORT ARG1:IpF_J_j99T ARG2:2bx0p6Ircw
+ArgQ0 W8N5ZS1ge5 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 2bx0p6Ircw SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,21 @@
+E0cPNv3h8x NON-ARG 771 785 Yeah, hi John.
+bBAGa-Ffh2 NON-ARG 786 800 This is Darin.
+irn0C7NYNr CLAIM-Fact 801 1035 On vehicles, Amazon Vehicles is really a car research destination and really builds the automotive community for customers and gets information they need when shopping for vehicles offsite or shopping for parts and accessories onsite.
+y17PjO0UOl PREMISE-Fact 1036 1408 The features include research tools, community engagement where you can talk to other customers, and certainly we'll try to build a one-stop shop for vehicles as an extension to the automotive store which engages customers to add information about their cars in their garage and which makes it actually easier to shop for parts and accessories for your particular vehicle.
+UWnwXq-uBz CLAIM-Opinion(view) 1409 1493 And so we think there's a lot of opportunity there to add convenience for customers.
+NXdseQ_qKM NON-ARG 1494 1559 On the B2B side, certainly we do have a Amazon business offering.
+bIb32dXjkr NON-ARG 1560 1840 Businesses of all shapes and sizes can sign up to be a B2B customer and the selection that we have in our parts and in automotive categories are certainly open to that channel, but I wouldn't speculate on anything we might do in a particular vertical for those business customers.
+YWxpFQ7GyN NON-ARG 1860 1865 Sure.
+u1vRnVyf7P NON-ARG 1866 2007 And your comment on, or question on grocery and physical stores, I can't comment on any rumors or speculations there might be regarding that.
+zhmqHDPEM_ PREMISE-Fact 2008 2078 But what I will tell you is we have experimented with physical stores.
+qc3mMoGGGz PREMISE-Fact 2079 2235 As you may know, we have three physical bookstores, one Seattle, one in San Diego and one in Portland and two more coming, one in Boston and one in Chicago.
+va_uqTmva9 CLAIM-Fact 2236 2422 And what we're finding is they're great places for customers to browse what ends up being a curated selection of books and they also get to try out our devices, which is very beneficial.
+mWRhfmdlMf PREMISE-Fact 2423 2492 So they get to touch and try our eReaders, tablets, Fire TV and Echo.
+NfXm_9ft2N CLAIM-Opinion(view) 2493 2617 So we like what we see with that connection and we also have pop-up stores that you may see and also college pick-up points.
+E07SnmVIzX CLAIM-Policy 2618 2783 So we will try different delivery methods or pick-up points or ways of getting product to customers, but nothing specific to point out on the grocery side right now.
+R0 SUPPORT ARG1:zhmqHDPEM_ ARG2:va_uqTmva9
+R1 SUPPORT ARG1:qc3mMoGGGz ARG2:va_uqTmva9
+R2 SUPPORT ARG1:mWRhfmdlMf ARG2:va_uqTmva9
+R3 SUPPORT ARG1:y17PjO0UOl ARG2:irn0C7NYNr
+ArgQ0 va_uqTmva9 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 irn0C7NYNr SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,14 @@
+FX7Y6oI0mU NON-ARG 486 491 Sure.
+6YCN2PVCO3 NON-ARG 492 555 We don't give – obviously we don't give segment-based guidance.
+gTho3CQHuJ PREMISE-Statistic 556 688 But to your question about AWS, we actually see nine availability zones in four regions coming out in the next – in the coming year.
+gUk26iw_gD CLAIM-Fact 689 972 The impact on short-term is pretty much indistinguishable from the growth that we're seeing in our expansion of our base customers in our existing regions, so we don't see a large step-up from the addition of new regions relative to the large and rapid growth in the business itself.
+BLoU1HK7PA CLAIM-Opinion(view) 973 1147 We do think that it does pay benefits both for ourselves and for our customers because of the expansion, and we're happy to have added the region in Mumbai this past quarter.
+GSowyDHFHN CLAIM-Opinion(view) 1148 1247 We think when we expand geographically, existing customers will run more of their workloads on AWS.
+ONRNNTUmHA PREMISE-Fact 1248 1374 Sometimes they have local latency concerns or security issues that require them to run things in their country, so that helps.
+UqQDCqbRsS PREMISE-Fact 1375 1438 And we also open up to new customers when we add these regions.
+9e_MIqRjRK CLAIM-Fact 1439 1536 So not a large impact on Q3 guidance, but certainly an exciting investment for our customer base.
+R0 SUPPORT ARG1:ONRNNTUmHA ARG2:GSowyDHFHN
+R1 SUPPORT ARG1:UqQDCqbRsS ARG2:GSowyDHFHN
+R2 SUPPORT ARG1:gTho3CQHuJ ARG2:gUk26iw_gD
+ArgQ0 GSowyDHFHN SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 gUk26iw_gD SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

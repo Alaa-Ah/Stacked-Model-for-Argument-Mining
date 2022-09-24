@@ -1,0 +1,40 @@
+QtJX866KpC CLAIM-Opinion(view) 4718 4930 We've been really pleased with the adoption of our targeting products from Custom Audiences to Lookalikes to Dynamic Ads, and we think all of these can improve the relevance of the ad by making ads more targeted,
+SggaIvVuYE PREMISE-Fact 4931 5056 because when they're more targeted, they have higher returns for marketers and they're more enjoyable or relevant for people.
+S8hMDEvXea PREMISE-Fact 3862 3976 When you think about influencer marketing, we definitely see publishers interested in it, brands interested in it.
+Qq2YfsMQc3 CLAIM-Fact 3977 4075 And so we've worked on branded content, the ability to tag a sponsor and share posts and insights.
+6MwkARwY1- NON-ARG 4076 4152 And the financial arrangement remains between the sponsor and the publisher.
+9Prr-pK6Sg CLAIM-Fact 4153 4281 It's early, but we're seeing some positive results with publishers of many different types bringing branded content to Facebook.
+kR2zo_UkyU PREMISE-Fact 4282 4402 In Q1, we opened this up to unverified pages so we could enable more people to take advantage of this kind of targeting.
+Qv4CkO7zAk PREMISE-Fact 4403 4458 We see this in the broader context of better targeting.
+se8AFPaojt NON-ARG 4459 4598 When you think about what really drives great performance for both people who are using Facebook but for marketers, it's well-targeted ads.
+cYDX_EPVk- NON-ARG 4599 4717 And so influencer marketing is one way to get there, but we're focused on a very full range of ability to target well.
+U81C1KrcH8 NON-ARG 952 1010 All right, I can start by talking about augmented reality.
+0_bEOen6zj PREMISE-Fact 1011 1204 The big step forward that we announced at F8 is that there are lots of different apps that have cameras in them or that independent developers just build an app that has a single camera effect.
+h-jOkQEU5B PREMISE-Fact 1205 1477 But what we're basically saying is that there's so much innovation and so many different types of effects that people are creating that we don't want developers to have to build their own separate app and get to a huge scale in order to build some new kind of visual tool.
+TXXAElyHc- CLAIM-Fact 1478 1692 So we built – we're making the cameras inside the whole family of apps into the first augmented reality platform, into an open platform, which is different from what any other app that has a camera has done before.
+hjyfj1Zhlh PREMISE-Fact 1693 1928 It's going to open up a much greater diversity of use cases, not only making it so that use cases like facemasks or style transfers that we already have, you're now going to have thousands of options instead of just 10 or 20 at a time.
+p34esTH4Hh CLAIM-Fact 1929 2073 But there are also going to be all these new kinds of things that we're not even building today that developers will be able to experiment with.
+RAKcJf1LKG PREMISE-Fact 2074 2287 One of the examples I showed at F8 was around using object recognition and computer vision to be able to point your camera at something and then tap on it and get a card of information and maybe even a buy button.
+Cpeq31xZCc CLAIM-Reformulated 2288 2498 So there are lots of different ways that over time this kind of content is going to both augment existing real-world objects and eventually replace them, which I think is going to be an interesting opportunity.
+uxjccI1ZJH NON-ARG 2499 2569 maybe not on augmented reality on the phone but on glasses eventually.
+LVNSsqS0Yn CLAIM-Opinion(view) 2570 2681 When you have that, I think we're going get to a point where things like TVs, you no longer need a physical TV.
+SjIqOEwEBK PREMISE-Fact 2682 2734 You'll get a $1 app that you can watch it screen on.
+W9zhwMKjJz PREMISE-Fact 2735 2983 And it will just be an interesting exercise to see how many of the things that we have that are physical things don't actually need to be physical in that world, and how much innovation that opens up for independent developers all around the world.
+5Gw3SQBGpV PREMISE-Fact 2984 3047 A lot of people don't have a factory, so they can't build a TV.
+hDvNH_QTxZ NON-ARG 3048 3239 But think about how many kids and different developers around the world, kids sitting in dorm rooms and all these different places are going be able to create things that today they couldn't.
+MnBzxzK0xB NON-ARG 3240 3303 So I hope this is going to create a pretty interesting economy.
+26ej0SiHcp NON-ARG 3304 3362 So a lot of that stuff is pretty far out, five, ten years.
+Vha1D1DsHB NON-ARG 3363 3402 But we want to be pushing this forward.
+oEDpAZq2up CLAIM-Reformulated 3513 3685 But I do think at this point, we're pretty much ahead in terms of the technology that we're building, and making it an open platform I think is a big is a big step forward.
+rJ5Iy-1Hrx NON-ARG 3686 3838 A lot of people are using these products across our family of apps, and I would expect us to continue leading the way forward on this from this point on
+dcvbhuRarw NON-ARG 3403 3512 I think we're a little bit late to the trend initially around making cameras the center of how sharing works.
+R0 SUPPORT ARG1:S8hMDEvXea ARG2:Qq2YfsMQc3
+R1 SUPPORT ARG1:kR2zo_UkyU ARG2:9Prr-pK6Sg
+R2 SUPPORT ARG1:Qv4CkO7zAk ARG2:9Prr-pK6Sg
+R3 SUPPORT ARG1:SggaIvVuYE ARG2:QtJX866KpC
+R4 SUPPORT ARG1:h-jOkQEU5B ARG2:TXXAElyHc-
+R5 SUPPORT ARG1:hjyfj1Zhlh ARG2:TXXAElyHc-
+R6 SUPPORT ARG1:RAKcJf1LKG ARG2:p34esTH4Hh
+R7 SUPPORT ARG1:SjIqOEwEBK ARG2:LVNSsqS0Yn
+R8 SUPPORT ARG1:W9zhwMKjJz ARG2:LVNSsqS0Yn
+R9 SUPPORT ARG1:5Gw3SQBGpV ARG2:LVNSsqS0Yn

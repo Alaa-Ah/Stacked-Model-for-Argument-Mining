@@ -1,0 +1,28 @@
+-5wqvj_H-7 NON-ARG 602 607 Sure.
+Q8E5lWkWrL CLAIM-Fact 765 856 That means you need to have a platform that has a community around it and monetize as well.
+Dy0fa8IHAD PREMISE-Fact 608 764 But before I get to streaming, the thing that I'll say is most critical when you think about gaming is having a platform where the gamers are already there.
+AUbhy2c7hy PREMISE-Fact 857 965 So when you see some of the KPIs and some of the strength you saw in quarter, that's the foundation of Xbox.
+RZwnziV2D5 CLAIM-Fact 966 1034 Xbox has the key gaming community and the monetization capabilities.
+Vz9LqvfPNZ CLAIM-Fact 1035 1173 Whether it's first-party games or third-party games, we are best-in-class in that monetization and that's what's reflected in the results.
+X7PNbZM6j_ CLAIM-Fact 1174 1289 So given that structural position, we are going to make sure that we keep increasing the strength of the community.
+_XUptuXojd PREMISE-RealExample 1290 1434 You see that already with Minecraft going to all platforms and that increasing the intensity of the community and you'll see us do more of that.
+6L162Y7kDR PREMISE-Fact 1435 1517 Obviously, bringing Game Pass to even the PC is going to be a big element of that.
+aqCU28ls7k PREMISE-Fact 1518 1570 And then streaming is just a natural sequence of it.
+TYXpYucLWQ CLAIM-Fact 1571 1650 And the advantage we have with streaming is, we have a massive cloud advantage.
+-43QLfzFMX PREMISE-RealExample 1651 1817 And so we're going to bring obviously what we're doing with Azure, Azure networking, all to bear in ensuring that Xbox and xCloud is one of the best workloads for it.
+NfdOHocrJc NON-ARG 1818 1841 So that's how I see it.
+W0uBm4lgYK CLAIM-Opinion(view) 1842 2000 It, of course, will increase our reach, but what I am most excited about is the core content and community and the platform we have for monetizing that usage.
+AtxzLgrBcM CLAIM-Opinion(view) 2001 2087 And that I think is really what gives us even the permission to think about streaming.
+34-neHRZDE NON-ARG 2149 2155 Great.
+SDrpFKh37E NON-ARG 2156 2170 Thanks, Raimo.
+W1RhNvPXs0 NON-ARG 2171 2228 Operator, we'll please move to the next question, please.
+R0 SUPPORT ARG1:Dy0fa8IHAD ARG2:Q8E5lWkWrL
+R1 SUPPORT ARG1:AUbhy2c7hy ARG2:RZwnziV2D5
+R2 SUPPORT ARG1:_XUptuXojd ARG2:X7PNbZM6j_
+R3 SUPPORT ARG1:6L162Y7kDR ARG2:X7PNbZM6j_
+R4 SUPPORT ARG1:aqCU28ls7k ARG2:X7PNbZM6j_
+R5 SUPPORT ARG1:-43QLfzFMX ARG2:TYXpYucLWQ
+ArgQ0 Q8E5lWkWrL SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 RZwnziV2D5 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 X7PNbZM6j_ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 TYXpYucLWQ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

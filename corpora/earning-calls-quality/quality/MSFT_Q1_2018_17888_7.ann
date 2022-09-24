@@ -1,0 +1,38 @@
+QqStSrLMHT NON-ARG 619 654 Thank you, Mark, for that question.
+I8PR3v79Se CLAIM-Fact 655 910 The way we designed Dynamics 365, both on the technology front as well as on the business model front was to get away from what I would describe as the old-school suite-based selling or suite-based building of these things, whether it's CRM or ERP or SCM.
+eialrzcST6 PREMISE-RealExample 911 1110 Because we realized that, for example, you take any IoT project that is starting in Azure, it first translates into an analytics workload that pulls through some Azure high router analytics services.
+u1yYlMqNwU PREMISE-RealExample 1208 1305 And all they need is just a very robust field service module that's cost-effective and efficient.
+Axiphog-oT CLAIM-Fact 1306 1355 And so we're able to attach that to that project.
+wQKUKZ-VKp PREMISE-RealExample 1356 1505 Similarly on Talent, they want to be able to – if you start on LinkedIn with hiring, you want to be able to do the on-boarding and talent management.
+guMhUjtszY PREMISE-Fact 1534 1725 Even on the operations side, we are realizing that even if you keep your financials the same, there is need, and with increasing digitization, there is more operational modules that you need.
+lJPI31vy-O CLAIM-Fact 1726 1763 So that's what we've designed it for.
+fQRugZZtg0 CLAIM-Fact 1764 1807 So the growth is actually across the board.
+iJqo4fRkOm PREMISE-Fact 1808 1840 It's coming in customer service.
+djWHm0Ped8 PREMISE-Fact 1841 1862 It's coming in sales.
+rfcfCpNAeX PREMISE-Fact 1863 1885 It's coming in talent.
+5eyw3f5F7Z PREMISE-Fact 1886 1966 It's coming in operations, and we have some very competitive price points there.
+neiQVBGUBY CLAIM-Fact 1967 2036 The other one is that there is no such thing as a canonical business.
+ru97RJibqo CLAIM-Reformulated 2037 2091 There's no such thing as a canonical business in time.
+mqDHcHmJNW NON-ARG 2418 2431 Thanks, Mark.
+QwjuONoROo NON-ARG 2443 2453 Thank you.
+vyP6TezH-y NON-ARG 2491 2529 We'll go to the next question, please.
+1Flk1ZL4JS PREMISE-RealExample 1111 1207 And then immediately after you do something like preventive maintenance, you need field service.
+I3VggL5sLR CLAIM-Fact 1506 1533 That's the module you want.
+1X7vpSn-XW PREMISE-RealExample 2131 2318 So customization, customization and composition, especially with Office 365, is very important, and this is where we have some very differentiated offer with Power BI, PowerApps and Flow.
+BVvQKdtCOH CLAIM-Fact 2319 2404 And that's another big driver of some of that growth across our enterprise customers.
+vLAC171Q23 CLAIM-Reformulated 2092 2130 That means things are always changing.
+R0 SUPPORT ARG1:eialrzcST6 ARG2:I8PR3v79Se
+R1 SUPPORT ARG1:1Flk1ZL4JS ARG2:I8PR3v79Se
+R2 SUPPORT ARG1:u1yYlMqNwU ARG2:I8PR3v79Se
+R3 SUPPORT ARG1:wQKUKZ-VKp ARG2:Axiphog-oT
+R4 SUPPORT ARG1:guMhUjtszY ARG2:I3VggL5sLR
+R5 SUPPORT ARG1:iJqo4fRkOm ARG2:fQRugZZtg0
+R6 SUPPORT ARG1:djWHm0Ped8 ARG2:fQRugZZtg0
+R7 SUPPORT ARG1:rfcfCpNAeX ARG2:fQRugZZtg0
+R8 SUPPORT ARG1:5eyw3f5F7Z ARG2:fQRugZZtg0
+R9 SUPPORT ARG1:1X7vpSn-XW ARG2:BVvQKdtCOH
+ArgQ0 I8PR3v79Se SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Axiphog-oT SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 I3VggL5sLR SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 fQRugZZtg0 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 BVvQKdtCOH SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,35 @@
+JpS7BcElSj NON-ARG 617 650 Great, let me take both of those.
+pLMcbtZbfD NON-ARG 651 799 Let me separate your first question because I think you're really asking two that I probably don't relate as directly, and I should do that for you.
+w2k-w4mcP4 CLAIM-Opinion(view) 800 908 We've been a longtime advocate of structural tax reform, and so we'll just wait and see how things play out.
+KpUOlLOS2J PREMISE-Fact 909 1006 And as decisions get made and proposals clarified, we'll share more about what that means for us.
+QdYrYQ9nWh CLAIM-Opinion(view) 1007 1324 Next, in terms of how we thought about that impacting capital return, as you know, I think we've been and executed a significant capital return program over the past couple years, including accelerating the buyback program that I think I feel very good about at the corporate level in terms of the value it's created.
+f7CdLNl1QZ NON-ARG 1325 1411 And so I wouldn't say that I view those two things as waiting for one to do the other.
+ou1qYZ80hg CLAIM-Opinion(view) 1412 1635 We've in fact continued to do what we thought created the most value for shareholders, which is to invest in ourselves, acquire companies that help us expand our TAM and grow, return dividends, as well as repurchase shares.
+n3SlzjHMvB CLAIM-Reformulated 1636 1688 And we've continued to do that this quarter as well.
+M3jMFiwstx CLAIM-Reformulated 1689 1793 I think you'll continue to see us take a balanced approach, but I don't think of those as being related.
+swxu4gRUqs PREMISE-Fact 1794 2025 The last question on OpEx, I think over the past couple of years, we've continued to make decisions that said every dollar we spend, are we putting it in the right place for the long term, whether that's reallocating or adding new.
+lh1um93IqX CLAIM-Opinion(view) 2026 2182 And what we expect is to grow new markets and perform really well in them with every dollar that we invest, whether, frankly, Brad, it's in OpEx or in COGS.
+E8HlgW_V77 PREMISE-Fact 2183 2395 At this point, both of those are very large buckets of investments, which Satya and I as well as the whole senior leadership team spend the majority of our time picking markets and making sure we execute in them.
+_k-auMd-ro CLAIM-Reformulated 2396 2481 So in terms of our ability to continue to do that, of course there are opportunities.
+oBrT1oO5kH PREMISE-Fact 2482 2593 We learn, frankly, I think every week where we can do better and where we can continue to invest to accelerate.
+7jSmATe3SR CLAIM-Opinion(view) 2594 2656 That being said, I don't view any OpEx number as a constraint.
+uJFD3G3OJW PREMISE-Fact 2657 2692 More I view, is the return healthy?
+6EBYwSpRJj PREMISE-Fact 2693 2720 Is it growing the top line?
+DaIuEvCrJV PREMISE-Fact 2721 2749 Are we executing well on it?
+ybwQI25boM PREMISE-Fact 2750 2825 And if we are, it will make sense to spend more and if we aren't, it won't.
+zk-jMKDEuj PREMISE-Fact 2826 2903 And so I tend to take that approach as opposed to solving for any one number.
+JoxKnGUfvy NON-ARG 2954 2962  Thanks.
+jdAiAoMbhF NON-ARG 2973 2990  Thank you, Brad.
+nNsKbJXKSu NON-ARG 2991 3020 We'll take the next question.
+R0 SUPPORT ARG1:KpUOlLOS2J ARG2:w2k-w4mcP4
+R1 SUPPORT ARG1:swxu4gRUqs ARG2:lh1um93IqX
+R2 SUPPORT ARG1:E8HlgW_V77 ARG2:lh1um93IqX
+R3 SUPPORT ARG1:oBrT1oO5kH ARG2:7jSmATe3SR
+R4 SUPPORT ARG1:uJFD3G3OJW ARG2:7jSmATe3SR
+R5 SUPPORT ARG1:6EBYwSpRJj ARG2:7jSmATe3SR
+R6 SUPPORT ARG1:DaIuEvCrJV ARG2:7jSmATe3SR
+R7 SUPPORT ARG1:ybwQI25boM ARG2:7jSmATe3SR
+R8 SUPPORT ARG1:zk-jMKDEuj ARG2:7jSmATe3SR
+ArgQ0 w2k-w4mcP4 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 lh1um93IqX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 7jSmATe3SR SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

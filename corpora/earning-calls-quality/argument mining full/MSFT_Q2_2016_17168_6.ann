@@ -1,0 +1,21 @@
+Jmck1rhFHF CLAIM-Opinion(view) 718 766 The opportunity I believe in both cases is high,
+JNc1yOkO5v PREMISE-Fact 767 808 because it just comes in different forms.
+q22q1d1P67 PREMISE-Fact 1069 1158 If you're bringing something over, your IaaS will be heavy first and then PaaS will grow.
+aYHKg6p_b0 PREMISE-Statistic 1159 1393 If you're starting new, you will have PaaS, which is going to be the first thing you do, but then you'll always find the need to go integrate with something that was already existing, existing data, existing code in a virtual machine.
+idLkGCip2v CLAIM-Opinion(view) 1034 1068 So I think that depending on what.
+F7-vRnJlZ5 CLAIM-Opinion(view) 1394 1527 So I myself, in fact one of the things that Amy and I do, is when we think about our CapEx, we think about all these layers together.
+ctCV8FYupj NON-ARG 2229 2345 That was impacted, Mark, in the prior year by some integration and restructuring charges on the cash flow statement.
+P0Vufi-fJL PREMISE-Fact 809 1033 IaaS growth comes because people already have existing code that they want to move over, and then they start extending by writing more PaaS because it's sort of more efficient for them to write new code and new apps in PaaS.
+x_WNQ5zNpG PREMISE-Fact 1528 1625 In fact we amortize our CapEx across all of these and we pay attention to margin and premium mix.
+XQXZvNv6oW PREMISE-Fact 1626 1755 Because what we have come to understand is customers, depending on where they start, how they start, have different mix profiles.
+ZcTGGSFmlh CLAIM-Opinion(view) 1756 1918 So it's the all-up, as long as we're growing our premium services attach and margins for those remain strong, we feel that the mix can be different and it's okay.
+tNvqjr7R0P CLAIM-Opinion(view) 1919 2021 And we really want to speak to the needs of the customers more than any product strategy goal we have.
+vFLpWNufsN NON-ARG 2439 2529  Yes, just always make sure you check the integration and restructuring in the prior year.
+arVkZizgyz NON-ARG 2607 2621  Thanks, Mark.
+MScfCFxuuN NON-ARG 2632 2683  We'll go ahead and take the next question, please.
+R0 SUPPORT ARG1:JNc1yOkO5v ARG2:Jmck1rhFHF
+R1 SUPPORT ARG1:P0Vufi-fJL ARG2:Jmck1rhFHF
+R2 SUPPORT ARG1:q22q1d1P67 ARG2:idLkGCip2v
+R3 SUPPORT ARG1:aYHKg6p_b0 ARG2:idLkGCip2v
+R4 SUPPORT ARG1:x_WNQ5zNpG ARG2:F7-vRnJlZ5
+R5 SUPPORT ARG1:XQXZvNv6oW ARG2:F7-vRnJlZ5

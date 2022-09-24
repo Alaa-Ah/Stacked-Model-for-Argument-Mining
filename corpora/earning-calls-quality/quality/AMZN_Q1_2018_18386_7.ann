@@ -1,0 +1,25 @@
+QbinJLuoFI NON-ARG 826 831 Sure.
+GgFktmmxoJ NON-ARG 832 865 Let me start with transportation.
+RnY0viwxW8 CLAIM-Fact 866 947 We have a great group of carriers that we use globally and you know who they are.
+TUqgyMNqJn CLAIM-Fact 948 1101 But we're also growing our teams and capabilities to ensure that we can keep up with increased volume on our own, particularly around the holiday season.
+RUcL69_LGv CLAIM-Fact 1102 1162 So that's driven a lot of our expansion of Amazon Logistics.
+2nVJOqHUn2 PREMISE-Fact 1163 1204 It's driven the creation of sort centers.
+3FTn7zQlO- PREMISE-Fact 1205 1302 It's driven the purchase of airplanes to move product between points within our delivery network.
+RtS4_LimqH CLAIM-Fact 1303 1401 So we will continue to operate with this combination of external partners and internal capability.
+iaToXvoigP CLAIM-Opinion(view) 1402 1466 We like what we see so far with our Amazon Logistics capability.
+h-pvJeHIqS PREMISE-Statistic 1467 1525 It's well over 50% in some countries, particularly the UK.
+nYUirr6Jzd PREMISE-Fact 1526 1698 It helps with again Prime Now and AmazonFresh and a lot of initiatives that we'll see, which again we mentioned the Prime Now is tied in with Whole Foods, now in 10 cities.
+i2Hali9iW4 CLAIM-Reformulated 1699 1805 So we think it's a core competency that we have and we need to have, and we'll continue to invest in that.
+rpoRlBw6pS NON-ARG 1819 1879 Yeah, and Justin, this is Dave, just on the sales tax piece.
+rMq7pOtu72 CLAIM-Fact 1880 1997 Today, on the first-party sales, we collect on our own products in all 45 states that have a state-imposed sales tax.
+PIo_cORdzD CLAIM-Fact 1998 2164 On the 3T piece, we do collect on behalf of our sellers in two states, Washington State as of the first of this year, and then Pennsylvania turned on here on April 1.
+SRiNCSk-ef NON-ARG 2370 2414 So yeah, nothing really more to add on that.
+AUOkVhOQuX CLAIM-Opinion(view) 2415 2635 I think I would say we do continue to believe that the sales tax issue needs to be resolved at the federal level, and we're actively working with the states, with retailers and Congress to get federal legislation passed.
+rq145GiOrU CLAIM-Opinion(view) 2636 2768 We're not opposed to collecting sales tax within a constitution and permissible system that is both simple and applied evenhandedly.
+Vcckd3RYr3 CLAIM-Fact 2165 2369 So in terms of your question of sort of impact from the first-party piece that's been coming online, many of those states came on over a period of time to get to that 45 total, going back over many years.
+R0 SUPPORT ARG1:2nVJOqHUn2 ARG2:RUcL69_LGv
+R1 SUPPORT ARG1:3FTn7zQlO- ARG2:RUcL69_LGv
+R2 SUPPORT ARG1:h-pvJeHIqS ARG2:iaToXvoigP
+R3 SUPPORT ARG1:nYUirr6Jzd ARG2:iaToXvoigP
+ArgQ0 RUcL69_LGv SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 iaToXvoigP SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

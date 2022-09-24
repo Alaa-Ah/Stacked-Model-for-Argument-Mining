@@ -1,0 +1,35 @@
+zgpXhNphJr NON-ARG 840 870 Toni, thanks for the question.
+CVcahPWj6E NON-ARG 871 1044 The guidance that we are providing if you look at it at the midpoint implies an acceleration of growth from the performance that we've seen during the course of fiscal 2019.
+oOn8ItnAXa CLAIM-Fact 1044 1119 As I said earlier, foreign exchange is clearly a headwind for us right now.
+uoUWjIcftM PREMISE-Statistic 1120 1202 This is about $1.1 billion of negative foreign exchange on a year-over-year basis.
+yXCnHfvhu3 NON-ARG 1203 1240 So that is something to keep in mind.
+w_UAXWdfBk CLAIM-Opinion(view) 1240 1399 We feel very good as Tim said about the iPhone, the way the new cycle has started, and we do expect an improvement in our year-over-year growth rate on iPhone.
+lOmx9EbB2L CLAIM-Fact 1400 1441 Wearables has very, very strong momentum.
+h_WWthMzYQ CLAIM-Fact 1442 1497 The portfolio of services also has incredible momentum.
+IEa9wOfUNP CLAIM-Fact 1748 1871 So for the iPad and Mac categories, you need to keep in mind that our launch timing is different on a year-over-year basis.
+X5zCr6j0Dl PREMISE-Fact 1497 1747 One thing to keep in mind as we look at this guidance range is the fact that we also contemplated the comparison to the launch of the iPad Pro, a year ago for iPad as well as the new MacBook Air that was launched during the December quarter last year
+Iwa5LHljUa NON-ARG 2670 2710 Let me cover the accounting issue first.
+14fIi2VyPa CLAIM-Fact 2824 2950 And we don't want to get into the details of that because we do those assumptions as confidential and competitively sensitive.
+a62H28ffqn PREMISE-Fact 2950 3310 But you need to keep in mind that we contemplate a number of factors including the fact that we have family sharing as part of the service, the fact that there are multiple device purchases, the geographic availability around the world, the availability of local content at the beginning of the service, how many people do we have with payment methods on file.
+gS4Zvhs9D0 CLAIM-Fact 3399 3514 Obviously, those assumptions will possibly change over time as we get more information on how the customers behave.
+W-lVVwzBbt CLAIM-Fact 3515 3607 We haven't launched the service yet - we're going to serve - serving our customers tomorrow.
+09vv2u32YV CLAIM-Fact 3310 3398 So we use all these things to make assumptions around what the take rate is going to be.
+AL9ngrDo2p CLAIM-Fact 2711 2823 Obviously, we need to make some assumptions around the take rate of our customers on the -- on Apple TV+, right.
+-dXOTPZPSz CLAIM-Reformulated 3608 3687 So we'll see how it goes, but we take into account all these different factors.
+8Ab1a24JnG CLAIM-Fact 4032 4194 And so it's not part of a broader pattern, or although I wouldn't want to rule out for the future that we might not see another opportunity at some point in time.
+fFaZT0Mu26 CLAIM-Opinion(view) 4376 4519 And so to some degree that exists today, my perspective is that we will grow in the future to larger numbers that will grow disproportionately.
+SN1xk2Tqp0 CLAIM-Fact 4519 4663 And one of the things we are doing is trying to make it simpler and simpler for people to get on these sort of monthly financing kind of things.
+a4FLm2dVth PREMISE-RealExample 4664 4993 That's a part of what we announced with the Apple Card earlier in the call and so we are cognizant that there are lots of users out there that want sort of a recurring payment like that and the receipt of new products on some sort of standard kind of basis and we are committed to make that easier to do than perhaps it is today.
+snA1ev8DWP CLAIM-Fact 4194 4375 In terms of hardware as a service or as a bundle, if you will, there are customers today that essentially view the hardware like that because they are on upgrade plans and so forth.
+5MTuL3uVFc NON-ARG 5008 5024 Thank you, Toni.
+Lz1OVMno-N NON-ARG 5025 5064 Could we have the next question please?
+CeG39Wy2PZ PREMISE-Fact 3698 3966 On the bundle question, Toni, we look at each service, and decide what's best to do for it and with TV+, we concluded that a great way to get more people to see the content would be to do this, and it would be a good gift for our users, and so that's what we're doing.
+CGM8_h1Es_ PREMISE-Fact 3966 4031 You can also see that on the other services we're not doing that.
+R0 SUPPORT ARG1:uoUWjIcftM ARG2:oOn8ItnAXa
+R1 SUPPORT ARG1:X5zCr6j0Dl ARG2:IEa9wOfUNP
+R2 SUPPORT ARG1:a62H28ffqn ARG2:09vv2u32YV
+R3 SUPPORT ARG1:a4FLm2dVth ARG2:SN1xk2Tqp0
+ArgQ0 oOn8ItnAXa SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 IEa9wOfUNP SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ2 09vv2u32YV SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 SN1xk2Tqp0 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

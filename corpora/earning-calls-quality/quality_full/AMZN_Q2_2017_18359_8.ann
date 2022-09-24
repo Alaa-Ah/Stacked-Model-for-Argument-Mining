@@ -1,0 +1,9 @@
+iIqLlhSXpr NON-ARG 557 567 Hi, Brian.
+0H8YVqrSLU NON-ARG 568 582 This is Darin.
+XCRM83wOpn NON-ARG 583 587 Yes.
+hE-I0BB_JV PREMISE-Fact 588 759 We're getting more efficient every time we put new capacity into the network, whether that's through automation or just through the experience we've gained over the years.
+oIxK3Rkffk PREMISE-Other 760 962 We still say it takes up to three years or three peaks to get to kind of network efficiency for a new particular facility, and that's about the same although the whole network gets sufficient over time.
+LJpubHmYYE CLAIM-Opinion(view) 963 1119 So there's a big mix going on, and we like the new innovation that we're bringing to the capabilities, but that ramp still stays about consistent as it was.
+R0 SUPPORT ARG1:hE-I0BB_JV ARG2:LJpubHmYYE
+R1 SUPPORT ARG1:oIxK3Rkffk ARG2:LJpubHmYYE
+ArgQ0 LJpubHmYYE SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

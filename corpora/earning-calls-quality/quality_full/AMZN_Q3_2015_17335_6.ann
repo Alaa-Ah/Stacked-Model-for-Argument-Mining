@@ -1,0 +1,10 @@
+5IJ73uuwec NON-ARG 485 496 Sure, Eric.
+BxdUwB_BRU CLAIM-Value 497 686 What I can tell you is the 3P percent of revenue continues to grow, we are now up to 46% of paid units, which is up 400 basis points year-over-year, and 100 basis points sequentially of Q2.
+mkSDhtkEUQ CLAIM-Opinion(view) 687 741 We feel that Prime and FBA are – reinforce each other.
+sx1iNcS32h CLAIM-Reformulated 742 770 They're inextricably linked.
+afVKO68Yjl PREMISE-Fact 771 837 FBA as Prime selection and Prime growth attracts more FBA sellers.
+MvQOcqQEUq PREMISE-Fact 838 956 So, we have seen growth in FBA, it increases our Prime fast track eligible selection which we like and customers like.
+VSu-H7cCEh NON-ARG 957 1005 So, we like what we see on the third party side.
+R0 SUPPORT ARG1:afVKO68Yjl ARG2:mkSDhtkEUQ
+R1 SUPPORT ARG1:MvQOcqQEUq ARG2:mkSDhtkEUQ
+ArgQ0 mkSDhtkEUQ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

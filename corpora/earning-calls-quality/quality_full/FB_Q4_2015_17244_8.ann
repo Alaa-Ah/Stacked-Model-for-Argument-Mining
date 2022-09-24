@@ -1,0 +1,31 @@
+bvyLudJniz CLAIM-Fact 743 872 In terms of monetizing time spent, it’s certainly the case that consumers have shifted to mobile and businesses need to catch up.
+Rci-g-Yv7q CLAIM-Opinion(view) 873 1052 The exact [ph] percentage we can monetize that we’ll see, but we certainly think that we will continue to benefit from the consumer shift to mobile, because businesses are behind.
+gHrtTHHNXH PREMISE-Fact 1053 1248 If you ask even our largest clients, our largest clients, if they drew a pie chart of where their consumer spend their time and money and whether they spend their time, we’re still under-indexed.
+58P9hZMaZj CLAIM-Fact 1249 1309 That said I’ll say it again, we’ve a lot of hard work to do.
+ZXNbPgycwo PREMISE-Fact 1310 1442 We really need to prove to clients particularly as they scale and we become a bigger part of their spent that we’re driving results.
+di8C-QS9I7 NON-ARG 1443 1582 Other platforms, other forms of advertising like TV and other have very established metrics that people have believed for a very long time.
+-WJYK6W2BH CLAIM-Opinion(view) 1583 1644 We think our targeting can be better than any other platform.
+4pmt6q_0YH NON-ARG 1645 1769 We also believe our ability to measure results can be deeper, but it’s up to us to prove and to prove that client-to-client.
+B0kqKJ3KOB CLAIM-Fact 1770 1826 It’s also worth noting that we work really well with TV.
+8mArIBk-4E PREMISE-Fact 1827 1906 It’s not always the choice of TV or Facebook, but often we can be a complement.
+QMFAgBh_9A PREMISE-RealExample 1907 2070 We’ve done a bunch of work with Nielsen to measure what happens when marketers do big TV campaigns and do campaigns that are broadly, broadly targeted on Facebook.
+jk3U_oYN-p NON-ARG 2071 2141 And we are able to increase the reach and increase brand favorability.
+HpblxECAHH NON-ARG 2142 2277 So for the most part when people are doing big campaigns, they’re doing them across multiple platforms and we think that will continue.
+NBTg1awebT CLAIM-Fact 2291 2388 Justin on time spent, there is no question that video is helping us on time spent and engagement.
+CdmyCLT5Zu PREMISE-Fact 2389 2525 We’re not -- you won’t have any specific stats other than the hours per day -- or sorry time spent per day that Mark mentioned on video.
+EDLPY4CdtB NON-ARG 2526 2571 So no updates on stats there other than that.
+Q4EAB5MUVj CLAIM-Fact 2572 2679 In terms of our long-term margins, we’re not managing the business to a specific margin target in any year.
+u6cj1zkcrw CLAIM-Opinion(view) 2680 2736 We still think we’re early in investing in the business.
+YjSaEbsZWL PREMISE-Fact 2737 2839 And we’re really investing in new areas today where we see a long-term opportunity for revenue growth.
+ysjcXMmVY4 CLAIM-Reformulated 2840 2982 That being said, we do think there is a lot of margin potential in this business, given the focus on advertising, but no target at this point.
+R0 SUPPORT ARG1:gHrtTHHNXH ARG2:Rci-g-Yv7q
+R1 SUPPORT ARG1:ZXNbPgycwo ARG2:58P9hZMaZj
+R2 SUPPORT ARG1:8mArIBk-4E ARG2:B0kqKJ3KOB
+R3 SUPPORT ARG1:QMFAgBh_9A ARG2:B0kqKJ3KOB
+R4 SUPPORT ARG1:CdmyCLT5Zu ARG2:NBTg1awebT
+R5 SUPPORT ARG1:YjSaEbsZWL ARG2:u6cj1zkcrw
+ArgQ0 Rci-g-Yv7q SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 58P9hZMaZj SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 B0kqKJ3KOB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 NBTg1awebT SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 u6cj1zkcrw SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

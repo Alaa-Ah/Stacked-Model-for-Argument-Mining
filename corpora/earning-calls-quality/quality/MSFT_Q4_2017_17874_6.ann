@@ -1,0 +1,10 @@
+uTwVY-W9U9 CLAIM-Fact 493 566 There’s a couple of things, but in general it is almost always mix shift.
+8VR5YtZp90 PREMISE-Fact 567 705 While we saw improvement in the gross margin percentage in Office 365 and continue to make progress on that it is also the balance, right.
+ahsN7tCkFh PREMISE-Fact 706 832 This is the first quarter where we’ve actually seen the balance tip in terms of recognized revenue to online versus perpetual.
+QU7ewV8hCd CLAIM-Reformulated 833 1091 So, I actually feel very good, but as we continue to accelerate the growth trajectory that you are not seeing frankly much impact on the gross margin line and we are seeing a lot of leverage in that through OpEx all the way down to the operating income line.
+EHyidKknDT NON-ARG 1102 1108  Okay.
+wBQxlGcODa NON-ARG 1109 1127 Thank you, Walter.
+VSUlHZSVyj NON-ARG 1128 1166 We will take the next question please.
+R0 SUPPORT ARG1:8VR5YtZp90 ARG2:uTwVY-W9U9
+R1 SUPPORT ARG1:ahsN7tCkFh ARG2:uTwVY-W9U9
+ArgQ0 uTwVY-W9U9 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

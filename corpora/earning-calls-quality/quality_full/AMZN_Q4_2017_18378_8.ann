@@ -1,0 +1,14 @@
+-FYlgp9kV8 NON-ARG 476 505 Yes, thanks for the question.
+aes6I40xZ_ NON-ARG 506 519 This is Dave.
+1TNubHj9nz PREMISE-Fact 733 1086 When you look at private brands, it's very much meant to supplement that great selection, and we look for ways to be able to find private label items that have a high-caliber of quality, but also can bring that selection and that convenience for customers and really supplement what vendors and sellers are already providing the customers in many cases.
+REvlGYqkL1 NON-ARG 1087 1153 We've not broken out kind of how significant or how large that is.
+QtdracOjV_ CLAIM-Fact 520 732 I think broadly, when we look at our strategy, it's focused on, number one, providing a broad selection for customers across a number of categories, so that they can find and buy exactly what they're looking for.
+yALXu-nC4v CLAIM-Fact 1857 1935 So I think we'll continue to iterate on those and try to find different areas.
+arJ1LwBbje NON-ARG 1936 2156 And certainly there's other verticals that I didn't mention there that we're interested in continuing to kind of learn from customers what they want and what they're looking for there, and so we'll keep adding selection.
+Y8Tj3bnCKV PREMISE-Fact 1154 1397 I think for a lot of these initiatives, when you look across categories that would offer, many of them are still earlier stage and have been around even from kind of infancy for shorter period of time, a year, a couple of years, in some cases.
+grziHuLbLz PREMISE-Fact 1398 1856 Amazon Fashion is one area where you're seeing us offer a number of private apparel brands and some of the more popular lines with customers things like Good Threads, Amazon's Essentials, which is men's and women's basics; consumables, is, of course, another big area where we have the benefit of working with some of the Whole Foods private label, but also doing some of our other Amazon brands, things like Happy Belly and [indiscernible] Prime and others.
+R0 SUPPORT ARG1:1TNubHj9nz ARG2:QtdracOjV_
+R1 SUPPORT ARG1:Y8Tj3bnCKV ARG2:yALXu-nC4v
+R2 SUPPORT ARG1:grziHuLbLz ARG2:yALXu-nC4v
+ArgQ0 QtdracOjV_ SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 yALXu-nC4v SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

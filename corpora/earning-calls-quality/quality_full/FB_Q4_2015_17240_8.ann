@@ -1,0 +1,21 @@
+U6cSFGOCvX CLAIM-Fact 601 699 When we introduce ads into feed and continue to increase the ad load, we monitor really carefully.
+Joq2Ys-zN6 PREMISE-Fact 700 785 We’re looking at user engagement on the platform, we also look at the quality of ads.
+jQgy6ApTXE CLAIM-Opinion(view) 786 1001 And our basic belief is that if we have high quality ads, those create a good consumer experience and we can look at what consumers are doing, because we can understand how actively engaged they are on the platform.
+HE04n1KU5A CLAIM-Opinion(view) 1045 1103 Instagram, and we’re pleased with the growth on Instagram.
+CunCyADxbx PREMISE-Statistic 1104 1199 And as I mentioned, 98 of our top 100 advertisers in Facebook are now advertising on Instagram.
+sc4CYqXTji PREMISE-Fact 1200 1270 It’s also the case that Facebook had remarkably strong growth as well.
+OXkm_N3UoR CLAIM-Fact 1271 1325 So, we’re seeing strong growth across those platforms.
+X5q0sSkz5a PREMISE-RealExample 1491 1638 So to share another example from a holiday, Shutterfly did a Facebook and Instagram, both the brand and direct response holiday campaign on mobile.
+JgR7hQPjsN PREMISE-Statistic 1639 1840 And what they did was just beautiful pictures but also targeting very specifically to women with specific interest, such as things like weddings and babies, and they saw a 6.4 times return on ad spend.
+7J8cXJ35pL NON-ARG 1841 1981 We think that’s what’s possible when you combine the creative canvas we have using the technology and using the platform that we’ve created.
+HgHx_jtUgC NON-ARG 1002 1044 For Instagram, we don’t break out revenue.
+6zE9lIN0xQ CLAIM-Opinion(view) 1326 1490 I think what’s exciting about those platforms is that they combine the art and the science of both a creative canvas that marketers are excited about and targeting.
+R0 SUPPORT ARG1:Joq2Ys-zN6 ARG2:U6cSFGOCvX
+R1 SUPPORT ARG1:CunCyADxbx ARG2:HE04n1KU5A
+R2 SUPPORT ARG1:sc4CYqXTji ARG2:OXkm_N3UoR
+R3 SUPPORT ARG1:X5q0sSkz5a ARG2:6zE9lIN0xQ
+R4 SUPPORT ARG1:JgR7hQPjsN ARG2:6zE9lIN0xQ
+ArgQ0 U6cSFGOCvX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 HE04n1KU5A SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 OXkm_N3UoR SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 6zE9lIN0xQ SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

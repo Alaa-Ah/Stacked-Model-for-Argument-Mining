@@ -1,0 +1,22 @@
+jXbsWWUWdw CLAIM-Opinion(view) 1713 1836 So I see that stretching on both sides, which is to small business on one end and then these premium SKUs on the other end.
+GB6P7FeANC PREMISE-Statistic 998 1168 Yeah first, as far as the Office 365 usage itself, I talked about some of the numbers of 60 million monthly active users, the fact that our seats grew 66% year over year.
+Xfzir4wWrP PREMISE-Fact 1169 1285 The small business number I talked about, the 50,000 per month additional customers that we're adding to Office 365.
+LmsnmeyCvK PREMISE-Fact 1286 1348 These are all the growth numbers and the usage growth numbers.
+CKqC32MqMU PREMISE-RealExample 1349 1584 The mix even, that information protection, I mean that's just another very important point which is amongst the customers who are using Office 365, already 20 million are using some of these premium services like information protection
+Zc-RQOL2qb PREMISE-Fact 1586 1712 And of course we're going to further expand that with new SKUs and new categories that are going to become part of Office 365.
+xMCNVhz2zg CLAIM-Opinion(view) 1837 1944 And we see nice attach as far as EAs to the cloud as well and that's definitely a big driver of our growth.
+c0dzReq6Ws NON-ARG 1958 2030 And so let me take the second and I'll add something to what Satya said.
+SThKpNqK4F CLAIM-Fact 2031 2185 One of the important things that's distinct about the small business market is that there tends not to be much of a lag in terms of buying and deployment.
+bM061i9GTc PREMISE-Statistic 2186 2376 They want to be able to instantaneously use and get value very quickly and that's something we've actually seen and a real testament to our ability to add so many customers in every quarter.
+TVsuwjQTzc PREMISE-Fact 2377 2448 And what you've seen in consumer side, which it was an important point.
+KimjWz01l1 CLAIM-Opinion(view) 2449 2657 Once we've built this installed base up to 18 million users on the consumer side, that recurring rate does in fact offset the deferral from new, and so it is an important inflection point for us this quarter.
+lfao5oSeMk NON-ARG 2658 2747 Philip A. Winslow - Credit Suisse Securities (USA) LLC (Broker) Thanks guys and congrats.
+yacmvejawH NON-ARG 2758 2766  Thanks.
+qdiJYsBoMw NON-ARG 2767 2789 Next question, please.
+R0 SUPPORT ARG1:GB6P7FeANC ARG2:jXbsWWUWdw
+R1 SUPPORT ARG1:Xfzir4wWrP ARG2:jXbsWWUWdw
+R2 SUPPORT ARG1:Zc-RQOL2qb ARG2:jXbsWWUWdw
+R3 SUPPORT ARG1:CKqC32MqMU ARG2:jXbsWWUWdw
+R4 SUPPORT ARG1:LmsnmeyCvK ARG2:jXbsWWUWdw
+R5 SUPPORT ARG1:bM061i9GTc ARG2:SThKpNqK4F
+R6 SUPPORT ARG1:TVsuwjQTzc ARG2:SThKpNqK4F

@@ -1,0 +1,34 @@
+tgFbxIyoIw NON-ARG 562 567 Sure.
+bnRa1qbrz7 NON-ARG 568 678 Let me start with Q3 and this will be commentary pretty much on the whole year that was especially true in Q4.
+H03oD2nnWA CLAIM-Fact 679 808 So, first of all, we've had very strong growth in some very profitable businesses that we have, most notably AWS and advertising.
+E1LknmM2-g PREMISE-Statistic 925 1025 If you'll remember, we grew head count 48% in 2016 and 38% last year, if you adjust for Whole Foods.
+F4vA7UbTiL PREMISE-Statistic 1026 1098 With Whole Foods, it was 66%, but without Whole Foods we still grew 38%.
+PIapryruGe PREMISE-Fact 1099 1375 We have looked to really leverage our investment from the last couple years and as we've funded and moved, invested in a lot of new areas as we've talked about, AWS, devices, digital content, we've had a lot of movement within the company that has filled a lot of those roles.
+vvAZ-X4oRf PREMISE-Statistic 1376 1446 So we're only up 13% on head count through nine months year-over-year.
+gOT_7zyDcw PREMISE-Statistic 1599 1752 In our fulfillment center world, we had grown square footage for our fulfillment center and shipping areas by over 30% the last two years, 2016 and 2017.
+jAKU_CzbLH NON-ARG 1753 1791 I've talked about that in prior calls.
+oYArvrKCBg CLAIM-Fact 809 899 But we've also had great cost performance this year in three specific areas I'll call out.
+Lfbspxuat2 PREMISE-Statistic 1968 2028 This year we're only adding about 15% to our square footage.
+WXaeJ0YtK9 PREMISE-Statistic 2223 2286 You see the operating margin for AWS is up to 31% this quarter.
+uxUeaDw12L PREMISE-Fact 2287 2456 A lot of that is based on efficiencies of our data centers, not only for the AWS business, they're also for our Amazon consumer businesses, who is AWS' biggest customer.
+P7fuOTxmYK PREMISE-Statistic 2457 2644 If you look at capital leases, which is where we spend money for the data centers, it's up only 9% year-over-year, trailing 12 months, and it was up 69% last year, at the end of the year.
+s6OkT7dH27 CLAIM-Reformulated 2645 2796 So those three areas have driven a lot of the cost performance and a lot of the deviation from probably the estimates that I've come up with this year.
+_Sd-PKjA31 CLAIM-Reformulated 2797 2908 So we are really happy that again we're seeing great cost performance in a number of areas across the business.
+F4zx94NXfu NON-ARG 1447 1475 So a real step down in that.
+NUUcN02X8q CLAIM-Fact 1476 1598 Again, the theme here is going to be banking some of the investments from prior years and looking to gain greater control.
+_QzUcBly2V CLAIM-Reformulated 2029 2144 So again, getting better efficiencies on what we have and banking the multi-year investment that we've been making.
+4iaG1Nl-IE CLAIM-Fact 900 924 So, first on head count.
+MIjH6OG8SJ CLAIM-Fact 2145 2222 And the last one, which is really significant, is on the infrastructure side.
+XAvnY2f3UH CLAIM-Fact 1792 1967 Making that investment to match up with very strong Fulfilled by Amazon demand and AFN or Amazon Fulfilled Network units that are growing at a faster rate than our paid units.
+R0 SUPPORT ARG1:E1LknmM2-g ARG2:4iaG1Nl-IE
+R1 SUPPORT ARG1:F4vA7UbTiL ARG2:4iaG1Nl-IE
+R2 SUPPORT ARG1:PIapryruGe ARG2:4iaG1Nl-IE
+R3 SUPPORT ARG1:vvAZ-X4oRf ARG2:4iaG1Nl-IE
+R4 SUPPORT ARG1:gOT_7zyDcw ARG2:XAvnY2f3UH
+R5 SUPPORT ARG1:Lfbspxuat2 ARG2:XAvnY2f3UH
+R6 SUPPORT ARG1:WXaeJ0YtK9 ARG2:MIjH6OG8SJ
+R7 SUPPORT ARG1:uxUeaDw12L ARG2:MIjH6OG8SJ
+R8 SUPPORT ARG1:P7fuOTxmYK ARG2:MIjH6OG8SJ
+ArgQ0 4iaG1Nl-IE SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 XAvnY2f3UH SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ2 MIjH6OG8SJ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

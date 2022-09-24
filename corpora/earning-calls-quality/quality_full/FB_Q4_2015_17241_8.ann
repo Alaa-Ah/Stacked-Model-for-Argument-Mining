@@ -1,0 +1,36 @@
+ZnJt_GrqRX NON-ARG 1111 1144 I will take the Oculus one first.
+2EeknhUATZ CLAIM-Opinion(view) 1145 1161 Yes, I am happy.
+xpA2WiqBWs CLAIM-Reformulated 1162 1200 I don’t show much joy, but I am happy.
+xMdQ50E_FV CLAIM-Fact 1201 1243 It’s going to be gaming for the beginning.
+0ZHjHJBVMx CLAIM-Reformulated 1244 1270 That’s the initial market.
+DNFtOt6ScE PREMISE-Statistic 1271 1368 There are about -- I think it’s around 250 million people who have Xboxes, Play Station, or Wiis.
+QDGzbP5fXo NON-ARG 1369 1525 That’s the initial marketer folks who we think are going to be most interested from the early VR experiences, especially at some of the higher price points.
+wMlLRV_AKh CLAIM-Opinion(view) 1526 1681 But overall, I mean the reason why we’re interested in this as the social company is that we think that this is going to be a new way that people interact.
+CsgWK2KyP8 PREMISE-RealExample 1682 2113 And if you tried out the Toybox demo with the hands, Oculus Touch, what you see is when you’re in virtual reality with another person and you can interact with the environment and use your hands, you can -- it’s not just about where you are and the fact that you can instantaneously teleport to another place, it’s just you can interact with people in all these different ways that would be very difficult in the rest of the world.
+Cu2Usnzb4F CLAIM-Reformulated 2114 2148 So, we’re very excited about that.
+GiLzuYiVPd CLAIM-Fact 2149 2200 That’s going to be a big area of investment for us.
+ZhyHyvQdNR CLAIM-Reformulated 2326 2364 But I think we’re off to a good start.
+jAyDqIWWg5 CLAIM-Opinion(view) 2201 2325 And it is ultimately I think going to change the way that we communicate and live and work in addition to how we play games.
+y7fM_hszdZ CLAIM-Fact 2382 2491 On the Instagram question, certainly in the short-run, some of the spend is incremental and some of it isn’t.
+hkQCai-Nm1 PREMISE-Fact 2492 2653 Some of our clients approached us where they have a social budget or Facebook budget and some of that moves to Instagram and some people, it’s incremental spend.
+zKt88l_Ny7 CLAIM-Opinion(view) 2654 2779 In the medium to long-run however, we believe that we’re really well-positioned to take share from other platforms out there.
+28VpOPxwhX PREMISE-Fact 2780 3002 We believe both Facebook and Instagram have this combination of an ability to do great creative with the best targeting in a most sophisticated measurement which shows businesses how we help them move products off shelves.
+105f-cciZ0 NON-ARG 3003 3130 And we want and we tell our clients we want to be the best dollar, the best euro, the best pound and the best minute you spend.
+CJ8rgccmXp PREMISE-Fact 3131 3215 And we really encourage them to measure their ROI and compare us to other platforms.
+lJ0Q77H9yK CLAIM-Opinion(view) 3216 3272 We think that comparison bodes very well for our growth.
+XzXp7a9GQi CLAIM-Opinion(view) 3273 3369 We also think that continued consumer shift to mobile devices bodes well for our growth as well.
+0Spp5fLK12 NON-ARG 3370 3412 That said, we have to continue to execute.
+PyqfiWZlns NON-ARG 3413 3440 We know this won’t be easy.
+I0BRbFU1hY NON-ARG 3441 3489 We have to continue to build the right products.
+Jn7c3O2yFq NON-ARG 3490 3578 We have to continue to measure all the way through from seeing an ad impression to sell.
+q2Rxpx17d0 NON-ARG 3579 3645 And so it’s up to us to stay focused in the coming year and years.
+R0 SUPPORT ARG1:DNFtOt6ScE ARG2:xMdQ50E_FV
+R1 SUPPORT ARG1:CsgWK2KyP8 ARG2:wMlLRV_AKh
+R2 SUPPORT ARG1:hkQCai-Nm1 ARG2:y7fM_hszdZ
+R3 SUPPORT ARG1:28VpOPxwhX ARG2:zKt88l_Ny7
+R4 SUPPORT ARG1:CJ8rgccmXp ARG2:lJ0Q77H9yK
+ArgQ0 xMdQ50E_FV SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 wMlLRV_AKh SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 y7fM_hszdZ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 zKt88l_Ny7 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 lJ0Q77H9yK SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

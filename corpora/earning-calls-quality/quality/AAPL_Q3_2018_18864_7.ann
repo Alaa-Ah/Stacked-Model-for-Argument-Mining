@@ -1,0 +1,24 @@
+eT8cCDexE- NON-ARG 1067 1160 It's important to keep in mind the type of revenue growth that we've implied in our guidance.
+Ihc1kPntfc NON-ARG 828 1066 On iPhone ASP, the only thing that I would point out is that obviously we're exiting the June quarter at a significantly higher level than in the past and so that I think is important to keep in mind as we move into the September quarter.
+YwbxyqU2Yx NON-ARG 465 665 Toni, as you know, we do not provide guidance for either units or ASPs for any product category, but of course we provided guidance on revenue and that the guidance range implies growth of 16% to 19%.
+8MX1EdygtQ NON-ARG 666 827 We expect the growth to come from strong growth from iPhone, from services and from wearables, which has been a bit of our pattern during the course of the year.
+cWNJeeO1Y8 CLAIM-Opinion(view) 1819 1865 I think the smartphone market is very healthy.
+IC042_8hKq CLAIM-Opinion(view) 1866 1976 I think it's actually the best market in the world to be in for someone that is in the business that we're in.
+Ili1qav0yg PREMISE-Other 1977 2162 It's an enormous sized market and whether it grows, from our point of view, whether it grows 1% or 2% or 5% or 6% or 10% or shrinks 1% or 2%, it's a great market because it's just huge.
+0uehOvwTig NON-ARG 2163 2210 And so that's kind of the way that I view that.
+Z_ImuffgV8 PREMISE-Statistic 2211 2269 iPhone revenues are up 20% for the quarter over last year.
+TJieATlElb CLAIM-Reformulated 2270 2555 We're really pleased with that and if you look at the sort of the cycle, which I'll define as Q1, Q2, Q3 for ease, you'll see that we've grown like mid single digits and on an average weekly sales point of view, and of course double digit on the ASP and so I think it's really healthy.
+yk337df_l- CLAIM-Fact 2556 2673 In terms of replacement cycles, as I'd mentioned I think on a previous call, some replacement cycles are lengthening.
+joQBpy_7JV CLAIM-Reformulated 2674 2881 I think that the major catalyst for that was probably the subsidy plans becoming a much smaller percentage of total sales around the world than they were at one time and so I think that some are lengthening.
+xHHM_1K-AO CLAIM-Opinion(view) 2882 3198 And, but I think for us, the thing that we always have to do is come out with a really great innovative product, and I think that iPhone X shows that when you deliver a great innovative product, there's enough people there that would like that and it can be a really good business, and so that's how to look at that.
+EKVc3yz35B CLAIM-Opinion(view) 3199 3530 In terms of our installed base, which is something very important for us as it is one of the key drivers of services, our active installed base on iPhone grew double digits over last year during the quarter and so we're thrilled with that and you can see that carrying through to the services line and the growth that we had there.
+8jJJNfCJDm CLAIM-Fact 3531 3718 In terms of batteries, we have never done an analysis internally about how many people decided to get a lower-priced battery than buy another phone because it was never about that for us.
+hVu9isAWZw PREMISE-Hypothesis 3719 3909 It was always about doing something great for the user and I think if you treat the users and the customers well, then you have a good business over time and so that's how we'd look at that.
+Q8Qeiso5tS NON-ARG 3924 3940 Thank you, Toni.
+leceE5me59 NON-ARG 3989 4029 Could we have the next question, please?
+R0 SUPPORT ARG1:Z_ImuffgV8 ARG2:cWNJeeO1Y8
+R1 SUPPORT ARG1:Ili1qav0yg ARG2:IC042_8hKq
+R2 SUPPORT ARG1:hVu9isAWZw ARG2:8jJJNfCJDm
+ArgQ0 cWNJeeO1Y8 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 IC042_8hKq SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 8jJJNfCJDm SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

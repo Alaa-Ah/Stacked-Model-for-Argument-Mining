@@ -1,0 +1,17 @@
+_zKb7bHgfA NON-ARG 605 673 So I'll take the first part of your question about active customers.
+Xgw8RrbTzT CLAIM-Fact 674 773 So as we look at our metrics and what information we provide each year, we often make some changes.
+2EoovOWt9R PREMISE-Statistic 774 919 So this quarter, we only gave the active customers with a paid purchase in the trailing 12 months, and so that number was more than $285 million.
+jwbF5khQIw CLAIM-Opinion(view) 920 995 I think that's pretty similar to the trends that we've seen in that metric.
+9dKpwjbbhv PREMISE-Statistic 996 1131 Now in the past, sometimes we had also given a total active customers count, and so that number for this quarter was over $310 million.
+VyPL5JN-oj PREMISE-Fact 1132 1293 So that may be where you're making the statement about the slowdown in growth, but the trajectory was very similar from prior quarters for both of those numbers.
+eqraXKsBNe NON-ARG 1294 1397 But we opted just to give the other one, but you now have the number for the total number of customers.
+LKLHOVjPYL NON-ARG 1416 1601  And on your AWS footprint question, so we ended the quarter with 33 Availability Zones in 12 geographic regions, and we have five – 11 more Availability Zones opening in the next year.
+QMAEGKaeEm NON-ARG 1602 1702 The impact on capital, yes, there will be additional capital investment as we built out those zones.
+awwMksQYtB NON-ARG 1703 1738 Some of it has already taken place.
+yGGAKiasQb NON-ARG 1739 1916 But I will also say that by and large, the largest increases in capital leases is to support the growth of incremental usage of customers we have now and agreements we have now.
+XpkrKFTkgt NON-ARG 1917 1999 So – and you should expect to see us continue to invest and support this business.
+nZrRxTBChN NON-ARG 2000 2117 We're very, very – we have a leadership position, we intend to maintain it and we're very excited about where we are.
+R0 SUPPORT ARG1:2EoovOWt9R ARG2:Xgw8RrbTzT
+R1 SUPPORT ARG1:9dKpwjbbhv ARG2:jwbF5khQIw
+ArgQ0 Xgw8RrbTzT SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 jwbF5khQIw SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

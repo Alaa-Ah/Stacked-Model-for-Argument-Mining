@@ -1,0 +1,16 @@
+MlTqfLzb3c CLAIM-Fact 825 942 But fundamentally, we're trying to serve our community the best we can, and we'll do that across all these platforms.
+Mxy57XJxgL NON-ARG 592 622 I mean, to the first question,
+SZjHIbPMO9 PREMISE-Fact 623 682 we're going to build the services that we think are useful.
+q4y_exp5y2 PREMISE-Fact 683 824 Some of them are going to be platforms and some of them are going to be apps and different things on top of platforms that other folks build.
+2-AA1RUBOv NON-ARG 960 965 Yeah.
+RxxiGzD00s CLAIM-Fact 966 1150 And in terms of ad load growth, I pointed to the fact that we continue to expect that ad load will be a less significant factor in the remainder of 2017, and that's certainly the case.
+kwR6Crc3if PREMISE-Fact 1151 1372 That starts in Q3, but there's a number of other factors that I also pointed to, including the desktop lapping some of the efforts we made on desktop in terms of unblocking or working against the ad blocking technologies.
+RGErN2AA2U PREMISE-Fact 1373 1417 And so, that has a factor on desktop growth.
+fLzOaQJFVl PREMISE-Fact 1418 1598 And then of course, I talked about video and our focus on driving and serving the consumer demand for video, and that's also leading to potentially lower impression growth as well.
+R0 SUPPORT ARG1:SZjHIbPMO9 ARG2:MlTqfLzb3c
+R1 SUPPORT ARG1:q4y_exp5y2 ARG2:MlTqfLzb3c
+R2 SUPPORT ARG1:kwR6Crc3if ARG2:RxxiGzD00s
+R3 SUPPORT ARG1:RGErN2AA2U ARG2:RxxiGzD00s
+R4 SUPPORT ARG1:fLzOaQJFVl ARG2:RxxiGzD00s
+ArgQ0 MlTqfLzb3c SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 RxxiGzD00s SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,20 @@
+X5M5IiYMbG PREMISE-Fact 398 494 I mean, in terms of – in terms of what percentage of videos or ads, we're not breaking that out.
+WYvmC0tfS- CLAIM-Opinion(view) 495 586 I think what we said was that we're really pleased with the consumer adoption we're seeing.
+7UQKk4b12J PREMISE-Statistic 587 771 That's kind of the fundamental table stakes that need to be there and that's the most important thing, and we're really pleased with the 4 billion video views daily that we're getting.
+iAHZr8Rwv6 CLAIM-Fact 772 843 We know that marketers love videos so there's a great opportunity here.
+P19QKooGGv PREMISE-RealExample 862 956 It's worth pointing out that, as Sheryl mentioned, video does displace other ads in News Feed.
+sGy5_AGi8Z NON-ARG 957 1026 And let me just kind of speak to how that plays into pricing as well.
+OZBw2aFLeL PREMISE-Fact 1027 1078 Video is just a format that's bid into the auction.
+FhtsX1DzGI CLAIM-Fact 1079 1148 So video is effectively winning in the auction if it's higher priced.
+FTsrAIsWxT PREMISE-Fact 1149 1257 So if somebody's willing to pay more for a video, it's going to get served before another type of format ad.
+Nfa3KsdwFn CLAIM-Opinion(view) 1258 1328 But there's not really a price differential you're paying for a video,
+Hkjsf6WoCw PREMISE-Fact 1329 1383 it's just what are you willing to pay into the system.
+Xqc-gEgtDR CLAIM-Reformulated 1384 1581 So there's not differential pricing by product, it's just what are you willing to bid for the format that you want to show to the people that you want to show it to and that's how the system works.
+uMy9tjWLEy NON-ARG 381 397 I can take this.
+Mcc_tVcLut NON-ARG 844 861 It's still early.
+R0 SUPPORT ARG1:X5M5IiYMbG ARG2:WYvmC0tfS-
+R1 SUPPORT ARG1:7UQKk4b12J ARG2:WYvmC0tfS-
+R2 SUPPORT ARG1:OZBw2aFLeL ARG2:FhtsX1DzGI
+R3 SUPPORT ARG1:FTsrAIsWxT ARG2:FhtsX1DzGI
+R4 SUPPORT ARG1:Hkjsf6WoCw ARG2:Nfa3KsdwFn
+R5 SUPPORT ARG1:P19QKooGGv ARG2:iAHZr8Rwv6

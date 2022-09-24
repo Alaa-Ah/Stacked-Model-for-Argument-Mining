@@ -1,0 +1,13 @@
+Y9f2_UCqWR NON-ARG 849 865 Sure, thank you.
+_IbL2OcbTs NON-ARG 866 890 That's a great question.
+JCdbAlEA2p CLAIM-Fact 891 1058 You will see volatility in the bookings number for the reasons we've laid out before, the changing expiry base, but also large contracts and commitments done by Azure.
+BTRJdxS4GK PREMISE-Statistic 1059 1284 And to your point, we actually saw it this quarter because we again saw a quite good performance in some of these larger long-term Azure contracts which added on a flat expiry base to that 15% bookings growth, which was good.
+AkjVK05EuY CLAIM-Fact 1285 1505 And so what that means is, you'll see some volatility in that and you're also going to see some volatility in commercial unearned, specifically because whenever you see hybrid strength, it won't land as much in unearned.
+cG_j6Jgi7O CLAIM-Reformulated 1506 1687 So as the business gets bigger and we do bigger and larger deals and some of them are on-prem and some of them are in Azure, you're going to see volatility frankly in both of those.
+2WAn9V-SgV NON-ARG 1688 1894 But what I try to do is think about the impact of all the key data points which is how did we do in-quarter, how did we do on the unearned revenue on the balance sheet and how did we do in overall bookings.
+QllyZAZcwy CLAIM-Opinion(view) 1895 2016 And if I triangulate between all those three, just like I did in Q4, I feel really good about our commercial performance.
+aG8RRJn2zI NON-ARG 2061 2067 Great.
+wSNVA9ZR5T NON-ARG 2068 2081 Thanks, Mark.
+J5vkNEEG7_ NON-ARG 2082 2131 Operator, we'll move to the next question please.
+R0 SUPPORT ARG1:BTRJdxS4GK ARG2:JCdbAlEA2p
+ArgQ0 JCdbAlEA2p SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

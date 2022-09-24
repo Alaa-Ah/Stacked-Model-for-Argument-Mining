@@ -1,0 +1,27 @@
+ppDzVhvYzd CLAIM-Fact 710 797 So, it's actually a pretty small difference in the United States compared to last year.
+UIsTX2fTUq CLAIM-Fact 1376 1530 And then secondly in some markets as I had talked about in my prepared remarks, the subsidy is probably the bigger of the issues in the developed markets.
+kRSasA6sZZ NON-ARG 1825 1993 And so we are working through those and we've got a number of actions to address that including the trade-in and the installment payments which I had mentioned as well.
+N5olrOSKAE NON-ARG 2810 2928 To give you more color I would say that, the XR is our most popular model and it's followed by Xs Max and then the Xs.
+trWSQJI1yy PREMISE-Fact 409 534 If you look at what we did this past year, we priced the iPhone Xs in the U.S. the same as we priced the iPhone X a year ago.
+2Xsqmvg9-I NON-ARG 392 408 Steve, it's Tim.
+Ley3bDCtSt PREMISE-Fact 535 593 The iPhone Xs Max which was new was $100 more than the Xs.
+r6EvZxHqIi PREMISE-Fact 594 709 And then we priced the XR right in the middle of where the entry iPhone 8 and entry iPhone 8 Plus have been priced.
+aNABNlv5E5 CLAIM-Opinion(view) 1290 1333 So, yes, I do think that price is a factor.
+lmV_XkANqL CLAIM-Opinion(view) 1334 1375 I think part of it is that, the FX piece.
+LOeKrwE4kT PREMISE-Hypothesis 1644 1824 If you're a customer that your last purchase was a 6s or 6 or in some cases even a 7, you may have paid $199 for – and now in an unbundled world it's obviously much more than that.
+nssYu6-1d0 PREMISE-RealExample 1531 1643 I had mentioned Japan, but also even in this country even though the subsidy has gone away for a period of time.
+wROuU6AfUr NON-ARG 2217 2358 Well Steve, we did mention on the call last quarter that the different timing of our phone launches would affect the year-over-year compares.
+5ApbUV_n1y NON-ARG 2359 2514 If you remember, our top models the Xs and Xs Max shipped during the September quarter, which plays the channel fill and the initial sales in that quarter.
+7Q_q_EnFZQ NON-ARG 2515 2651 While last year the iPhone X shipped in Q1 in the December quarter, plays in the channel fill and initial sales in the December quarter.
+popMSXwgJC NON-ARG 2652 2759 So we knew that this would create a difficult compare for Q1 of 2019 and this is essentially what happened.
+kCRgVeSuDO NON-ARG 2760 2809 It was pretty much in line with our expectations.
+EJrewot0s8 NON-ARG 798 1046 However, the foreign exchange issue that Luca spoke of in the call and -- made that difference or amplified that difference in international markets, in particular the emerging markets which tended to move much more significantly versus the dollar.
+gSGUVCSAz_ PREMISE-Fact 1047 1289 And so what we have done in January and in some locations and some products is essentially absorbed part or all of the foreign currency move as compared to last year and therefore get close or perhaps right on the local price from a year ago.
+uNedwZhEtG NON-ARG 2942 2960  Thank you, Steve.
+peJJPkPAst NON-ARG 2961 3001 Could we have the next question, please?
+R0 SUPPORT ARG1:trWSQJI1yy ARG2:ppDzVhvYzd
+R1 SUPPORT ARG1:Ley3bDCtSt ARG2:ppDzVhvYzd
+R2 SUPPORT ARG1:r6EvZxHqIi ARG2:ppDzVhvYzd
+R3 SUPPORT ARG1:gSGUVCSAz_ ARG2:aNABNlv5E5
+R4 SUPPORT ARG1:nssYu6-1d0 ARG2:UIsTX2fTUq
+R5 SUPPORT ARG1:LOeKrwE4kT ARG2:UIsTX2fTUq

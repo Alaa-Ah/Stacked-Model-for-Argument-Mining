@@ -1,0 +1,11 @@
+tzbWQhGltw NON-ARG 661 666 Sure.
+bP9L8mWI6j PREMISE-Statistic 856 1003 So I would say the biggest impact in the margin that you're seeing in Q2 is really around the 71% increase in assets acquired under capital leases.
+MpD3XzJQnY PREMISE-Fact 1004 1041 Most of that is for the AWS business.
+OTv2JkRmhj CLAIM-Fact 667 855 Those margins, as we say frequently, are going to fluctuate quarter-to-quarter and always going to be a net of investments, excuse me, price reductions and cost efficiencies that we drive.
+OSgwgnhp1I NON-ARG 1042 1154 So we've really stepped up the infrastructure to match the large usage growth and also the geographic expansion.
+7HlwefBPmf NON-ARG 1155 1198 And that is showing up in tech and content.
+lqXu-YxSA0 NON-ARG 1199 1372 On the marketing, if you look under the marketing expenses, they are also up, and that is driven by the increases we're seeing in the sales team both in AWS and advertising.
+Ahum3SMEiI NON-ARG 1373 1465 So I would point to those two as probably larger than normal impacts on Q2 operating margin.
+R0 SUPPORT ARG1:bP9L8mWI6j ARG2:OTv2JkRmhj
+R1 SUPPORT ARG1:MpD3XzJQnY ARG2:OTv2JkRmhj
+ArgQ0 OTv2JkRmhj SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,31 @@
+q-idmu92ng CLAIM-Fact 754 809 On the political spending, our business is broad-based,
+W6dr172u3P PREMISE-Fact 810 888 not that no one event drives our business, we're pretty large and diversified.
+CgYk-TvUI_ PREMISE-Fact 889 964 And while the political campaign, obviously, a lot a money is spend in ads.
+GnLSmPQw-2 PREMISE-Fact 965 1055 That's also true of an Olympics; it's true of a World Cup, it's also true of a Super Bowl.
+0qXNdRS8B5 CLAIM-Opinion(view) 1056 1188 And so, with all of these events taking place around the world, there's no one event that we think drives a huge portion of revenue.
+3FyNcuJLeY CLAIM-Opinion(view) 1189 1338 That said, we are pleased by what's happened on Facebook for the elections cycle, not just on the paid side but actually on the organic side as well.
+c8IRLj41yM PREMISE-Fact 1339 1451 We really see Facebook being embraced by politicians all over the world to get in touch with their constituents.
+y2FUnMdRwt CLAIM-Reformulated 1452 1480 And we're pleased with that.
+qrKj5LjO_s CLAIM-Fact 1481 1540 Every member of Congress right now has a Facebook presence.
+bSvaNhcVgJ PREMISE-RealExample 1541 1638 And we're seeing people like, one example is Elise Stefanik, the youngest person in the Congress.
+mQgq4kFuW8 PREMISE-Fact 1639 1773 She made a pledge when she was elected that she would explain every vote she takes, and she explains every vote she takes on Facebook.
+Q6F606Obtz NON-ARG 1774 1853 With shorter explanations if they're not controversial but longer explanations.
+I8uH4Pk8CT CLAIM-Opinion(view) 1854 1914 That's the kind of mission based work that we're happy about
+Bw1PpeW1Hc PREMISE-Fact 1915 1987 because it brings people closer to the people who are representing them.
+8gdlmbTvGa PREMISE-Fact 1988 2180 We don't break out how many advertisers are advertising on the Audience Network, but we're seeing solid and growing adoption of the Audience Network across the board, as we are with Instagram.
+Fd7VaX9MpC CLAIM-Opinion(view) 2181 2401 And we think all of these platforms together really help give us the ability to serve our clients in a very leveraged way, and use the targeting and measurement capabilities we have invested in across multiple platforms.
+R0 SUPPORT ARG1:W6dr172u3P ARG2:q-idmu92ng
+R1 SUPPORT ARG1:CgYk-TvUI_ ARG2:0qXNdRS8B5
+R2 SUPPORT ARG1:GnLSmPQw-2 ARG2:0qXNdRS8B5
+R3 SUPPORT ARG1:CgYk-TvUI_ ARG2:3FyNcuJLeY
+R4 SUPPORT ARG1:c8IRLj41yM ARG2:3FyNcuJLeY
+R5 SUPPORT ARG1:bSvaNhcVgJ ARG2:qrKj5LjO_s
+R6 SUPPORT ARG1:mQgq4kFuW8 ARG2:qrKj5LjO_s
+R7 SUPPORT ARG1:Bw1PpeW1Hc ARG2:I8uH4Pk8CT
+R8 SUPPORT ARG1:8gdlmbTvGa ARG2:Fd7VaX9MpC
+ArgQ0 q-idmu92ng SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 0qXNdRS8B5 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 3FyNcuJLeY SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 qrKj5LjO_s SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 I8uH4Pk8CT SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 Fd7VaX9MpC SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,16 @@
+dBuaorefSj NON-ARG 1178 1193 Great, Heather.
+lkicl255Dw NON-ARG 1194 1237 Let me try to take both of those questions.
+wSppdRHGC3 NON-ARG 1238 1398 On your commercial bookings growth question, I find it easier to think about commercial bookings before I answer the larger question about one-time in two ways.
+v69o3dceF8 CLAIM-Fact 2981 3421 On your second question of Azure GM we have continued to see strong improvement in the core gross margin as Azure team has done a nice job on a number of fronts, continue to make progress on both software innovation but also importantly hardware innovation and working with our supply-chain to continue to have and see benefits on that side, and also is increasing use of premium services also contributed to Azure gross margin improvement.
+jgD_7dPVEu CLAIM-Opinion(view) 3685 3917 In general it hasn’t changed a ton in terms of that final component about fixed versus I think variable base, it's still been in the I think low [40%] [ph] as a range for us in terms of what depreciation versus what's more variable.
+vsTeo30urM CLAIM-Reformulated 2859 2980 And so you will see a little bit of volatility in this number as those contracts and the type of contracts start to land.
+EAEJi7NtsZ CLAIM-Fact 2272 2858 That means it shows up in bookings and again not in the unearned balance in the same way, and so you will see as we go forward and you are already starting to see it more volatility in this number, not just based on the way we’ve traditionally talked about it which is the movement of the expiration base but also in some of these larger and longer term commitments by what we now think of not just as customers but these are really now partnership relationships that we have where to your point we're co-collaborating to help customers be successful as they build their digital future.
+GKOUdFE5Vo PREMISE-Fact 2160 2271 And we did have some large Azure contracts which tend to be longer dated and tend to have low billings upfront.
+nMtaUPYIWL CLAIM-Fact 1399 1598 The first is the expiration base absolutely does matter and that's how we talked about it, and we had a actually very good quarter here in terms of renewals and what I think of as revenue we capture.
+Oac0fQ7LiY CLAIM-Opinion(view) 1599 1847 We’re able to grow the revenue in existing contracts, and so that absolutely contributed and has contributed over the past couple of years to what I do believe has been reasonably consistent, commercial bookings strength versus the expiration base.
+Uibsh4ss0U NON-ARG 1918 1992 Whether that new business comes as what you saw this quarter are two ways.
+NUO5o-dMeY CLAIM-Fact 1848 1917 The second component is what I would put in a bucket of new business.
+IoaSqfgqNy CLAIM-Fact 1993 2159 There was some on-prem strength this quarter, it does show-up in bookings, it doesn’t show up in unearned and it does show up in the P&L, we had a good quarter there.
+_6qWWH-H1K CLAIM-Reformulated 3422 3684 So while we remain focused on efficiency and the utilization of the hardware and software is also important to continue to see premium upsell, premium workload usage, so the customers are getting the most out of their deployments and usage of the Azure platform.
+R0 SUPPORT ARG1:GKOUdFE5Vo ARG2:EAEJi7NtsZ
+ArgQ0 EAEJi7NtsZ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

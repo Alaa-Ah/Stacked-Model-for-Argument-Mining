@@ -1,0 +1,41 @@
+tCFgLBtirg NON-ARG 439 518 Simona, the installed base number is something that we talk about periodically.
+haZMUeNwzO NON-ARG 519 580 The last time we talked about it, it was in the January call.
+rxgyeTNJgU NON-ARG 581 595 It is growing.
+5lPSvaoLx3 CLAIM-Opinion(view) 596 667 Our installed base is growing very well, which is very important for us
+IkzXJIm5Jy CLAIM-Reformulated 669 740 It's growing on all major products and it's growing of course in total.
+iwNWi4Jgg7 PREMISE-Fact 1159 1219 We've got customers that are very engaged with our products.
+74EdJOoEFV PREMISE-Fact 934 1158 So what that means in practice is that what we are seeing with our customers that consume our services is that the people that are actually taking advantage of our services over time tend spend more and more on our services.
+Ukz-nr1p4L PREMISE-Fact 1220 1303 They're very loyal, and so you see this upward trajectory of our Services business.
+0jt2Q0591r PREMISE-Fact 1304 1402 It's not only with the App Store but there's several categories that are growing very well for us.
+ACBm7qtybr PREMISE-Fact 1403 1570 Tim mentioned Apple Music, but we got other parts of the business that continue to do well, even as I said during a period of time when our sales have come down a bit.
+YJ1Y62xEbW PREMISE-Fact 741 932 When you look at our Services revenue, the growth of the Services revenue has been accelerating during the course of the year during a period when, as you know, our revenue came down slightly
+WP_QTNymxp CLAIM-Opinion(view) 2073 2191 I think to answer your second question first, I think that most people would like an assistant with them all the time.
+dHbDJwmbxX PREMISE-Fact 2192 2224 And we live in a mobile society.
+gwhNk0DuWE PREMISE-Fact 2225 2315 People are constantly moving from home to work and to other things that they may be doing.
+KdxoX__4St CLAIM-Reformulated 2316 2403 And so the advantage of having a assistant on your phone is it's with you all the time.
+ILeZIJrgWg PREMISE-RealExample 2607 2760 In fact, you can just look at Siri today and this is now accelerating with iOS 10 and the Mac, but we've been getting 2 billion requests a week for Siri.
+csGGiHYG72 PREMISE-Fact 2761 2894 And so it's very large and to the best of our knowledge, we've shipped more assistant enabled devices than probably anyone out there.
+mncsBKIYzC CLAIM-Opinion(view) 2404 2468 That doesn't say that there is not a nice market for a home one.
+lJQMOI-DOe NON-ARG 2469 2495 I'm not making that point.
+2QTA69qqsW PREMISE-Fact 2895 3099 Our focus is on this worldwide, and so it's not only a U.S. focus, but we want to deliver a great experience around the world and deliver it globally, and so we've put a lot of the energy into doing that.
+2gjfmLf0vX NON-ARG 3361 3398 It may take a different kind of work.
+ineNbDCuK9 NON-ARG 3480 3549 It's sort of like the age-old argument about privacy versus security.
+4DlcRT0hdF NON-ARG 3550 3570 We should have both.
+bXKmSM0prB NON-ARG 3571 3603 It shouldn't be making a choice.
+aU2hTfeBE8 NON-ARG 3604 3649 And so that at a high level is how we see it.
+Bxw4xup2Uy NON-ARG 3342 3360 We don't buy that.
+9Yh7XD9Byb CLAIM-Opinion(view) 3100 3341 In terms of the balance between privacy and AI, this is a long conversation, but at a high level, I think it's a false trade-off that people would like you to believe that you have to give up privacy in order to have AI do something for you.
+I1RR0-R3nT CLAIM-Reformulated 3399 3479 It might take more thinking, but I don't think we should throw our privacy away.
+5poKayhM8u CLAIM-Reformulated 2496 2606 I'm just saying on a balance point of view, I think the usage of one on the phone will likely be much greater.
+trytYqxECr NON-ARG 3702 3707  Yes.
+R0 SUPPORT ARG1:YJ1Y62xEbW ARG2:5lPSvaoLx3
+R1 SUPPORT ARG1:74EdJOoEFV ARG2:5lPSvaoLx3
+R2 SUPPORT ARG1:iwNWi4Jgg7 ARG2:5lPSvaoLx3
+R3 SUPPORT ARG1:Ukz-nr1p4L ARG2:5lPSvaoLx3
+R4 SUPPORT ARG1:0jt2Q0591r ARG2:5lPSvaoLx3
+R5 SUPPORT ARG1:ACBm7qtybr ARG2:5lPSvaoLx3
+R6 SUPPORT ARG1:dHbDJwmbxX ARG2:WP_QTNymxp
+R7 SUPPORT ARG1:gwhNk0DuWE ARG2:WP_QTNymxp
+R8 SUPPORT ARG1:ILeZIJrgWg ARG2:WP_QTNymxp
+R9 SUPPORT ARG1:csGGiHYG72 ARG2:WP_QTNymxp
+R10 SUPPORT ARG1:2QTA69qqsW ARG2:WP_QTNymxp

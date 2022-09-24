@@ -1,0 +1,38 @@
+02C1FrhWog NON-ARG 930 999 I can take the MAU growth first, and then Mark can talk about camera.
+asb_Ac_CQt CLAIM-Value 1000 1110 On the MAU front, we're seeing very strong overall growth in terms of the 240 million-plus MAUs that we added.
+Hm3VLoL4ze CLAIM-Fact 1111 1208 If I was to point to – there's really no single driver, but I'll point to a few that contributed.
+9WIBystoWt PREMISE-RealExample 1209 1320 And it also plays into the fact that we're seeing good growth in places like India, Mexico, Brazil, and others.
+A71TmHIMXs PREMISE-Fact 1321 1546 First, we're improving our Android experiences, and we've talked about the impact that Facebook Lite has had on that, just making easier registration processes, just making Android – our lightweight Android app easier to use.
+RnCR-OHsMj PREMISE-RealExample 1547 1613 Secondly, Mark talked about the internet.org efforts that we have.
+x3nC0wUk8c PREMISE-Fact 1614 1662 That's been a contributing factor to MAU growth.
+EfqxuvGp8K PREMISE-RealExample 1663 1782 And then finally, we're seeing the introduction of low-priced data plans in markets like India and Mexico contributing.
+GmPaNsctAI CLAIM-Reformulated 1783 1874 So there's no single factor, but those are all contributing factors in terms of MAU growth.
+LD6a2XNwyq NON-ARG 1875 1928 And then, Mark, do you want to talk about the camera?
+THKdEQIGek NON-ARG 1953 1958 Sure.
+4HMAoY8MXI PREMISE-RealExample 1959 2028 So we already rolled out the first test of the new camera in Ireland.
+Dr4pcNagfu CLAIM-Fact 2029 2151 And we're a company that believes in testing things and getting feedback from our community before we roll it out broadly.
+fOPREZX4ry PREMISE-Fact 2152 2184 We think we have a lot to learn.
+2Z8nytvq5D NON-ARG 2185 2257 And the methodology of how we develop is we try to build things quickly.
+CYZJ0LpqzV PREMISE-Fact 2258 2433 And rather than just relying on our own intuition, although we do rely on that a lot, we will try to put it out in the market and get feedback and then roll it out from there.
+qgbkescvl3 CLAIM-Fact 2434 2499 So we rolled out what we believe is a good experience in Ireland.
+nXnBJeT71b PREMISE-Fact 2500 2578 They were the first part of the community to get access to these new features.
+5dFAPLZ9vX CLAIM-Fact 2579 2688 And then from there, we'll start to roll it out broadly across the world, hopefully sooner rather than later.
+ViRAVsd--Z PREMISE-Fact 2689 2890 Same thing on the Messenger side, as I mentioned, these products around my day, it's a similar video medium to Instagram Stories and a similar camera to what we're building in the Facebook app as well.
+iNGmapARuZ PREMISE-Fact 2891 2941 And that we rolled out in a few countries as well.
+PCSem-EFqA CLAIM-Reformulated 2942 3089 And similarly, based on the feedback that we're getting, I would expect that we'll be rolling that out pretty widely across the world soon as well.
+R0 SUPPORT ARG1:9WIBystoWt ARG2:asb_Ac_CQt
+R1 SUPPORT ARG1:A71TmHIMXs ARG2:Hm3VLoL4ze
+R2 SUPPORT ARG1:RnCR-OHsMj ARG2:Hm3VLoL4ze
+R3 SUPPORT ARG1:x3nC0wUk8c ARG2:Hm3VLoL4ze
+R4 SUPPORT ARG1:EfqxuvGp8K ARG2:Hm3VLoL4ze
+R5 SUPPORT ARG1:4HMAoY8MXI ARG2:Dr4pcNagfu
+R6 SUPPORT ARG1:fOPREZX4ry ARG2:Dr4pcNagfu
+R7 SUPPORT ARG1:CYZJ0LpqzV ARG2:qgbkescvl3
+R8 SUPPORT ARG1:nXnBJeT71b ARG2:qgbkescvl3
+R9 SUPPORT ARG1:ViRAVsd--Z ARG2:5dFAPLZ9vX
+R10 SUPPORT ARG1:iNGmapARuZ ARG2:5dFAPLZ9vX
+ArgQ0 asb_Ac_CQt SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Hm3VLoL4ze SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Dr4pcNagfu SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 qgbkescvl3 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 5dFAPLZ9vX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

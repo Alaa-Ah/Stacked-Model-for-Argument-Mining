@@ -1,0 +1,31 @@
+LV-GVgjUcW CLAIM-Fact 746 935 And so between all of those hardware products, as well as our gaming performance, another sort of hardware component in quarter, we did a little better than we had expected in our launches.
+4sWWVF_LGA PREMISE-Other 936 1121 Now when you launch mid quarter, there's always some timing aspect to that, but I feel very good about the execution of those and that is a meaningful component of that out-performance.
+u06ffzpF46 PREMISE-Fact 1268 1315 I expect to work through that in Q2, I mean Q3.
+sqJsvpxh80 NON-ARG 557 601 Number one, it's really the device launches.
+kAkoE0DRBE NON-ARG 1122 1170 The second one, which I talked about is OEM Pro.
+WvnObsfIhK PREMISE-Fact 1316 1390 And that was a couple points of impact, for example on OEM Pro in quarter.
+X0_3EQq576 CLAIM-Opinion(view) 2281 2438 And so I'm not sure there's anything quote-unquote new, Karl, I would say, other than that bit of mix between OEM Pro, a little bit pulled into Q2 versus Q3.
+8sNnxo4aAA PREMISE-Statistic 2137 2280 And so if you think about all of those components, which actually were very similar to Q2 in terms of their strength, you see them again in Q3.
+taVIY6a_zA CLAIM-Fact 1847 1910 Which is one, our search performance continues to be very good.
+Hl3EHC6L6i NON-ARG 506 517 Sure, Karl.
+h-csJl8ET8 NON-ARG 518 556 In Q2, let me talk about two key ones.
+V8VKM4kU6Y PREMISE-Fact 602 674 We actually launched a very broad portfolio of devices into the quarter.
+jWikKD7JkO PREMISE-RealExample 675 745 With Surface Pro 4, Surface Book, Band 2 and the Lumia 950 and 950 XL.
+AOuFBxLJfd CLAIM-Fact 1171 1267 We did a little better in the quarter than I expected, but inventory levels are a little higher.
+xwxifEp9Fm NON-ARG 1691 1718 Well, it's similar drivers.
+V-TBXQBZml NON-ARG 1719 1798 In that segment, there's also some topics I tend to not get asked about in Q&A.
+k0N8sEKQWq NON-ARG 1799 1846 Let me take the opportunity to talk about them.
+59yB1tGWaJ PREMISE-Fact 1911 1961 Frankly, our display business has been quite good.
+BdHK0COiEC PREMISE-Fact 1962 2040 And if you go beyond that, I feel good about our gaming business sequentially.
+TvsFwAxtED PREMISE-Fact 2041 2136 I feel good about the hardware, especially the Surface performance as we launch into more geos.
+TnwMfZCTTW NON-ARG 2502 2516  Thanks, Karl.
+buEbrkDyxM NON-ARG 2527 2538  Thank you.
+VCEMGxmTwB NON-ARG 2539 2579 We'll move to the next question, please.
+R0 SUPPORT ARG1:V8VKM4kU6Y ARG2:LV-GVgjUcW
+R1 SUPPORT ARG1:jWikKD7JkO ARG2:LV-GVgjUcW
+R2 SUPPORT ARG1:u06ffzpF46 ARG2:AOuFBxLJfd
+R4 SUPPORT ARG1:4sWWVF_LGA ARG2:LV-GVgjUcW
+R5 SUPPORT ARG1:59yB1tGWaJ ARG2:taVIY6a_zA
+R6 SUPPORT ARG1:BdHK0COiEC ARG2:taVIY6a_zA
+R7 SUPPORT ARG1:TvsFwAxtED ARG2:taVIY6a_zA
+R8 SUPPORT ARG1:8sNnxo4aAA ARG2:taVIY6a_zA

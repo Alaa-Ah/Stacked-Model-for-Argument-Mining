@@ -1,0 +1,22 @@
+e2QDCmrT3U NON-ARG 2011 2040 Yeah, and Mark, this is Dave.
+HitIzP-LBw NON-ARG 2041 2105 Just really quickly just in terms of your question on the stack.
+lCFNHxMpSa CLAIM-Opinion(view) 2106 2584 I mean I think for really since as long as AWS has been around, we really pride ourselves in getting really top, high caliber people both in the technical side, but also sales people that are plugged in and listening to customers, understanding issues that are emerging, having open lines of communication and that’s really allowed us to innovate quickly and really faster than anyone else, and we see that in the terms of the service and feature breadth and depth that we have.
+gO3SIr6hBY CLAIM-Fact 2585 2758 So, a lot of the focus for us is really making sure that that flywheel keep spinning, and that we continue to roll out a lot of great services the customers are looking for.
+mFhHT2tkF4 PREMISE-Other 2759 3036 So I think that’s largely what dictates our roadmap and making sure that we give ourselves autonomy and availability to look to new areas and stay on the cusp of whether it’s kind of emerging technologies or really just our customer needs or pain points that need to be solved.
+DiWWJqmR6y NON-ARG 709 714 Sure.
+U2CGiMqVaw NON-ARG 715 724 Hi, Mark.
+3iROJG3zMB CLAIM-Fact 850 942 It’s certainly a competitive market that we see and we’ve seen for really a number of years.
+i__oEnpw12 PREMISE-Fact 943 1056 So everyone is very sharp on their pricing and is very eager to lock up long-term commitments from AWS customers.
+CSosbwFdnP CLAIM-Fact 1058 1146 We do it with you know a combination of price and capability that we think is unmatched.
+DdQ3RQVXHf CLAIM-Fact 1147 1286 So the bigger element of that really is around us creating new products and services that are cheaper and less expensive than the old ones.
+iHQg6bBnfZ CLAIM-Opinion(view) 1358 1479 But again in your question on enterprise penetration, you know I think the enterprise, we’re making great progress there.
+rexlOmCqrI PREMISE-Fact 1480 1783 You know it’s going to be hard on revenue growth, it’s going to fluctuate quarter-to-quarter, it’s hard to predict the pace of some of the sales cycles and the enterprise migrations that companies are willing to make or some are faster than others and some have other work to do before they can migrate.
+YAvbexE800 CLAIM-Reformulated 1785 1997 So you know there’s a lot of factors at play there on the enterprise business, but we are having great success and we’re adding a lot of sales force or sales representatives, especially for the enterprise market.
+VcdpR0DkMa CLAIM-Fact 725 849 So yeah, I would say my comments around pricing were as much mix as absolute price decreases or competitive price pressures.
+GxDGwk_QBw CLAIM-Reformulated 1287 1356 So there is a certain bit of mix issue that we are always up against.
+R0 SUPPORT ARG1:mFhHT2tkF4 ARG2:gO3SIr6hBY
+R1 SUPPORT ARG1:i__oEnpw12 ARG2:3iROJG3zMB
+R2 SUPPORT ARG1:rexlOmCqrI ARG2:iHQg6bBnfZ
+ArgQ0 gO3SIr6hBY SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 3iROJG3zMB SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 iHQg6bBnfZ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

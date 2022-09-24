@@ -1,0 +1,42 @@
+EJaTa6OsNi NON-ARG 945 963 I can take search.
+9zcz9U_Dta CLAIM-Other 2186 2303 On the Audience Network, we continue to invest in ad tech, and the Audience Network is a key part of our focus there.
+spgaXfArRy PREMISE-Fact 2304 2358 We don't break out revenue by our different platforms.
+9RFduuTdDS CLAIM-Opinion(view) 2359 2548 But the opportunity to take not just video ads, but other ad formats we have, bring them to the rest of the web and other apps with our ability to target and measure, we think is a big one.
+58MEyCAJVs PREMISE-Fact 2549 2689 And what we're starting to see is that people are using Facebook, Instagram and Audience Network to drive their objective in a cohesive way.
+mNQ6HHHtNk PREMISE-RealExample 2690 2828 So to share an example, Garmin launched the Fenix 3 Sapphire watch, and they did it with videos ads on Facebook that worked without sound.
+YpihowcXFg PREMISE-Fact 2829 2986 They targeted outdoor enthusiasts then retargeted people who viewed the Instagram videos with Carousel ads on Facebook that highlighted the product features.
+5xbA_4XNGE PREMISE-Statistic 2987 3165 Then they extended those ads on Audience Network to maximize reach, and they used the Facebook Pixels to measure the incremental sales, and got to a 9.7 times return on ad sales.
+Wssvs0_HUP CLAIM-Fact 3166 3347 So that's a really good example of how you can take targeting and the ability to target across Audience Network, Facebook and Instagram and drive people all the way down the funnel.
+3ZC7ACSNA8 CLAIM-Opinion(view) 3348 3459 And we think more and more people will do that, particularly as we do a better job of combining the interfaces.
+PH69AqSdFK PREMISE-Fact 3460 3554 So, for example, you can buy now in one interface on Facebook, Instagram and Audience Network.
+uDjLmF4qi0 NON-ARG 3572 3640 And then, Anthony, just one thing to add on top of that, just the – 
+HpOFplT4SN PREMISE-Fact 3640 3763 we recognize the majority of our third-party advertising revenues of the Audience Network on a net rather than gross basis.
+Cq69x1oL_R CLAIM-Fact 3764 3833 So that will also minimize the impact that will have on the top line.
+7wqwzmjJAu NON-ARG 964 999 So when we talk about our strategy,
+XO6l1T0h-m CLAIM-Opinion(view) 1000 1086 I often talk about how when we develop new products we think about it in three phases.
+MTiMe8O-d_ PREMISE-Fact 1087 1303 First, building a consumer use case; then, second, making it so that people can organically interact with businesses; and then third, on top of that, once there's a large volume of people interacting with businesses.
+xOigsCmdeG NON-ARG 1304 1403 Give businesses tools to reach more people and pay, and that's ultimately the business opportunity.
+5zCUg6KOa9 CLAIM-Opinion(view) 1404 1469 So, I'd say, we're around the second phase of that in search now.
+HJU23UQD_w PREMISE-Fact 1470 1619 You know, we have a pretty big navigational use case where people look up people and pages and groups that they want to get to and look at in search.
+nhfZVfGKjk NON-ARG 1620 1817 One of the big growing use case is that we're investing a lot in is looking up the content in the ecosystem, and that is an area that we're very excited about, which helps people find more content.
+mvLsI2rEXr PREMISE-Fact 1818 1968 But certainly there's a reasonable amount of behavior in there which is looking for things that, over time, could be monetizable or commercial intent.
+qdsfpFSCUu CLAIM-Opinion(view) 1969 2025 And at some point we will probably want to work on that,
+5qUZpEWuaD CLAIM-Reformulated 2026 2165 but we're still in the phase of just making it easier for people to find all the content they want and connect with businesses organically.
+R0 SUPPORT ARG1:spgaXfArRy ARG2:9zcz9U_Dta
+R1 SUPPORT ARG1:58MEyCAJVs ARG2:9RFduuTdDS
+R2 SUPPORT ARG1:mNQ6HHHtNk ARG2:Wssvs0_HUP
+R3 SUPPORT ARG1:YpihowcXFg ARG2:Wssvs0_HUP
+R4 SUPPORT ARG1:5xbA_4XNGE ARG2:Wssvs0_HUP
+R5 SUPPORT ARG1:PH69AqSdFK ARG2:3ZC7ACSNA8
+R6 SUPPORT ARG1:HpOFplT4SN ARG2:Cq69x1oL_R
+R7 SUPPORT ARG1:MTiMe8O-d_ ARG2:XO6l1T0h-m
+R8 SUPPORT ARG1:HJU23UQD_w ARG2:5zCUg6KOa9
+R9 SUPPORT ARG1:mvLsI2rEXr ARG2:qdsfpFSCUu
+ArgQ0 9zcz9U_Dta SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 9RFduuTdDS SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 Wssvs0_HUP SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 3ZC7ACSNA8 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 Cq69x1oL_R SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 XO6l1T0h-m SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ6 5zCUg6KOa9 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ7 qdsfpFSCUu SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

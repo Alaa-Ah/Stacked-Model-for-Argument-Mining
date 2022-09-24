@@ -1,0 +1,37 @@
+iD7p6-bswo NON-ARG 3184 3289 And then Eric, you had a question about, how we might expect expense growth to progress through the year?
+67BjF9TBqF NON-ARG 3290 3345 There is no specific one item that's going to drive it.
+WnzvUZnpMY CLAIM-Fact 3346 3527 So we would expect expense growth to ramp throughout the year, largely due to the factors that we've talked about on prior calls in terms of what's driving the overall acceleration.
+BvlNttF0zN PREMISE-Fact 3528 3583 There's the continued investment on the security front.
+X_VL-zhjlq PREMISE-Fact 3584 3690 We talked about that in both Mark's comments and my comments and we're continuing to ramp that investment.
+NmNeUIr1mP PREMISE-Fact 3691 3758 We are continuing to invest to support the video strategy on Watch.
+f4QnfMr4uA PREMISE-Fact 3759 3823 So we would expect that content investment to continue and ramp.
+jRwzceU7r_ PREMISE-Fact 3824 3939 And then finally we're continuing to invest in the long-term initiatives in areas like AR, VR, AI and connectivity.
+3IzsojM9-W CLAIM-Reformulated 3940 4017 So across the board, we would expect expense growth ramp throughout the year.
+Es9VB4UfBV NON-ARG 975 1038 I can take the first point about meaningful social interaction.
+nzi3SoDADC PREMISE-Fact 1039 1244 So the product directive that I've given to all of our teams is to shift from focusing on showing the most meaningful content to people to instead to now encouraging the most meaningful social interaction.
+J57DuLjaPw PREMISE-Fact 1245 1471 So that will first take hold as the series of News Feed changes, but over time there are going to be new products that we build new interfaces that the team is designed with the goal of encouraging interactions between people.
+mHrP0hlps2 CLAIM-Fact 1472 1670 So the thing that we're going to be measuring is basically the number of interactions that people have on the platform and off because of what they're seeing that they report to us is as meaningful.
+oFalrNxrSD CLAIM-Reformulated 2300 2544 So now we're going to shift that that methodology a little bit to instead of just being focused on the content, now to be more focused on trying to measure and have people tell us what is creating the most meaningful interaction in their lives.
+Tx6A99CnZY NON-ARG 1671 1770 One interesting thing that I think is worth being clear about in terms of how we develop News Feed.
+4W1HP_x-l- CLAIM-Opinion(view) 1771 1913 I think that there's this myth that we design News Feed in order to just optimize for time or for likes or comments or some signals like that.
+QXjkASHQHN PREMISE-Fact 1914 2299 The reality is the way we've done this for years is we've had a panel, a survey of thousands of people who basically we asked what the most meaningful content is that they had seen on the platform or that they've seen off the platform and we design our systems in order to be able to get to that ground truth of what people – real people are telling us is that high quality experience.
+r-9sJRu1O9 CLAIM-Fact 2545 2572 We're not just on Facebook.
+WQAOO2LXkO PREMISE-Fact 2573 2634 It could be a message that you have on Messenger or Whatsapp.
+vjru6cEZSs PREMISE-Fact 2635 2827 But it could also be that you see something on Facebook and have a conversation about that in the world with someone who's meaningful to you and the next to me that we need to understand that.
+r6oEef-jG8 NON-ARG 2828 2943 But that's basically what where we're going to be moving all of these systems towards over the next period of time.
+gjl_QgavYV NON-ARG 2944 3012 And its not just can be one News Feed change that happens overnight.
+LOVM_oL0Do NON-ARG 3013 3169 It will be a series of rollouts and then a number of product changes that go to the interface of the products and things that we launch within that as well.
+R0 SUPPORT ARG1:BvlNttF0zN ARG2:WnzvUZnpMY
+R1 SUPPORT ARG1:X_VL-zhjlq ARG2:WnzvUZnpMY
+R2 SUPPORT ARG1:NmNeUIr1mP ARG2:WnzvUZnpMY
+R3 SUPPORT ARG1:f4QnfMr4uA ARG2:WnzvUZnpMY
+R4 SUPPORT ARG1:jRwzceU7r_ ARG2:WnzvUZnpMY
+R5 SUPPORT ARG1:nzi3SoDADC ARG2:mHrP0hlps2
+R6 SUPPORT ARG1:J57DuLjaPw ARG2:mHrP0hlps2
+R7 SUPPORT ARG1:QXjkASHQHN ARG2:4W1HP_x-l-
+R8 SUPPORT ARG1:WQAOO2LXkO ARG2:r-9sJRu1O9
+R9 SUPPORT ARG1:vjru6cEZSs ARG2:r-9sJRu1O9
+ArgQ0 WnzvUZnpMY SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 mHrP0hlps2 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 4W1HP_x-l- SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 r-9sJRu1O9 SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

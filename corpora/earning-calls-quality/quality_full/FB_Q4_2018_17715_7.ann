@@ -1,0 +1,19 @@
+_9Ssd5UAc5 NON-ARG 684 694 All right.
+BTgRs_GB_k NON-ARG 2460 2518 I think there might have been another question but I - no?
+lnfPmbgwJm NON-ARG 2519 2529 All right.
+owwvsjWbiB CLAIM-Fact 695 914 So for Groups, the main thing that we're focused on is making it so that connecting with communities of people that you're interested in is going to be as central to the experience as connecting with friends and family.
+u9INHc2UUp NON-ARG 915 942 So it's not just a feature.
+BNjA-ZWJoL NON-ARG 943 1032 It's going to become more of an organizing principle for more of the activity in the app.
+80sXtsuIr- CLAIM-Reformulated 1033 1250 And friends and family is always going to be really central to what we do, but we just think that there's an opportunity now to do more and to make it so that people can also be a part of these meaningful communities.
+wY00ZDi47Q CLAIM-Opinion(view) 1595 1749 So I think that building groups is - it obviously cannot replace people getting together in person, and a lot of the most successful groups are successful
+aT4CSjmyIX PREMISE-Fact 1750 1831 because they facilitate people going and doing things together in person as well.
+mCwHsA0FeG CLAIM-Opinion(view) 1832 1951 But we think that this is a real human need and a sociological need and it's an important thing that people need to do.
+_6vV4GRtNN CLAIM-Opinion(view) 1952 2057 And I think it's going to be one of the next big areas that I'm really excited about the Facebook uptick.
+o1w7-RLlCK CLAIM-Reformulated 2058 2394 It's worth pointing out here that while Instagram doesn't have Groups, we also really focus on community and interest there, more around discovery and hashtags and explore, being able to really delve into your interests and interact with people who are interested in the same things that you are there, even if they're not your friends.
+klkxUoQ-be CLAIM-Reformulated 2395 2459 So that's going to be an increasing part of that experience too.
+P0NPKieq_G PREMISE-Fact 1439 1594 There's a lot of data, sociological data outside, that shows that a physical group membership in the world off the Internet has been declining for decades.
+KMkef8NTQG PREMISE-Fact 1251 1438 Hundreds of millions of people already tell us that the groups that they're a part of on Facebook or at least a few meaningful ones are the most important part of their social experience.
+R0 SUPPORT ARG1:aT4CSjmyIX ARG2:wY00ZDi47Q
+R1 SUPPORT ARG1:P0NPKieq_G ARG2:wY00ZDi47Q
+R2 SUPPORT ARG1:KMkef8NTQG ARG2:wY00ZDi47Q
+ArgQ0 wY00ZDi47Q SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

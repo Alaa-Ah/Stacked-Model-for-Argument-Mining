@@ -1,0 +1,26 @@
+tGQDOAcxuX NON-ARG 991 1018 Toni, let me take this one.
+UacWpvYHyu NON-ARG 1019 1168 I think you mentioned a number of the things that are affecting us in the December quarter, and I went through them with Katy just a few minutes ago.
+QPLpe0DKdt CLAIM-Opinion(view) 1780 1924 And so when we look at all these things in its totality, we think that for the total company of course, we believe that revenue's going to grow.
+VOH2r3J2-v CLAIM-Opinion(view) 1925 2110 You know that we don't get into specific product from a unit standpoint giving guidance, and so we feel very confident about the trajectory for the company and for iPhone going forward.
+rVvys4ERc9 PREMISE-Fact 1169 1211 You're right, we've got an extra few days.
+zV_i3hlvnk PREMISE-Fact 1212 1262 You know very well the launch timing is different.
+hjeu3R-0IJ PREMISE-Statistic 1263 1347 You know that we increased iPhone channel inventory by 3.3 million units a year ago.
+WbDXoh9xSm PREMISE-Fact 2823 2945 In terms of owning content and creating content, we have started with focusing on some original content, as you point out.
+GMgMy6dROw PREMISE-Fact 2946 3005 We've got a few things going there that we've talked about.
+lsIwVidf2V CLAIM-Fact 3117 3162 and so it's is an area that we're focused on.
+f7oCd0Tngp PREMISE-Fact 2734 2822 I would confirm that television has intense interest with me and many other people here.
+Wf_UUP1TNi PREMISE-Fact 3006 3116 And I think it's a great opportunity for us both from a creation point of view and an ownership point of view.
+b-mucHjTk5 CLAIM-Fact 1632 1724 And so when you talk about other competitors, it's not particularly relevant to us right now
+LZh8Cw8Saf PREMISE-Fact 1725 1779 because we are selling everything that we can produce.
+tOwWNkxXrD PREMISE-Fact 1527 1631 But maybe the most important element of this is the fact that we are supply constrained on 7 and 7 Plus.
+m-V6Vmj3Rc PREMISE-Fact 1348 1526 I mentioned two issues that affect us, the one-timer from a year ago that you obviously need to exclude from the compare and the FX that is the reality of our business right now.
+R0 SUPPORT ARG1:f7oCd0Tngp ARG2:lsIwVidf2V
+R1 SUPPORT ARG1:WbDXoh9xSm ARG2:lsIwVidf2V
+R2 SUPPORT ARG1:GMgMy6dROw ARG2:lsIwVidf2V
+R3 SUPPORT ARG1:Wf_UUP1TNi ARG2:lsIwVidf2V
+R4 SUPPORT ARG1:rVvys4ERc9 ARG2:QPLpe0DKdt
+R5 SUPPORT ARG1:zV_i3hlvnk ARG2:QPLpe0DKdt
+R6 SUPPORT ARG1:hjeu3R-0IJ ARG2:QPLpe0DKdt
+R7 SUPPORT ARG1:LZh8Cw8Saf ARG2:b-mucHjTk5
+R8 SUPPORT ARG1:tOwWNkxXrD ARG2:b-mucHjTk5
+R9 ATTACK ARG1:m-V6Vmj3Rc ARG2:QPLpe0DKdt

@@ -1,0 +1,18 @@
+keKkr3j6DU CLAIM-Fact 569 649 Facebook and Instagram are the two most important mobile ad platforms out there.
+Tys4dNY2zm CLAIM-Fact 650 716 In the short run, some of the spend is incremental and some isn't.
+Zehpt0lhk0 PREMISE-Fact 717 784 There are people who will have a social budget or a digital budget.
+iG0QnFI620 PREMISE-Fact 785 853 And as they move to Instagram, some of that will come from Facebook.
+2KFkxP6Qeq CLAIM-Opinion(view) 854 948 In the medium to long run, we believe we compare very favorably with any other spend we can do
+EQH87NsFdD PREMISE-Fact 949 1050 because we have this very broad reach on both platforms plus the ability to target very specifically.
+Abl_CIpiyR CLAIM-Fact 1051 1171 So what you're seeing in our results right now are very strong growth for Facebook and very strong growth for Instagram.
+9zIrqDCc-L PREMISE-Statistic 1172 1214 We hit 3 million advertisers for Facebook.
+z_wT9XgDXp PREMISE-Statistic 1215 1290 We hit 200,000 for Instagram, and often the platforms really work together.
+R0 SUPPORT ARG1:Zehpt0lhk0 ARG2:Tys4dNY2zm
+R1 SUPPORT ARG1:iG0QnFI620 ARG2:keKkr3j6DU
+R2 SUPPORT ARG1:EQH87NsFdD ARG2:2KFkxP6Qeq
+R3 SUPPORT ARG1:9zIrqDCc-L ARG2:Abl_CIpiyR
+R4 SUPPORT ARG1:z_wT9XgDXp ARG2:Abl_CIpiyR
+ArgQ0 Tys4dNY2zm SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 keKkr3j6DU SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 2KFkxP6Qeq SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 Abl_CIpiyR SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

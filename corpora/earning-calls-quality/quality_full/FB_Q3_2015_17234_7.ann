@@ -1,0 +1,20 @@
+9CDezE0Wsf CLAIM-Opinion(view) 929 966 The quality is really important to us
+gz4KHKtZ1M PREMISE-Fact 967 1169 because your experience on Facebook or Instagram is about the quality of what you see, both in terms of the organic posts you see from your friends or public people you're following and the ads as well.
+ntQJ7SJfn1 CLAIM-Fact 1170 1212 And what we do is we monitor it carefully.
+vGTMuOQuxa CLAIM-Reformulated 1213 1278 We ramp slowly, we monitor engagement, sentiment, quality of ads.
+xziRepnwov CLAIM-Opinion(view) 1465 1537 We're pleased with what's happened with quality on our platform overall.
+NCqK9fYNUy CLAIM-Fact 1279 1342 We get a lot of feedback directly from people who use Facebook.
+YNek-zrLdG CLAIM-Fact 1343 1366 They can X out the ads.
+3VrBBTLtO- CLAIM-Fact 1367 1464 If they do, we ask them why they're Xing out the ads and we just continue to monitor the metrics.
+tR775u3RCH PREMISE-Fact 1647 1810 So the carousel ads, they're not just that they're showing multiple products, it's that they're showing products that are more specifically directed at the person.
+x-kYlKQeyg PREMISE-Fact 1811 1932 And so a lot of the underlying things we do to build our ad systems don't just feed into revenue, they feed into quality.
+xd8-M_wnj6 PREMISE-Fact 1933 2022 And that's important because over the long run our quality today is our revenue tomorrow.
+XLRGXfSoN- PREMISE-Fact 1538 1646 And a lot of the product innovations and investments I've been talking about on this call feed into quality.
+nu8f6xItti NON-ARG 915 928 You're right.
+R0 SUPPORT ARG1:gz4KHKtZ1M ARG2:9CDezE0Wsf
+R1 SUPPORT ARG1:XLRGXfSoN- ARG2:xziRepnwov
+R2 SUPPORT ARG1:tR775u3RCH ARG2:xziRepnwov
+R3 SUPPORT ARG1:x-kYlKQeyg ARG2:xziRepnwov
+R4 SUPPORT ARG1:xd8-M_wnj6 ARG2:xziRepnwov
+ArgQ0 9CDezE0Wsf SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 xziRepnwov SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

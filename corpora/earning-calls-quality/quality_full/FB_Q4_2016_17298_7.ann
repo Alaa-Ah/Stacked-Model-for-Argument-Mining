@@ -1,0 +1,25 @@
+S-EriBaD8e CLAIM-Opinion(view) 370 461 Well, I think AI is going to be great for the experience that people have in our community.
+af4URqxTUV PREMISE-Fact 462 554 So there are a few types of systems here that we're working on around understanding content.
+fkvt61rYro PREMISE-Fact 555 616 One is around visual content and the other is about language.
+lAW_dtZh4n PREMISE-Fact 617 789 So, for visual content, we want to be able to look at a photo and understand what's in it, right, and whether that's something that you're going to be interested in, right?
+Zd4nUIzZ7v PREMISE-Fact 790 931 And similarly, we want to be able look at a video and watch it and understand whether that's something that you're going to be interested in.
+em2LCL2PZs PREMISE-Fact 932 1143 And you can imagine that today, we consider putting things in your News Feed that you're connected to in some way, right, that are from a friend or a page that you're following or that one of your friends likes.
+IPGySPs_qh PREMISE-Fact 1144 1450 But there's no reason that we shouldn't be able to match you up with any of the millions of pieces of content that you might be interested in that gets shared on Facebook every day, except for the fact that we don't have the AI technology to know what those are about and if they match your interest today.
+bw0i3jklL1 CLAIM-Fact 1451 1645 So, a combination of being able to understand the text that people message, read the articles that people would want to look at, watch the videos, look at the photos, are going to be great, too.
+0hWnAQ2zEB PREMISE-Fact 1745 1879 So there's an increasing focus on objectionable content, right, and a lot of unfortunate things, right, that people share on Facebook.
+Mm0ueC1nBQ PREMISE-Fact 1880 2012 And it's a minority of the content, but I'm really focused on making sure that our company gets faster at taking the bad stuff down.
+YRc1ToggVG PREMISE-Fact 2013 2434 And we can do better with people, but ultimately the best thing that we can do is build AI systems that can watch a video and understand that it's going to be problematic and violate the policies of our community and that people aren't going to want to see it and then just not show it to people before bad experiences happen and things like violence gets spread through – violent content gets spread through the network.
+uRvIHX0KkA CLAIM-Reformulated 2435 2662 So I think it's both going to be – AI is both going to be great on showing people content that's really good and helping us enforce the community standards that we have to make sure that everyone has a good and fair experience.
+o9S7e5uGJe CLAIM-Opinion(view) 1646 1744 Another area where I'm really excited about this is our ability to keep the community safe, right?
+R0 SUPPORT ARG1:af4URqxTUV ARG2:S-EriBaD8e
+R1 SUPPORT ARG1:fkvt61rYro ARG2:S-EriBaD8e
+R2 SUPPORT ARG1:lAW_dtZh4n ARG2:S-EriBaD8e
+R3 SUPPORT ARG1:Zd4nUIzZ7v ARG2:bw0i3jklL1
+R4 SUPPORT ARG1:IPGySPs_qh ARG2:bw0i3jklL1
+R5 SUPPORT ARG1:0hWnAQ2zEB ARG2:o9S7e5uGJe
+R6 SUPPORT ARG1:Mm0ueC1nBQ ARG2:o9S7e5uGJe
+R7 SUPPORT ARG1:YRc1ToggVG ARG2:o9S7e5uGJe
+R8 SUPPORT ARG1:em2LCL2PZs ARG2:bw0i3jklL1
+ArgQ0 S-EriBaD8e SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 bw0i3jklL1 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 o9S7e5uGJe SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

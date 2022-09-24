@@ -1,0 +1,20 @@
+KYmKIOz-46 CLAIM-Opinion(view) 767 925 Yes, when I think overall, you all I think do a good job of tracking what is the public cloud competition and that’s the competition we pay most attention to.
+Sxi1CIbnHH CLAIM-Opinion(view) 926 967 And in this context I think we see a mix.
+EXEuBPucCF PREMISE-Fact 968 1124 There a few of us who are at scale in public cloud who are very competitive, and anybody who decides to be multi-cloud, public cloud, those are the winners.
+7QnUEB2d9n PREMISE-Fact 1207 1270 And in the case of AT&T we were the only public cloud in there.
+d-082-FkQF NON-ARG 1271 1381 And so that’s why we highlighted -- they highlighted us and we highlighted that in our quarterly announcement.
+hK6nyDJC7q PREMISE-Fact 1125 1206 When someone thinks that only using one cloud, we're definitely one of the names.
+VHeZAqH9_X CLAIM-Opinion(view) 1566 1742 And so, Jennifer, listen, I kind of think about this as we’ve a incredibly strong footprint inside existing enterprises today, that footprint and you can see it in our results.
+kzYV2nhcX9 CLAIM-Opinion(view) 1891 2075 And so we, of course, see multi-cloud in a lot of our larger accounts, but this type of significant commitments is an opportunity, I think, you will continue to see us execute well on.
+4l3EsQsgt8 CLAIM-Opinion(view) 1392 1544 And I will think general what we see, especially as contract gets larger, for us the opportunity under Tier 1 workloads for us to really see TAM growth.
+VLFJRia_7g CLAIM-Fact 1545 1565 It's just expansive.
+q0fvWuy0uw NON-ARG 2126 2138 Thanks, Jen.
+A0gld0K3CH NON-ARG 2139 2188 Operator, we will take the next question, please.
+Ug3nph17BJ PREMISE-Fact 1743 1890 Customers are relying on us for not only that footprint, but as they continue to expand to sit under the Tier 1 opportunity we haven't seen before.
+R0 SUPPORT ARG1:EXEuBPucCF ARG2:Sxi1CIbnHH
+R1 SUPPORT ARG1:hK6nyDJC7q ARG2:KYmKIOz-46
+R2 SUPPORT ARG1:7QnUEB2d9n ARG2:KYmKIOz-46
+R3 SUPPORT ARG1:Ug3nph17BJ ARG2:VHeZAqH9_X
+ArgQ0 Sxi1CIbnHH SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 KYmKIOz-46 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 VHeZAqH9_X SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

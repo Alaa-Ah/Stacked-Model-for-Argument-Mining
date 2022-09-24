@@ -1,0 +1,18 @@
+Jd27cwnKeH NON-ARG 1966 2054 So, I would say these are the major reasons and the drivers for the guidance on revenue.
+VWLFNFMMUk NON-ARG 679 697 Thank you, Simona.
+zllUGbDkRE NON-ARG 698 719 Let me take this one.
+ybnGezwkZ8 NON-ARG 919 1000 You talked about a number of issues that are, in fact, included in this guidance.
+lbvnhKzE8b NON-ARG 1001 1174 In addition to lapping, of course, a very strong year ago quarter -- just remind you that revenue growth a year ago was up 27%, there's a number of things that we're facing.
+hDqsZEhJeG CLAIM-Fact 1175 1218 The macroeconomic environment is weakening.
+k4fzAo9RW8 PREMISE-RealExample 1219 1449 When you think about all the -- particularly all the commodity-driven economies, Brazil and Russia and emerging markets, but also Canada, Australia in developed markets, clearly the economy is significantly weaker than a year ago.
+PPupeivNGR PREMISE-Statistic 1450 1518 We talked about the unfavorable FX, which again is 400 basis points.
+qjKIgdEoJA CLAIM-Opinion(view) 827 918 So, we are looking at a 400 basis point impact from foreign exchange for the March quarter.
+c3IDU2OsHX PREMISE-Statistic 720 826 In constant currency, when you look at it for the March quarter, revenue would be down between 5% and 10%.
+amdlHXO4Ff CLAIM-Fact 1687 1866 That has had the effect of protecting our margins, which you've seen have been very strong, both in the December quarter and in the guidance that we provide for the March quarter.
+wE6ETWdMzA PREMISE-Fact 1867 1965 But inevitably over time, higher prices affect demand and so we're capturing that in our guidance.
+bCWTjc8uPz PREMISE-Fact 1519 1686 One of the things that we've done to respond to the foreign exchange situation has been to increase the price of some of our products in certain international markets.
+R0 SUPPORT ARG1:k4fzAo9RW8 ARG2:hDqsZEhJeG
+R1 SUPPORT ARG1:PPupeivNGR ARG2:hDqsZEhJeG
+R2 SUPPORT ARG1:c3IDU2OsHX ARG2:qjKIgdEoJA
+R3 SUPPORT ARG1:bCWTjc8uPz ARG2:amdlHXO4Ff
+R4 ATTACK ARG1:wE6ETWdMzA ARG2:amdlHXO4Ff

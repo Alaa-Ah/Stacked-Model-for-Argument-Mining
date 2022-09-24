@@ -1,0 +1,42 @@
+UAyenQjCrG NON-ARG 1959 1972 Yes, Shannon.
+kTe_0WETBV NON-ARG 1973 1983 It's Luca.
+21wWbSg8i4 PREMISE-Statistic 1984 2091 As I mentioned in the prepared remarks, there was a $640 million adjustment and there was a one-off change.
+87qTdOnfKe CLAIM-Fact 2160 2235 And so the underlying growth rate for service in the quarter was fantastic.
+-X9q82Cqog PREMISE-Statistic 2236 2247 It was 24%.
+yH5lGe61tW PREMISE-Fact 2248 2324 It's the highest growth rate that we've had for services during fiscal 2017.
+iFTbRx-_u7 PREMISE-Fact 2367 2476 I would highlight maybe three of these businesses within Services at the App Store set a new all-time record.
+tUU8IsAZtr CLAIM-Fact 2325 2366 So the business is going incredibly well.
+EMZ_D-6t03 CLAIM-Reformulated 2477 2504 It's going incredibly well.
+PEgvbdVG00 PREMISE-Statistic 2634 2695 Apple Music was up, subscriptions were up 75% year over year.
+8xMIhNelaF CLAIM-Fact 2505 2633 The number of paying accounts continues to grow very strongly, and that's very, very important to us for the App Store business.
+SfrzhUGXS6 PREMISE-Fact 2696 2786 We're getting the highest conversion rates that we've had since the launch of the service.
+P81dH3Q2hh CLAIM-Fact 2787 2824 And so we turned the corner in Music.
+9ulMzZDCR_ CLAIM-Fact 2092 2159 And it's important to call it out because of course it's a one-off.
+00sZE7LDEn PREMISE-Fact 2825 2996 You remember that a few years ago, we were actually declining in Music; now with the streaming service in addition to the download business, the business is growing again.
+tr7N6S9jaz CLAIM-Fact 2997 3068 And that really helps the growth rate for the entire Services business.
+kAodw4QRtA CLAIM-Fact 3069 3163 iCloud is a service that continues to grow very strong double digits, and that's also helping.
+1Nl-MMSkHn CLAIM-Fact 3164 3219 So we already become the size of a Fortune 100 company.
+Yvo6mGf7ni CLAIM-Fact 3220 3332 We set a goal for ourselves to double what we did in fiscal 2016, and the trajectory is actually quite positive.
+bea7SHPvu_ NON-ARG 3347 3366 Thank you, Shannon.
+ldbqSFax_5 NON-ARG 3367 3407 Could we have the next question, please?
+v-pjWJOfS3 NON-ARG 779 783 Yes.
+303rgnrKpJ CLAIM-Fact 915 1061 And we've tried hard to have an iPhone that is as affordable as possible for people that really want an iPhone but may have a more limited budget.
+ANiVsY09pW PREMISE-Fact 1062 1127 And we've got some iPhones that are really great for that market.
+y42-R6Z7p6 PREMISE-Fact 1128 1226 And then we've got three new iPhones and people will look at these and decide which one they want.
+ehg0hwL4s1 CLAIM-Fact 1419 1601 And so we're going to see what happens, but we put our absolutely best thinking that we have here in the guidance that Luca presented, and you can tell from that, that we're bullish.
+8ZPzRuCord CLAIM-Opinion(view) 784 914 In terms of what we saw in Q4, you can probably tell from the ASP we had good success, I would say, through the different iPhones.
+Jg_hYAknqx NON-ARG 1227 1364 And this is the first time we've ever been in the position that we've had three new iPhones at once like this at the top end of the line.
+_XWsuBsgKi NON-ARG 1365 1418 And it's the first time we've had a staggered launch.
+R0 SUPPORT ARG1:-X9q82Cqog ARG2:87qTdOnfKe
+R1 SUPPORT ARG1:yH5lGe61tW ARG2:87qTdOnfKe
+R2 SUPPORT ARG1:iFTbRx-_u7 ARG2:tUU8IsAZtr
+R3 SUPPORT ARG1:PEgvbdVG00 ARG2:P81dH3Q2hh
+R4 SUPPORT ARG1:SfrzhUGXS6 ARG2:P81dH3Q2hh
+R5 SUPPORT ARG1:00sZE7LDEn ARG2:tr7N6S9jaz
+R6 SUPPORT ARG1:ANiVsY09pW ARG2:303rgnrKpJ
+R7 SUPPORT ARG1:y42-R6Z7p6 ARG2:303rgnrKpJ
+ArgQ0 87qTdOnfKe SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 tUU8IsAZtr SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 P81dH3Q2hh SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 tr7N6S9jaz SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 303rgnrKpJ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

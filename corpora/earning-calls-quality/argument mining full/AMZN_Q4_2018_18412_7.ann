@@ -1,0 +1,23 @@
+XbFZOKW_bu NON-ARG 769 774 Yeah.
+13QKN0CJvm NON-ARG 775 785 Thank you.
+lNLZ_vlU2C NON-ARG 786 938 Let me start with that last part, because I think if we step back and put 2018 in perspective, there are some clear trends regarding our cost structure.
+2oKR1RC1yb PREMISE-Statistic 939 1099 Starting with fulfillment costs, so in the prior two years, 2016, and 2017, we had grown our square footage tied to fulfilment and shipping by greater than 30%.
+-H7i_rne7C PREMISE-Statistic 1100 1133 In 2018, that number grew by 15%.
+4u8Bk01kEh PREMISE-Statistic 1340 1521 Similarly on headcount, we grew headcount by 48% in 2016, 38% in 2017, if you exclude the acquisitions of Whole Foods and Souq, which drove the number up to closer to 68% I believe.
+uqfQ-WsRtw PREMISE-Statistic 1522 1555 Last year, we were at 14% growth.
+vgxFQm1-lc CLAIM-Fact 1556 1892 And so, there was a lot of leverage and a lot of, in a way, there was a lot of pre hiring in 2017 that we digested in 2018, while we still continue, in some areas, especially things like our core retail business and also G&A functions, but then we continue to invest again in the technology tied to AWS sales team to an AWS device area.
+YK_Q4rMROX PREMISE-Statistic 1893 1991 So their groups are growing considerably higher than that 14%, but on total, the company grew 14%.
+Lr3ZAVhUss PREMISE-Statistic 1992 2263 And then on capital, especially infrastructure capital, if you use the capital lease slide as maybe an indicator for what we have invested into our AWS business to support infrastructure and global expansion, that number grew 10% last year, when it had grown 69% in 2017.
+Q3nt8rQcRd PREMISE-Fact 2264 2419 So in a lot of ways, 2018 was about banking the efficiencies of investments in people, warehouses, infrastructure that we had put in place in 2016 and ’17.
+3sUuzYRMRl CLAIM-Opinion(view) 2610 2733 I would expect these investments to increase relative to 2018 and we've reflected what we see so far in Q1 in our guidance.
+4SC0R-UsMD CLAIM-Fact 2420 2609 So while we'll continue to concurrently drive growth and customer offering and Prime benefits, we certainly do take costs seriously and we will continue to work on operational efficiencies.
+fdtOBAvjbB PREMISE-Fact 1134 1256 Certainly, unit demand was lower, but AFN or Amazon Fulfilled demand were, we’ve combined FBA and retail, remained strong.
+RA96_3Aha1 CLAIM-Fact 1257 1339 So we had a banking, if you will, of some large expansions in the prior two years.
+R0 SUPPORT ARG1:4u8Bk01kEh ARG2:vgxFQm1-lc
+R1 SUPPORT ARG1:uqfQ-WsRtw ARG2:vgxFQm1-lc
+R2 SUPPORT ARG1:YK_Q4rMROX ARG2:vgxFQm1-lc
+R3 SUPPORT ARG1:Lr3ZAVhUss ARG2:4SC0R-UsMD
+R4 SUPPORT ARG1:Q3nt8rQcRd ARG2:4SC0R-UsMD
+R5 SUPPORT ARG1:2oKR1RC1yb ARG2:RA96_3Aha1
+R6 SUPPORT ARG1:-H7i_rne7C ARG2:RA96_3Aha1
+R7 SUPPORT ARG1:fdtOBAvjbB ARG2:RA96_3Aha1

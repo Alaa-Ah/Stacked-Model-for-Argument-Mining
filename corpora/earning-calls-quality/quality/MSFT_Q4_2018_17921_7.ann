@@ -1,0 +1,16 @@
+NyUG15Oeqe CLAIM-Opinion(view) 621 703 Overall, we are very committed and very bullish about the opportunity in dynamics.
+TzB3NDrd2A PREMISE-RealExample 704 891 With Dynamics 365 for example, what you even to see in this last fiscal year which has been the first full fiscal year where we have this modern, modular approach to business application.
+RjeaUzcQkA CLAIM-Opinion(view) 892 994 I think it's very disruptive in the market place because it brings a very different value proposition.
+jiv9dhgFUn PREMISE-Fact 995 1058 It has a price advantage and the value advantage for customers.
+9oIsXNGu6O CLAIM-Fact 1059 1189 And in it what is fundamentally fragmented mark, this is not a business application never was and never will be a winner-take-all.
+8-Uxt0tnxx NON-ARG 1190 1309 I know folks think about it best state, it’s not I mean it’s about one small category in one segment called enterprise.
+c6eYRyPTd3 NON-ARG 1310 1378 There’s a share -- high share consider it 25%, 35% of what have you.
+9hiPTdiV8O CLAIM-Fact 1379 1581 So in some sense, this one has always been about being able to serve customers especially in an increasing digitization work, right, which is the need for more business process automation is increasing.
+RetMV2rKqo PREMISE-Fact 1582 1763 Take an IoT project, translate into a preventive maintenance in Azure and then ends up as fields service and Dynamics, that’s been one pattern and we’ve seen a ton of traction with.
+bV8PjGgs0q CLAIM-Reformulated 1764 1990 So to me us going in fact to these new secular growth opportunities while being disruptive to the status quo of anyone who has high margins and very high price monolithic products today is basically our strategy going forward.
+R0 SUPPORT ARG1:TzB3NDrd2A ARG2:NyUG15Oeqe
+R1 SUPPORT ARG1:jiv9dhgFUn ARG2:RjeaUzcQkA
+R2 SUPPORT ARG1:RetMV2rKqo ARG2:9hiPTdiV8O
+ArgQ0 NyUG15Oeqe SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 RjeaUzcQkA SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 9hiPTdiV8O SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

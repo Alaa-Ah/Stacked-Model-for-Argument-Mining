@@ -1,0 +1,35 @@
+7lcyodI7pV NON-ARG 701 722 Hey, Doug, it's Dave.
+x7vSeljEI- NON-ARG 723 800 Yes, on the Q4 outlook, we are lapping a few different product optimizations.
+BkIxsQBcF- NON-ARG 801 975 We made a couple of those that I would cite as optimizations and how the ad auction operates, which can have an impact and also an increase in ad load on IG feed and stories.
+uPXoJvlZ0O NON-ARG 976 1042 And so, as I noted, these are factors that are largely Q4 related.
+GaDuh8wSP2 NON-ARG 1043 1129 And given that we would expect that 2020 revenue deceleration to much less pronounced.
+7N1xQmtJAs CLAIM-Opinion(view) 1130 1267 And then in addition, in Q4, and over the longer term, we do continue to expect to face ad targeting related headwinds and uncertainties.
+WHZtfVY01- PREMISE-Fact 1268 1387 And I just go back to the three factors that I cited in the past that the regulatory landscape is continuing to evolve.
+FsDY48v2N5 PREMISE-RealExample 1388 1559 So for example, when GDPR came into effect, we saw a number of people who opted out on allowing us to use context from the apps and websites they visited for ad targeting.
+Abi8oY5Dby PREMISE-Fact 1560 1764 And then the second factor is just we're seeing proposed changes from the mobile platforms that are more oriented towards privacy which could affect targeting and measurement and make that more difficult.
+u9rIXdoXp5 PREMISE-Fact 1765 1924 And then finally, we are rolling out our own product changes such as the recent launch of OSA that's our user control on what data stored on Facebook activity.
+FIA4ZlO6Q4 NON-ARG 1925 1972 So I'd say those three factors still factor in.
+VSoOH9acl- NON-ARG 1973 2096 And when it comes to this, I'd say the majority of the potential signal loss is still in front of us rather than behind us.
+W8U761kFp5 CLAIM-Reformulated 2097 2195 So I think those headwinds are still real and out there and that factors into our outlook as well.
+Kxvcffrx8m NON-ARG 2213 2255 I'll take the Instagram Shopping question.
+roiKfdJhSY CLAIM-Opinion(view) 2256 2314 We think there is a big opportunity over the long run here
+mt1Yi0I_T_ PREMISE-Statistic 2315 2388 because 90% -- more than 90% of Instagram users are following a business.
+R9cnfiF4tU CLAIM-Fact 2389 2515 But on the shopping product itself, it is still very early days and we're working to improve the product and it's quite small.
+eXgWsMl_Hv PREMISE-Fact 2516 2672 We started testing in Q3 shopping ads, the idea that shoppers can tap on ad, see a product description page and can purchase from the business' mobile site.
+FaAAts0U-r CLAIM-Reformulated 2673 2727 Again, we think interesting product, but very nascent.
+JU03_OEPB9 CLAIM-Reformulated 3146 3276 But as we can help people reduce friction and close that loop, we think that's a good opportunity for people and for our business.
+awXctkN9z3 CLAIM-Reformulated 2954 3042 I think we have been and continue to be a great place for people to browse and discover.
+IMu3CHtj5o PREMISE-Fact 2728 2953 Our overall commerce efforts go across not just Instagram but Facebook and all of our properties, and our goal is to make it more convenient and accessible and secure for people and business to browse, discover, buy and sell.
+F4F2etg1Wh PREMISE-Fact 3043 3145 That continues to drive the great, great majority of our business and well for the foreseeable future.
+R0 SUPPORT ARG1:WHZtfVY01- ARG2:7N1xQmtJAs
+R1 SUPPORT ARG1:FsDY48v2N5 ARG2:7N1xQmtJAs
+R2 SUPPORT ARG1:Abi8oY5Dby ARG2:7N1xQmtJAs
+R3 SUPPORT ARG1:u9rIXdoXp5 ARG2:7N1xQmtJAs
+R4 SUPPORT ARG1:mt1Yi0I_T_ ARG2:roiKfdJhSY
+R5 SUPPORT ARG1:eXgWsMl_Hv ARG2:R9cnfiF4tU
+R6 SUPPORT ARG1:IMu3CHtj5o ARG2:awXctkN9z3
+R7 SUPPORT ARG1:F4F2etg1Wh ARG2:awXctkN9z3
+ArgQ0 7N1xQmtJAs SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 roiKfdJhSY SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 R9cnfiF4tU SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 awXctkN9z3 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

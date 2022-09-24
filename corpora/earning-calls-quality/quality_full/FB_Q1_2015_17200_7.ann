@@ -1,0 +1,50 @@
+TCNSQKHkP7 CLAIM-Fact 2302 2415 To your question on targeting and closing the loop, these are two really important pieces for what we want to do.
+svgeVuT-oe PREMISE-Fact 2416 2666 Our goal when we work with marketers is to drive their business, and that means their products off the shelves, their services into the hands of people, and so in order to do that well, we need to work on targeting and we need to work on measurement.
+Ioqj-cb6nj PREMISE-RealExample 2667 2855 So with targeting, a more relevant ad is just better, it's better experience for consumers because they see something they like in their News Feed and it has a higher return for marketers.
+IwU5BVwOJU PREMISE-RealExample 2856 3282 And so we're very focused on getting more people to use our targeting tools from Custom Audiences which lets people target ads differently to their current customers or people who they'd like to be their customers to look like audiences which enables us to identify the kind of characteristics of your current customers and then find other people on Facebook who share those characteristics so, again, the ad is well targeted.
+4lf8YYjYGF CLAIM-Opinion(view) 3283 3340 I think our targeting abilities are really second to none
+C3aQlRp3oz PREMISE-RealExample 3342 3374 and I'll share a recent example.
+VdX_UcpT9Y PREMISE-RealExample 3375 3568 XFINITY put out a voice guide for visual disabilities, and they did this, they did this by doing an Oscar commercial with a girl who is blind imagining what Wizard of Oz characters looked like.
+D-5sFn14_f PREMISE-RealExample 3569 3731 Now by doing that at the Oscars, that's obviously TV and it's a very broad ad and that's because they were both showing a product but also working on their brand.
+ZrU24kXAsA PREMISE-RealExample 3732 3860 On Facebook, they took that ad and showed it to movie fans, Wizard of Oz fans and also people connected to accessibility causes.
+PXIBAGoSqZ PREMISE-Fact 3861 4096 That's actually pretty specific targeting that lets them hit exactly the right audience and amplify what they were doing on TV, and I think that's the kind of thing that only we can do at scale, and it shows how important targeting is.
+76TPTEDBQe CLAIM-Policy 4097 4181 When you think about closing the loop, you then have to add in the measurement piece
+6w9PWfvLZH PREMISE-Fact 4182 4408 because if we can connect, people seeing ads on Facebook to what they buy, in stores or in other ways, that's how you close the loop and that's why we put so much investment and hopefully so much innovation behind measurement.
+8pty8rmOAB PREMISE-Fact 4409 4681 So conversion tracking is increasingly used, and we work with our marketers to use it even more, and we're also really excited about conversion list because that's the first product we've had which scientifically measures the additional business you get from Facebook ads.
+CEy90JlGRH PREMISE-Fact 4682 4750 It compares test groups that see ads with control groups that don't.
+SEp8LfZv5J PREMISE-Fact 4751 4921 So whatever you're measuring in terms of conversions whether it's sales or website clicks or registrations, we can A, B test and see exactly what the impact Facebook has.
+EOMEgQiBvo CLAIM-Opinion(view) 4922 4967 I think we're still at the beginning of this.
+hV7zp3XbwM PREMISE-Fact 4968 5166 I think there is so much more we can do to make ads more relevant on Facebook and so much more we can do to measure results, and I think our future growth will depend on executing on that very well.
+5vId8moX8v NON-ARG 992 997 Yeah.
+vRF5oRe8wI CLAIM-Opinion(view) 1343 1369 so I'm excited about that.
+H4rdLuFqUL PREMISE-Fact 998 1342 So in terms of news and different kinds of content, I know this has traditionally been something that we've delivered a really good experience for in terms of people being able to share the content that they want, being able to get access to the content that they want, different recommendations from friends, and we've a lot more coming there,
+toTU2nR2Wp PREMISE-Fact 1370 1768 And we definitely do see in this family of app strategy that there's so many new ways that people want to share content, and so many different types of sets of people that people want to share with, right, ranging from one person at a time and that would be messaging or small group sharing or sharing with interest-based communities or sharing with all your friends at once or sharing with public.
+iZJYi5ppst CLAIM-Policy 1769 1838 There are just a lot of different experience that needs to get built.
+BaVKVm2iiv PREMISE-Fact 1839 2093 And a lot of what we're trying to do is enable a number of those things through Facebook, while also building unique world-class services to enable people to share all the things they care about with all the different sets of people that they care about.
+5yWEk43his CLAIM-Fact 2094 2137 So we're going to keep on doing more there.
+K_NK0opZEO CLAIM-Opinion(view) 2138 2176 But we're happy with where we are now.
+CLNem4PMfP PREMISE-Fact 2177 2241 We have a number of services that are reaching pretty good scale
+Rm5SBHfB54 CLAIM-Reformulated 2242 2281 and I think we'll keep on pushing that.
+R0 SUPPORT ARG1:svgeVuT-oe ARG2:TCNSQKHkP7
+R1 SUPPORT ARG1:Ioqj-cb6nj ARG2:TCNSQKHkP7
+R2 SUPPORT ARG1:IwU5BVwOJU ARG2:TCNSQKHkP7
+R3 SUPPORT ARG1:C3aQlRp3oz ARG2:4lf8YYjYGF
+R4 SUPPORT ARG1:VdX_UcpT9Y ARG2:4lf8YYjYGF
+R5 SUPPORT ARG1:D-5sFn14_f ARG2:4lf8YYjYGF
+R6 SUPPORT ARG1:ZrU24kXAsA ARG2:4lf8YYjYGF
+R7 SUPPORT ARG1:PXIBAGoSqZ ARG2:4lf8YYjYGF
+R8 SUPPORT ARG1:6w9PWfvLZH ARG2:76TPTEDBQe
+R9 SUPPORT ARG1:8pty8rmOAB ARG2:76TPTEDBQe
+R10 SUPPORT ARG1:CEy90JlGRH ARG2:76TPTEDBQe
+R11 SUPPORT ARG1:SEp8LfZv5J ARG2:76TPTEDBQe
+R12 SUPPORT ARG1:hV7zp3XbwM ARG2:EOMEgQiBvo
+R13 SUPPORT ARG1:CLNem4PMfP ARG2:K_NK0opZEO
+R14 SUPPORT ARG1:H4rdLuFqUL ARG2:vRF5oRe8wI
+R15 SUPPORT ARG1:toTU2nR2Wp ARG2:iZJYi5ppst
+ArgQ0 TCNSQKHkP7 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 4lf8YYjYGF SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 76TPTEDBQe SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 EOMEgQiBvo SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 K_NK0opZEO SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 vRF5oRe8wI SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ6 iZJYi5ppst SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

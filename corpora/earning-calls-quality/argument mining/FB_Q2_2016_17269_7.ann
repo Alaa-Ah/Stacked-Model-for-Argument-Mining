@@ -1,0 +1,30 @@
+eTNYKehmDk NON-ARG 1283 1402 Yeah, so for M, we've released the Messenger platform M bot in the last six months – F8 was the big announcement there.
+-vII6rXpXn NON-ARG 1403 1607 And I think since then, I think we've announced we have more than 10,000 bots in the system, which are basically making it so that different businesses can build automated ways to communicate with people.
+EcXlB-mEZV CLAIM-Opinion(view) 1608 1771 The way we think about this experience is that, qualitatively, I don't know a single person really who wants to call a business to get support or interact with it.
+NlkpyPZTIm PREMISE-Fact 1772 1888 Whether that's trying to get a reservation for a restaurant or getting customer support or calling to buy something.
+ND0ptTLUby PREMISE-Fact 1889 1921 And those are slow interactions.
+ZmiU-UAGUD PREMISE-Fact 1922 1942 They're synchronous.
+Df3_SGXc5j PREMISE-Fact 1943 2001 They consume your whole attention while you're doing them.
+6bYlQuGpY3 PREMISE-Fact 2002 2227 And if we can make it so that you can have some of those interactions in an automated way where you fire off a text and then just get a response back quickly, but asynchronously so it doesn't take up your full attention, then
+x2NaDJLbeW CLAIM-Opinion(view) 2228 2314 I think that's going to be a much better experience that people really enjoy and like.
+84z2S1b-KP CLAIM-Opinion(view) 2315 2379 So we're in the experimentation phase I think with the platform.
+1oyj6St-OT PREMISE-Fact 2380 2431 We're seeing a lot of good ideas getting tried out.
+GRb7ktN2CE PREMISE-Other 2432 2620 And I personally enjoy a lot of the different bots that people are using or making, especially the news one where you get these digests at the end of the day of different kinds of content.
+lsorZIXLim NON-ARG 2621 2841 And between that and M, which is kind of our own internal bot that we're building, I think that this is going to be an interesting area to watch and encourage more interaction between people and businesses and messaging.
+OytNOcwlxB NON-ARG 837 883 On any update on M, I can start with that one.
+rDGksDidLr NON-ARG 884 892 Do you -
+JQ7pwbUAH5 NON-ARG 917 946 I was going to take that one.
+z2mUGvnajN NON-ARG 964 967 Oh.
+4XGIZszdqN NON-ARG 968 1000 You were going to take that one?
+p6Vyk548N1 NON-ARG 1001 1089 On the Instagram MAU question, I don't think we're breaking out by region Instagram MAU.
+xkPSXzgKX1 NON-ARG 1090 1155 So, no, I don't think there's any update there that I'm aware of.
+UqXONfwJfY NON-ARG 1180 1185 Okay.
+iIbXGHxxch NON-ARG 1186 1224 Yeah, so we just haven't updated that.
+wnTR4tGFEi NON-ARG 1242 1258 Yeah, all right.
+R0 SUPPORT ARG1:NlkpyPZTIm ARG2:EcXlB-mEZV
+R1 SUPPORT ARG1:ND0ptTLUby ARG2:EcXlB-mEZV
+R2 SUPPORT ARG1:ZmiU-UAGUD ARG2:EcXlB-mEZV
+R3 SUPPORT ARG1:Df3_SGXc5j ARG2:EcXlB-mEZV
+R4 SUPPORT ARG1:6bYlQuGpY3 ARG2:x2NaDJLbeW
+R5 SUPPORT ARG1:1oyj6St-OT ARG2:84z2S1b-KP
+R6 SUPPORT ARG1:GRb7ktN2CE ARG2:84z2S1b-KP

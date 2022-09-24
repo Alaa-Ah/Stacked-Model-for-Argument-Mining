@@ -1,0 +1,30 @@
+L9vvqOp7Mh NON-ARG 486 490 Yes.
+49vcFRW-Fo NON-ARG 491 521 Let's start with the dividend.
+zVVAiEpDdU CLAIM-Opinion(view) 657 741 So we think it's a very meaningful increase for all the investors that value income.
+-3mYazEf7c PREMISE-Statistic 522 549 We're increasing it by 16%.
+qewAR-VUlp PREMISE-Fact 550 656 This is the largest increase that we've done since we've reintroduced the dividend back in August of 2012.
+H0oITM5iKJ CLAIM-Opinion(view) 1054 1132 We believe the stock is undervalued and so we have a bias towards the buyback.
+g0I-dfwDZ2 CLAIM-Reformulated 1133 1415 So the dividend is a very large component of capital return because we're going to be returning more than $13 billion a year to investors through dividends but we believe that given where we are with the valuation of the stock, we think that we continue to do the buyback primarily.
+ZpkXuVbKAa PREMISE-Fact 742 921 Obviously, when we come down to capital allocation decisions, we obviously also keep in mind that the opportunity for us to do some M&A activities which we do in an ongoing basis.
+yAvDyELU-t PREMISE-Fact 922 1053 But when it comes down between dividends and buyback, our view is that for a variety of reasons we see a lot of value in the stock.
+R_ElOHVv8Z NON-ARG 1416 1543 We are not giving an end date to the program this time because the amount is very, very large and so we will try to execute it.
+eSUjESuSDN CLAIM-Fact 1544 1681 As you've seen from our track record during the last five years, we will do it at a very fast pace but we also want to do it efficiently.
+s7M3LdLwH_ PREMISE-Fact 1682 1748 We want to make sure that we buy back the stock at the right time.
+SEj_kVkLs5 PREMISE-Statistic 1749 1842 And so with that in mind, we have done $23.5 billion of repurchases during the March quarter.
+NfGqEF8BMg NON-ARG 1843 2004 We will give you an update to our activities at the end of every quarter and then 12 months from now we will actually talk about an update to the entire program.
+-r18ln4q5O NON-ARG 2005 2069 So you will be able to keep track of our progress every 90 days.
+RyGJyxPwCe NON-ARG 2417 2751  We think about it very broadly and you can tell that a bit by some of the things that we've had going with ResearchKit and CareKit and most recently the health records that I had referenced in my initial comments and those all came out of getting significantly engaged in the Apple Watch and sort of pulling the strings, so to speak.
+wcwDjqaiul NON-ARG 2752 2853 And we also have a heart study that is going on currently, and so I don't want to give too much away.
+kQGvyItVbS NON-ARG 2854 2936 But it's an area of great interest where we think we can make a big difference in.
+DgWisYIILV NON-ARG 2937 2982 And so it's a major strategic thrust of ours.
+yakWXoQDfE NON-ARG 2996 3011  Thanks, Steve.
+PbrZOFiCdJ NON-ARG 3012 3052 Could we have the next question, please?
+R0 SUPPORT ARG1:-3mYazEf7c ARG2:zVVAiEpDdU
+R1 SUPPORT ARG1:qewAR-VUlp ARG2:zVVAiEpDdU
+R2 ATTACK ARG1:ZpkXuVbKAa ARG2:H0oITM5iKJ
+R3 SUPPORT ARG1:yAvDyELU-t ARG2:H0oITM5iKJ
+R4 SUPPORT ARG1:s7M3LdLwH_ ARG2:eSUjESuSDN
+R5 SUPPORT ARG1:SEj_kVkLs5 ARG2:eSUjESuSDN
+ArgQ0 zVVAiEpDdU SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 H0oITM5iKJ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 eSUjESuSDN SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2

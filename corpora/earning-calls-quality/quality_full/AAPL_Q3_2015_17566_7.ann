@@ -1,0 +1,49 @@
+3Xb_LrVHl1 NON-ARG 472 485 Yes, Shannon.
+KJixiQQoUs CLAIM-Fact 486 553 So obviously FX has been a significant hit in many ways, of course.
+p6bkU7bavQ PREMISE-Fact 554 588 I mean it reduces our growth rate.
+wIfPceE90E PREMISE-Statistic 589 732 We would be 800 basis points higher this quarter from the 33% that we've reported if it wasn't for the movement in currencies around the world.
+xsJrRuohY7 PREMISE-Fact 733 876 And really when you look around the world, it's really if you exclude China, essentially every single currency has weakened against the dollar.
+e_bJ0dC7Gb CLAIM-Opinion(view) 877 986 We are pretty careful and thoughtful about where we increase prices and when and by how much during mid-cycle
+Hmo6SiPzK8 PREMISE-Fact 987 1046 because it's not something that we particularly like to do.
+N0XOlXxNWG PREMISE-Fact 1047 1211 We've had circumstances around the world this year where frankly we didn't have many options because the currency movement was so large and so we've had to reprice.
+0R3bFNKNCx PREMISE-Fact 1212 1252 I have to say that it's been remarkable.
+oJjvvKjlYn PREMISE-Fact 1253 1343 Look, in the long run a strong US dollar is not a positive for our international business.
+kyXH8UC4Ka PREMISE-Fact 1344 1398 It's normal to see a drop in demand when prices go up.
+Zd1tWuxZl2 PREMISE-Fact 1399 1424 That goes without saying.
+snHzjZiumk CLAIM-Reformulated 1425 1503 It has been remarkable so far to see that we did take prices in a few markets.
+aO385kXD-5 CLAIM-Fact 1504 1747 But really remarkable to see how resilient iPhone sales have been, because we have increased, in spite of these price increases, we've increased sales and we've increased market share in all our geographies around the world, without exception.
+SIpu-sYJ5r NON-ARG 2129 2153 Yeah, Shannon, it's Tim.
+JKZVz8ho-p NON-ARG 2154 2224 Maybe the best way to talk about this is sort of at the product level.
+DxLRHAeu-n PREMISE-Fact 2225 2284 On the Watch, our June sales were higher than April or May.
+tG4XZlE0vh PREMISE-Fact 2285 2394 I realize that's very different than what some of the, is being written, but the June sales were the highest.
+BYCRI-x0Do CLAIM-Fact 2395 2457 And so the Watch had a more of a back-ended kind of a skewing.
+G0yIMjs4de CLAIM-Fact 2458 2536 The phone itself followed what I would call a normal seasonal kind of pattern.
+GZcZrF2gJS PREMISE-Fact 2537 2634 And if you look at the – it sounds like you're honing in on the Greater China results themselves.
+eB3cIc4nmn PREMISE-Fact 2635 2712 There is no obvious impact from the last quarter in the Greater China numbers
+1xFJwtqHwL PREMISE-Statistic 2714 2839 And obviously with the aggregate or the consolidated number being 112%, it's hard to find a lot of bad things in the numbers.
+hPeVkdrirm NON-ARG 85 106  Thank you very much.
+OabruSkIXD NON-ARG 107 174 I wanted to talk about FX but not necessarily from a direct impact.
+TBrCszCfzL NON-ARG 175 457 But what are you seeing in terms of demand as you've raised prices in various geographies and how are you thinking about it as you go into sort of the next iPhone cycle in terms of having to sort of normalize the pricing for what some of the currencies have done over the past year?
+YaLaMxGBni NON-ARG 1765 1772  Great.
+fEXgswnZfP NON-ARG 1773 1858 And then can you talk a bit about linearity during the quarter on a geographic basis?
+MgTJgrENSX NON-ARG 1859 1964 Somewhat going back to the China question, I mean did you see it slow down toward the end of the quarter?
+yuzDBULgfc NON-ARG 1965 1992 Or was it solid through it?
+JaerTnNjyM NON-ARG 1993 2111 And just any other color you can give geographically with Europe and some of the other macro events that are going on.
+R0 SUPPORT ARG1:p6bkU7bavQ ARG2:KJixiQQoUs
+R1 SUPPORT ARG1:wIfPceE90E ARG2:KJixiQQoUs
+R2 SUPPORT ARG1:xsJrRuohY7 ARG2:KJixiQQoUs
+R3 SUPPORT ARG1:Hmo6SiPzK8 ARG2:e_bJ0dC7Gb
+R4 SUPPORT ARG1:N0XOlXxNWG ARG2:e_bJ0dC7Gb
+R5 SUPPORT ARG1:0R3bFNKNCx ARG2:e_bJ0dC7Gb
+R6 SUPPORT ARG1:oJjvvKjlYn ARG2:e_bJ0dC7Gb
+R7 SUPPORT ARG1:kyXH8UC4Ka ARG2:e_bJ0dC7Gb
+R8 SUPPORT ARG1:Zd1tWuxZl2 ARG2:e_bJ0dC7Gb
+R9 SUPPORT ARG1:DxLRHAeu-n ARG2:BYCRI-x0Do
+R10 SUPPORT ARG1:tG4XZlE0vh ARG2:BYCRI-x0Do
+R11 SUPPORT ARG1:GZcZrF2gJS ARG2:G0yIMjs4de
+R12 SUPPORT ARG1:eB3cIc4nmn ARG2:G0yIMjs4de
+R13 SUPPORT ARG1:1xFJwtqHwL ARG2:G0yIMjs4de
+ArgQ0 KJixiQQoUs SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 e_bJ0dC7Gb SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 BYCRI-x0Do SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ3 G0yIMjs4de SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

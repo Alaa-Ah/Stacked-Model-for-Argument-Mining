@@ -1,0 +1,49 @@
+_DduJosZj1 PREMISE-Statistic 678 708 We are guiding to $62 billion.
+-1J5HMRk_b CLAIM-Value 709 755 It's a strong double-digit growth, 13% to 17%.
+e7OC4ItJ3r PREMISE-Statistic 756 814 In context, it's $7 billion to $9 billion above last year.
+rfB91Q8mum PREMISE-Statistic 815 1075 So when you put things in perspective and you add the $10 billion of growth that we had in the first quarter and the $7 billion to $9 billion that we're guiding to for the second quarter, you're talking about $17 billion to $19 billion of growth in six months.
+y3h_4l6rIh NON-ARG 1076 1103 This is at the macro level.
+w0mmo7ctEx NON-ARG 1104 1220 We typically don't go into this level of detail, but think it's important this quarter to give you additional color.
+ceHH6NvSV7 CLAIM-Opinion(view) 1221 1373 And maybe the two most important messages are that we believe iPhone revenue will grow double digits as compared to last year, during the March quarter.
+5_sM-N3rpY CLAIM-Opinion(view) 1374 1548 And also and importantly that iPhone sell-through growth on a year-over-year basis will be actually accelerating during the March quarter as compared to the December quarter.
+Jkkk50Wgg1 NON-ARG 1549 1686 Let me explain the factors that we took into consideration as we came up with our iPhone units and ASP that are embedded in our guidance.
+1tdQTS896T NON-ARG 2472 2536 For ASPs, there's also another element that we need to consider.
+wTwhuZ1aYd PREMISE-Fact 2537 2624 As you know, our newest products this year have a higher ASP than they had in the past.
+dnjt9kwT_G CLAIM-Reformulated 2828 2976 So in summary, our guidance for iPhone; we got double digit year-over-year growth and acceleration of sell-through growth on a year-over-year basis.
+XAXHICzqOb CLAIM-Reformulated 2977 3194 For the balance of the Company, in the aggregate, we expect to grow strong double-digits year-over-year and particularly very strong performance in service and in wearables like we’ve seen during the December quarter.
+pmXtY4SBHI NON-ARG 3195 3213 I hope this helps.
+9ht5AuIhuf CLAIM-Opinion(view) 2625 2827 And so as a result, as we reduce inventories of these newest products, the overall ASPs for iPhone in Q2 will naturally decline sequentially by a higher percentage than we have experienced historically.
+joxKsHsHiS PREMISE-Fact 1687 1835 Historically, because the channel fill and the holiday season, our selling volume during the December quarter is generally higher than sell-through.
+S5kbqTXFB5 PREMISE-Fact 1836 1959 This year, the difference was further magnified, because we shipped iPhone X in November rather than the September quarter.
+SY5LTJnLob PREMISE-Fact 1960 1998 We had a very successful product ramp.
+TFh6FROu4C CLAIM-Opinion(view) 1999 2178 We were able to reach supply/demand balance in December, which placed the entirety of our channel fill for iPhone X in Q1 and this will have an effect on both units and ASP in Q2.
+B6k2gke_QT NON-ARG 2179 2231 Now, for units, there is a second point to consider.
+oD90sM633k CLAIM-Fact 2232 2300 We typically reduced channel inventory for our newest iPhones in Q2,
+8PfMEBBVpu PREMISE-Fact 2301 2418 because they enjoy very large demand in the initial weeks of sales, which are compounded by the holiday season in Q1.
+frTw6yViiX CLAIM-Opinion(view) 2419 2471 So we anticipate doing that in Q2 this year as well.
+tLBIMVhGjd NON-ARG 3617 3662 Let me walk you through the sequential first.
+dkL0l788ug CLAIM-Fact 3663 3737 So we’re guiding about flat sequentially in spite of the loss of leverage.
+lpCyvupvn7 CLAIM-Opinion(view) 3836 3919 And we expect to offset the seasonality impact with cost improvements and with mix.
+20qo0-30xN CLAIM-Policy 3738 3835 That is the largest element that we need to take into account because of our typical seasonality.
+xewIemIrzl CLAIM-Fact 3920 3961 FX on a sequential basis is fairly muted,
+x8TCwA6Psg PREMISE-Fact 3962 4080 because as you know, we've got a hedging program that protects us from the volatility of currencies in the short term.
+C6LwjBM-t3 CLAIM-Fact 4081 4255 Certainly, weaker dollar in the long term, if it holds, will be a positive but it's not something that you're going to be seeing translating to gross margin tailwind quickly.
+qqaeasQbCW NON-ARG 4256 4300 And so I think we need to keep that in mind.
+m_aQ5l_zlt CLAIM-Opinion(view) 4301 4495 We also need to keep in mind that we continue to experience a difficult memory pricing environment, which we think is going to start improving as we move into the second half of our fiscal year.
+JEvP4zfSD5 PREMISE-Fact 4496 4552 But it still has a negative impact in the March quarter.
+R0 SUPPORT ARG1:_DduJosZj1 ARG2:-1J5HMRk_b
+R1 SUPPORT ARG1:e7OC4ItJ3r ARG2:-1J5HMRk_b
+R2 SUPPORT ARG1:rfB91Q8mum ARG2:-1J5HMRk_b
+R3 SUPPORT ARG1:wTwhuZ1aYd ARG2:9ht5AuIhuf
+R4 SUPPORT ARG1:joxKsHsHiS ARG2:TFh6FROu4C
+R5 SUPPORT ARG1:S5kbqTXFB5 ARG2:TFh6FROu4C
+R6 SUPPORT ARG1:SY5LTJnLob ARG2:TFh6FROu4C
+R7 SUPPORT ARG1:8PfMEBBVpu ARG2:oD90sM633k
+R8 ATTACK ARG1:JEvP4zfSD5 ARG2:m_aQ5l_zlt
+R9 SUPPORT ARG1:x8TCwA6Psg ARG2:xewIemIrzl
+ArgQ0 -1J5HMRk_b SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 9ht5AuIhuf SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 TFh6FROu4C SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 oD90sM633k SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ4 m_aQ5l_zlt SPECIFIC_2 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ5 xewIemIrzl SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

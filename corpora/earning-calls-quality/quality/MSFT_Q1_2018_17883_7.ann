@@ -1,0 +1,25 @@
+bm_UXO0t04 NON-ARG 738 788 I mean, I can start and, Amy, you can add to this.
+9UWsiHi9As CLAIM-Opinion(view) 789 1095 The premium services, for example, the way we think about them is in everything related to our data is, and especially the higher level databases, so I'm not talking about raw storage but this is Cosmos DB or Azure DB or any of data services, our IoT services, our AI services are all the premium services.
+uHPOuDorXd CLAIM-Fact 1096 1116 And there is a path.
+UC-PxstIbV PREMISE-Fact 1117 1204 Every customer sometimes just starts with infrastructure as a service and some storage.
+sLQjEOC26e PREMISE-Fact 1205 1319 And then the lift-shift turns into lift-shift and modernize and that's where these premium services get activated.
+qULMN24Bw_ CLAIM-Fact 1320 1445 So they definitely are margin accretive for us, but most importantly, they add a tremendous amount of value to the customers.
+XeanKdAFim NON-ARG 1446 1496 And I'll let Amy add any additional color to that.
+BJb0jsvwYo NON-ARG 1510 1645 And I think, Heather, it gives me a good opportunity to talk a little bit about the real drivers of the Azure gross margin improvement.
+Vw_lzAij-t CLAIM-Fact 1646 1695 There are really, when you think about it, three.
+7a8Xb0AXj4 CLAIM-Fact 1696 1736 The first one's just pure revenue scale.
+2K_pBhOrZd CLAIM-Opinion(view) 1737 1968 We've done such a terrific job, I think, of growing and focusing and the innovation we put in and having our sales teams, through investments we've made for the past couple of years, and competency building, land that at customers.
+Y_c9OwKQVP CLAIM-Fact 1969 2078 The second component, and the one you'd asked about, is a little bit about that premium services revenue mix.
+VZX9bUs0R6 PREMISE-Other 2079 2169 And you're absolutely seeing the impact of that growth as mix show up in the gross margin.
+GNm5-hhb_D CLAIM-Fact 2170 2240 And addition to the workloads Satya mentioned, I'll also bring up EMF.
+EKYrPp8Pq7 CLAIM-Opinion(view) 2241 2302 EMF continues to be I think of incredible value to customers.
+3WS9ipY1sZ CLAIM-Opinion(view) 2303 2429 And I think we've done a very good job of pointing out its competitive advantages, and we're seeing that also benefit margins.
+aUEhKwlJCW CLAIM-Fact 2430 2683 And finally, just the strong work on the infrastructure team, both between hardware innovation done at everything from the network, all the way to the prox and their integration with each other as well as the software innovation being done on top of it.
+rHdVqm-PpS CLAIM-Reformulated 2684 2798 Those things together, with premium being a component of that, are all lending itself to gross margin improvement.
+03Bg_ZtmEI NON-ARG 2866 2882 Thanks, Heather.
+koVU4_ybB6 NON-ARG 2883 2924 We'll take the next question now, please.
+R0 SUPPORT ARG1:UC-PxstIbV ARG2:uHPOuDorXd
+R1 SUPPORT ARG1:sLQjEOC26e ARG2:uHPOuDorXd
+R2 SUPPORT ARG1:VZX9bUs0R6 ARG2:Y_c9OwKQVP
+ArgQ0 uHPOuDorXd SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Y_c9OwKQVP SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

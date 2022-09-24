@@ -1,0 +1,39 @@
+471L9BiLBV NON-ARG 1194 1207 Thanks, Karl.
+TKSc55U38V NON-ARG 1208 1243 Let me start and, Amy, you can add.
+yoKbaj3v2n CLAIM-Fact 1244 1352 I mean, for me it all comes down to really having an architectural advantage on what is a new secular trend.
+pPoGD6jun8 PREMISE-Fact 1353 1496 So when we think about the Intelligent Cloud and the Intelligent Edge, and then bring that to the Azure business, you can see it at each layer.
+qp6oUbdYb4 PREMISE-Fact 1497 1629 When it comes to infrastructure, we're the only cloud provider that provides true hybrid cloud computing with Azure and Azure Stack.
+AqVVuU9iaE PREMISE-Fact 1630 1686 When it comes to the data tier, we have real uniqueness.
+ro9-O_O6rD PREMISE-RealExample 1687 1717 Take something like Cosmos DB.
+RQu7SyDGgL PREMISE-RealExample 1718 1857 It's the only planet-scale database, that's multi-model, supports these new programming models of server-less and event-driven programming.
+XL8fCYe-51 PREMISE-Fact 1858 2023 Take SQL, what we are seeing in terms of SQL growth, in terms of Azure DB, as well as SQL server and SQL server on Linux, that's again addressing the customer needs.
+8ucbbjbXpU PREMISE-Fact 2024 2145 There are new workloads that are being born, that require both the cloud and the edge, IoT being a great example of that.
+BTJ_n7GgJ5 PREMISE-Fact 2146 2260 And especially when you take that in combination with AI, again, you train on the cloud and you score on the edge.
+m2TKaNG_Ly PREMISE-Fact 2261 2297 That's a real competitive advantage.
+YFrSROLTGt PREMISE-Fact 2298 2411 We have everything from sort of the lifecycle management of how these models get created and deployed, and so on.
+9ZonkI5d4h CLAIM-Opinion(view) 2412 2449 So I think that's what you're seeing.
+TDzpRnd0cX PREMISE-Fact 2450 2495 There will be variability quarter to quarter.
+PSsybV4M35 PREMISE-Fact 2496 2526 There will be mix differences.
+JOsJIPfSBR CLAIM-Opinion(view) 2527 2680 But overall, when I look at what is it that we need to get done is innovate on what is a fundamental architectural advantage to where the world is going.
+t1FMQtYluy NON-ARG 2691 2733 And I would say, Karl, a couple of things.
+hniGmmqn73 PREMISE-Fact 2734 2978 We've been investing here both in engineering to land the differentiation that Satya just talked about in sales resources and then continuing to invest in technical sales resources that can help our customers be successful in these deployments.
+Kod6P71lj- CLAIM-Opinion(view) 2979 3094 I actually think you're continuing to see the impact of those investments growing in time and growing in expertise.
+rDd4yWfUUD PREMISE-Other 3095 3298 And so, I feel encouraged both by the technical differentiation, but also the return on the investments we've made here, that lead us to have good amount of confidence that you do see in the guide in Q3.
+nvfb9MH_EQ NON-ARG 3299 3400 And yes, you're right, we do have a tougher comparable, particularly on-prem in Q3, which is correct.
+sPuqppnqth NON-ARG 3453 3470  Thank you, Karl.
+iYxOuuKFiD NON-ARG 3481 3495  Thanks, Karl.
+YSMOLJUxtH NON-ARG 3496 3532 We'll move to next question, please.
+R0 SUPPORT ARG1:pPoGD6jun8 ARG2:yoKbaj3v2n
+R1 SUPPORT ARG1:qp6oUbdYb4 ARG2:yoKbaj3v2n
+R2 SUPPORT ARG1:AqVVuU9iaE ARG2:yoKbaj3v2n
+R3 SUPPORT ARG1:ro9-O_O6rD ARG2:yoKbaj3v2n
+R4 SUPPORT ARG1:RQu7SyDGgL ARG2:yoKbaj3v2n
+R5 SUPPORT ARG1:XL8fCYe-51 ARG2:yoKbaj3v2n
+R6 SUPPORT ARG1:8ucbbjbXpU ARG2:yoKbaj3v2n
+R7 SUPPORT ARG1:BTJ_n7GgJ5 ARG2:yoKbaj3v2n
+R8 SUPPORT ARG1:m2TKaNG_Ly ARG2:yoKbaj3v2n
+R9 SUPPORT ARG1:YFrSROLTGt ARG2:yoKbaj3v2n
+R10 ATTACK ARG1:TDzpRnd0cX ARG2:JOsJIPfSBR
+R11 ATTACK ARG1:PSsybV4M35 ARG2:JOsJIPfSBR
+R12 SUPPORT ARG1:hniGmmqn73 ARG2:Kod6P71lj-
+R13 SUPPORT ARG1:rDd4yWfUUD ARG2:Kod6P71lj-

@@ -1,0 +1,29 @@
+gFaMgEpeO6 NON-ARG 756 787 Brian, I'll take the first one.
+uCWbDSWof- CLAIM-Fact 788 881 In terms of Facebook versus Instagram, they're obviously both contributing to revenue growth.
+ef9QiKKn6O PREMISE-Fact 882 964 Instagram is growing more quickly and making an increasing contribution to growth.
+nEVrPbCQMq CLAIM-Opinion(view) 965 1018 And we've been pleased with how Instagram is growing.
+0-Tyt-NmYP CLAIM-Fact 1019 1071 Facebook and Instagram are really one ads ecosystem.
+QPgVSKHheQ PREMISE-Fact 1072 1165 I think, from a supply perspective, both now from a feed perspective are at similar ad loads.
+0ZRMbZchhd CLAIM-Fact 1166 1325 Instagram has more heavy usage of Stories, so that's an area of continued growth opportunity because the effective levels of monetization in Stories are lower.
+TaZb6NfIOb PREMISE-Fact 1326 1501 On the demand side, we see a good traction across both platforms, and we're rolling out more ability for advertisers to leverage ads in Stories with more formats and the like.
+cM4Gzytsg1 CLAIM-Reformulated 1502 1633 So that's, again, an important opportunity for growth is just continuing to build out more products on the demand side for Stories.
+WAoPvz-ic8 NON-ARG 1658 1778 And I can take the second part of the question about the – what we're trying to do with IGTV and Watch at the same time.
+ndNGKPj-zI NON-ARG 2677 2715 These are two different takes on this.
+-mfFWIaKN8 PREMISE-Fact 1779 2085 The IGTV product approach is very focused on helping people connect with creators in a mobile-native vertical video format and helping people not only see content that they love from people that they want to follow, but build a community around those creators, which is what we see people are trying to do.
+vvas1BkVmh PREMISE-Fact 2086 2254 And creators now uniquely have the ability to both reach a large audience and connect and engage the community through the social network on Instagram at the same time.
+Ph9fZBFFzX PREMISE-Fact 2255 2568 With Watch, a lot of what we're trying to do is make it so the video content that's on Facebook and some of the content that we're acquiring through original programming that people can come together with their friends to watch that content through things like Watch Party and engage and build community that way.
+8Z192Ivy46 PREMISE-Fact 2569 2676 So there's a big space here in terms of helping people have real connections and interactions around video.
+WrjqFN2iBe CLAIM-Fact 2716 2942 Overall, what you're going to see from us on video is not just try to optimize for overall watch time, but to optimize for building products that help bring people together and help facilitate real interactions between people.
+R0 SUPPORT ARG1:TaZb6NfIOb ARG2:0ZRMbZchhd
+R1 SUPPORT ARG1:ef9QiKKn6O ARG2:nEVrPbCQMq
+R2 SUPPORT ARG1:ef9QiKKn6O ARG2:uCWbDSWof-
+R3 SUPPORT ARG1:QPgVSKHheQ ARG2:0-Tyt-NmYP
+R4 SUPPORT ARG1:-mfFWIaKN8 ARG2:WrjqFN2iBe
+R5 SUPPORT ARG1:vvas1BkVmh ARG2:WrjqFN2iBe
+R6 SUPPORT ARG1:Ph9fZBFFzX ARG2:WrjqFN2iBe
+R7 SUPPORT ARG1:8Z192Ivy46 ARG2:WrjqFN2iBe
+ArgQ0 0ZRMbZchhd SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 nEVrPbCQMq SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 uCWbDSWof- SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 0-Tyt-NmYP SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 WrjqFN2iBe SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

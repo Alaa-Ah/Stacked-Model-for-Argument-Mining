@@ -1,0 +1,13 @@
+B2wwcsugbp NON-ARG 542 602 Let me start, first of all thank you for the question Keith.
+cl5aiOaFNM CLAIM-Fact 603 1028 Overall, the approach we have taken for multiple years now is to transform everything that we do inside the company, whether it’s the product creation, how we’re organized in the R&D, how we think about breaking down any silos and category definitions we may have had in the past, how we think about even marketing and the marketing approach, and then of course even with the go to market, and this transformation is ongoing.
+3VS5gGdzpY CLAIM-Fact 1029 1121 This has been happening over multiple years, but we have now got very good customer momentum
+5Je7YttCki PREMISE-Fact 1122 1309 because ultimately this is all driven by the opportunity at hand, which is much bigger than anything that we have participated in the past, so the total addressable market is much bigger.
+r9ttIFVZQk CLAIM-Fact 1310 1764 And second, our customer expectations and our partner expectations of how we show up with them has changed, and so over the years we have been making changes and now that we have a lot more momentum and critical mass, we are going to that next phase and that’s what you are seeing us in terms of changing the skill set, changing the scope of how we show up to support the digital transformation needs of both large customers, as well as small businesses.
+4oTord_c0n CLAIM-Fact 1775 2048 And I think in many ways Keith what we have done is a really a natural extension of some of the investments we’ve made over the past 18 months to add technical resources to be more present in customer accounts, to really drive their transformation towards success outcomes.
+zCJS_Uuu8a PREMISE-Fact 2049 2143 You are seeing it even in our intelligent cloud results for the last quarter and this quarter.
+iXoCmzkrHq PREMISE-Fact 2144 2388 We’re taking that learning over the past 18 months and really applying it at a broader scale across the sales force to put those resources where we feel confident that they will have a good long-term return in that next phase of transformation.
+sZZCgDrytQ NON-ARG 2399 2417  Thank you, Keith.
+KNuleLLtLa NON-ARG 2418 2456 We will take the next question please.
+R0 SUPPORT ARG1:5Je7YttCki ARG2:3VS5gGdzpY
+R1 SUPPORT ARG1:zCJS_Uuu8a ARG2:4oTord_c0n
+R2 SUPPORT ARG1:iXoCmzkrHq ARG2:4oTord_c0n

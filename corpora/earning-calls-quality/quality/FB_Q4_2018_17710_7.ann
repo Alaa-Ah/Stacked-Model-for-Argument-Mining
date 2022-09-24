@@ -1,0 +1,37 @@
+yyooGpt4Vw NON-ARG 791 833 Justin, I can probably take both of those.
+APIgJPyUhU CLAIM-Fact 834 1019 In terms of our ability to continue to grow the advertising business, it's about working to develop the best products we can to enable advertisers to achieve their end business results.
+izLGEw24e2 CLAIM-Fact 1020 1066 Targeting is obviously very important in that.
+8GaSiWUUik CLAIM-Opinion(view) 1237 1334 And so I think that is another factor that presents risk in our ability to continue to grow ARPU.
+YWUNgsYhoR NON-ARG 1335 1379 So I would point that out as being an issue.
+BarMAZVvEr PREMISE-Fact 1380 1430 As well, we're seeing a mix shift towards Stories.
+Txbw85c7f7 PREMISE-Fact 1431 1526 And that is going to be something that will contribute to a deceleration of our revenue growth.
+LtVQXjN0mI NON-ARG 1527 1609 So that's another factor that's leading to deceleration of revenue growth in 2019.
+tAV-X8NGCA NON-ARG 1610 1758 In terms of your first question, Justin, about the impact of the press cycle, I would just - I'd probably just let the numbers stand for themselves.
+9rgnPMjjsl PREMISE-Fact 1067 1236 One of the things I would point out is that from a pricing perspective, there are headwinds that we might face on targeting, given the overall privacy landscape in 2019.
+yJ1vBRc0t5 PREMISE-Fact 1889 1995 In Q4, we saw better growth in Europe because we've come off of the GDPR - the first two quarters of GDPR.
+oAGraUbJdt CLAIM-Fact 1996 2038 So we saw a little bit of a rebound there.
+aguWwfel_k NON-ARG 1759 1888 We saw that we are growing in all regions albeit we're sort of bouncing around in the developed markets like the U.S. and Canada.
+LsX4Z7Iifn NON-ARG 2056 2116 I'll talk a little bit about long-term growth opportunities.
+zTHdbTMeP_ NON-ARG 2117 2200 David is, of course, right that the mix shift and pricing continues to be an issue.
+MaT5Y63KOv CLAIM-Opinion(view) 2201 2306 But I think over the very long term, which is how you framed your question, we have a lot of opportunity.
+tXPpLLB2Pq PREMISE-Fact 2307 2495 If you look at what percentage of our ads are truly relevant to the people who are seeing them, I think we've done a lot better over the last couple of years, but we have a long way to go.
+RFia-DijV3 PREMISE-Fact 2496 2622 And that means that for every ad we show, that ad can be better, better for people, show something they're more interested in.
+Y9o4NreC7R CLAIM-Opinion(view) 2623 2741 I also think the shift we're seeing towards people doing more measurable results, and this is important to understand.
+czDB0D72Tl PREMISE-Fact 2742 2808 It's not just what people think of as direct response advertisers.
+tXs1-769aV PREMISE-Fact 2809 2908 It's some of the largest brands in the world really going for the results that they're looking for.
+a7206OFgAP PREMISE-Other 2909 2996 That bodes very well for our business because we think we can do that very efficiently.
+8VDdGHU_ih CLAIM-Reformulated 2997 3251 And then when we have new opportunities that open up like Stories, even with some pressure on pricing, we think that gives us more inventory and more opportunity and more formats, and we haven't really even gotten started on future things like messaging.
+4NOXaLVeAx CLAIM-Reformulated 3252 3352 So over the very long run, I think we remain very optimistic about the growth opportunities we have.
+R0 SUPPORT ARG1:9rgnPMjjsl ARG2:8GaSiWUUik
+R1 SUPPORT ARG1:BarMAZVvEr ARG2:8GaSiWUUik
+R2 SUPPORT ARG1:Txbw85c7f7 ARG2:8GaSiWUUik
+R3 SUPPORT ARG1:yJ1vBRc0t5 ARG2:oAGraUbJdt
+R4 SUPPORT ARG1:tXPpLLB2Pq ARG2:MaT5Y63KOv
+R5 SUPPORT ARG1:RFia-DijV3 ARG2:MaT5Y63KOv
+R6 SUPPORT ARG1:czDB0D72Tl ARG2:Y9o4NreC7R
+R7 SUPPORT ARG1:tXs1-769aV ARG2:Y9o4NreC7R
+R8 SUPPORT ARG1:a7206OFgAP ARG2:Y9o4NreC7R
+ArgQ0 8GaSiWUUik SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 oAGraUbJdt SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 MaT5Y63KOv SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 Y9o4NreC7R SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

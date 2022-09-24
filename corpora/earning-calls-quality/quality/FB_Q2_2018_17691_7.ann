@@ -1,0 +1,23 @@
+fKVCT7Rwm4 CLAIM-Fact 1148 1252 So, on Stories, we've seen great progress with Stories as a format for people to share on our platforms.
+W_-5Lk5Hfk PREMISE-Statistic 1253 1345 We have 400 million people sharing with Instagram Stories, 450 million with WhatsApp Status.
+AIerNo6fly PREMISE-Fact 1346 1402 Facebook is newer, but we're seeing good progress there.
+DF3K5WxFY0 NON-ARG 1403 1468 The question is will this monetize at the same rate as News Feed?
+dapP6NsLQA NON-ARG 1469 1496 And we honestly don't know.
+hywlN30sT4 NON-ARG 1497 1528 We'll have to see what happens.
+-BKpzmdv9G CLAIM-Opinion(view) 1529 1597 There are good reasons to be very optimistic about the monetization.
+WUhB0fX3nC PREMISE-Fact 1598 1714 The opportunity, full-screen, authentic, very engaging, different format than feed, gives us an opportunity to grow.
+Qf4OHfr27u PREMISE-Fact 1715 1780 We also don't have all of our advertisers yet creating story ads.
+bwdYMXPf-9 CLAIM-Fact 1781 1885 So, obviously, as more and more advertisers come in and do that, the more and the better ads we'll have.
+EnaZE2E3IT PREMISE-Fact 1886 2044 I think getting that ramp will take a while because Stories is a new format, and we definitely see that it takes a while for advertisers to adopt new formats.
+Ds6AhugHtT PREMISE-Fact 2045 2331 I think one of the other things we feel good about over the long run, not really the short run, is that since we have so many different places where you have Stories formats in Instagram and WhatsApp and Facebook, as volume increases of the opportunity, advertisers get more interested.
+wxIynWavMG NON-ARG 2332 2405 But we won't know for a while if it's going to monetize at the same rate.
+0afIrC5KQ9 CLAIM-Opinion(view) 2406 2477 We do feel very good about a new and very engaging opportunity for ads.
+R0 SUPPORT ARG1:W_-5Lk5Hfk ARG2:fKVCT7Rwm4
+R1 SUPPORT ARG1:AIerNo6fly ARG2:fKVCT7Rwm4
+R2 SUPPORT ARG1:WUhB0fX3nC ARG2:-BKpzmdv9G
+R3 SUPPORT ARG1:Qf4OHfr27u ARG2:bwdYMXPf-9
+R4 SUPPORT ARG1:EnaZE2E3IT ARG2:bwdYMXPf-9
+R5 SUPPORT ARG1:Ds6AhugHtT ARG2:bwdYMXPf-9
+ArgQ0 fKVCT7Rwm4 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 -BKpzmdv9G SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 bwdYMXPf-9 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

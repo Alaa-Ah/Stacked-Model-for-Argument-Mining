@@ -1,0 +1,11 @@
+WRZiGkfXWU NON-ARG 57 118 And I can quickly answer the second part around data centers.
+ILgfdZ4ryu NON-ARG 119 204 I mean the quick answer is that we're not planning on going in to the cloud services.
+Rxgqp8qfrw NON-ARG 205 238 We're not planning on doing that.
+cPDpAekVdR CLAIM-Policy 239 301 We have to build out all this capacity to serve our community.
+3d6O9YIl43 CLAIM-Fact 302 415 It's a very computationally and resource-intensive set of services that we provide and we need to build that out.
+CBjaMWh3-t CLAIM-Fact 416 439 We are very optimistic.
+8WQeKbs6wB CLAIM-Reformulated 440 736 I'm very optimistic about AI overall and being able to use more computing resources to be able to crunch more data to be able to rank News Feed and ads and search and friend suggestions, and all the important things that we use our AI systems to do in addition to the integrity and security work.
+IAxihC5-op PREMISE-Fact 737 875 Part of the advance in AI technology now allows us to use more compute to use all the data that's in the system to provide better results,
+bWcvpMG-WR NON-ARG 876 911 so we certainly plan on doing that.
+R0 SUPPORT ARG1:IAxihC5-op ARG2:CBjaMWh3-t
+ArgQ0 CBjaMWh3-t SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,22 @@
+Y6AzJzgJql CLAIM-Fact 526 675 So the main value proposition for the Facebook app is helping people share any type of content that they want with any audience that matters to them.
+qER49Vm8Ui PREMISE-Fact 676 798 So you can go from text to photo to video, from small groups to larger groups, from your friends to everyone in the world.
+8zB4ZYdGRx PREMISE-Fact 799 858 And that's always been where the Facebook app has excelled.
+VkHm6mB5Dh PREMISE-Fact 859 938 There have been different experiences that are more focused on specific things.
+syIcC0DpPV PREMISE-Fact 939 1090 But with a strong technological foundation supporting all of these different use cases, the Facebook app has always supported people using all of them.
+qA0YxhTLg5 CLAIM-Fact 1091 1166 Now the biggest trend that we see in consumer behavior is definitely video.
+dqFYBz477Q PREMISE-Fact 1167 1433 And there's a strong technological underpinning for that, which is that if you go back five years and you tried to watch a video on your phone, it would probably have to buffer for a minute or so before you'd actually get to watch it, which wasn't a good experience.
+08M8TNR4PW PREMISE-Fact 1434 1671 And if you wanted to upload a video, whether it was a longer video like what you'd post to News Feed or a 10-second story like what you'd post in any of the apps, even that might take 30 seconds to upload, so it wasn't a good experience.
+MPxc33C0wk PREMISE-Fact 1672 1862 So now as the technology on the network level improves to support that, what we're seeing is the ability to serve what is a large amount of demand for what's a very engaging type of content.
+O29V1laJzP PREMISE-Fact 1863 1988 And that demand flows across social content like we're seeing in Stories and Feed to clearly a huge amount of public content.
+cN6xFVSOuM PREMISE-Fact 1989 2121 Pages are engaging in this, and some of the trends that Dave just talked about for just a lot of video behavior across the platform.
+R0 SUPPORT ARG1:qER49Vm8Ui ARG2:Y6AzJzgJql
+R1 SUPPORT ARG1:8zB4ZYdGRx ARG2:Y6AzJzgJql
+R2 SUPPORT ARG1:VkHm6mB5Dh ARG2:Y6AzJzgJql
+R3 SUPPORT ARG1:syIcC0DpPV ARG2:Y6AzJzgJql
+R4 SUPPORT ARG1:dqFYBz477Q ARG2:qA0YxhTLg5
+R5 SUPPORT ARG1:08M8TNR4PW ARG2:qA0YxhTLg5
+R6 SUPPORT ARG1:MPxc33C0wk ARG2:qA0YxhTLg5
+R7 SUPPORT ARG1:O29V1laJzP ARG2:qA0YxhTLg5
+R8 SUPPORT ARG1:cN6xFVSOuM ARG2:qA0YxhTLg5
+ArgQ0 Y6AzJzgJql SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 qA0YxhTLg5 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

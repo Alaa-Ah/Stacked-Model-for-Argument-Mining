@@ -1,0 +1,30 @@
+PddqSd-TPn NON-ARG 939 944 Sure.
+ENHqjpOImo NON-ARG 945 989 Let me start with the second question first.
+_JLXa4Xm8B CLAIM-Opinion(view) 990 1109 So on Prime Video, again we're very happy with the customer adoption of Prime Video, and we know the customers love it.
+OxmSPyNeiG CLAIM-Reformulated 1110 1224 We like the results that we see, particularly with the free trial conversion, the renewal rates for subscriptions.
+5ZV86K7eu_ CLAIM-Reformulated 1225 1249 So it's clearly working.
+aGK939F0qt PREMISE-Fact 1250 1420 I mentioned earlier how we're doubling the investment rate in the second half of the year versus last year's second half, and we're tripling the Amazon Originals content.
+oUNBmBXbXZ PREMISE-Fact 1421 1497 That Originals content for TV and movies, that content can be used globally.
+CqcQnLaLWH PREMISE-Other 1498 1660 We've talked a bit about our Prime launch in India, and alluded to the fact that we'll be having video soon in India, but local content and also Amazon Originals.
+4OUtuRIJWe NON-ARG 1661 1685 So, stay tuned for that.
+YsRR2OsTw3 NON-ARG 1686 1734 I don't have any more to announce on that today.
+dKnzN2XUjt CLAIM-Fact 1735 1835 On the variance to guidance, what I'll say is, we came in the very high end of our revenue guidance.
+KxwN9Ra-G7 CLAIM-Fact 1836 1962 I would say that our business model usually reacts well to high volume as we get a really good leverage on our fixed expenses.
+fKreuJF9aN PREMISE-Fact 1963 2091 So that's part of what we saw, very strong operating efficiencies as we hit essentially the highest end of our revenue guidance.
+5_8DpEZd3Y PREMISE-Fact 2092 2209 But we do have a lot of diverse profit streams here at Amazon and a lot of investments going on at any point in time.
+NBtMzShA1r NON-ARG 2210 2269 I think I heard a question there about level of investment.
+UoOi9-na8U PREMISE-Fact 2270 2300 We continue to invest heavily.
+A8yEK379tZ PREMISE-Fact 2301 2433 In fact, I just called out a few things that are going to be stepping up in investment levels in Q3, mostly ops and digital content.
+htM9YvuzNE PREMISE-Fact 2434 2482 So we continue to invest on behalf of customers.
+ZpybKXJu4B PREMISE-Fact 2483 2566 But we also work very hard at efficiencies and scaling the businesses that we have.
+BrTYcJpnYn CLAIM-Opinion(view) 2567 2732 So we take both roles very seriously around here, investing on the right – in the right things, seeing results on behalf of customers, and also driving efficiencies.
+X8TvxNNdzR CLAIM-Reformulated 2733 2872 And there can be timing, quarter-to-quarter, the operating margin and levels of investment can fluctuate, but certainly continue to expand.
+R0 SUPPORT ARG1:aGK939F0qt ARG2:_JLXa4Xm8B
+R1 SUPPORT ARG1:oUNBmBXbXZ ARG2:_JLXa4Xm8B
+R2 SUPPORT ARG1:CqcQnLaLWH ARG2:_JLXa4Xm8B
+R3 SUPPORT ARG1:fKreuJF9aN ARG2:KxwN9Ra-G7
+R4 SUPPORT ARG1:5_8DpEZd3Y ARG2:KxwN9Ra-G7
+R5 SUPPORT ARG1:UoOi9-na8U ARG2:KxwN9Ra-G7
+R6 SUPPORT ARG1:A8yEK379tZ ARG2:BrTYcJpnYn
+R7 SUPPORT ARG1:htM9YvuzNE ARG2:BrTYcJpnYn
+R8 SUPPORT ARG1:ZpybKXJu4B ARG2:BrTYcJpnYn

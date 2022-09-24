@@ -1,0 +1,15 @@
+856CHPAdOx CLAIM-Fact 600 814 I would say, the U.S. has been a lead market in general when it comes to the latest technology and architectural paradigm adoption, whether it'd like take something like AI or the higher-level services around data.
+NjTNsVZEGM PREMISE-Fact 815 921 We clearly see first things happening in U.S. and quickly followed by geographies like Germany and the UK.
+kAnsTcMsvq PREMISE-Fact 922 1113 There are certain workloads like the IoT workload, where we do see very advanced action in countries like Germany, especially with the industrial customers in terms of smart factories, Japan.
+KnLgVjpvHJ CLAIM-Opinion(view) 1114 1267 But I think broadly, I don't see any difference than say, what we used to see or what we still see on our server or any other technology adoption curves.
+B8HZJAR1yi CLAIM-Fact 1268 1315 And they have differences in industry patterns,
+-HbosYExi2 PREMISE-Fact 1316 1388 because different industries are strong in different parts of the globe.
+osv8i1Md4W PREMISE-Fact 1389 1489 So - and then, they represent different use cases in terms of the components of Azure that get used.
+oosrCyIMUq NON-ARG 1526 1540  Thanks, Mark.
+ryBEIPvkbU NON-ARG 1541 1578 We'll take next question please, Ria.
+R0 SUPPORT ARG1:NjTNsVZEGM ARG2:856CHPAdOx
+R1 SUPPORT ARG1:kAnsTcMsvq ARG2:856CHPAdOx
+R2 SUPPORT ARG1:-HbosYExi2 ARG2:B8HZJAR1yi
+R3 SUPPORT ARG1:osv8i1Md4W ARG2:B8HZJAR1yi
+ArgQ0 856CHPAdOx SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 B8HZJAR1yi SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

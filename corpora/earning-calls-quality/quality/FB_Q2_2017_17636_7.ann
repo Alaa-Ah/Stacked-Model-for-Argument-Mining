@@ -1,0 +1,10 @@
+29-7q1xuxx NON-ARG 965 1068 When we think about any regulatory issue, GDPR or anything else, we respect local laws and regulations.
+P0G5mOEfYV NON-ARG 1557 1703 When you think about the metrics question you asked, how we think about what is – so what I think you're asking about is third-party verification.
+LB2_HyBreI CLAIM-Fact 1704 1809 We're very interested in making sure that marketers can verify or measure outcomes through third-parties,
+g3pXGOwYYu PREMISE-Fact 1810 1877 and that's why we're working to actively expand those partnerships.
+7MDOfOryut CLAIM-Policy 1069 1314 And we have to work really closely with regulators to make sure they understand our business practices, understand how we contribute to economic growth in their countries, and understand the steps we take and continue to take to protect privacy.
+jW252W3uPu PREMISE-Fact 1315 1556 Certainly, regulation is always an area of focus that we work hard to make sure that we are explaining our business clearly and making sure regulators know the steps we take to protect privacy as well as making sure that we're in compliance.
+R0 SUPPORT ARG1:jW252W3uPu ARG2:7MDOfOryut
+R1 SUPPORT ARG1:g3pXGOwYYu ARG2:LB2_HyBreI
+ArgQ0 7MDOfOryut SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 LB2_HyBreI SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

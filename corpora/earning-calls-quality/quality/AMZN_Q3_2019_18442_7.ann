@@ -1,0 +1,15 @@
+e8Kcj0aURS NON-ARG 342 347 Sure.
+P4BJIcZnNY NON-ARG 348 390 Let me start with the second part of that.
+hkMcPDScu0 PREMISE-Statistic 391 527 So back in Q2, I said that we were estimating an $800 million expense tied to One Day in Q2, and we actually were just above that in Q2.
+2gHt3rCYki PREMISE-Fact 528 643 In Q3, we expected that to grow, we put into our guidance and we hit essentially where we expected on the guidance.
+0tdE17CWIO PREMISE-Statistic 645 1089 So as we head into Q4, we’ve added what’s just nearly a $1.5 billion penalty in Q4 year-over-year for the cost of shipping, which is essentially transportation costs, the cost of expanding our transportation capacity, things like adding additional poles and shifts in our warehouses, the cost for deploying inventory closer to customers, there’s a lot of tangential costs, by and a way the biggest expenses is on the actual transportation cost.
+JpHKwd8-Fa CLAIM-Opinion(view) 1091 1203 So we’ve built that into our Q4 guidance estimate, but we’re very pleased with the customer response to One Day.
+kJpzyR2rRF PREMISE-Fact 1204 1288 You can see it in our revenue acceleration and also in our unit growth acceleration.
+gGhLWX7Km6 PREMISE-Fact 1289 1433 Once again the ops team has really done yeoman’s work here to create this capacity for us and they continue to unlock additional capacity daily.
+a6rkcXgE1a CLAIM-Opinion(view) 1435 1505 We’re expecting that it will be again a great help to customers in Q4.
+JrbDxOdSFv PREMISE-Fact 1506 1642 We have seen Prime members increase their orders, spend more, so that they must also see it as a real help to them in their daily lives.
+R0 SUPPORT ARG1:kJpzyR2rRF ARG2:JpHKwd8-Fa
+R1 SUPPORT ARG1:gGhLWX7Km6 ARG2:a6rkcXgE1a
+R2 SUPPORT ARG1:JrbDxOdSFv ARG2:a6rkcXgE1a
+ArgQ0 JpHKwd8-Fa SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 a6rkcXgE1a SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

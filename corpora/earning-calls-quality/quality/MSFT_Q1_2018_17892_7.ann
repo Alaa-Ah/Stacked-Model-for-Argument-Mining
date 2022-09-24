@@ -1,0 +1,29 @@
+MZukzQKFol CLAIM-Opinion(view) 638 695 Yes, we're very excited about the partnership with Adobe.
+33Y7oYbvkV NON-ARG 696 748 And as you said, Adobe and Microsoft have partnered.
+sH5fakqlnw PREMISE-RealExample 749 938 In fact, across our entire histories in many of the areas, but increasingly across of the creative cloud and their Document Cloud as well as their Experience Cloud, we have plenty going on.
+ek6aYmnUNo CLAIM-Opinion(view) 1797 1995 So we're looking forward to the, ultimately the impact all this has with customers in terms of their ability to take advantage of our respective value and for them to be able to benefit from it all.
+U2-NTvO5AN CLAIM-Reformulated 1996 2155 And so these kinds of partnerships, whether it's with Adobe or others, we are very focused on making sure that ISVs and partners have success on our platforms.
+IohCltI4Sj CLAIM-Reformulated 2156 2251 And that's sort of our core heritage, and that's something that we want to absolutely focus on.
+OD1q5CrSoL NON-ARG 2265 2277 Thanks Ross.
+6PzQJ0bUYA NON-ARG 2289 2305 Thank you, Ross.
+iC9WmW0j0D NON-ARG 2317 2375 So that wraps up the Q&A portion of today's earnings call.
+E0bgUJwdZT NON-ARG 2376 2461 Thank you for joining us today, and we look forward to speaking with all of you soon.
+BWs2rrD_GI NON-ARG 2462 2480 Thank you so much.
+25YNq4H5gD NON-ARG 2494 2501 Thanks.
+pz8D-2-Gm1 NON-ARG 2517 2531 Thank you all.
+8s8EORx5lL CLAIM-Reformulated 1264 1309 So that's one area that I think you will see.
+qb7DTwnY5_ PREMISE-Fact 1495 1543 We have a partnership with them on e-signatures.
+900ar_pvSa PREMISE-Fact 1544 1613 We have good interoperability between our respective document clouds.
+5O5n_rjbCZ CLAIM-Fact 1614 1641 That will in fact continue.
+IKvNIc3oZZ PREMISE-Fact 1642 1796 And then on the creative side or on the experience side, in fact we are adding a lot of data and AI capability, which is obviously key to Adobe as an ISV.
+YThbiPvGw3 CLAIM-Opinion(view) 939 1263 In fact, we are very excited about what we are doing with our devices and Adobe and with Windows because I think Windows and Windows 10 Creators Update is the ideal platform for all of the creators in the world because of the innovation in Windows and the innovation in devices, both Surface Book as well as our OEM devices.
+7p8KRCbC6D PREMISE-Other 1310 1463 I would love if you're an illustrator or a Photoshop user, you should just check out the dial support that they have in Surface, which just is beautiful.
+lh0W98bzDE PREMISE-Fact 1464 1494 And then you go to Office 365.
+R0 SUPPORT ARG1:sH5fakqlnw ARG2:MZukzQKFol
+R1 SUPPORT ARG1:7p8KRCbC6D ARG2:YThbiPvGw3
+R2 SUPPORT ARG1:lh0W98bzDE ARG2:YThbiPvGw3
+R3 SUPPORT ARG1:qb7DTwnY5_ ARG2:YThbiPvGw3
+R4 SUPPORT ARG1:900ar_pvSa ARG2:YThbiPvGw3
+R5 SUPPORT ARG1:IKvNIc3oZZ ARG2:YThbiPvGw3
+ArgQ0 MZukzQKFol SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 YThbiPvGw3 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

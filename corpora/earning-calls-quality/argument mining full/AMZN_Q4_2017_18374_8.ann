@@ -1,0 +1,14 @@
+Fl84N8G9YY NON-ARG 590 608 Yes, this is Dave.
+Cmzypu_7Bx NON-ARG 609 700 I'll take the first part of that question just around the new revenue recognition standard.
+1qFsXn6g3J PREMISE-Fact 701 842 We did adopt a new standard in January 1 of this year, 2018, and you'll see that reflected in our financials for the first quarter coming up.
+n1jKPx_05d PREMISE-Fact 1077 1286 There's a number of different areas, at least, that we've called out in our filings with the 10-Q in the past and the 10-K that will be on file shortly that talk about the different areas that are impacted us.
+GpWAn8LY4b CLAIM-Reformulated 1287 1328 But again, not material in the aggregate.
+YXEXwxZw1Q CLAIM-Fact 1345 1452 And on advertising, I would say our strategy is to make the customer experience additive by the ad process.
+-BLjKEZx8Y PREMISE-Fact 1698 1889 So we're working with advertisers of all types and sizes to help them reach our customer base and the goal of driving brand awareness, discovery and better purchase decisions by the customer.
+bWD440Q2x8 CLAIM-Opinion(view) 1568 1697 For brands, we think the value proposition is that we can find ways for them, especially emerging brands, to reach new customers.
+LAoCvYiDui CLAIM-Fact 1453 1567 We want customers to be able to see new brands and have easier time discovering products that they're looking for.
+Gmzjwjt9xQ CLAIM-Fact 843 1057 There are -- it touches on a number of different parts of our business in terms of how we recognize revenue in terms of any aggregate, the impacts to our expectations for the revenue guidance for the first quarter.
+QpR9YLwpoz NON-ARG 1058 1076 It's not material.
+R0 SUPPORT ARG1:-BLjKEZx8Y ARG2:bWD440Q2x8
+R1 SUPPORT ARG1:1qFsXn6g3J ARG2:Gmzjwjt9xQ
+R2 SUPPORT ARG1:n1jKPx_05d ARG2:Gmzjwjt9xQ

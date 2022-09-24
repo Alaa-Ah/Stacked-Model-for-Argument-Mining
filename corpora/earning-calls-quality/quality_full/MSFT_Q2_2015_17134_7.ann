@@ -1,0 +1,15 @@
+4UWAmPa9Mp NON-ARG 574 598 Thanks for the question.
+i6d3aU4tOl NON-ARG 599 704 In general, I think we're still on the early ends of seeing the opportunity that we have in that segment.
+_W88IVRa4R PREMISE-Fact 705 911 As you pointed out, there is a couple components that make gross profit dollars per seat or the life time value of a customer depending on the terms you want to use improve and increase over the life cycle.
+pUf7ifBhAe PREMISE-Fact 912 1227 The very first thing and I think Satya even mentioned it in its most direct in SMB is moving from buying a copy of Office, which was a very static concept to the idea where you could buy Office and frankly get all the benefits that those who used to deploy servers used to get only with IT departments of their own.
+3z9vqbiQsE PREMISE-Fact 1228 1278 So as you move Office, it’s simply the first step.
+eufaPsK76- PREMISE-Fact 1279 1508 So, even though obviously it comes at a little lower gross margin percentage, our ability to add workloads, add premium services and to increase our overall footprint inside a customer is really where the life time value goes up.
+v1DpPEOo40 CLAIM-Opinion(view) 1509 1808 And frankly over time and watching, I think both the creativity and the pace of innovation we’ve seen coming out of our engineering teams particularly in Azure and Office 365 and our CRM team online, I actually even have more confidence in our ability to attach and grow that gross profit over time.
+_fNv-4eHkf CLAIM-Reformulated 1809 2137 We mentioned simply one that didn’t exist I think Brendan when we first started having this conversation, which was our EMS suite and I look and say, those opportunities as well as the creativity of our people I think gives me more confidence if not less in the structural integrity of the lifetime value of a customer argument.
+FyjcRNGzqj NON-ARG 2192 2200  Thanks.
+KPzDmZbifF NON-ARG 2201 2258 Operator, we will have time for one last question please.
+R0 SUPPORT ARG1:_W88IVRa4R ARG2:v1DpPEOo40
+R1 SUPPORT ARG1:pUf7ifBhAe ARG2:v1DpPEOo40
+R2 SUPPORT ARG1:3z9vqbiQsE ARG2:v1DpPEOo40
+R3 SUPPORT ARG1:eufaPsK76- ARG2:v1DpPEOo40
+ArgQ0 v1DpPEOo40 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,22 @@
+PqTDdBkZz1 NON-ARG 1176 1283 So, on the first one, I actually think that these hybrid used benefits are being sort of best kept secrets.
+HlptQc_5RF CLAIM-Fact 1284 1681 So, I’m actually hoping that going into this next fiscal year, we do a much better job and customers do a much better job, but they don’t benefit because the advantage Azure has because of the hybrid used benefits across the entire workload are pretty phenomenal, and we had a good set of sessions at our partner meetings this week just really making sure that everybody understand those benefits.
+-iVxRVNCAk CLAIM-Opinion(view) 1682 1732 So, I don’t think that, that is really played out.
+T3LJM7-sJj CLAIM-Fact 1733 1835 If anything, all the growth we have seen is in spite of that not being broadly revenue driving growth.
+19JoxdWwGn CLAIM-Opinion(view) 1836 1991 But to your second question I’ll even say the following which is that, I think that there is clearly difference in GM between the per user and consumption.
+UBktirUS-P PREMISE-Fact 1992 2154 But the key is even the consumption services come in different forms, there is the IR services, there is the data services, and some of the higher level services.
+DcX8mTUqeP PREMISE-Fact 2155 2218 Some of these IoT services now even have SaaS components to it.
+zRjSCS1x3T CLAIM-Opinion(view) 2219 2477 So, therefore, I think that the mix will be different by quarter-by-quarter, but increasingly our strategy is in many times to get our customers to get going with what is core storage or core compute, but then they scale into these higher levels of services.
+lAflBACY5l NON-ARG 2488 2541 And I’d say, Heather, the two components just to add.
+5QQIoXnSjn CLAIM-Fact 2542 2566 The Azure has a benefit.
+VL_DLnfy1Z CLAIM-Opinion(view) 2722 2879 And the value as we continue to see in SQL next year I do think there is some opportunity for customers to realize the real value from these hybrid benefits.
+r2zeBgBDEw CLAIM-Reformulated 2567 2686 I think we are starting, as Satya said, we started to see some impact from that in my opinion in Q4 in the on-prem KPI.
+2P8sE6kJcK PREMISE-Fact 2687 2721 But it really was more in Windows.
+uAHMcDYLVP CLAIM-Fact 2880 3005 And so -- as to add confidence to my high teens KPI growth for the year is that this is a very customer value oriented offer.
+C-4oyBFyfs NON-ARG 3006 3070 To your question on GM, Satya has obviously correct on that one.
+OjpSEhMYnl CLAIM-Opinion(view) 3071 3209 And I’d say the way we think about it is actually more -- we're talking about Azure per user, it really does move more with M365 per user.
+rlENkTgx0v CLAIM-Fact 3210 3561 It's almost better to put that in your mind as behaving more and having more structures more like Office 365 and behaves quite similarly; tends to have good quarters, when we do good execution on Office 365, and so my comments were more and continue to be around having people understand that sales motion, and that it tends to move in that direction.
+R0 SUPPORT ARG1:UBktirUS-P ARG2:19JoxdWwGn
+R1 SUPPORT ARG1:DcX8mTUqeP ARG2:19JoxdWwGn
+R2 ATTACK ARG1:2P8sE6kJcK ARG2:r2zeBgBDEw
+ArgQ0 19JoxdWwGn SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 r2zeBgBDEw SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_3

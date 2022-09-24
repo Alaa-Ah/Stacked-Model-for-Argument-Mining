@@ -1,0 +1,34 @@
+ch6NBj8rCq NON-ARG 860 865 Sure.
+oKxFBAek8Q NON-ARG 866 911 Let me start with that second question first.
+iF2KSB1Zv4 CLAIM-Opinion(view) 912 983 So more basically, on AWS, very happy with the response from customers.
+D3Q9zzJiqZ CLAIM-Opinion(view) 984 1115 I feel we've got a very broad base of customers from startups to small-medium businesses to large enterprises to the public sector.
+4QGmPs3j6F PREMISE-Fact 1116 1183 And we're continuing to see strong growth across all those sectors.
+jxTDeEFHke PREMISE-Statistic 1184 1265 The business is now a $14 billion annualized – running at a $14 billion run rate.
+GkQ3wZ5Vsi PREMISE-Statistic 1266 1392 You are right that we had seven price cuts in Q4, essentially timed for December 1, so about 1/3 of the impact was seen in Q4.
+2TvarxTAEn NON-ARG 1393 1442 But that's going to be constant in this business.
+C-6mxo2HmD CLAIM-Fact 1443 1606 We've been pretty clear that this business is all about creating new functionality for customers, giving price cuts and then working on the operating efficiencies.
+fr2xsVTTTK CLAIM-Reformulated 1607 1661 So, very pleased with Q4 and the pace of the business.
+zVNNuFdgRh PREMISE-Statistic 1662 1760 The new services and features last year were over 1,000 versus 700 or so the – excuse me, in 2015.
+S9apcHsjjl CLAIM-Fact 1761 1811 So we continue to innovate on behalf of customers.
+aJrFUKG9tj NON-ARG 1812 1874 We're working with some very large customers in each industry.
+Az72wsORt9 NON-ARG 1875 1973 You've seen probably press releases on companies like Capital One, Workday, Salesforce and others.
+6hkMPQS6C0 CLAIM-Reformulated 1974 2044 So, again, widespread usage and new customer adoption, which is great.
+3wWfBKldqN NON-ARG 2045 2128 Your second question on FBA, I can't break out the year-over-year difference there.
+1CoBfGZRie NON-ARG 2129 2338 What I will say the impact of FBA on our business is and first that's one of the things that we look at is how well are we attracting new FBA sellers, because again, FBA reinforces Prime, Prime reinforces FBA.
+tFV3YtU_G5 PREMISE-Statistic 2339 2427 It's a good flywheel and we added active sellers in FBA grew 70% year-over-year in 2016.
+A_3GSitQQR CLAIM-Opinion(view) 2428 2549 So we're very happy with the continued adoption of FBA and what that does to Prime, eligible selection for Prime members.
+3L02LYmpXN PREMISE-Statistic 2550 2774 The other data point I'll give you that affects our cost structure is our Amazon Fulfilled units, which is the combination of retail plus FBA, grew nearly 40% last year and that compares to our paid unit growth of 24% in Q4.
+6AUAKw89Zf NON-ARG 2775 2863 I'm giving you a Q4, not a full year number, but they're similar in relative proportion.
+lxJPUbn4YN PREMISE-Fact 2864 3018 The fulfillment center expenses and a lot of our shipping costs are tied to the increase in that FBA percentage and that growth of Amazon Fulfilled units.
+2Wi9waSKkB CLAIM-Fact 3019 3188 So that is certainly a factor that we consider a positive from a customer standpoint and it's one from a cost standpoint that we certainly continue to work on every day.
+QnoA7hQM6a NON-ARG 3189 3268 But that's about – I think that's the most I can give you on FBA at this point.
+R0 SUPPORT ARG1:4QGmPs3j6F ARG2:D3Q9zzJiqZ
+R1 SUPPORT ARG1:jxTDeEFHke ARG2:D3Q9zzJiqZ
+R2 SUPPORT ARG1:GkQ3wZ5Vsi ARG2:D3Q9zzJiqZ
+R3 SUPPORT ARG1:zVNNuFdgRh ARG2:C-6mxo2HmD
+R4 SUPPORT ARG1:tFV3YtU_G5 ARG2:A_3GSitQQR
+R5 SUPPORT ARG1:lxJPUbn4YN ARG2:2Wi9waSKkB
+ArgQ0 D3Q9zzJiqZ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ1 C-6mxo2HmD SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ2 A_3GSitQQR SPECIFIC_0 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ3 2Wi9waSKkB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

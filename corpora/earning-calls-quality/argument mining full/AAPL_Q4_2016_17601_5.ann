@@ -1,0 +1,32 @@
+ZLsJfb4UId CLAIM-Opinion(view) 674 705 We think we can grow this year.
+_ZU-NVFcjD PREMISE-Other 706 785 As Tim said, the interest from customers on iPhone 7 and 7 Plus is very strong.
+lDl8LMvCFq PREMISE-Statistic 786 866 The strength of our Services business, you've seen we've grown 24% in September.
+_XGcYQA3_i CLAIM-Reformulated 867 936 We think we can continue to grow very well into the December quarter.
+LGyAPwpXXF NON-ARG 481 496 Yes Katy, sure.
+PZmHMtfKIP NON-ARG 497 578 Let me say a few things on the 14th week and revenue up for the December quarter.
+HsFDAdMFWV NON-ARG 579 673 Keep in mind that December quarter a year ago for us was an all-time quarterly revenue record.
+NGqqRHjA3V NON-ARG 937 1013 You mentioned the 14th week, and the few extra days do help us this quarter.
+Fmoc6Un7Cs CLAIM-Opinion(view) 2032 2190 So I hope that gives you a bit of a sense that when you take into account all these factors, we believe that this is a good guidance for the December quarter.
+7Si5Bs-6n2 NON-ARG 1014 1126 But I think it's important to keep in mind that there are other factors that go and offset these extra few days.
+HLTs5YsSoG PREMISE-Statistic 1364 1465 As you know, we increased iPhone channel inventory by 3.3 million units in the first quarter of 2016.
+igw2PPD8rc PREMISE-Fact 1466 1537 As Tim said, we are very supply constrained on iPhone 7 Plus this year.
+Hfz4HLocvC PREMISE-Fact 1127 1199 As you know, the launch timing of the new iPhone is different this year.
+GdeOEMxwzc NON-ARG 1200 1251 We had the first 90 days of sales this year hit Q4.
+BfqtuVejHE NON-ARG 1252 1363 There were only two days last year, so the cadence has moved more towards the Q4 this year versus Q1 last year.
+NwGhqTivlI PREMISE-Fact 1538 1609 We're simply more supply constrained this year than we were a year ago.
+LRYUaIty6Q PREMISE-Statistic 1610 1866 And then keep in mind that there were a couple of things that affect the compare as well, which is the fact that a year ago, we had an award for a patent infringement of $548 million, which is obviously a one-off item that is not going to repeat this year.
+UjlTrAt8vE PREMISE-Statistic 1867 2031 And also the foreign exchange environment remains difficult, and we expect FX to be about $650 million headwind on a year-over-year basis into the December quarter.
+XpwWrsyS8N CLAIM-Opinion(view) 2935 3057 And so we're very much, we're confidently investing in the future, and that's the reason you see the R&D spend increasing.
+iYyu6rp3-W PREMISE-Fact 2828 2934 We've also put a lot of emphasis on our Services business as well and on making the ecosystem even better.
+NACQ_LqNSD PREMISE-Fact 2612 2769 There's clearly some amount of R&D that are on products that today are in the development phase that have not reached the market, and so that's a part of it.
+oOqYgOawm7 CLAIM-Opinion(view) 2770 2827 And we feel really great about the things that we've got.
+R0 SUPPORT ARG1:_ZU-NVFcjD ARG2:ZLsJfb4UId
+R1 SUPPORT ARG1:lDl8LMvCFq ARG2:ZLsJfb4UId
+R2 SUPPORT ARG1:UjlTrAt8vE ARG2:Fmoc6Un7Cs
+R3 SUPPORT ARG1:LRYUaIty6Q ARG2:Fmoc6Un7Cs
+R4 SUPPORT ARG1:NwGhqTivlI ARG2:Fmoc6Un7Cs
+R5 SUPPORT ARG1:igw2PPD8rc ARG2:Fmoc6Un7Cs
+R6 SUPPORT ARG1:HLTs5YsSoG ARG2:Fmoc6Un7Cs
+R7 SUPPORT ARG1:Hfz4HLocvC ARG2:Fmoc6Un7Cs
+R8 SUPPORT ARG1:iYyu6rp3-W ARG2:XpwWrsyS8N
+R9 SUPPORT ARG1:NACQ_LqNSD ARG2:XpwWrsyS8N

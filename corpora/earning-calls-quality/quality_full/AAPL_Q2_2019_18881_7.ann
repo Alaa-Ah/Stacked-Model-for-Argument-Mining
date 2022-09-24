@@ -1,0 +1,16 @@
+CSU_fU1gOa CLAIM-Fact 738 852 Yes, I wouldn't want to get into announcing things on the call, but obviously, we're always working on new things.
+9uoUnzYBeE CLAIM-Opinion(view) 853 933 And -- but we're right now we're really focused on getting these four out there.
+ElL1z3MP6G PREMISE-RealExample 934 972 We have the News+ in the market today.
+oIYN37fJPM PREMISE-RealExample 973 1105 We'll have the Apple Arcade and the Apple TV+ products in the market in the fall and Apple Card will go out in the summer timeframe.
+Ecnw8l3VjV CLAIM-Reformulated 1106 1196 And so we've got lots in front of us and we're very excited about getting these out there.
+FjbHSAxDti CLAIM-Fact 1664 1698 It's growing very, very fast Mike.
+jS7QSSONY9 PREMISE-Statistic 1699 1751 I think it was up around 70% over the previous year.
+8Ec64F-k-J NON-ARG 1971 1987 Thank you, Mike.
+IEvoi0wTg4 NON-ARG 1988 2026 Can we have the next question, please?
+f4imWjVHLb CLAIM-Reformulated 1883 1956 So, it is a -- it's definitely a business that is big and getting bigger.
+zQtDBojRAe CLAIM-Fact 1752 1882 We're expanding into new geographies as well and we still have more geographies out there that we think can move the dial further.
+R0 SUPPORT ARG1:ElL1z3MP6G ARG2:9uoUnzYBeE
+R1 SUPPORT ARG1:oIYN37fJPM ARG2:9uoUnzYBeE
+R2 SUPPORT ARG1:jS7QSSONY9 ARG2:FjbHSAxDti
+ArgQ0 9uoUnzYBeE SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 FjbHSAxDti SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

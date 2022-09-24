@@ -1,0 +1,17 @@
+JW-pgVdEfP NON-ARG 806 867 Yes, this is Dave, thanks for the answer the question, Brian.
+UtBhun8F4M PREMISE-Fact 868 1027 Just on the first piece, in terms of just Prime membership and Prime behavior, we continue to see that we're seeing sign-ups from memberships at a strong clip.
+avnYXNBcVP PREMISE-Fact 1028 1254 When we look at the year-over-year growth in paid Prime members on a global basis, it's been consistent in Q4 year-over-year, similar growth rates year-over-year to what we've seen in some of the earlier quarters of this year.
+udV1dNIi5S CLAIM-Fact 1255 1409 So that's, of course, a mix of strength in the U.S. and also strength in some of the newer markets that we've launched or introduced the Prime program in.
+QasXqJiO5o PREMISE-Fact 1410 1577 We continue to see that as Prime members sign up and engage into the program, their purchasing patterns of change and they do spend more as they move into the program.
+E6nW7UN7OW NON-ARG 1924 2138 Yes, and on new businesses or expansion of categories, as you discussed, I would not talk to anything that's not been publicly announced, but on some of the ones you mentioned, they are underway and are continuing.
+Da_K0hBLk4 CLAIM-Fact 2139 2264 I've said logistics, we will continue to build our logistics capability both -- and that will be all the way to end delivery.
+k1iJATrnzG PREMISE-Fact 2265 2346 We've been able to increase service levels in many cases by delivering ourselves.
+5oyhuhaqGy PREMISE-Fact 2347 2646 And although we have a strong partner network here, we will always be able to leverage our strength and our knowledge about where shipments are going, both within our network and to final customers that will create opportunities for us there as we increase or better the customer experience as well.
+JSTLURbc4- CLAIM-Fact 2647 2975 I would say on the category side, that the biggest effort will be on continuing to be on groceries and consumables with the Whole Foods acquisition and again, we continue to look at our whole offering of AmazonFresh, Prime Now, Whole Foods, how can they work together to create better and better offerings for our customer base.
+LE2xAj3lzy CLAIM-Fact 2976 3232 And to a lesser extent, versus grocery, I would say we continue to build our business, B2B businesses, and very happy with the initial performance there with a number of the companies and universities that we've been working with and their initial results.
+8n_Qx04W7M CLAIM-Policy 1578 1906 And of course, our focus is -- continues to be on adding some of the features around Prime that Brian's been talking about, but also importantly, making sure we're adding more selection to the offering through our own efforts, first party, but also programs like Fulfillment by Amazon, which continues to be a fast grower for us
+R0 SUPPORT ARG1:UtBhun8F4M ARG2:udV1dNIi5S
+R1 SUPPORT ARG1:avnYXNBcVP ARG2:udV1dNIi5S
+R2 SUPPORT ARG1:k1iJATrnzG ARG2:Da_K0hBLk4
+R3 SUPPORT ARG1:5oyhuhaqGy ARG2:Da_K0hBLk4
+R4 SUPPORT ARG1:QasXqJiO5o ARG2:8n_Qx04W7M

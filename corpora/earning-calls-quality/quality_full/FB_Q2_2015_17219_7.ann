@@ -1,0 +1,8 @@
+b82S9F3lSW PREMISE-Fact 493 530 We work on a lot of different things.
+mIRhdP0yno CLAIM-Opinion(view) 531 677 I don't think we'd rule out the things that you just mentioned, but we don't have anything specific to talk about today on either of them I think.
+dz-6bleRup PREMISE-Fact 695 892 Obviously, a big part of our investment strategy is investing in this next generation of apps and the focus there is on growing the communities around Messenger, WhatsApp and, of course, Instagram.
+aeXyUg3BWC CLAIM-Fact 893 963 That's all going really well and that's a big focus of our investment.
+R0 SUPPORT ARG1:b82S9F3lSW ARG2:mIRhdP0yno
+R1 SUPPORT ARG1:dz-6bleRup ARG2:aeXyUg3BWC
+ArgQ0 mIRhdP0yno SPECIFIC_0 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 aeXyUg3BWC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

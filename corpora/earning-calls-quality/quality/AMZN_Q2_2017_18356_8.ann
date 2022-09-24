@@ -1,0 +1,20 @@
+pKW23wR8S5 NON-ARG 816 821 Sure.
+BcdTLQwRFM NON-ARG 822 889 Let me start with your second question on the subscription revenue.
+WfLfw362CH PREMISE-Statistic 890 934 It grew 53% year-over-year versus 52% in Q1.
+ODT2uJaj2a CLAIM-Fact 935 989 So, we continue to see strong Prime membership growth.
+5ngDwjiy89 NON-ARG 990 1013 That is the main thing.
+nxYefQtTaw PREMISE-Fact 1014 1189 There's also – in that line item are also other monthly fees associated with some of our other subscription services like audiobooks, e-books, digital video and digital music.
+2YGLYF1fF0 CLAIM-Opinion(view) 1190 1353 Again, I would say that we're very happy with the Prime membership growth and it has remained pretty consistent both in Q4 and then through Q1 and Q2 of this year.
+KMm5-RGxZH PREMISE-Statistic 1354 1458 On your second question on Prime Now, so Prime Now is now available in 50 cities across eight countries.
+t6yMG2aMBM CLAIM-Fact 1615 1689 And so we are learning as we go, learn as we grow internationally as well.
+zuaKsX6ec0 NON-ARG 1690 1728 That is a service that customers love.
+9PHDlSyvOR NON-ARG 1729 1867 That's not an inexpensive service, though, and we also have – so we're constantly working on our cost of delivery and our route densities.
+ZzAunNTNkr NON-ARG 1459 1471 We do learn.
+qJyPyjiwTj NON-ARG 1472 1614 It's something to do in every city and have different – slightly different shapes and sizes of those buildings and different density profiles.
+FdD4qrzpC1 NON-ARG 1868 2072 And again, we like what we see and we'll continue to expand that and we'll be working very hard on making that not only a valuable Prime offering, a Prime benefit, but also a lower-cost operation as well.
+R0 SUPPORT ARG1:WfLfw362CH ARG2:ODT2uJaj2a
+R1 SUPPORT ARG1:nxYefQtTaw ARG2:2YGLYF1fF0
+R2 SUPPORT ARG1:KMm5-RGxZH ARG2:t6yMG2aMBM
+ArgQ0 ODT2uJaj2a SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 2YGLYF1fF0 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_1
+ArgQ2 t6yMG2aMBM SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

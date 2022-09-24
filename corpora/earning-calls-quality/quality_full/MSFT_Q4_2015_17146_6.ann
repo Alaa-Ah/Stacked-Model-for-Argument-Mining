@@ -1,0 +1,37 @@
+FVnSGoGUWu NON-ARG 690 782 Overall, I'd start even with the bold view that my server business is not a legacy business.
+H7JU2RDUd3 CLAIM-Opinion(view) 783 850 We fundamentally think about servers as the extension of the cloud.
+jfyX-KNuFd PREMISE-Fact 851 911 I even describe it architecturally as the edge of our cloud.
+c9Ok2Okspb PREMISE-Fact 912 1010 Every server, for example, has things like disaster recovery, backup, and tier-ing with the cloud.
+jBbO57p7pf CLAIM-Opinion(view) 1920 1978 And that product I think is a pretty revolutionary product
+N0cFm8hySK PREMISE-Other 1979 2184 because for the first time you can take a single table in a database and you would tier it with the cloud, and that kind of capability only we can provide, and that's something that I'm looking forward to.
+fu6280Zfa8 PREMISE-Fact 1585 1690 So as our cloud continues to grow, obviously, we are getting where there is more capability in the cloud.
+P8N_RBIuFW PREMISE-RealExample 1402 1584 And going forward, we have a fantastic lineup of servers, not just the infrastructure, but even SharePoint, Exchange, Lync Server continues to have significant on-premise deployment.
+qMk4pWTqzL PREMISE-Fact 2526 2720 That isn't to say there isn't ample opportunity for us to make sure we upgrade customers to the higher-value product and more secure and more manageable offerings we have in the server business.
+oZV7txdL7E PREMISE-Fact 1011 1160 And so we will continue to push that differentiation because I think that view architecturally and the delivery of it is what makes us pretty unique.
+AHexbNuZBm PREMISE-Fact 1161 1191 And you see it in the numbers.
+KZINajUqYl PREMISE-Statistic 1192 1230 Our servers even this quarter grew 9%.
+yQiohkzY2T PREMISE-Fact 1231 1401 And compared to the industry peers, we're obviously gaining share with Windows Server, on SQL Server, and pretty much all of our management and security products as well.
+80_lV6i0xD PREMISE-Fact 1691 1755 We're incenting customers and our partners to move to the cloud.
+JDGAsSK4Ps PREMISE-Fact 1756 1819 But at the same time, we are going to have a great server wave.
+YnBveEqXe0 CLAIM-Opinion(view) 1820 1854 I'm excited about our SQL product.
+FJN0RUNrRQ CLAIM-Reformulated 1855 1919 I think it goes into the first preview next – in fact, tomorrow.
+d_ykKf8K-g CLAIM-Opinion(view) 2195 2323 And, Brent, to your specific question on Windows Server 2003, we did have a good quarter, as we talked about, in Windows Server.
+SlH6OnTxR7 PREMISE-Fact 2324 2525 But in general, that business, unlike the quiet upgrades that we see, just because so much of the business is already on annuity, you don't see that type of incremental impact in an in-quarter release.
+MrPECKVJBC NON-ARG 2731 2746  Thanks, Brent.
+XiMwsaPWZT NON-ARG 2747 2794 Operator, we'll take the next question, please.
+R0 SUPPORT ARG1:jfyX-KNuFd ARG2:H7JU2RDUd3
+R1 SUPPORT ARG1:c9Ok2Okspb ARG2:H7JU2RDUd3
+R2 SUPPORT ARG1:oZV7txdL7E ARG2:H7JU2RDUd3
+R3 SUPPORT ARG1:AHexbNuZBm ARG2:H7JU2RDUd3
+R4 SUPPORT ARG1:KZINajUqYl ARG2:H7JU2RDUd3
+R5 SUPPORT ARG1:yQiohkzY2T ARG2:H7JU2RDUd3
+R6 SUPPORT ARG1:P8N_RBIuFW ARG2:H7JU2RDUd3
+R7 SUPPORT ARG1:fu6280Zfa8 ARG2:H7JU2RDUd3
+R8 SUPPORT ARG1:80_lV6i0xD ARG2:H7JU2RDUd3
+R9 SUPPORT ARG1:JDGAsSK4Ps ARG2:H7JU2RDUd3
+R10 SUPPORT ARG1:N0cFm8hySK ARG2:jBbO57p7pf
+R11 SUPPORT ARG1:SlH6OnTxR7 ARG2:d_ykKf8K-g
+R12 SUPPORT ARG1:qMk4pWTqzL ARG2:d_ykKf8K-g
+ArgQ0 H7JU2RDUd3 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 jBbO57p7pf SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 d_ykKf8K-g SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3

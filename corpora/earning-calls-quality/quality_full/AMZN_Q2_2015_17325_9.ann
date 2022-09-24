@@ -1,0 +1,13 @@
+TZZT-CS6S7 NON-ARG 369 374 Sure.
+h2B-4bZGYf CLAIM-Opinion(view) 674 768 So we're very happy with the linkage between our digital offerings in the Prime customer base.
+OUzrR7tC7R PREMISE-Fact 375 673 On the engagement of the Prime customers, excuse me PIV customers, we have seen buying habits that look like normal Prime customers or other Prime customers from the group that comes in through the digital pipelines, but we do also see a higher pickup in retention rates and free trial conversions.
+fUlnExx8Bz PREMISE-Fact 889 1123 What we are talking about is the fulfillment center – additional fulfillment center costs that we see this time every year as we get ready for Q4 but also additional step-up in content spend, where we spend a lot of our content in Q3.
+Mp7fLm_6rm CLAIM-Fact 769 888 On the content side, I will say that one of the factors in the sequential guidance Q2 to Q3 being lower, is two things.
+XKSorQp5u9 PREMISE-RealExample 1214 1360 A new pilot season including Man in the High Castle and Hand of God so stay tuned for that – or seasons of Man in the High Castle and Hand of God.
+rIckc42tQJ PREMISE-Other 1124 1213 You will see extensions of a lot of the successful shows that we've had so far this year.
+R0 SUPPORT ARG1:OUzrR7tC7R ARG2:h2B-4bZGYf
+R1 SUPPORT ARG1:fUlnExx8Bz ARG2:Mp7fLm_6rm
+R2 SUPPORT ARG1:rIckc42tQJ ARG2:Mp7fLm_6rm
+R3 SUPPORT ARG1:XKSorQp5u9 ARG2:Mp7fLm_6rm
+ArgQ0 h2B-4bZGYf SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 Mp7fLm_6rm SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

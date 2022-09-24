@@ -1,0 +1,18 @@
+BedWe-CreV CLAIM-Opinion(view) 611 723 I think a lot of it is that we're getting better and better at ranking and showing people the content they want.
+ImiVEvmkGJ PREMISE-Fact 982 1015 And the execution is hard, right?
+lv4aV8tXos PREMISE-Fact 724 981 And part of it is that there's of course a bigger opportunity when people have their phones with them all the time, but I think that there are plenty of other worlds that we could be living in where we wouldn't have necessarily executed on that opportunity.
+uJlWjjGaQR PREMISE-Fact 1016 1167 And just kind of having something that's appealing universally to people wanting to stay connected with their friends, that's an important piece of it.
+HLX3TaL3xd CLAIM-Opinion(view) 1589 1689 And I just think the team is doing a really good work on all of these, and I'm really proud of them.
+KX0SBFV1va CLAIM-Fact 1707 1800 And, Paul, there's no doubt that mobile has a beneficial effect on our engagement in the U.S.
+MXewOv4141 PREMISE-Statistic 1801 1892 Two out of three smartphone users check their phone as soon as they wake up in the morning.
+5YioXJ9LpX PREMISE-Fact 1893 2064 It's just having that experience readily available in your pocket is tremendous, and we just see that being helpful across the business as it relates to mobile engagement.
+c5MJqR6IaE PREMISE-Fact 1168 1588 But I mean, the team has just done really good work in terms of ranking the content and making the experience faster and building out better ways to get feedback from our community on what kinds of content they want to see in News Feed and helping people have the tools that they need to share the social content and news and video content that they want so that way it exists in the corpus of content that can be shown.
+R0 SUPPORT ARG1:lv4aV8tXos ARG2:BedWe-CreV
+R1 SUPPORT ARG1:ImiVEvmkGJ ARG2:BedWe-CreV
+R2 SUPPORT ARG1:uJlWjjGaQR ARG2:BedWe-CreV
+R3 SUPPORT ARG1:MXewOv4141 ARG2:KX0SBFV1va
+R4 SUPPORT ARG1:5YioXJ9LpX ARG2:KX0SBFV1va
+R5 SUPPORT ARG1:c5MJqR6IaE ARG2:HLX3TaL3xd
+ArgQ0 BedWe-CreV SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 KX0SBFV1va SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 HLX3TaL3xd SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

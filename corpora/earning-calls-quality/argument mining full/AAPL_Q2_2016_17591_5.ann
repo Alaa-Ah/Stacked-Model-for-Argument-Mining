@@ -1,0 +1,19 @@
+VQp8P2tbho CLAIM-Opinion(view) 1551 1616 And so it's huge, and we felt it was important to spell that out.
+vapw2pKZOc PREMISE-Statistic 1488 1550 And the value of it hit just – or was just shy of $10 billion.
+V5M1Hj2Y6i PREMISE-Statistic 1333 1487 As we said earlier, the purchase value of the installed base services grew by 27% during the quarter, which was an acceleration over the previous quarter.
+LgtadBgPMX NON-ARG 1011 1120 The reality is that in doing so, we have developed a very large and profitable business in the Services area.
+UmpwICGpaq NON-ARG 1121 1332 And so we felt last quarter and working up to that that we should pull back the curtain so that people could – our investors could see the Services business both in terms of the scale of it and the growth of it.
+K8CG-kTY1l CLAIM-Policy 797 889 The most important thing for us, Steve, is that we want to have a great customer experience.
+JoHZfge305 PREMISE-Other 890 1010 So overwhelmingly, the thing that drives us are to embark on services that help that and become a part of the ecosystem.
+Z9cIqwWvNX CLAIM-Opinion(view) 2290 2351 What we've seen is that it depends on what you compare it to.
+jh-Ja1W1rz PREMISE-Hypothesis 2352 2563 If you compare to the iPhone 5s, what we're seeing is the upgrade rate today is slightly higher or that there are more people upgrading, if you will, in a similar time period in terms of rate than the iPhone 5s.
+4LYGjzAbOF PREMISE-Hypothesis 2564 2648 But if you compare to iPhone 6, you would clearly arrive at the opposite conclusion.
+8HuQrmCi9M CLAIM-Reformulated 2649 2704 And so I think it depends on people's reference points.
+kzYeN1PP0Z NON-ARG 2705 2809 And we thought it very important in this call to be very clear and transparent about what we are seeing.
+7jolqpyGw4 CLAIM-Opinion(view) 2810 3024 And so I think in retrospect, you can look at it and say, well maybe the appropriate measure is more to the iPhone 5s, and I think everybody intuitively thought that the upgrades were accelerated with the iPhone 6.
+_wkqenvX-U CLAIM-Reformulated 3025 3088 In retrospect, when you look at the periods, they clearly were.
+R0 SUPPORT ARG1:JoHZfge305 ARG2:K8CG-kTY1l
+R1 SUPPORT ARG1:vapw2pKZOc ARG2:VQp8P2tbho
+R2 SUPPORT ARG1:V5M1Hj2Y6i ARG2:VQp8P2tbho
+R3 SUPPORT ARG1:jh-Ja1W1rz ARG2:Z9cIqwWvNX
+R4 SUPPORT ARG1:4LYGjzAbOF ARG2:Z9cIqwWvNX

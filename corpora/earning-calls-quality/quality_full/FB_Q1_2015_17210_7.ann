@@ -1,0 +1,13 @@
+XhlrX1hhJM CLAIM-Fact 652 851 On the video question, we're basically focused primarily on video on our own site and service, and video tends to be pretty short form content right now on Facebook because it's playing in News Feed.
+QJlpXchenz PREMISE-Fact 852 912 We do see some pretty cool examples of people using it well.
+RdUZtfrP36 PREMISE-RealExample 913 1056 So for example, in the election, you saw Hillary Clinton announce her candidacy very recently, obviously, and that video got 2.7 million views.
+u1rYIaieUH PREMISE-RealExample 1057 1144 Ted Cruz and others have done the same and they've gotten large numbers of video views.
+2z3kFVr7sy PREMISE-Other 1145 1236 So we think it's a very attractive platform for people to reach people with video messages.
+fKB-R03mI5 NON-ARG 1255 1261 Great.
+BcehMjphUF NON-ARG 1262 1293 Thank you for joining us today.
+Tw3OFeQDXX NON-ARG 1294 1365 We appreciate your time and we look forward to speaking with you again.
+R0 SUPPORT ARG1:QJlpXchenz ARG2:XhlrX1hhJM
+R1 SUPPORT ARG1:RdUZtfrP36 ARG2:XhlrX1hhJM
+R2 SUPPORT ARG1:u1rYIaieUH ARG2:XhlrX1hhJM
+R3 SUPPORT ARG1:2z3kFVr7sy ARG2:XhlrX1hhJM
+ArgQ0 XhlrX1hhJM SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

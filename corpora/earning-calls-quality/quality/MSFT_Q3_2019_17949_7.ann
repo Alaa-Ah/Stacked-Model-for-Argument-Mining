@@ -1,0 +1,19 @@
+Biaeez2e1I NON-ARG 1061 1066 Sure.
+NXZCErd0Qf NON-ARG 2434 2490 And to your overall commercial progress margin question.
+Qn7lUSezGX CLAIM-Opinion(view) 2491 2850 You're right, the fundamental driver is when I look forward into next year, I expect each service just like it did this year to really see gross margin improvement, whether that service is LinkedIn or Dynamics or Office 365, Azure per user or Azure IaaS in PaaS, but what you'll see is a revenue mix shift, right, that will offset that to Azure IaaS and PaaS.
+Hbbon9aA3M CLAIM-Fact 2851 3104 And so what that generally will do, will be a headwind to continued gross amount of the improvement even though you'll see individual improvement across all the GM services, and you'll continue to see Azure increase as a percentage of the total revenue.
+O7oSvBbhjT CLAIM-Fact 1067 1263 I mean, on the first question Ross as far as our premium services, just even on the application infrastructure side, for example, in compute, there is increasing need for things like IoT services.
+qzaWuYSrpC PREMISE-RealExample 1426 1639 IoT Central is a good example of that when you have many, many connected devices, you need a control plane for many of those devices, so that you contain the complexity of your app deployment, security management.
+mp1I2DgHGV CLAIM-Fact 1660 1692 The other one is of course data.
+b9wOICyjTY PREMISE-Fact 1264 1425 Essentially, there is a new business application like set of services that are getting developed to help people manage their complex IoT application development.
+Jx5eOsFwPj CLAIM-Fact 1640 1659 That's one example.
+hQde77i_gc PREMISE-Fact 2024 2244 Even data warehousing, the scale at which this is another market which we never participated in, in the past, whereas now we are one of the most competitive products when it comes to benchmarking around data warehousing.
+4X9jsZn8Fm CLAIM-Reformulated 2245 2423 So those are all things that I would say are premium services that just talking about new applications being built on Azure, not counting all of the SaaS applications about that.
+V9J2u5NMgt CLAIM-Fact 1693 1858 And the sophistication of the data aid is growing exponentially, both in terms of the needs of the databases required, the processing that is required close to data.
+tZBNgvKpic PREMISE-RealExample 1859 2023 So that's another place where something like Cosmos DB which is very unique in capability in the marketplace is definitely another service that's got real traction.
+R0 SUPPORT ARG1:b9wOICyjTY ARG2:O7oSvBbhjT
+R1 SUPPORT ARG1:qzaWuYSrpC ARG2:O7oSvBbhjT
+R2 SUPPORT ARG1:tZBNgvKpic ARG2:V9J2u5NMgt
+R3 SUPPORT ARG1:hQde77i_gc ARG2:V9J2u5NMgt
+ArgQ0 O7oSvBbhjT SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 V9J2u5NMgt SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

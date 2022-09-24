@@ -1,0 +1,30 @@
+x9IDrZS5Tg NON-ARG 908 937 Lloyd, I'll take - it's Dave.
+Y_fSzYhf18 NON-ARG 938 1007 I'll take the first one in terms of material contributors to revenue.
+ffWtiLOzUw NON-ARG 1008 1064 Look, I think on a lot of those fronts, it's very early.
+ThmAiIOvVq PREMISE-Fact 1065 1159 I'd say commerce broadly and e-commerce is an important vertical for our advertising business.
+Z27pdtpw1- CLAIM-Opinion(view) 1160 1378 So our success in building - continuing to build good advertising products for our e-commerce clients on the advertising side will be a more important contributor to revenue in the foreseeable future than the new area.
+1yQmgX2Fz2 CLAIM-Reformulated 1379 1411 So that's what I would focus on.
+kuDjmMGzDv NON-ARG 1538 1592 And then I think you had a question on the Stories ad.
+o_PLg2dnNe NON-ARG 1593 1623 I think Sheryl will take that.
+0oHuNrfTtq NON-ARG 1412 1537 I think those are still very small and we're very early in those being anything from a contribution point of view on revenue.
+Pwaz6tQJmj NON-ARG 1641 1662 Yes, I can take that.
+iy_PC6KNEc PREMISE-Statistic 1663 1770 So at 2 million advertisers in Stories, we're obviously seeing broad adoption and that means you have both.
+ZBg_PI6wuz CLAIM-Opinion(view) 1939 2151 But one of the things we're most proud of, and Mark talked about it in his remarks as well, is that we take tools that were previously only available to large companies and make them available to small companies.
+LgbmNl1P6X NON-ARG 2503 2565 And I'll share one specific example of a medium-sized company.
+-s00j-vPKA PREMISE-RealExample 2566 2596 Cetaphil is a skin care brand.
+xgQV_-2nBJ PREMISE-RealExample 2597 2825 They ran video ads across IG - Instagram Stories, Instagram feed and Facebook, targeted to Canadian women aged 25 to 54, and they were measuring all the way through to sales and they saw almost a 7%, so 6.9% lift in store sales.
+pfZonZROwj CLAIM-Fact 1771 1820 You have large advertisers and small advertisers.
+CaPW82hbdc CLAIM-Fact 2152 2321 And one of the things we've learned over the years is that the easier we make it for our advertisers, whether they're really big or really small, the more they'll adopt.
+PqOGF5CsE9 NON-ARG 1821 1938 It's definitely the case that sometimes small advertisers or medium-sized advertisers can sometimes move the fastest.
+HzFiN2Rls1 NON-ARG 2322 2502 So what - with the work we've done to "We'll take your pictures, we'll take your post and we'll create the story for you," we do automatic placements, I think that makes it easier.
+vokuU10otg CLAIM-Reformulated 2826 3168 So what we want to do is get marketers to use our tools, use the technology we have to do automatic placements, show people things they're interested in, so ads are a good experience, but really help them ring the cash registers so that they know their dollars or their pound or their euro are well spent, and that's what we're pushing to do.
+zNR3y-gTXC NON-ARG 3186 3560 And I'll add one thing, which I think David has said this a couple of times, but I think it's worth emphasizing that while I'm excited about the road map that we have and it's going to be great over the long term, the growth of the business over the next year, a few quarters or the near term is going to be mostly based on the growth of Stories and the core News Feed work.
+yGqvytUCCL NON-ARG 3561 3672 And Stories is - we have a lot of work still to go there to make it - monetize at the same levels as News Feed.
+r90sZZ8ZQ2 NON-ARG 3673 3821 And I'm confident that we're going to get there, but I want to make sure that we're giving the right outlook on how we expect the near future to go.
+R0 SUPPORT ARG1:ThmAiIOvVq ARG2:Z27pdtpw1-
+R1 SUPPORT ARG1:iy_PC6KNEc ARG2:pfZonZROwj
+R2 SUPPORT ARG1:-s00j-vPKA ARG2:CaPW82hbdc
+R3 SUPPORT ARG1:xgQV_-2nBJ ARG2:CaPW82hbdc
+ArgQ0 Z27pdtpw1- SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 pfZonZROwj SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 CaPW82hbdc SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

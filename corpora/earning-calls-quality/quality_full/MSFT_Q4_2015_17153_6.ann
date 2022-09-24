@@ -1,0 +1,45 @@
+yFSMUABopE PREMISE-RealExample 1010 1038 The first one is Windows 10.
+g9J-3e9fKM PREMISE-Statistic 1039 1137 The second is the first-party hardware, where we just had such terrific performance again this Q4.
+2_kgdLCR9j PREMISE-RealExample 1138 1222 And then finally, the third bucket was about accelerating our commercial cloud lead.
+P13WZMlZ5g CLAIM-Reformulated 1476 1551 And so I look and see that as an opportunity to accelerate top line growth.
+K_QcRmH_tH PREMISE-Fact 1387 1475 We'll also add sales capacity across some of the other opportunities we've seen broadly.
+kt0XnVahjS CLAIM-Other 1567 1732 And one thing I would just add because a lot of folks even ask about our business process and business applications, I want to build a long-term profitable business.
+ND5mVHl5fn CLAIM-Reformulated 1733 1898 In other words, one of the keys in business apps is you can always get into the trap of overspending in sales and marketing and not having long-term leverage at all.
+XToEqY4nzt CLAIM-Opinion(view) 1899 2043 One of the things I feel very good about our position is how do you really build a long-term profitable business; that's front and center to me.
+_WhXrGrhy8 CLAIM-Opinion(view) 3059 3145 So I feel good that we're staying on the trajectory that we showed in the projections.
+nRmVbqwTXn NON-ARG 2884 2890 Great.
+JGQAeFPQyW PREMISE-Other 2891 3058 I do think the work we showed at the analyst meeting on the importance of increasing the install base across Office and Exchange, that it did occur again this quarter.
+aYsSxDWLgO NON-ARG 3146 3228 I do continue to expect that to happen, as we shared back that last week in April.
+s4ToIqy3bl CLAIM-Fact 3296 3350 Generically, each of the examples was quite different.
+kBo3YO7Ker PREMISE-RealExample 3351 3401 There were people that were upgrading from X to Y.
+jlilatwgs- PREMISE-RealExample 3402 3461 There were people that were just simply moving to the cloud
+sgf0Rk-l1u PREMISE-RealExample 3743 3826 I also think the importance of it is that it tends to also come with higher margin.
+FB48qd5YA9 CLAIM-Fact 3463 3660 But one of the things that the cloud, to your point, makes fundamentally possible is the opportunity for us to quickly iterate the opportunity's billed value and deploy it more quickly to customers
+iuKrkzONHN PREMISE-Fact 3662 3742 Generally, I do think that they will pay us for that, to your specific question.
+aIBM8KcF0j NON-ARG 442 447 Sure.
+Obz7gkJa05 NON-ARG 448 529 Look, I talked a little bit about it, but let me go into a bit of detail on that.
+dktF4pjXyO CLAIM-Fact 530 720 I think the first half of your question was does the $32.1 billion to $32.4 billion full-year OpEx guide reflect the timing of the implementation of our restructuring, and it certainly does.
+hZD0FeXUwP CLAIM-Fact 721 925 And so what you can then see, relating to the second half your question, is that we are taking some of those savings and investing them back into the business in some of these key growth areas we've seen.
+uZ4EBl0KLh NON-ARG 926 955 I outlined three on the call.
+idA_GLwnbk NON-ARG 956 1009 The third one I probably could have expanded more on.
+0ofrz2JdWK PREMISE-Fact 1223 1386 And I do feel like in that area, we could invest in Office 365 some of the new E5 capabilities and look forward to adding sales capacity to take advantage of that.
+gUlbh80g26 CLAIM-Fact 2044 2289 So we will not overspend there in sales and marketing because we do believe the products – in fact, there is a different way to sell even business process applications because of the cloud, and that's something that we want to take advantage of.
+33xA-u3nfo CLAIM-Opinion(view) 3229 3295 On the second half of your question, I tend to think you're right.
+-dwR7A2my1 CLAIM-Reformulated 3827 3959 So our improvement and continued improvement in our commercial cloud gross margin portfolio, I think this is a key criteria of that.
+td7kvBTLqA CLAIM-Reformulated 3960 4085 So I associate it, yes, with lifetime value, and I also associate it with our ability to move our gross margin percentage up.
+qZEwuzwihN NON-ARG 4137 4151  Thanks, Ross.
+JBLQpdzPHB NON-ARG 4152 4195 We have time for one last question, please.
+R0 SUPPORT ARG1:yFSMUABopE ARG2:hZD0FeXUwP
+R1 SUPPORT ARG1:g9J-3e9fKM ARG2:hZD0FeXUwP
+R2 SUPPORT ARG1:2_kgdLCR9j ARG2:hZD0FeXUwP
+R3 SUPPORT ARG1:0ofrz2JdWK ARG2:hZD0FeXUwP
+R4 SUPPORT ARG1:K_QcRmH_tH ARG2:hZD0FeXUwP
+R5 SUPPORT ARG1:JGQAeFPQyW ARG2:_WhXrGrhy8
+R6 SUPPORT ARG1:kBo3YO7Ker ARG2:s4ToIqy3bl
+R7 SUPPORT ARG1:jlilatwgs- ARG2:s4ToIqy3bl
+R8 SUPPORT ARG1:iuKrkzONHN ARG2:FB48qd5YA9
+R9 SUPPORT ARG1:sgf0Rk-l1u ARG2:FB48qd5YA9
+ArgQ0 hZD0FeXUwP SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 _WhXrGrhy8 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 s4ToIqy3bl SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 FB48qd5YA9 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

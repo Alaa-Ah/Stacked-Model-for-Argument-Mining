@@ -1,0 +1,9 @@
+kU4X1W5NY2 CLAIM-Fact 565 675 So on destinations, we're constantly trying new things and testing and measuring and iterating here at Amazon.
+AQGILBUUjs PREMISE-Fact 676 722 We learned a lot, but we've discontinued that.
+VT999lkjnV PREMISE-Fact 723 838 On the restaurant delivery, we've had it for a couple months here in Seattle and recently announced it in Portland.
+oKeGr3xdhp CLAIM-Opinion(view) 839 872 It fits very well with Prime Now.
+bTt0siRZ-0 CLAIM-Opinion(view) 873 958 So at this point, it's pretty small, but something we're excited to do for customers.
+Rg2USsSPhy CLAIM-Opinion(view) 959 1126 We think it will be helpful for them, and we're happy to take advantage of some of the competencies we've built with Prime Now and with our fulfillment network so far.
+R0 SUPPORT ARG1:VT999lkjnV ARG2:kU4X1W5NY2
+R1 SUPPORT ARG1:AQGILBUUjs ARG2:kU4X1W5NY2
+ArgQ0 kU4X1W5NY2 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

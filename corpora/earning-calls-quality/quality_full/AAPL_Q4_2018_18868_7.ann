@@ -1,0 +1,36 @@
+PTJUPqq9h9 NON-ARG 447 462 Mike, it's Tim.
+GWvaYRLzuy NON-ARG 558 678 The XR, we've only had out there for I guess five days or so at this point, and so we have very, very little data there.
+-ZhQQ1MPlr NON-ARG 679 884 Usually there is some amount of wait until another product shows up and look, but in looking at the data, on the sales data for XS and XS Max, there's not obvious evidence of that in the data, as I see it.
+jFI02p7J25 CLAIM-Fact 2008 2176 Of course, we're also improving the quality of the services that we provide and if you look back during the last three years, we've added new services to our portfolio.
+K7pdC-rDD1 PREMISE-RealExample 2177 2218 We added Apple Pay, we added Apple Music.
+6E67glL0gY PREMISE-Fact 2219 2271 We added this advertising business on our App Store.
+fGCcCGD53G CLAIM-Reformulated 2272 2433 And clearly, we will want to continue to offer new services over time, so there are a number of vectors that allow us to continue to grow the business over time.
+wosyo3qwFe CLAIM-Opinion(view) 2557 2701 We are well on pace to achieve that, and we feel very, very confident about the future and the opportunities that we have in the services space.
+0cTH44CdRv CLAIM-Fact 2434 2556 We have stated that we want to double the size of the services business from the level that we had in fiscal 2016 by 2020.
+k7eiljCsX6 CLAIM-Fact 1671 1787 When we look at our services business, we think about the fact that we have a very large and growing installed base.
+iCVTIMxTlC CLAIM-Fact 1788 2007 The installed base of all our major product categories is at an all-time high and has been growing over the last several quarters, so the opportunity for us to monetize our services business continues to grow over time.
+fcVkxkvkeo PREMISE-Fact 1434 1670 Mike, as we said, during the September quarter, we set new records for many, many services categories, right, from Apple Music to cloud services to the App Store to AppleCare and Apple Pay really has an exponential trajectory right now.
+LGmQQ7es02 NON-ARG 2723 2810 Mike, in terms of your question on AR, I have a different view than you do on this one.
+K_0azyGWSG PREMISE-RealExample 2811 2877 Just a year ago, practically a year ago, we came out with ARKit 1.
+i4H9sCv9MQ PREMISE-RealExample 2878 2927 Six months or so after that we came out with 1.5.
+z5IbKetHX5 PREMISE-RealExample 2928 2967 We then recently came out with ARKit 2.
+ixGFuIYyIX CLAIM-Fact 2968 3031 The number of things that you can do are growing significantly.
+ENqDhFwYBH CLAIM-Fact 3032 3180 The number of developers that either have done something, or even more the case, that are working on things that I've seen are growing tremendously.
+2ORQnRtzht PREMISE-RealExample 3181 3367 There's a lot of interest out there and the number of categories that I'm seeing from gaming to shopping, to I was in China a few weeks ago and saw AR in an art sense, in an art exhibit.
+CUdCDAhvqm PREMISE-RealExample 3368 3458 I was in Berlin last week and saw it being used in a historical educational kind of sense.
+gqB9MG75Qs CLAIM-Reformulated 3459 3642 I'm seeing it sort of everywhere I go now, and so I think we are in the early days, and it'll keep getting better and better, but I'm really happy with where things are at the moment.
+Ffw2rPeCJy NON-ARG 3657 3673 Thank you, Mike.
+_1dl2NbdA2 NON-ARG 3674 3711 Can we have the next question please?
+1oOnCpHvRk CLAIM-Fact 463 557 The XS and XS Max got off to a really great start and we've only been selling for a few weeks.
+R0 SUPPORT ARG1:K7pdC-rDD1 ARG2:jFI02p7J25
+R1 SUPPORT ARG1:6E67glL0gY ARG2:jFI02p7J25
+R2 SUPPORT ARG1:fcVkxkvkeo ARG2:k7eiljCsX6
+R3 SUPPORT ARG1:K_0azyGWSG ARG2:ixGFuIYyIX
+R4 SUPPORT ARG1:i4H9sCv9MQ ARG2:ixGFuIYyIX
+R5 SUPPORT ARG1:z5IbKetHX5 ARG2:ixGFuIYyIX
+R6 SUPPORT ARG1:2ORQnRtzht ARG2:ENqDhFwYBH
+R7 SUPPORT ARG1:CUdCDAhvqm ARG2:ENqDhFwYBH
+ArgQ0 jFI02p7J25 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 k7eiljCsX6 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 ixGFuIYyIX SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ3 ENqDhFwYBH SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

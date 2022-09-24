@@ -1,0 +1,29 @@
+7EL985Zlwy CLAIM-Opinion(view) 898 1051 On local, we think this is a really big opportunity, and you see this in the large base of existing businesses using Facebook and Instagram increasingly.
+gEmGQD22aK PREMISE-Statistic 1052 1206 There are 60 million small business pages up on Facebook and 1.5 million Instagram business profiles, which are the similar, the equivalent for Instagram.
+8nHD_wBKK9 PREMISE-Fact 1207 1345 And the reason we think people are so active is it's just really expensive and hard to have your own mobile site or your own even webpage.
+tLgHB_beN4 PREMISE-Statistic 1346 1496 Thirty-five percent of small businesses in the United States, which is the most developed market in many cases, don't even have a webpage of any kind.
+HkXTI1qwXc PREMISE-Fact 1497 1611 And it's cheaper and easier to build a webpage than it is to build a mobile app and get distribution or downloads.
+IuNNTsgUkm CLAIM-Fact 1612 1805 And so what's happening is that people are really using the Facebook business pages and increasingly the Instagram business profile as their mobile presence, and we think that's what's working.
+gYyiaWt5tE PREMISE-Fact 1806 1957 And then we're working hard to build products that work, in-store visits, and then to use simplified ad products that convert them over to advertising.
+i9ZhkMSJ69 NON-ARG 1975 1991 Eric, it's Dave.
+dUxnT0yOC6 PREMISE-Fact 1992 2236 Just really reiterating what I said last quarter about our expectations on ad load going into mid-2017, it's been one of the key factors in terms of driving growth along with time spent – user growth and time spent growth and advertiser demand.
+KGem5V8hVL CLAIM-Fact 2237 2416 So we continue to see good opportunities to grow time spent, continue to see good opportunities to grow users, and we continue to see good opportunities to grow advertiser demand.
+sv_Bf0fCK1 CLAIM-Opinion(view) 2417 2514 On that latter point, really the mix of ad units is part of what we're doing I think really well.
+Be5DEb_ACh PREMISE-Fact 2515 2634 We're developing a number of new ad products as well as enhancing the ad products that we have out in the market today.
+IOOp7PnKMo PREMISE-Fact 2635 2737 So we're taking what is a great mobile ad product on Facebook and Instagram and making it even better.
+3Mk-W7PwKk PREMISE-Fact 2738 2843 And I think the investments that we're doing there will continue to enable us to drive advertiser demand.
+4l2CKDb6FQ CLAIM-Reformulated 2844 2918 So those key factors will continue, we believe, to drive growth next year.
+rcwU8jSJB8 NON-ARG 2919 3062 So what I'm specifically talking about is ad load and our anticipation that it's going to be a less significant factor as we get into mid-2017.
+R0 SUPPORT ARG1:gEmGQD22aK ARG2:7EL985Zlwy
+R1 SUPPORT ARG1:8nHD_wBKK9 ARG2:7EL985Zlwy
+R2 SUPPORT ARG1:tLgHB_beN4 ARG2:IuNNTsgUkm
+R3 SUPPORT ARG1:HkXTI1qwXc ARG2:IuNNTsgUkm
+R4 SUPPORT ARG1:gYyiaWt5tE ARG2:IuNNTsgUkm
+R5 SUPPORT ARG1:dUxnT0yOC6 ARG2:KGem5V8hVL
+R6 SUPPORT ARG1:Be5DEb_ACh ARG2:sv_Bf0fCK1
+R7 SUPPORT ARG1:IOOp7PnKMo ARG2:sv_Bf0fCK1
+R8 SUPPORT ARG1:3Mk-W7PwKk ARG2:sv_Bf0fCK1
+ArgQ0 7EL985Zlwy SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 IuNNTsgUkm SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 KGem5V8hVL SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_2
+ArgQ3 sv_Bf0fCK1 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

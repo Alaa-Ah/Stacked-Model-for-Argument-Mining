@@ -1,0 +1,23 @@
+qrwqGNjYhL NON-ARG 606 610 Yes.
+uLQzvzrWvi NON-ARG 611 623 Sure, Justin
+kxZkrGQHEw CLAIM-Opinion(view) 624 844 on pricing growth, I think there we feel like we're making good progress in our goal of driving better outcomes in ROI for our advertisers through things like better targeting, better ad units, driving better conversion,
+DQXg8z5nNw CLAIM-Reformulated 845 891 and we think we're making good progress there,
+DSIhuIkydK PREMISE-Fact 892 998 and the willingness of advertisers continue to grow budgets with us I think highlights our progress there.
+-Jt2ov7n_k PREMISE-Fact 999 1169 You remember they are optimizing at the end of the day for business results for a given dollar spent not the impression price that we're kind of nominally reporting here.
+sdkbUbEd_T PREMISE-Fact 1170 1412 So you can think of all of this work and Sheryl talked about the value optimization efforts as part of that as being an effort to improve the yield of the impressions that we have to drive downstream business results for advertising partners.
+KY6jFGBerC PREMISE-Fact 1413 1517 And if we can drive those affectively that will translate into higher effective prices for our business.
+bqZdeKGUi8 PREMISE-Fact 1518 1619 And as I mentioned, I think we believe we still have a lot of work to do to continue to improve that.
+hd08mxR2aq CLAIM-Opinion(view) 1620 1659 So we think there's opportunities here.
+6sRwMHN9aE NON-ARG 1677 1806 And for Watch, it's early, there are some promising signs, but in terms of how we think about this overall compared to News Feed.
+2XFltFXccH CLAIM-Fact 1807 1966 I would say it's really important to internalize that the News Feed video ecosystem and the Watch video ecosystem are almost completely separate things, right.
+fGcThgoLi5 PREMISE-Fact 1967 2121 So the Watch behaviors that we're building is one where people come intentionally to watch specific videos and to interact with the community around that.
+AwcfLqeXrR PREMISE-Fact 2122 2365 That's in contrast to what we worry is too passive consumption of an experience in News Feed today where people just happen to often see a video and maybe they'll watch it for a few minutes, but may not interactive around as much in News Feed.
+d7XZUnYA43 CLAIM-Opinion(view) 2366 2824 So we're still very optimistic long-term that Watch will be used for video that helps to bring people closer together and that will correlate with all the things that our community is telling us they want and that correlate with the measures of wellbeing that we think that social products can generate by helping people build relationships in terms of all the long-term measures of wellbeing that we care about like long-term happiness and health et cetera.
+R0 SUPPORT ARG1:DSIhuIkydK ARG2:kxZkrGQHEw
+R1 SUPPORT ARG1:-Jt2ov7n_k ARG2:kxZkrGQHEw
+R2 SUPPORT ARG1:sdkbUbEd_T ARG2:kxZkrGQHEw
+R3 SUPPORT ARG1:KY6jFGBerC ARG2:hd08mxR2aq
+R4 SUPPORT ARG1:bqZdeKGUi8 ARG2:hd08mxR2aq
+R5 SUPPORT ARG1:fGcThgoLi5 ARG2:2XFltFXccH
+R6 SUPPORT ARG1:AwcfLqeXrR ARG2:2XFltFXccH
+R7 SUPPORT ARG1:fGcThgoLi5 ARG2:d7XZUnYA43

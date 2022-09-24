@@ -1,0 +1,27 @@
+tJ5DzctOZI NON-ARG 1303 1372 Thanks, Keith, for those questions, so let me start on the first one.
+bxScAtAOHY CLAIM-Fact 1373 1618 You're absolutely right that one of the phenomena now is that pretty much anyone who is a customer of Azure is also in some form an ISV, and that's no longer just limited to people who are "in the classic tech industry" or the software business.
+dgT6xptikK PREMISE-Other 1619 1648 That's the same case with GE.
+td-DaaMBLI PREMISE-Other 1649 1680 It's the same case with Boeing.
+RYzR6UJ_0L PREMISE-Other 1681 1880 It's the same case with Schneider Electric or ABB or any one of the customers we are working with because they all are taking some of their assets and converting them into SaaS applications on Azure.
+egvURjcbaa PREMISE-Fact 1881 1957 And that's something that we will in fact have distribution agreements with.
+qIbl01kwSd CLAIM-Fact 1958 2009 And AppSource is a pretty major announcement for us
+vYBAyQFmgA PREMISE-Fact 2010 2161 because we essentially created for SaaS applications and infrastructure applications a way to distribute their applications through us and our channel.
+tmI1yGadsb CLAIM-Opinion(view) 2162 2249 And I think it makes in fact our cloud more attractive to many of them because of that.
+yYbw0Gyfhl CLAIM-Opinion(view) 2250 2379 So we look – I think going forward, you'll look to see – or you'll see us do much more of this with many other customers of ours.
+vANV3x6_ni NON-ARG 2393 2642 And to your question on Azure gross margins specifically and how we think about that in comparison, let me first say the additional color I gave in terms of comments in terms of material improvement clearly also apply to our Azure portfolio as well.
+1iiTVHRotc CLAIM-Opinion(view) 2643 2706 We're encouraged by the improvements we've seen year over year.
+4bItMWwGSx CLAIM-Opinion(view) 2707 2912 And we do expect material improvement in FY 2017, both from the benefits of scale and the investments we've made, but importantly also in the revenue trajectory we're seeing and the makeup of that revenue.
+-RhWX4H7Il PREMISE-Fact 2913 3020 Boeing's agreement is one such agreement in terms of embedding a premium service at a premium gross margin.
+ovce4yo1eH PREMISE-Fact 3021 3088 We signed many of those this quarter that we feel quite good about.
+rrcc8o33PM CLAIM-Opinion(view) 3089 3474 I think I have a strong line of sight to AWS's margin profile and still feel good about the progress we're making, not just on the workloads that are relevant, apples to apples with Azure, but also in our broader cloud portfolio and our ability to have very healthy margins across Dynamics 365 as well as Office 365 in conjunction with many of the innovations we're doing across Azure.
+FW6OOnfST3 CLAIM-Reformulated 3475 3600 So while I am focused on both the workload improvement, I'm also focused on what's possible across the entirety of the cloud.
+lnDb72Kdx4 NON-ARG 3601 3614 Thanks, Keith
+ysJjsjUZXS NON-ARG 3676 3691  Thanks, Keith.
+AxzZhTEIAU NON-ARG 3692 3740 We'll go to the next question, please, operator.
+R0 SUPPORT ARG1:dgT6xptikK ARG2:bxScAtAOHY
+R1 SUPPORT ARG1:td-DaaMBLI ARG2:bxScAtAOHY
+R2 SUPPORT ARG1:RYzR6UJ_0L ARG2:bxScAtAOHY
+R3 SUPPORT ARG1:egvURjcbaa ARG2:bxScAtAOHY
+R4 SUPPORT ARG1:vYBAyQFmgA ARG2:qIbl01kwSd
+R5 SUPPORT ARG1:-RhWX4H7Il ARG2:4bItMWwGSx
+R6 SUPPORT ARG1:ovce4yo1eH ARG2:4bItMWwGSx

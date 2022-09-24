@@ -1,0 +1,26 @@
+a6i2E2RgH6 CLAIM-Opinion(view) 933 1017 I mean, on the messaging question, yeah, we're pretty happy with how it's all going.
+cdWcm-nGGQ PREMISE-Fact 1018 1140 I think if we're going to pay $19 billion for a company, we should have pretty high expectations for how it's going to do.
+lRYV8nzJBA CLAIM-Reformulated 1141 1180 So I do feel good about how we're doing
+WC_Z0xaU22 PREMISE-Fact 1182 1292 but it needs to do a lot more obviously and we're very excited about the roadmap of things that we have ahead.
+gEXI2fsnkk CLAIM-Fact 1293 1354 In terms of integrating them, no, we're not going to do that.
+Iu12mMyhDb PREMISE-Fact 1355 1745 One of the things that had been interesting, while we were watching these different services grow, was just how quickly multiple different messaging and communication services were growing at the same time, and it seemed a little bit counter-intuitive at first because it seemed like there should have been more overlap than it actually, now in retrospect looking back, seems like there is.
+tUI-OQKfOu PREMISE-RealExample 1746 1870 So you can look at countries where both services, WhatsApp and Messenger, are growing very quickly like Brazil, for example.
+V1LzNTIZFz CLAIM-Fact 1871 1950 And what you'll see is that basically people use them a little bit differently.
+rlrpamIJUH CLAIM-Fact 2681 2787 On the auto and insurance verticals, they're both still small which makes them good opportunities to grow.
+HzbwIaEiaU PREMISE-Fact 2788 2958 We're seeing good progress on both of them, and interestingly, insurance companies have been pretty active both on Facebook and Instagram, so we're optimistic about that.
+UOIz2vuocL PREMISE-Fact 1951 2014 I mean, WhatsApp is more of a clear text messaging replacement.
+sGhy4mzUDN PREMISE-Fact 2015 2105 Facebook Messenger people use to connect with people that they know on Facebook primarily.
+OKVr9YgMwT PREMISE-Fact 2106 2480 And then there are differences in the feature sets where WhatsApp is extremely utilitarian and focused on texting and now voice calling, whereas Messenger is very focused on expression and the whole set of things that fit into the tools around the Messenger platform that we rolled out at F8, communicating with businesses now, richer tools to communicate in different ways.
+x0NGeS6YNw NON-ARG 2481 2660 So I think that these are just going to keep on growing is my expectation and hope, and we're excited to kind of pursue both different products to serve the different communities.
+R0 SUPPORT ARG1:cdWcm-nGGQ ARG2:a6i2E2RgH6
+R1 SUPPORT ARG1:WC_Z0xaU22 ARG2:a6i2E2RgH6
+R2 SUPPORT ARG1:Iu12mMyhDb ARG2:gEXI2fsnkk
+R3 SUPPORT ARG1:tUI-OQKfOu ARG2:gEXI2fsnkk
+R4 SUPPORT ARG1:HzbwIaEiaU ARG2:rlrpamIJUH
+R5 SUPPORT ARG1:UOIz2vuocL ARG2:V1LzNTIZFz
+R6 SUPPORT ARG1:sGhy4mzUDN ARG2:V1LzNTIZFz
+R7 SUPPORT ARG1:OKVr9YgMwT ARG2:V1LzNTIZFz
+ArgQ0 a6i2E2RgH6 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 gEXI2fsnkk SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 rlrpamIJUH SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 V1LzNTIZFz SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

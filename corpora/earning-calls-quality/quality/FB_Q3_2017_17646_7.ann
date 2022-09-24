@@ -1,0 +1,32 @@
+59bCVRaZtW NON-ARG 806 882 So I can take the second one, which is the question about impression growth.
+bWE7gyjHBX CLAIM-Fact 883 919 So there are a couple factors there.
+vbz03Z9eNT PREMISE-Fact 920 1020 Certainly, this quarter we saw that ad load had a much less significant impact on impression growth.
+fP45Xq3Iz_ PREMISE-Fact 1021 1150 So overall, that story has played out as we thought, and that's one of the reasons you're seeing the impression growth come down.
+zbn6p1un4b CLAIM-Opinion(view) 1151 1298 And then yes, I do think that there are less impressions when people are consuming video, so that also is a factor as more time is spent on videos.
+vZLG5RpXEd NON-ARG 1299 1358 So I think you have both of those factors coming into play.
+HPWO9KKrob NON-ARG 1359 1417 In terms of how those play out going forward, hard to say.
+_cSmztYxjR NON-ARG 1418 1507 I would just point to our overall comments on just continued revenue growth deceleration.
+ADOJlOijGe NON-ARG 1508 1621 And I believe the first question was whether the security investments would have an adverse impact on engagement.
+5fJncTGXiz NON-ARG 1646 1675 Yes, and I can speak to that.
+VdXLGuQcXK PREMISE-Fact 1676 1814 Let me be clear on this, that people do not want false news or hate speech or bullying or any of the bad content that we're talking about.
+7-OtQo9WQy CLAIM-Fact 1815 1995 So to the extent that we can eradicate that from the platform, that will create a better product, which will also create a stronger long-term community and better business as well.
+KRMqrIevLO NON-ARG 1996 2139 So the reason why we haven't been able to get these things to the level that we want today is not because we somehow want them on the platform.
+dC3_S2XGdJ NON-ARG 2140 2177 It's that it's a really hard problem.
+SACF2D2T4x CLAIM-Fact 2178 2233 And we're going to invest both in people and technology
+punJ0rM9kB PREMISE-Fact 2234 2360 because we think that both are really important parts of the solution here, to go after all different parts of these problems.
+rkzCnyFLWp NON-ARG 2361 2408 And that was what I tried to stress earlier on.
+hVml1L_xI4 PREMISE-Statistic 2409 2508 We're going from 10,000 people working on safety and security to more than doubling that to 20,000.
+j-9o8v4JbL PREMISE-Fact 2509 2606 We're building – we're doubling – in some cases more – our engineering teams focused on security.
+C6SGeQY3xh PREMISE-Fact 2607 2738 We're building AI to go after more different areas of harmful content and finding fake accounts and other bad actors in the system.
+Uo0bzo2e16 NON-ARG 2739 2898 And I expect that all of these things will make our product better over the long term, but we will incur the expenses a lot sooner as we ramp up these efforts.
+zwyzBZIIhR CLAIM-Reformulated 2899 3151 And I also just think that going forward, we're going to be investing in these things at a much higher level because we realize that this is important, not only for our community and this company, but it's part of our responsibility to society overall.
+R0 SUPPORT ARG1:VdXLGuQcXK ARG2:7-OtQo9WQy
+R1 SUPPORT ARG1:punJ0rM9kB ARG2:SACF2D2T4x
+R2 SUPPORT ARG1:hVml1L_xI4 ARG2:SACF2D2T4x
+R3 SUPPORT ARG1:j-9o8v4JbL ARG2:SACF2D2T4x
+R4 SUPPORT ARG1:C6SGeQY3xh ARG2:SACF2D2T4x
+R5 SUPPORT ARG1:vbz03Z9eNT ARG2:bWE7gyjHBX
+R6 SUPPORT ARG1:fP45Xq3Iz_ ARG2:bWE7gyjHBX
+ArgQ0 7-OtQo9WQy SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 SACF2D2T4x SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 bWE7gyjHBX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

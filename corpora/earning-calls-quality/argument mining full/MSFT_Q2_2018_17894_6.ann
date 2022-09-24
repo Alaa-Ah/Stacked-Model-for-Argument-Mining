@@ -1,0 +1,58 @@
+jJwGAnoeRG NON-ARG 1172 1186 Thanks, Keith.
+A5-1V88N2R NON-ARG 1187 1226 So let me take both of those questions.
+Lu2cJ3gHzh CLAIM-Opinion(view) 1227 1299 So on gaming, we feel good about Xbox One X, the premium console launch.
+-5W3wDjS8B CLAIM-Opinion(view) 1300 1357 We also feel good about the volume we got for Xbox One S,
+F1kVel9qGO PREMISE-Fact 1358 1510 because we always wanted that halo effect of the premium console driving even the lower-end console, because that creates the sockets for gaming for us.
+PCI6KyCXB- CLAIM-Fact 1511 1651 But our real strategy going forward is not only to do great work on the console, but to complement that with the work we're doing on the PC.
+soiZIP484w PREMISE-Fact 1652 1681 PC gaming is a growth market.
+8hScdd3H_L PREMISE-Fact 1682 1844 And so, therefore you see us, whether it's our subscription offer, whether it's our streaming efforts that are increasingly bringing the console plus PC together.
+qoVM7cKtxv PREMISE-Fact 1845 1922 And then, not stopping there, but going to other devices, for example mobile.
+OE_blb0zac PREMISE-RealExample 1923 1997 Minecraft on mobile we just launched in fact in the last quarter in China.
+vPga4_Ncx5 PREMISE-RealExample 1998 2081 We are seeing tremendous growth of Minecraft expansion on mobile platform in China.
+D3B--4CEPE PREMISE-Fact 2082 2159 So overall, you will see us do good work on the console, we'll compete there.
+5A4IQ1VEzD CLAIM-Opinion(view) 2160 2325 But more importantly, we have a much more broader gaming view in terms of what value we can add with our subscription services streaming services across all devices.
+q5RVIsqlHc PREMISE-Fact 2326 2425 And one other point I think I made in my remarks earlier is gaming also is a growth area for Azure.
+sOc9RdkxdC PREMISE-Fact 2426 2551 In other words, we have now increasing past services that we are going to reinforce on Azure and attract more game developers
+PBcaBi_wVL PREMISE-Fact 2553 2676 Some of the know-how that we have from Xbox is not just about the Xbox, but it's going to help developers across the board.
+w29jdQ3pnw PREMISE-Other 2677 2747 So that I think will also transcend or lead into even media companies.
+_53kihrUwc CLAIM-Opinion(view) 2748 2833 So we're very excited about some of what we can get out of our investments in gaming.
+pCFlaqhJxz CLAIM-Reformulated 2834 2864 So that's our focus on gaming.
+aSVic8MvZB CLAIM-Opinion(view) 2865 2927 In terms of Cortana and home, I think it's probably important.
+0GkJyrau7z NON-ARG 2928 3022 Although the question I'll ask is, you asked it narrowly, but my investments are much broader.
+fn1Lv-SQxN CLAIM-Fact 3023 3195 In other words, I first start by saying let's make sure our best AI capability, whether it's speech, whether it's ultimately even image recognition and dialogue management,
+kttpqAvE18 PREMISE-Fact 3196 3393 because right now most assistants are fairly dumb in terms of just doing one-turn dialogue, but where we're going to go is multi-turn dialogue and that requires real natural language understanding.
+fYkm89erJT PREMISE-Fact 3394 3481 So all of those investments, for example, are available on Azure as Cognitive Services.
+JyrCwlN8lt PREMISE-Fact 3482 3591 I even referenced in my remarks how in healthcare people are using those to build bots and skills and agents.
+Oi8kJD4ljC PREMISE-Fact 3592 3667 That's where we will make sure we do our best, building blocks and AI work.
+nFAT0BfxtH PREMISE-Fact 3668 3828 Of course, it will manifest for us with Cortana as an agent from Microsoft that has some special skills, especially around that crossover between work and life.
+ktlBTSFKd8 PREMISE-Fact 3829 3907 Most agents and their knowledge or smarts come from the data access they have.
+7eKRwoX_re PREMISE-Fact 3908 3980 In our case, it's going to be about things that are there in Office 365.
+2DtbOkYNt2 PREMISE-Fact 3981 4102 The people, places, things and how we reason about it and help users, whether they're at home or whether they're at work.
+EU6di3IpU7 PREMISE-Fact 4103 4199 Lastly, even when it's comes to devices, we want to take an approach that brings all assistants.
+Kh8XU_bCgi CLAIM-Fact 4200 4273 That's why we are working with Alexa, we would welcome it on our devices,
+1zBd0hNsQ- PREMISE-Fact 4274 4528 because we believe in a world where our own assistant should be available everywhere and so should other assistants be available on our devices versus thinking that the end game here is about speaking, doing one-turn dialogues on one speaker in one home.
+enQ5xpyazE PREMISE-Fact 4529 4556 That's just not our vision.
+lqcHhvCcDF NON-ARG 4596 4611  Thanks, Keith.
+qXIZeYvhLD NON-ARG 4612 4648 We'll move to next question, please.
+R0 SUPPORT ARG1:F1kVel9qGO ARG2:-5W3wDjS8B
+R1 SUPPORT ARG1:soiZIP484w ARG2:PCI6KyCXB-
+R2 SUPPORT ARG1:8hScdd3H_L ARG2:PCI6KyCXB-
+R3 SUPPORT ARG1:qoVM7cKtxv ARG2:PCI6KyCXB-
+R4 SUPPORT ARG1:OE_blb0zac ARG2:PCI6KyCXB-
+R5 SUPPORT ARG1:vPga4_Ncx5 ARG2:PCI6KyCXB-
+R6 SUPPORT ARG1:D3B--4CEPE ARG2:PCI6KyCXB-
+R7 SUPPORT ARG1:q5RVIsqlHc ARG2:5A4IQ1VEzD
+R8 SUPPORT ARG1:sOc9RdkxdC ARG2:5A4IQ1VEzD
+R9 SUPPORT ARG1:PBcaBi_wVL ARG2:5A4IQ1VEzD
+R10 SUPPORT ARG1:w29jdQ3pnw ARG2:5A4IQ1VEzD
+R11 SUPPORT ARG1:kttpqAvE18 ARG2:fn1Lv-SQxN
+R12 SUPPORT ARG1:fYkm89erJT ARG2:fn1Lv-SQxN
+R13 SUPPORT ARG1:JyrCwlN8lt ARG2:fn1Lv-SQxN
+R14 SUPPORT ARG1:Oi8kJD4ljC ARG2:fn1Lv-SQxN
+R15 SUPPORT ARG1:nFAT0BfxtH ARG2:fn1Lv-SQxN
+R16 SUPPORT ARG1:ktlBTSFKd8 ARG2:fn1Lv-SQxN
+R17 SUPPORT ARG1:7eKRwoX_re ARG2:fn1Lv-SQxN
+R18 SUPPORT ARG1:2DtbOkYNt2 ARG2:fn1Lv-SQxN
+R19 SUPPORT ARG1:EU6di3IpU7 ARG2:fn1Lv-SQxN
+R20 SUPPORT ARG1:1zBd0hNsQ- ARG2:Kh8XU_bCgi
+R21 SUPPORT ARG1:enQ5xpyazE ARG2:Kh8XU_bCgi

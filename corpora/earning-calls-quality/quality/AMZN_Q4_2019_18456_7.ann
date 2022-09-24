@@ -1,0 +1,19 @@
+4nBWLkPSFV NON-ARG 827 832 Sure.
+8mS3B-bunY NON-ARG 833 877 Let me make sure the numbers are understood.
+ad20veIuVH PREMISE-Statistic 878 988 We had talked about last year about an initial step up in cost of close to $800 million in the second quarter.
+IPdtsXfC0c PREMISE-Fact 989 1044 We -- that carried into Q3-- was slightly higher in Q3.
+E0hYq73WKh PREMISE-Statistic 1045 1147 And then in Q4, last time on this call I mentioned that we estimated Q4 would be $1.5 billion penalty.
+qyUvia4_mQ PREMISE-Fact 1148 1246 It was slightly under that despite the higher volumes and revenue growth than was in our guidance.
+VLmYKt1BCW PREMISE-Statistic 1247 1344 And looking ahead to Q1, we estimate approximately $1 billion of additional costs year-over-year.
+BNA36USnyr CLAIM-Fact 1345 1387 And again, in Q2, we'll start to lap this.
+4XXMmcuKPn NON-ARG 1596 1699 So, I will keep you posted on our results and guide in the future as to where we see those costs going.
+fAyMbpAnuq CLAIM-Fact 1700 1795 If you look at the efficiency or the -- first the cost, they generally fall into a few buckets.
+mApRV7jdmB PREMISE-Fact 1796 1907 It's obviously transportation where you're building out new transportation modes, you're adding new deliveries.
+RwEGEy6AEs PREMISE-Fact 1908 1939 Partners are adding new routes.
+Nwu9sGGmja PREMISE-Fact 1940 2102 Many times they start with subscale volumes and you build them out, you get more efficient, you get more volume, more package density and that creates efficiency.
+MVArrN51Q0 NON-ARG 1388 1433 And that doesn't mean the delta goes to zero.
+mMFlgQ96PX NON-ARG 1434 1595 It means that there'll be a step up as we grow and expand on a volume basis and then we'll see where our rates are on actually delivering and fulfilling one day.
+R0 SUPPORT ARG1:mApRV7jdmB ARG2:fAyMbpAnuq
+R1 SUPPORT ARG1:RwEGEy6AEs ARG2:fAyMbpAnuq
+R2 SUPPORT ARG1:Nwu9sGGmja ARG2:fAyMbpAnuq
+ArgQ0 fAyMbpAnuq SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,20 @@
+_LPMaNZAzX NON-ARG 501 523 Yeah, Amit, it's Luca.
+aZ28JKGsfs PREMISE-Hypothesis 1546 1665 Because if you look at our model, if we can convince you to buy an iPhone or an iPad, we'll make a little bit of money.
+YSIU6r_vsE PREMISE-Fact 1666 1689 You're not our product.
+FdmFiNraWA NON-ARG 1690 1724 And so that's how we look at that.
+E9emDWS77N NON-ARG 2108 2140 And so that's how we look at it.
+1F-L-04MUK NON-ARG 1725 1780 In terms of benefit, we don't really view it like that.
+SAsCdKaJwt CLAIM-Opinion(view) 1781 1949 We view that privacy is a fundamental human right and that it's an extremely complex situation if you're a user to understand a lot of the user agreements and so forth.
+ElksZyjsgA CLAIM-Opinion(view) 1950 2107 And we've always viewed that part of our role was to sort of make things as simple as possible for the user and provide them a level of privacy and security.
+208X1XRFzC CLAIM-Fact 1337 1495 We protect it by encrypting it, and we keep the bulk of information or a significant amount of information on the device so that the user is in control of it.
+vJyFbIF41x CLAIM-Fact 1496 1545 We also collect much less overall than others do.
+YtusHGDE5H NON-ARG 2155 2171 Thank you, Amit.
+NL1I2xmoaF NON-ARG 2172 2212 Could we have the next question, please?
+5Y_kZtW97t CLAIM-Fact 524 658 We tend to look at our gross margin dynamics on a sequential basis, and essentially we're guiding to about flat on a sequential basis.
+6lc6OlHUrG PREMISE-Fact 659 722 On a year-over-year basis, it's less relevant for our business.
+8UbWrC2hiu NON-ARG 723 948 But in general, I would say that this year we are seeing a more difficult cost environment, particularly we're still dealing with about 70 basis points of impact from the memory pricing environment that we're working through.
+R0 SUPPORT ARG1:aZ28JKGsfs ARG2:vJyFbIF41x
+R1 SUPPORT ARG1:YSIU6r_vsE ARG2:vJyFbIF41x
+R2 SUPPORT ARG1:6lc6OlHUrG ARG2:5Y_kZtW97t
+ArgQ0 vJyFbIF41x SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 5Y_kZtW97t SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

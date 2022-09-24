@@ -1,0 +1,11 @@
+3FAz5d48jQ CLAIM-Opinion(view) 268 367 We continue to be pleased with the growth of Instagram both on a user basis and on a revenue basis.
+LSHN3nDGw3 PREMISE-Fact 368 432 It continues to make an increasing contribution to the business.
+dkVVyRsNch CLAIM-Reformulated 433 545 So we're very pleased with the Instagram result, nothing specifically to highlight from a metrics point of view.
+DX0dXrWg0Z CLAIM-Opinion(view) 563 631 On the business side, I think we have both pleased with the results.
+LkjTypek7f PREMISE-Fact 632 677 We see a very big opportunity in front of us.
+Jhgzf8F5pO PREMISE-Statistic 678 866 We have 6 million advertisers on Facebook, which means we have a lot of opportunity on Instagram, where we only have 2 million advertisers to grow their engagement with us and their spend.
+R0 SUPPORT ARG1:LSHN3nDGw3 ARG2:3FAz5d48jQ
+R1 SUPPORT ARG1:LkjTypek7f ARG2:DX0dXrWg0Z
+R2 SUPPORT ARG1:Jhgzf8F5pO ARG2:DX0dXrWg0Z
+ArgQ0 3FAz5d48jQ SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 DX0dXrWg0Z SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

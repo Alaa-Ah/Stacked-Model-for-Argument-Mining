@@ -1,0 +1,11 @@
+z7rQru9WoW CLAIM-Fact 568 705 In terms of payments, we really see payments as primarily a way to enforce the other activities we want to see on Facebook and Instagram.
+ldRKDxVhjG PREMISE-Fact 706 747 So payments enable advertisers to pay us.
+KBlCVK0Z2P PREMISE-Fact 748 860 We are using payments in some of our other products in ways that enable some of the interactions we want to see.
+em3juitQQj CLAIM-Fact 861 1032 When we think about Instagram Shopping, it's very early tests, but it really follows the kinds of things we do in other areas of our products and services, like Messenger.
+7_g0tEMWoO PREMISE-Fact 1033 1222 What we see is that people in Instagram are using Instagram to browse for products and make those connections, and so we then make the product investments to make those a little bit easier.
+NDZshfb3N4 PREMISE-Fact 1223 1486 Similarly, to some of the things we've done in Messenger, some of the things we've done in Marketplace, we're watching for what is the organic activity between businesses and consumers, and then we're building products to enhance and enable that organic activity.
+R0 SUPPORT ARG1:ldRKDxVhjG ARG2:z7rQru9WoW
+R2 SUPPORT ARG1:7_g0tEMWoO ARG2:em3juitQQj
+R3 SUPPORT ARG1:NDZshfb3N4 ARG2:em3juitQQj
+ArgQ0 z7rQru9WoW SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 em3juitQQj SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,22 @@
+UbfKaEv07R NON-ARG 449 454 Yeah.
+KBMByhM3RM NON-ARG 455 465 Sure, Ben.
+95SCledyf4 CLAIM-Fact 466 645 I would say, we're going to be using all of the available levers that we have right now, both AMZL and also third-party carriers, and we'll just see how it develops going forward.
+HaHKRKvmIo CLAIM-Fact 646 739 But we're going to need definitely continued support of our external transportation partners.
+gU86-ORzKw NON-ARG 828 988 We will see where we stand at the end of the quarter, and I'll give you insight as to what we just saw and what our outlook is for future quarters at that time.
+thHyKPKKEh NON-ARG 989 1047 I would like to - as I don't want to run out of time here.
+C5-Nf3nYB_ NON-ARG 1048 1147 So I'm going to ask a question for myself about AWS, because I want to get some information to you.
+nOt_Ftjk2g NON-ARG 1148 1222 Most of the questions I can tell around one-day are topical and important.
+8gyGHASMJj NON-ARG 1223 1272 I do want to highlight the AWS performance in Q1.
+Zkc-tZHrNv PREMISE-Statistic 1273 1397 We're now over $30 billion annualized run rate, 42% FX-neutral growth and $2 billion more of revenue this Q1 versus last Q1.
+iwUO7iUDwZ PREMISE-Statistic 1398 1718 The operating margin has also expanded in that time period by 320 basis points as a result of a lot of the good work on infrastructure and efficiencies that I talked about earlier in the call, because this is against a backdrop of a very large expansion of our tech teams and our sales teams that supports this business.
+yPBo51pu9P CLAIM-Fact 1719 1781 We're continuing to engage with many large customers globally.
+I3WHk132qK PREMISE-Statistic 1910 2043 That's going to integrate more than 30,000 facilities and 1,500 suppliers and partners in Volkswagen's global supply chain over time.
+7fkV_mUtin PREMISE-RealExample 2044 2172 We have deals going with Ford on powering the cars of the future, Lyft, Gogo, a lot of really good customer wins in the quarter.
+vqAwv1IUd6 CLAIM-Opinion(view) 2173 2331 And I think just more broadly, we're seeing continued momentum in enterprise migrations to AWS, and people are moving their workloads to AWS at a faster pace.
+8kI1h-LOtj NON-ARG 740 827 So outside of the ramp, I would say that the $800 million is what I have for you today.
+hXnI6KPOBc PREMISE-RealExample 1782 1909 I'm particularly happy about the Volkswagen alliance that we've joined up with them to power their Volkswagen Industrial Cloud.
+h0617QKSsE CLAIM-Fact 2332 2394 Usage growth continues to be higher than revenue growth rates.
+R0 SUPPORT ARG1:hXnI6KPOBc ARG2:yPBo51pu9P
+R1 SUPPORT ARG1:I3WHk132qK ARG2:yPBo51pu9P
+R2 SUPPORT ARG1:7fkV_mUtin ARG2:yPBo51pu9P
+ArgQ0 yPBo51pu9P SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,41 @@
+3OZf8OHeaQ NON-ARG 785 837 Yes, this is Sheryl; I’ll take the Stories question.
+GTN_NtOtGj CLAIM-Opinion(view) 2216 2377 So the long run view should be that you can give us maybe simple pictures, maybe simple videos, maybe an ad you’ve produced, and we can do the placement for you,
+Qs7Ne_0-bD PREMISE-Fact 2378 2568 because we think over time our systems will do a better job deciding where your ads should be placed and even helping you target until you’re seeing us build tools in that direction as well.
+T0PmD_iJeH NON-ARG 2569 2636 In terms of how much of its incremental, I’m sure not all of it is.
+InRWQ27JzP NON-ARG 2637 2743 There’s – definitely has to be some cannibalization for people who are doing feed ads as they get Stories.
+DczNXiw1cb NON-ARG 2744 2886 But we’ve seen that over time as we move people we’re able to get increasing shares, hopefully, of their budget but it’s our job to earn that.
+r-KecWb_CW NON-ARG 3091 3113 Hey, Brian, it’s Dave.
+A7TuZYPLHr NON-ARG 3114 3191 We already talked about on the supply side the impact that Stories is having.
+WfyqtdGZAj CLAIM-Fact 3192 3374 And the supply growth really getting driven by Stories is coming through at lower prices, so that’s one of the factors that factors into the lower growth outlook for the second half.
+24OylT6aF7 NON-ARG 3375 3493 But on the demand side, want to specifically call out several factors that are contributing to ad targeting headwinds.
+TQAFS1qLOS CLAIM-Fact 3494 3603 The first is just the evolution of the regulatory landscape, and here I would point to regulations like GDPR.
+2PXU3A6H89 PREMISE-Fact 3604 3833 The number of people who have opted out on using context from the apps and websites they visit for ad targeting has continued to increase since the adoption of GDPR, so we’ve seen that come up both in Europe and around the world.
+OTsYhrlKO0 PREMISE-Fact 3834 3940 That means those people are seeing less relevant ads and that’s an ad targeting headwind for our business.
+jTBUCN32YU CLAIM-Fact 3941 4075 The second factor is just anticipated changes that mobile platforms will make that will make targeting and measurement more difficult.
+KdCVgHVNIf CLAIM-Fact 4076 4128 And the third is Facebook – our own product changes.
+OT_jXh5GL3 PREMISE-RealExample 4129 4242 For example, in the fall we plan to roll out our tool for seeing and clearing your off-Facebook browsing history.
+JKJPeXvxjM PREMISE-Fact 4243 4341 In addition, we’ve introduced restrictions on the use of certain targeting criteria from some ads.
+-HP6Vjh_pA CLAIM-Reformulated 4342 4509 So we’re seeing a cumulative impact from all of these factors leading to – leading to what we expect to be targeting headwinds for the – for the back half of the year.
+QN29ErVs6I CLAIM-Fact 2887 3077 We tell marketers all over the world that we want to be the best dollar, the best minute, the best euro they spend and it’s up to us to prove that ROI and we’re going to continue to do that.
+2JtJ5yUZSp PREMISE-Fact 1947 2094 So our process is, we have one sales team selling all of these products; I think that helps us a lot because they already have those relationships.
+BU-XO9zrQc CLAIM-Fact 1416 1466 Now, we’re really applying that lesson to Stories.
+9eaDC7-Usk PREMISE-Fact 1670 1946 So if you look at some of the tools and products I’ve talked about in the last couple of quarters, now you can – rather than us saying to you, go make a Stories ad you can just send us some pictures, some text, some very easy posts and we will create some Stories ads for you.
+9nr5TdpEEs CLAIM-Opinion(view) 1467 1635 First, we need to convince marketers that people are using Stories, and I think having seen the mobile shift, their process – they’re getting that I think more quickly.
+VdmXOZ1xk3 CLAIM-Policy 1636 1669 But then we have to make it easy.
+H61upF9yr5 CLAIM-Reformulated 2095 2163 And we’re doing all we can to make it very easy to adopt the format.
+y0W0ak95ig CLAIM-Fact 2164 2215 We also want to make this as automated as possible.
+4wgYUD1OMC NON-ARG 838 1029 So one of the things we learned is that consumers usually move to new features, to new products, to new places before marketers, and it’s really up to us to help marketers move there quickly.
+WBzqyXw6ER NON-ARG 1030 1151 We definitely saw that with mobile, that one of the barriers was convincing marketers that they needed to be with mobile.
+ecoD0LCJsp NON-ARG 1152 1238 But then there was a second barrier which was just making it easier for them to do it.
+qFYLZPs0EQ NON-ARG 1239 1415 If you take your long TV ad or your 30-second TV spot and you just put it on mobile, it doesn’t perform as well as a mobile first ad, and that’s been something we’ve worked on.
+R0 SUPPORT ARG1:2PXU3A6H89 ARG2:TQAFS1qLOS
+R1 SUPPORT ARG1:OTsYhrlKO0 ARG2:TQAFS1qLOS
+R2 SUPPORT ARG1:OT_jXh5GL3 ARG2:KdCVgHVNIf
+R3 SUPPORT ARG1:JKJPeXvxjM ARG2:KdCVgHVNIf
+R4 SUPPORT ARG1:9eaDC7-Usk ARG2:BU-XO9zrQc
+R5 SUPPORT ARG1:2JtJ5yUZSp ARG2:BU-XO9zrQc
+R6 SUPPORT ARG1:Qs7Ne_0-bD ARG2:GTN_NtOtGj
+ArgQ0 TQAFS1qLOS SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 KdCVgHVNIf SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 BU-XO9zrQc SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 GTN_NtOtGj SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

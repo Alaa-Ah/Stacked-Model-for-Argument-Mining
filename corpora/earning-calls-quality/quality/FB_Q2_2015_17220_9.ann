@@ -1,0 +1,18 @@
+wOP-421KMc CLAIM-Opinion(view) 1049 1137 So on the sales and marketing expenses, Mark, I think you're going to see that be lumpy.
+AXd4_xsFyp PREMISE-Fact 1138 1253 That's just due to product marketing and that's just not going to necessarily be a steady quarter-to-quarter trend.
+CG6s5aE0k8 CLAIM-Reformulated 1254 1291 So you're going to see that be lumpy.
+bISv5fe2OC PREMISE-Fact 1292 1368 But, yes, we are investing more in general in sales and marketing over time,
+QbA-IZCzQ4 CLAIM-Opinion(view) 1369 1459 so you'd expect to see that line grow in line with the expense guidance that we're giving.
+pIFfIPvEKG PREMISE-Fact 1460 1594 So it's definitely an area that we'll be investing in on an ongoing basis and I wouldn't read too much into the quarterly trend there.
+isc5TE667N CLAIM-Opinion(view) 1619 1707 Yeah, and in terms of Instagram, I just think Kevin and the team are doing amazing work.
+QSs3zvWbHu PREMISE-Fact 1708 1801 The clarity of focus and clarity of the vision that Kevin and Mike have has been exceptional.
+b_HAy_b0bS PREMISE-Fact 1802 1855 And this is something that they've always focused on.
+PKRnSIvvbz PREMISE-Fact 1856 1936 They've cared deeply about it since the first conversations I've had with Kevin.
+ZHpTA8qSAl PREMISE-Fact 1937 2163 And I think it takes real composure as a leader to scale something to many x where it was just a few years ago and build up the organization and be able to continue pushing the products forward every day to be able to do that.
+io3Nm5xNoX PREMISE-Fact 2164 2259 And I think it's rare that you get someone who's as talented as the folks who are leading this.
+dgXZ2IHqvL CLAIM-Reformulated 2260 2298 And they're just doing an amazing job.
+R0 SUPPORT ARG1:AXd4_xsFyp ARG2:wOP-421KMc
+R1 SUPPORT ARG1:bISv5fe2OC ARG2:QbA-IZCzQ4
+R2 SUPPORT ARG1:pIFfIPvEKG ARG2:QbA-IZCzQ4
+ArgQ0 wOP-421KMc SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 QbA-IZCzQ4 SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

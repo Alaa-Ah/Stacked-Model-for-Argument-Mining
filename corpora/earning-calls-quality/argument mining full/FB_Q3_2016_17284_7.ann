@@ -1,0 +1,32 @@
+cZG10gwG9o NON-ARG 679 773 I did not fully understand the first question, so I'm going to talk about our AI work overall.
+_sth3AV0H8 CLAIM-Fact 774 919 In general, what we want to do is try to understand the content that people are sharing and that's out there for them to see as best as possible.
+UVC2cDQkSW PREMISE-Fact 920 1292 So for example, that means being able to read and understand news articles or posts that people make or messages that a person might send to a business so we can help that business auto-reply to them and get information back to the person really quickly, or understand the content so we can better understand what might be interesting to a person and show it in News Feed.
+5dyngyuPBk CLAIM-Fact 1293 1440 Similarly, aside from the conversational and linguistic understanding, there's a whole thread of the work that we're doing on visual understanding.
+orBdeGl0IL PREMISE-Fact 1441 1524 So understanding photos, what's in photos, what's in videos, what people are doing.
+11Pxf0D_ik PREMISE-Fact 1525 1689 That allows us to not only do things around accessibility, to show somebody who is visually impaired to be able to read to them what might be in a video or a photo.
+uXpJtE6MET PREMISE-Fact 1690 1855 But it also helps us rank News Feed better, so that way we can help understand what is in the content and show people more of what is going to be meaningful to them.
+QtseF0xKDZ PREMISE-Fact 1856 2007 It helps us identify content that might be offensive or graphic that might violate the policies of Facebook so we can flag that and review that better.
+8IThdfR34Y CLAIM-Reformulated 2008 2211 So that's the main thread of the AI work we're doing is trying to understand conversational and linguistic context and computer vision, photographic and video signals to understand what's going on there.
+neVwEYFmam CLAIM-Fact 2212 2292 And that will apply across basically every product that we build at the company.
+G1q6lHsQYJ PREMISE-Fact 2293 2405 And then of course, there's some deeper AI research that we're doing that feeds into those applications as well.
+8xz_VEVpi0 PREMISE-Fact 2406 2513 That can apply to things like ranking for News Feed and search and ads and all of our systems more broadly.
+DA7_MGhzWL NON-ARG 2531 2612 On the discoverability of pages, a couple of things that I would point out there.
+1e04ZeZqkj CLAIM-Fact 2613 2652 First, we continue to invest in search.
+LxPkxbU90u PREMISE-Fact 2653 2792 So obviously, that's a good way for people to discover interesting pages, interesting businesses around them, so search is one angle there.
+WtYaJMzkl1 PREMISE-Statistic 2793 2861 And then of course, ads, we've got 60 million businesses with pages.
+4Y9JmwtqhD PREMISE-Fact 2862 2956 They manage those pages and then they can promote those pages via our easy-to-use ad products.
+MpKDAsHHoY CLAIM-Fact 2957 3045 We try to make it very easy for businesses to promote pages, promote posts and the like.
+JDjVp6pJrn PREMISE-Fact 3046 3143 So that's an important on-ramp to mobile advertising for a number of businesses around the world.
+HmjD-jnUri NON-ARG 3144 3235 Those are the two ways that I think of from enhancing discoverability of pages on Facebook.
+QQbvCMLQSv NON-ARG 3253 3307  Operator, I think we have time for one last question.
+R0 SUPPORT ARG1:UVC2cDQkSW ARG2:_sth3AV0H8
+R1 SUPPORT ARG1:orBdeGl0IL ARG2:5dyngyuPBk
+R2 SUPPORT ARG1:11Pxf0D_ik ARG2:5dyngyuPBk
+R3 SUPPORT ARG1:uXpJtE6MET ARG2:5dyngyuPBk
+R4 SUPPORT ARG1:QtseF0xKDZ ARG2:5dyngyuPBk
+R5 SUPPORT ARG1:G1q6lHsQYJ ARG2:neVwEYFmam
+R6 SUPPORT ARG1:8xz_VEVpi0 ARG2:neVwEYFmam
+R7 SUPPORT ARG1:LxPkxbU90u ARG2:1e04ZeZqkj
+R8 SUPPORT ARG1:WtYaJMzkl1 ARG2:MpKDAsHHoY
+R9 SUPPORT ARG1:4Y9JmwtqhD ARG2:MpKDAsHHoY
+R10 SUPPORT ARG1:JDjVp6pJrn ARG2:MpKDAsHHoY

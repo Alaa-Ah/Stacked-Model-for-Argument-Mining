@@ -1,0 +1,48 @@
+SoqYG1k_xu CLAIM-Opinion(view) 356 399 I do think over the long term you're right.
+1WcHwgbK0- CLAIM-Reformulated 400 428 That is how I think about it
+8DZoSqXWim CLAIM-Reformulated 720 799 But I do think over time, we do expect that to trend in that general direction.
+0LEuYFkrP8 PREMISE-Fact 619 718 There will always be somebody who chooses to purchase on a one-time basis, or there's a logic to it
+Ifg4jBeyZG CLAIM-Opinion(view) 1153 1283 Overall, business process collaborations, communications, these category boundaries are things that I believe are going to change.
+ztC4MxoIGK PREMISE-Fact 1284 1466 I've always felt that in some sense, most of the time we even automate business processes, but we spend really getting our business done in our communication and collaboration tools.
+TexX3WmpCB PREMISE-Other 1467 1547 And this impedance is something that I've always dreamt of how do we go forward.
+DrWn7lBVXN PREMISE-RealExample 1548 1632 And CRM has taken our own Dynamics product, has taken some pretty unique approaches.
+OTdhHINnnA PREMISE-Fact 1633 1740 And quite frankly, I was the one who opened up our communications and collaborations for other CRM vendors.
+g0r6_mWvKq CLAIM-Opinion(view) 1741 1860 One of the things that I'm very explicit about is we will have an open platform for other business process applications
+UFgYz3yXQd PREMISE-RealExample 1861 1940 because it's a very fragmented market the world over, especially if you add SMB
+lj_UpIaYvD PREMISE-Other 1942 2079 And so we want to be having a platform play as well as our own business applications play, and both of them should be high-growth for us.
+vEfNyN2afI PREMISE-Other 2247 2330 because I'm a big believer in this because I think we have something unique to add.
+JwPxN1Dnno CLAIM-Fact 2080 2246 And in the last year, we just added more focus and we put more selling capacity around it, more marketing capacity, and now for the mainstream that's across Microsoft
+DWpn_XMJzh PREMISE-Hypothesis 2729 2808 And so things like Power BI and Cortana Analytics can help customers transform.
+N_36r6-aWG PREMISE-Other 2809 3002 So in fact, that's one of the reasons why we have been very optimistic about some of our new data capabilities because we have the attach capability go out even in the install base of Dynamics.
+tIq9CZpKO1 CLAIM-Opinion(view) 3241 3324 So I think we both feel very good about the momentum that's built through the year.
+6k9TKerJ_- CLAIM-Fact 3013 3143 And, Walter, just quickly, this is one of the areas that we have invested in actually leading into this past fiscal year, FY 2015.
+369MyBZG-8 PREMISE-Fact 3144 3240 And the results have actually been better than we anticipated when we first made the investment.
+TDAOlrBq2_ CLAIM-Fact 430 571 And frankly, inherent in the conversation around moving to the cloud with the aggressive targets we've given, that is implied, to your point.
+8BPDWHiFGb CLAIM-Opinion(view) 572 618 And so I think 100% is not the logical answer.
+nGrlcoj13x CLAIM-Opinion(view) 2331 2463 As opposed to driving our own top line/bottom line growth, I think we can bring real innovation, and that's what is exciting to see.
+GgmjUgMWQx PREMISE-Fact 2464 2486 And it's not just CRM.
+kVmRXhNyMX PREMISE-Fact 2487 2531 I'm actually excited about our ERP business.
+wizs4RoD-N PREMISE-Fact 2532 2597 Some of the numbers that Amy talked about is growth in the seats.
+tlc1M-PUb7 CLAIM-Opinion(view) 2598 2728 And when I think about data as the new currency, we have lots of managed seats and a lot of data which all will move to the cloud.
+zZTtCuupin NON-ARG 3374 3393  Thank you, Walter.
+AlXTwFuEfR NON-ARG 3394 3432 We'll go to the next question, please.
+R0 SUPPORT ARG1:0LEuYFkrP8 ARG2:8BPDWHiFGb
+R1 SUPPORT ARG1:ztC4MxoIGK ARG2:Ifg4jBeyZG
+R2 SUPPORT ARG1:TexX3WmpCB ARG2:Ifg4jBeyZG
+R3 SUPPORT ARG1:DrWn7lBVXN ARG2:Ifg4jBeyZG
+R4 SUPPORT ARG1:OTdhHINnnA ARG2:Ifg4jBeyZG
+R5 SUPPORT ARG1:UFgYz3yXQd ARG2:g0r6_mWvKq
+R6 SUPPORT ARG1:lj_UpIaYvD ARG2:g0r6_mWvKq
+R7 SUPPORT ARG1:vEfNyN2afI ARG2:JwPxN1Dnno
+R8 SUPPORT ARG1:GgmjUgMWQx ARG2:nGrlcoj13x
+R9 SUPPORT ARG1:kVmRXhNyMX ARG2:nGrlcoj13x
+R10 SUPPORT ARG1:wizs4RoD-N ARG2:nGrlcoj13x
+R11 SUPPORT ARG1:DWpn_XMJzh ARG2:tlc1M-PUb7
+R12 SUPPORT ARG1:N_36r6-aWG ARG2:tlc1M-PUb7
+ArgQ0 8BPDWHiFGb SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 Ifg4jBeyZG SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 g0r6_mWvKq SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 JwPxN1Dnno SPECIFIC_2 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 nGrlcoj13x SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 tlc1M-PUb7 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ6 6k9TKerJ_- SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3

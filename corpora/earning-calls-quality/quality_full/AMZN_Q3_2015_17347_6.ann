@@ -1,0 +1,17 @@
+jNqVLekugz NON-ARG 586 602 So this is Phil.
+WdDb2xUaYX NON-ARG 603 698 On the unit side, you did see units move at a rate that's highly correlated with revenue there.
+UDvQvgl8lZ NON-ARG 699 807 Keep in mind, AWS and some of the other rental-type offerings don't generate units, so we don't count those.
+onwzMb46Ks PREMISE-Fact 808 885 But we did see, certainly saw some additional units as a result of Prime Day.
+1UwOW5c5Bv CLAIM-Fact 886 1027 And on a longer-term bigger basis, the continued growth of Prime, the continued selection expansion, is helping with the unit's growth there.
+Hn7DriUmi- NON-ARG 1028 1076 Sorry, was there a second part of your question?
+ysK7EIDhcY CLAIM-Fact 1252 1291 We continue to see really, yeah, sorry.
+5jIWWoIC-q PREMISE-Fact 1292 1400 We continue to see really strong usage growth across the board, and it's coming from customers of all sizes.
+RGwkxgGlCd PREMISE-RealExample 1401 1518 We also have recently announced that Aurora, which is our new database software, is our fastest-growing service ever.
+TxQiGRWC9p PREMISE-RealExample 1519 1598 So for a long time, we talked about Redshift, and Aurora has now outpaced that.
+NSTA7jXyWA CLAIM-Opinion(view) 1599 1651 So we're very excited about what we're seeing there.
+R0 SUPPORT ARG1:onwzMb46Ks ARG2:1UwOW5c5Bv
+R1 SUPPORT ARG1:5jIWWoIC-q ARG2:NSTA7jXyWA
+R2 SUPPORT ARG1:RGwkxgGlCd ARG2:NSTA7jXyWA
+R3 SUPPORT ARG1:TxQiGRWC9p ARG2:NSTA7jXyWA
+ArgQ0 1UwOW5c5Bv SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 NSTA7jXyWA SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

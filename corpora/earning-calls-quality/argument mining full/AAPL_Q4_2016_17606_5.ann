@@ -1,0 +1,19 @@
+zv_Kk60ryQ NON-ARG 1270 1302 And so that's how we look at it.
+2ID50P-_CF CLAIM-Policy 1106 1269 In terms of the ASP, the way we think about it is we want to charge a fair price and so we don't want to charge more than that, and we think it's worth being fair.
+SOPSuaRS3S PREMISE-Fact 682 875 With the iPhone 7 Plus, we put an incredible amount of innovation into the camera and the overall photo experience, and customers are obviously using that and have discovered that they love it.
+4ObPceHh4e CLAIM-Fact 876 936 And so we're getting an incredible amount of feedback there.
+Gc6tT27snW CLAIM-Fact 937 985 We also get incredible feedback on the iPhone 7.
+ClUQ8A7fsk NON-ARG 986 1105 And, but the mix that we projected on iPhone 7 Plus is short of what the reality is and so we are chasing supply there.
+1xSTV4CFgf NON-ARG 1509 1567 And that's something that we need to keep in mind as well.
+S_iXSFhr73 NON-ARG 2157 2210 Whether that'll happen every two years, I don't know.
+-Sh-uiEkvK CLAIM-Opinion(view) 2211 2450 But I suspect that any time there are large numbers of customers that have a phone that's in that two year kind of range that it tends to be a sweet spot, and I think you probably will see a lot of people trying to recruit those customers.
+Od6Bil5uE2 PREMISE-Fact 2016 2046 We clearly saw that this year.
+qH4uYtPt4W PREMISE-RealExample 2047 2156 There's a lot of competition for customers in the U.S. which I think is the market that you're talking about.
+1l3Z3LHpzg CLAIM-Fact 1317 1472 If I can add, Wamsi, keep in mind that in a lot of countries around the world, the reality is that our customers have seen some significant price increases
+fr7-PBZOV5 PREMISE-Fact 1473 1508 because of the FX situation, right.
+rSkPErJxsg NON-ARG 2497 2503  Yeah.
+tKoesuzzFB NON-ARG 2504 2514 Thank you.
+R0 SUPPORT ARG1:SOPSuaRS3S ARG2:4ObPceHh4e
+R1 SUPPORT ARG1:fr7-PBZOV5 ARG2:1l3Z3LHpzg
+R2 SUPPORT ARG1:Od6Bil5uE2 ARG2:-Sh-uiEkvK
+R3 SUPPORT ARG1:qH4uYtPt4W ARG2:-Sh-uiEkvK

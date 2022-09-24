@@ -1,0 +1,59 @@
+VqJJ17KQSq NON-ARG 758 806 Let me start and then, Amy, you can add to this.
+eKclCADqem CLAIM-Opinion(view) 807 906 The big shift that we are making when it comes to phones is to not think about phones in isolation.
+0h1zs8Bqvn NON-ARG 1378 1419 All of that is what I want to do broadly.
+_oIXuC85B0 PREMISE-Fact 1420 1527 And it applies to phones, it applies to Surface hardware, it applies to Hololens, and that's how I view it.
+MY3HPsTBV9 CLAIM-Reformulated 1749 1806 We're going to have great flagship phones for Windows 10.
+ZeuxOKtV5D PREMISE-Fact 1807 1910 That's actually a segment we don't today have good devices, and we hope to change that with Windows 10.
+2mIWgfFGpQ PREMISE-Fact 1911 1965 We have in fact good traction in the business segment.
+kr3d00wfOs PREMISE-Fact 1966 2146 This is business customers who are actually buying phone devices, which is basically a radio with essentially a smartphone to be able to deploy their line-of-business applications.
+HPiKqFbRJk CLAIM-Opinion(view) 2689 2845 But at the same time, I think we want to be smart about how many of these phones do we want to generate, how many, which price points we want to participate
+QRStEnL4Rs CLAIM-Reformulated 2847 2964 That's where you will see the most significant operational changes from how we operated last year to the coming year.
+DN8nB_GsA0 CLAIM-Opinion(view) 2975 3209 And so, Keith, the way that I think about it and I tried to outline it in my comments is that the significant revenue declines quarter over quarter through the year are a reflection of the focused approach we're going to take in phone
+cZF63mfmOi PREMISE-Fact 3211 3312 It's an approach that we've executed in other hardware segments that I feel is a proven model for us.
+As7qC5XiKv PREMISE-Fact 3313 3348 Our profitability will also improve
+qmaXtIASWI PREMISE-Fact 3350 3521 More of that comes in the second half of the year structurally as we complete some of the restructuring efforts and those costs come out of our operating expense run rate.
+YCSi2VrL21 CLAIM-Reformulated 3522 3721 But I think that's probably the way to more appropriately think about over time you expect to see gross margin improvement and operating profit improvement as opposed to focusing on the revenue line.
+-_5lcehUrg CLAIM-Fact 4385 4437 In fact, we are adding significant value in security
+-kVOHnpWXw PREMISE-Fact 4439 4497 It's much better for us, for example, to add capabilities.
+ylXz8Enjqp PREMISE-Fact 4935 4969 So those are all security features
+xvnVm_F-UV PREMISE-RealExample 4822 4933 Similarly Azure, where we launched a whole set of security offers around how people can encrypt and manage keys
+uUoQNcj87C CLAIM-Opinion(view) 5227 5444 So the approach we're taking is we are essentially creating, to your point, security value around our products, which allows us to participate in essentially a security market that we never did in the ways that we are
+pyP_csiYch PREMISE-Fact 4971 5065 We bought a company in Colorado that's essentially a firewall on all your identity management.
+nEk6UmrDhu PREMISE-Fact 5066 5226 So when we talk about enterprise management suite growth, a lot of it is just obviously is management growth, but it's also security and data protection growth.
+g38vpvE-5c CLAIM-Opinion(view) 5446 5505 So it's more than just launching one point security product
+mkl4xbqf9h PREMISE-Fact 5507 5653 It's much more broadly participating in the security market, and you have seen some of that in the inorganic moves and the suites we have created.
+DJCFoj-ZOJ PREMISE-Fact 1029 1171 We clearly are going to have premium first-party portfolio, and you've seen some of the numbers, some of the progress we have made in Surface.
+AXqg6rNebz CLAIM-Opinion(view) 907 939 That's perhaps the biggest shift
+5TuPrVUTBA PREMISE-Fact 940 1028 because I think about Windows 10 in its entirety, the Windows ecosystem in its entirety.
+pz0qS52a26 PREMISE-RealExample 4498 4642 There are no (46:55) 365 in security, and that's all in, for example, this new suite that we have just announced called E5, the secure lock box.
+HFdndbMfOw PREMISE-RealExample 4643 4821 That's actually a pretty – a very cool set of features that allow both regulators and businesses to have, for example, audit ability and control over their movement in the cloud.
+XxV2M678Wo PREMISE-Fact 1172 1377 I feel that we have a formula there that I would like to apply more broadly in terms of growing, just delivering innovation, growing our own economic return for it, stimulating demand, creating categories.
+XicQTjIfxk CLAIM-Opinion(view) 1528 1748 I believe our participation in the phone segment by itself with Windows phones and Lumia phones being there is important, and that's why we picked the three areas where we have differentiation and we want to focus on it.
+oQPv-nVvni PREMISE-Fact 2147 2440 That's where we have pretty unparalleled value, which is we have Visual Studio Online and some of the tools I talked about, so you can generate these apps at a low cost of ownership, manage them, secure them, and deploy them to our phone endpoints, and then of course, management and security.
+ymdmkMHniv CLAIM-Reformulated 2441 2494 So that's a place where we want to continue to focus.
+tAG40MJCdy CLAIM-Opinion(view) 2495 2584 And in the value smartphones, that's the place where I want us to be much more efficient.
+zbeznncN46 CLAIM-Opinion(view) 2585 2688 We clearly have some value to add there because of the uniqueness of Office and Skype and our services.
+R0 SUPPORT ARG1:5TuPrVUTBA ARG2:AXqg6rNebz
+R1 SUPPORT ARG1:DJCFoj-ZOJ ARG2:AXqg6rNebz
+R2 SUPPORT ARG1:XxV2M678Wo ARG2:AXqg6rNebz
+R3 SUPPORT ARG1:_oIXuC85B0 ARG2:AXqg6rNebz
+R4 SUPPORT ARG1:ZeuxOKtV5D ARG2:XicQTjIfxk
+R5 SUPPORT ARG1:2mIWgfFGpQ ARG2:XicQTjIfxk
+R6 SUPPORT ARG1:kr3d00wfOs ARG2:XicQTjIfxk
+R7 SUPPORT ARG1:oQPv-nVvni ARG2:XicQTjIfxk
+R8 SUPPORT ARG1:cZF63mfmOi ARG2:DN8nB_GsA0
+R9 SUPPORT ARG1:As7qC5XiKv ARG2:DN8nB_GsA0
+R10 SUPPORT ARG1:qmaXtIASWI ARG2:DN8nB_GsA0
+R11 SUPPORT ARG1:-kVOHnpWXw ARG2:-_5lcehUrg
+R12 SUPPORT ARG1:pz0qS52a26 ARG2:-_5lcehUrg
+R13 SUPPORT ARG1:HFdndbMfOw ARG2:-_5lcehUrg
+R14 SUPPORT ARG1:xvnVm_F-UV ARG2:-_5lcehUrg
+R15 SUPPORT ARG1:ylXz8Enjqp ARG2:-_5lcehUrg
+R16 SUPPORT ARG1:pyP_csiYch ARG2:-_5lcehUrg
+R17 SUPPORT ARG1:nEk6UmrDhu ARG2:-_5lcehUrg
+R18 SUPPORT ARG1:mkl4xbqf9h ARG2:g38vpvE-5c
+ArgQ0 AXqg6rNebz SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 XicQTjIfxk SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 DN8nB_GsA0 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 -_5lcehUrg SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 g38vpvE-5c SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

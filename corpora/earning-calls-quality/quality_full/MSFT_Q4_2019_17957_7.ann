@@ -1,0 +1,38 @@
+g1LgGzGsaE NON-ARG 1000 1004 Yes.
+0kbTByvMiX CLAIM-Opinion(view) 1005 1222 So, overall, I think there's no question this last fiscal year has been an absolute breakout year for Teams in terms of both the product innovation and most importantly at-scale deployment and usage that we’re seeing.
+gayrQ7Xnvg CLAIM-Opinion(view) 1223 1329 And I think, in fact unlike any other time other than Windows, we've not had this kind of platform effect.
+fUaiSlwLlK PREMISE-Fact 1330 1467 Office has obviously had very, very successful individual products that have been deployed broadly, but each of them was a singular tool.
+O6lGAUOTJO PREMISE-Fact 1468 1543 Perhaps SharePoint was the last time we had a platform effect of this kind.
+X01g4QAm1A PREMISE-Fact 1544 1580 But Teams is -- transcends all that.
+_2siPxqcer PREMISE-Fact 1581 1712 It's the communications tool, it's the collaboration tool, it's the line of business tool for meetings as well as business process.
+AVC64MFGWl CLAIM-Fact 1713 1894 And so, the amount of value creation for the customer by deployment is something that we ourselves are sort of really learning a lot each deployment, whether it's on the first line.
+3E7j86WHTt PREMISE-Fact 1895 2024 The other point about Teams is just not limited to knowledge workers, which has been really the only place traditionally we play.
+WEk8IZ5JP3 PREMISE-Fact 2025 2142 Even our licenses to the non-knowledge workers were just mostly licenses of the tools we built for knowledge workers.
+XPuzShdrPh CLAIM-Fact 2143 2248 Whereas now, we actually have specific value, which is in fact very valuable to those first line workers.
+fmjWIigCL5 PREMISE-Fact 2249 2380 And the thing that we have realized is, that businesses are in fact looking to spend more for those first line worker productivity.
+pkc1akNXPa CLAIM-Opinion(view) 2381 2447 So we’re in a very early innings of it, but we are pretty excited.
+gTNPktIjbh CLAIM-Fact 2448 2651 The one other benefit, to sort of tease off with some of the comments Amy was making is that security compliance and governance is a huge issue for enterprise customers and commercial customers at scale.
+pd8rVV_hzr PREMISE-Fact 2652 2781 And Teams in some sense helps them a lot, because it builds on all the rest of the investment they’ve made already in Office 365.
+3IKaPA44Zb CLAIM-Reformulated 2782 2828 And so we see that benefit even on that front.
+rXBuGdz4wM CLAIM-Opinion(view) 2839 2928 And I think it's an important component of our M 365 value, but it's really not outsized.
+pxDTUMEXWq CLAIM-Opinion(view) 2929 3039 I mean, we’ve all these components value, that's really that’s been the secret of what customers look and see.
+aQOUFqLpnI PREMISE-Fact 3040 3266 They see Teams that can not only change what Satya talked about, but also develop culture change in terms of employees being able to be involved and collaborate regardless of the org chart and that is what you're going to see.
+1ucEXyUoon CLAIM-Opinion(view) 3267 3488 When we have 500 million new applications built in the next five years, you're going to see and I believe Teams to be one of the major interfaces through which that experience and business process reinvention will happen.
+BmZQOcCEnp CLAIM-Fact 3489 3627 Teams really expand multiple categories, so I wouldn't think of adjusted productivity or even just collab or meetings but as an interface.
+nyOaS_N0L3 CLAIM-Opinion(view) 3628 3756 As you see business process reinvention occur, I do think of this as the surface through which many people will experience that.
+WLCJF8l3_s NON-ARG 3757 3969 And so, I would ask to try to expand your thinking on this one, it's not just Office or needed to be an Office, it's really about having employees fundamentally experience Microsoft in a different way day-to-day.
+_D-WYH8sXV CLAIM-Opinion(view) 3985 4246 Yes and I would point to the conference we just finished and some of the demos, and I think the customer demos, in particular, I would say, that will sort of probably give you the best feel for how people look at this in terms of the deployment characteristics.
+-why5-Proq NON-ARG 4301 4314 Thanks, Phil.
+0GWqh1FMZQ NON-ARG 4315 4367 Operator, we will move to the next question, please.
+R0 SUPPORT ARG1:fUaiSlwLlK ARG2:gayrQ7Xnvg
+R1 SUPPORT ARG1:O6lGAUOTJO ARG2:gayrQ7Xnvg
+R2 SUPPORT ARG1:X01g4QAm1A ARG2:gayrQ7Xnvg
+R3 SUPPORT ARG1:_2siPxqcer ARG2:gayrQ7Xnvg
+R4 SUPPORT ARG1:3E7j86WHTt ARG2:XPuzShdrPh
+R5 SUPPORT ARG1:WEk8IZ5JP3 ARG2:XPuzShdrPh
+R6 SUPPORT ARG1:pd8rVV_hzr ARG2:gTNPktIjbh
+R7 SUPPORT ARG1:aQOUFqLpnI ARG2:pxDTUMEXWq
+ArgQ0 gayrQ7Xnvg SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 XPuzShdrPh SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 gTNPktIjbh SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 pxDTUMEXWq SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,25 @@
+K99KwrH7_C NON-ARG 592 619 Take the subscription first
+z6Lj8RTntB NON-ARG 634 639 Yeah.
+kYiP_fu-47 NON-ARG 640 666 Hey, Justin, this is Dave.
+5ibzx5Dj0Y CLAIM-Fact 667 928 Just on the second question on the subscription services, we’d said on the last call, you probably remember, related to the adoption of the accounting standards update and revenue recognition policies that was impacting our results in a number of areas in 2018.
+HyGflHLiGU PREMISE-Statistic 929 1059 We’d said we'd anticipated about 300 million lower sort of headwind to subscription services revenue due to the accounting change.
+IJp9b0Bhai NON-ARG 1060 1104 So that's where we came out for the quarter.
+9-tqErQoaK PREMISE-Statistic 1105 1201 So you'll see that, we reported subscription services revenue increased 26% when you exclude FX.
+3ciwSjVOoU CLAIM-Reformulated 1202 1326 So the 300 million is certainly part of that decelerate -- the sequential deceleration in the growth rate in that line item.
+6LAhKwj1bW NON-ARG 1343 1348 Yeah.
+cMJ5F8HFs8 CLAIM-Opinion(view) 1768 1829 But in general, we feel good about the growth in the quarter.
+gqsYKcP6mA PREMISE-Other 1830 2069 We think it was a, Q4 in particular was a great quarter for customers that retail, there is a lot of strength in the retail part of the businesses, the teams here had done a great job, planning, preparing and then executing on the quarter.
+th1ShySZl- PREMISE-Fact 2070 2150 AWS maintained a very strong growth rate and continued to deliver for customers.
+FIybiE26IR PREMISE-RealExample 2151 2201 We had a great Reinvent Conference in the quarter.
+jIGa4S2IKf CLAIM-Reformulated 2202 2288 So we feel good about the growth in the quarter and also the total revenue and income.
+TqGn60SKso PREMISE-Hypothesis 1349 1630 And on unit deceleration, I think the unit numbers more and more require some interpretation, because it doesn't include the -- some of our fastest growing areas, the things like, as Dave mentioned, subscription services, AWS, advertising, Whole Foods units are not in that number.
+8M1HBAf4dh CLAIM-Fact 1631 1767 So we don't focus as much on the number and we direct you more to the supplemental revenue guidance that breaks out the component parts.
+R0 SUPPORT ARG1:HyGflHLiGU ARG2:5ibzx5Dj0Y
+R1 SUPPORT ARG1:9-tqErQoaK ARG2:5ibzx5Dj0Y
+R2 SUPPORT ARG1:TqGn60SKso ARG2:8M1HBAf4dh
+R3 SUPPORT ARG1:gqsYKcP6mA ARG2:cMJ5F8HFs8
+R4 SUPPORT ARG1:th1ShySZl- ARG2:cMJ5F8HFs8
+R5 SUPPORT ARG1:FIybiE26IR ARG2:cMJ5F8HFs8
+ArgQ0 5ibzx5Dj0Y SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 8M1HBAf4dh SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 cMJ5F8HFs8 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

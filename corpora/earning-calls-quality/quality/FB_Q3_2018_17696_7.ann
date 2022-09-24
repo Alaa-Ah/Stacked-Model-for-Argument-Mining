@@ -1,0 +1,27 @@
+lf8WTcmuTL NON-ARG 851 886 Sure, so I can take the first part.
+cJmdA-AwzF NON-ARG 887 925 I think a lot of this is really basic.
+lrS_8NdtgI NON-ARG 926 1103 When I say that we got started slower on Facebook, that starts with literally rolling out on Facebook a number of months after we had rolled out on either WhatsApp or Instagram.
+PDeDRkFMHr CLAIM-Opinion(view) 1104 1213 And then the initial version of what we shipped I just think wasn't as high-quality as where it needed to be.
+BDrB3hgiGz PREMISE-Fact 1214 1232 It wasn't as fast.
+_mM0rXWamr PREMISE-Fact 1233 1249 There were bugs.
+zU49Ms06zJ NON-ARG 1250 1292 And we've been working on dialing that in.
+B8MOku9jxR PREMISE-Fact 1395 1540 Certainly, with different groups of people, it's stronger on Instagram or WhatsApp or Facebook, but across all three at this point, it's growing.
+_gqYQM8Hqi CLAIM-Opinion(view) 1293 1394 I'm less worried at this point about it not working because we're starting to see it really take off.
+PuqRSPW6Zj CLAIM-Reformulated 1541 1662 And as I said in my opening remarks, I think we're going to be a lot better positioned here in Facebook in the next year.
+_Q0DKf_2rA NON-ARG 1680 1690 Hey, Doug.
+CQbVjJe7xk NON-ARG 1691 1701 It's Dave.
+mHPQ__BNXo CLAIM-Fact 1702 1832 Just on the 2019 expense growth guide, a lot of that is consistent with what we've been talking about as our big investment areas.
+yTojDEi4KS PREMISE-Statistic 1833 1901 If you look at just head count growth in the past year, it's up 45%.
+s-xFW9ERA1 PREMISE-Fact 1902 2077 So that compensation expense base that we're bringing into 2019 is really factoring into the overall growth guidance for the total expense guide, so that's a big factor there.
+rWSdKpa3Jl PREMISE-Fact 2078 2220 In addition, we've been investing significantly in CapEx, and those investments are starting to flow through the P&L in terms of depreciation.
+kMQ_VlDxng PREMISE-Fact 2221 2378 And then I'd point to significant investment areas like AR/VR efforts, the content ecosystem around video, and the ongoing investment in safety and security.
+R0 SUPPORT ARG1:BDrB3hgiGz ARG2:PDeDRkFMHr
+R1 SUPPORT ARG1:_mM0rXWamr ARG2:PDeDRkFMHr
+R2 SUPPORT ARG1:B8MOku9jxR ARG2:_gqYQM8Hqi
+R3 SUPPORT ARG1:yTojDEi4KS ARG2:mHPQ__BNXo
+R4 SUPPORT ARG1:s-xFW9ERA1 ARG2:mHPQ__BNXo
+R5 SUPPORT ARG1:rWSdKpa3Jl ARG2:mHPQ__BNXo
+R6 SUPPORT ARG1:kMQ_VlDxng ARG2:mHPQ__BNXo
+ArgQ0 PDeDRkFMHr SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 _gqYQM8Hqi SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 mHPQ__BNXo SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

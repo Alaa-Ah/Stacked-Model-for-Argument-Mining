@@ -1,0 +1,22 @@
+gTRXExMQQr NON-ARG 512 517 Sure.
+ygGfPvFNJc NON-ARG 518 520 In
+Q5q0-uWpef CLAIM-Fact 521 573 Q3, yes, I would say we had a very strong Prime Day.
+4lsAkrtqk1 NON-ARG 574 625 As you know, we talked about that on the last call.
+UXmKFrqRid NON-ARG 626 665 But it really carried into the quarter.
+6mUWSKX-AC PREMISE-Fact 666 806 We had a record day for sign-ups for free trials for Prime in Prime Day globally, had a very strong Prime Day in particular internationally.
+E0XCR2_JG_ NON-ARG 888 929 So I would point mostly to those factors.
+Kfnd126Blu CLAIM-Fact 930 972 It was also a very strong quarter for AWS.
+qn4vx8wEEL PREMISE-Statistic 973 1188 Revenue growth was the same as Q2, and now we're at an $18 billion run rate, whereas last quarter when I had this call, we were at $16 billion, so very pleased with the customer response in the AWS business as well.
+CoEVChd1wd PREMISE-Fact 1189 1259 And usage growth is actually growing a lot higher than revenue growth.
+o1RN46YzQN CLAIM-Opinion(view) 1260 1398 So particularly pleased with the new customers that we've added and the additional workloads that we've picked up from existing customers.
+N8NrO5MUkT CLAIM-Fact 807 887 So, it really got a lot more traction in this, the third year that we've had it.
+DfnBgMusjQ NON-ARG 1632 1693  Yeah, I would – yeah, it was pretty strong across the board.
+pqhMlKCgfK NON-ARG 1694 1864 We had the impact of Souq obviously, this quarter internationally and the Diwali holiday in India was a few days earlier, which maybe pushed some sales into Q3 versus Q4.
+QvYoMpzyfw NON-ARG 1865 2022 But generally, it was the strength of Prime Day internationally, and it carried through the quarter, but generally, I would point to the increased selection.
+JdWbwVFMnK NON-ARG 2023 2310 A lot of the building blocks that we've been working on, all the Prime benefits, advancements in free shipping offers or faster shipping offers, the Prime benefits would drive engagement, of course, adding selection, adding Fulfilled by Amazon partners and the selection that they bring.
+ePlBxqRnAz NON-ARG 2311 2431 So again, I wouldn't point to anything other than the Prime Day pickup, but it was stronger than probably I anticipated.
+R0 SUPPORT ARG1:qn4vx8wEEL ARG2:Kfnd126Blu
+R1 SUPPORT ARG1:CoEVChd1wd ARG2:Kfnd126Blu
+R2 SUPPORT ARG1:6mUWSKX-AC ARG2:N8NrO5MUkT
+ArgQ0 Kfnd126Blu SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 N8NrO5MUkT SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,21 @@
+Gp6DPmSdPG NON-ARG 756 766 Yes, sure.
+SRAjYjgBRJ NON-ARG 767 791 So let’s start with HQ2.
+T5_GPTiCKs CLAIM-Fact 1173 1298 We’re looking forward to investing in New York and Northern Virginia and being a good community partner as well as Nashville.
+aZbpPWJ2ol NON-ARG 1299 1354 So not really much else to report at this time on that.
+Pp0qP874Kc PREMISE-Fact 792 970 Of course, in November, we announce we selected New York City and Northern Virginia and between the two cities, we will be investing $5 billion and creating more than 50000 jobs.
+YR_VyaqJmz PREMISE-Fact 971 1103 We also announced a Operations Center of Excellence to be opened up in Nashville, which is about -- estimated to be about 5000 jobs.
+1eni_6uEmy PREMISE-Fact 1104 1172 So right now, we're working through some next issues in both cities.
+us1O5sTLBM CLAIM-Fact 1355 1566 On your comment or question on transportation, we do continue to expand our Amazon logistics and delivery capability and it also matches up with our faster ship speed that we're seeing for Prime members as well.
+wX6hUTqVXg PREMISE-Statistic 1567 1765 We added, of course, we have over 100 million items that customers would get within two days, but there's now over 3 million that will be delivered within one day or faster in 10,000 cities in town.
+L3fMfmPpoX PREMISE-Fact 1766 1810 So Amazon deliveries are a big part of that.
+L5YE-M57N9 CLAIM-Fact 1811 1889 Again, we have great third party partners as well in the transportation space.
+v3sB-avpyu CLAIM-Opinion(view) 1890 2058 What we like about our ability to participate in transportation is that a lot of times, we can do it at the same cost or better and we like the cost profile of the two.
+f3FN0mH-cP CLAIM-Opinion(view) 2059 2405 We can also invest selectively because we have more perfect information we know where our demand is, we know where we're moving things between warehouses and sort centers and by not involving third parties all the time, we can find that we can extend our ship cut offs, or excuse me, our order cutoffs and we've done that over the last few years.
+edOsv8I6kJ CLAIM-Fact 2406 2542 So that's also another helpful side benefit for consumers when we are doing our own logistics, excuse me, transportation final delivery.
+R0 SUPPORT ARG1:Pp0qP874Kc ARG2:T5_GPTiCKs
+R1 SUPPORT ARG1:YR_VyaqJmz ARG2:T5_GPTiCKs
+R2 SUPPORT ARG1:1eni_6uEmy ARG2:T5_GPTiCKs
+R3 SUPPORT ARG1:wX6hUTqVXg ARG2:us1O5sTLBM
+R4 SUPPORT ARG1:L3fMfmPpoX ARG2:us1O5sTLBM
+ArgQ0 T5_GPTiCKs SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 us1O5sTLBM SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

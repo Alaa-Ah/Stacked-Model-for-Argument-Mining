@@ -1,0 +1,16 @@
+j1Uk_-ooLq NON-ARG 729 734 Sure.
+9rSe9wSS0L NON-ARG 735 739 Yes.
+VHtp5D2ROt NON-ARG 740 792 The word cycle, if I mentioned that, was a omission.
+Lys0R4ZxDp NON-ARG 793 812 It was a mis-speak.
+uFwLSQ3NWY CLAIM-Fact 813 1002 The investment that we are seeing is a step-up versus what we have experienced in particularly the first half of this year and the last half, the second half of last year which I mentioned.
+4pVJA7HmOR PREMISE-Fact 1003 1054 But we have said investments are going to be lumpy.
+AGNDK_WQti PREMISE-Other 1055 1131 They are going to be high sometimes and they'll be moderated at other times.
+zofMUbJ6jK PREMISE-Fact 1132 1241 We are right now, the second half of this year looks like a big step-up compared to the first half and it is.
+mzgX85Jvhg CLAIM-Reformulated 1242 1364 But again, it's all areas that we will continue to invest in, some of which I just actually went through the laundry list.
+CABepaFG2V PREMISE-Fact 1458 1675 We make investments with the idea that they are going to pay off and they pay off in either directly in the business they're in or in their contribution to the total business many times as a part of the Prime program.
+xF20TvROTh CLAIM-Fact 1365 1407 So I would not characterize it as a cycle.
+X9p2m3IfFN CLAIM-Reformulated 1408 1457 I would characterize it as continued investments.
+R0 SUPPORT ARG1:4pVJA7HmOR ARG2:uFwLSQ3NWY
+R1 SUPPORT ARG1:zofMUbJ6jK ARG2:uFwLSQ3NWY
+R2 SUPPORT ARG1:AGNDK_WQti ARG2:uFwLSQ3NWY
+R3 SUPPORT ARG1:CABepaFG2V ARG2:xF20TvROTh

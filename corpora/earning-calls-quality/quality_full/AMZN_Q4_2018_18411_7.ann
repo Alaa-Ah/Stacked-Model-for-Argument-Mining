@@ -1,0 +1,17 @@
+Sg5uTqzhUv NON-ARG 521 526 Yeah.
+ZnA0cjw1MO CLAIM-Fact 527 581 Really, we're still evaluating the situation in India.
+ZT07k1FFMk CLAIM-Opinion(view) 582 705 We feel very good about the long term prospects in India and doing a good job for both Indian customers and Indian sellers.
+kiv5368hvj PREMISE-Hypothesis 706 822 The new regulations need to be interpreted, need to be -- need to make sure they don't have unintended consequences.
+eM8pEBAm-b NON-ARG 960 1011 So it's not all we can say on that topic right now.
+aS0BuphWw4 CLAIM-Opinion(view) 823 959 And again, I don't think it's necessarily consistent with better price, better selection and better convenience for the Indian customer.
+EXPSLCIbVO NON-ARG 1025 1030 Yeah.
+S40w5L9Tu1 NON-ARG 1031 1136 And I think Doug, your second point was just around shipping, some of the shipping offers in the holiday.
+vIqPiUUYGT PREMISE-Fact 1137 1298 We did lower the free shipping threshold ahead in to the fourth quarter, so customers took advantage of that and that was a great offer for them in the holidays.
+Vr-XedxiNz CLAIM-Opinion(view) 1299 1456 Brian talked a little bit about it before, but pleased with the holiday season, both from sort of a first party side, but also sellers continuing to do well.
+NzUZCABAlt PREMISE-Fact 1457 1756 As part of the holiday offering, we sold a number of record breaking number of Alexa devices as well and I think just in that shipping vein, really pleased with the continued engagement from Prime members, we had the most ever number of Prime members sign up this quarter than any quarter we've had.
+J9sZa01R-_ CLAIM-Reformulated 1757 1785 So really pleased with that.
+R0 SUPPORT ARG1:kiv5368hvj ARG2:ZnA0cjw1MO
+R1 SUPPORT ARG1:vIqPiUUYGT ARG2:Vr-XedxiNz
+R2 SUPPORT ARG1:NzUZCABAlt ARG2:Vr-XedxiNz
+ArgQ0 ZnA0cjw1MO SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Vr-XedxiNz SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

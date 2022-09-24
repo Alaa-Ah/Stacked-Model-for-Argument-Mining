@@ -1,0 +1,38 @@
+OtDJPdUTKX NON-ARG 555 560 Yeah.
+MbMmUYGe9M NON-ARG 561 577 Thanks, Shannon.
+KqIkbxP9Cs CLAIM-Opinion(view) 578 630 We were very encouraged by the results this quarter.
+upV5WqDDh6 CLAIM-Fact 631 731 We improved as we thought we would from the previous quarters a little more than I thought we would.
+bvZBmlbU7l PREMISE-Fact 732 826 If you look underneath the numbers, mainland China was actually flat year-over-year during Q3.
+HzdS5dHJF7 PREMISE-Statistic 827 900 And in constant currency terms, we were actually up 6% in mainland China.
+0iMqmbmgWZ CLAIM-Reformulated 901 941 And so we're very encouraged about that.
+icE7n0Gcua CLAIM-Reformulated 1095 1148 And so we see all of those as very encouraging signs.
+WgtqLMj_kQ PREMISE-Fact 1218 1283 Hong Kong continued to drag down the total Greater China segment.
+hM9y3C92A7 NON-ARG 1364 1509 With the peg to the dollar there from a currency point of view and tourism being what it is, I don't really know when that market will come back.
+l3svkFPlpL CLAIM-Reformulated 1510 1578 But what we see on the mainland is definitely much more encouraging.
+rd_QOAQMFn CLAIM-Opinion(view) 1579 1744 It's interesting to note that upgraders both for the quarter and actually for the full fiscal year to-date was our highest ever, and so that we felt very good about.
+GSWZOP0kYj CLAIM-Fact 1745 1971 In terms of WeChat, the way that I look at this is because our share – because iOS share is not nearly a majority of the market in China, the fact that a lot of people use that, it makes the switching opportunity even greater.
+X_VMwJ9dDD CLAIM-Opinion(view) 1972 2056 And I think that's more the case than the risk that a lot of folks have pointed out.
+6RDjwnuzSO CLAIM-Opinion(view) 2057 2120 And so I see Tencent as one of our biggest and best developers.
+0tUSj19mlN PREMISE-Fact 2121 2319 They've done a great job of implementing a lot of iOS features in their apps and we're looking forward to working with them even more to build even greater experiences for our mutual users in China.
+UsqBjIBmIX PREMISE-Fact 2735 2842 From an absolute quantity point of view, the upgrades for this fiscal year are the highest that we've seen.
+MMFLdl0zAE CLAIM-Opinion(view) 2843 2874 And so we feel good about that.
+lMzkUJiUO- PREMISE-Fact 2875 3123 However, if you look at it from an upgrade rate point of view instead of the absolute number, the rate is similar to what we saw with the previous iPhones, except for iPhone 6, which as we called out in the past had an abnormally high upgrade rate.
+bHf0Q_YWml NON-ARG 3124 3242 We do think that based on the amount of rumors and the volume of them that there is some pause in our current numbers.
+sD8tTSWn2G NON-ARG 3243 3357 And so where that affects us in the short-term, even though we had great results, it probably bodes well later on.
+lxIcYcA3n8 NON-ARG 3372 3391 Thank you, Shannon.
+txk3JOyYJC NON-ARG 3392 3432 Could we have the next question, please?
+btAoX9TvuJ CLAIM-Fact 942 986 iPad grew dramatically more than the market.
+CeXnc_UtN5 CLAIM-Fact 987 1026 The Mac grew much more than the market.
+NddtMHXZeB PREMISE-Fact 1027 1094 iPhone was relatively flat year-on-year, similar as the market was.
+uEDoB9KU-2 CLAIM-Fact 1149 1217 On top of that, Services grew extremely strongly during the quarter.
+1Xs-yFi6tP CLAIM-Opinion(view) 1284 1363 But on a sequential basis, we're probably at the trough of that, which is nice.
+R0 SUPPORT ARG1:0tUSj19mlN ARG2:6RDjwnuzSO
+R1 SUPPORT ARG1:UsqBjIBmIX ARG2:MMFLdl0zAE
+R2 ATTACK ARG1:lMzkUJiUO- ARG2:MMFLdl0zAE
+R3 ATTACK ARG1:bvZBmlbU7l ARG2:KqIkbxP9Cs
+R4 SUPPORT ARG1:HzdS5dHJF7 ARG2:KqIkbxP9Cs
+R5 ATTACK ARG1:NddtMHXZeB ARG2:KqIkbxP9Cs
+R6 ATTACK ARG1:WgtqLMj_kQ ARG2:KqIkbxP9Cs
+ArgQ0 6RDjwnuzSO SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 MMFLdl0zAE SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 KqIkbxP9Cs SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

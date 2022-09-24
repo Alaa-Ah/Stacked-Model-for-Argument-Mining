@@ -1,0 +1,9 @@
+-Cw5SXr8E8 PREMISE-Fact 867 1045 So it’s a regulatory approval question in India at this point and we had a license to roll it out as part of an initial test, the test went better than we even expected it would.
+q9q6afNT2n PREMISE-Fact 1217 1268 Even a limited test the feedback was very positive.
+Q0Ax3v9XOb CLAIM-Opinion(view) 1269 1394 So, I’m quite confident that when we can roll this out broadly it’s going to be meaningfully valuable to the user experience.
+uOXs9dr8Lm NON-ARG 1567 1672 So that’s the goal, we’re pushing forward on all of these issues and should have more to talk about soon.
+3K8CY_h-FF NON-ARG 1046 1216 I mean for a product that you would expect to need to be widely available to be useful, right, in order to – for someone to know that they can send money to someone else.
+tBZ78uRUhl CLAIM-Fact 1395 1566 We’re also working beyond India, in a number of other countries and hope to have this rolled out to a large percentage of the people who use WhatsApp within the next year.
+R0 SUPPORT ARG1:-Cw5SXr8E8 ARG2:Q0Ax3v9XOb
+R1 SUPPORT ARG1:q9q6afNT2n ARG2:Q0Ax3v9XOb
+ArgQ0 Q0Ax3v9XOb SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

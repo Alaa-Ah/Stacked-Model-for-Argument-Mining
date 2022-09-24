@@ -1,0 +1,47 @@
+ZvrouSmBrk CLAIM-Fact 889 931 So on the first, Atlas is really important
+07QZ7PumRX PREMISE-Fact 932 1057 because it's solving a measurement problem which is that the current systems for serving and measuring ads are really flawed.
+V8hZquU2mc PREMISE-Fact 1058 1150 They basically assume that you are one person on one of device, and we know that's not true.
+NN0cl_VNax PREMISE-Statistic 1151 1386 They are only about 65% accurate in demographic targeting, they don't work on mobile because they are cookie based, they don't work on multiple devices, they don't go off-line to on-line and they overemphasize the last click and reach.
+S3YmlR7Nnt CLAIM-Fact 1387 1481 And so our focus with Atlas is helping people really understand the results they get with ads.
+-b3JDd7fj2 PREMISE-RealExample 1482 1611 And you heard my Live Nation example earlier where we are able to connect Facebook ads and our platform directly to ticket sales.
+LLZ5w4M_zw PREMISE-Fact 1612 1669 We never could have done that without Atlas measurements.
+bN4wKdzbdg CLAIM-Fact 1670 1732 In terms of the migration process, this is an enterprise sale.
+NeyUyA61Aq PREMISE-Fact 1733 1766 We have to work client by client.
+CCz2vs7mAO PREMISE-Fact 1767 1868 Then they have to choose us, then they have to migrate their systems, and so it's going to take time.
+YaAsb_HB12 CLAIM-Opinion(view) 1869 1980 What really matters is that when we get that migration and we are seeing it, we are able to show them the value
+UyE0yluIja PREMISE-Fact 1981 2081 because it makes their buying much more effective because they understand real results in a new way.
+glPAzP4XvU NON-ARG 2082 2123 In tune with SMBs I would say two things.
+i_Ho5R2fG_ PREMISE-Fact 2124 2299 I would say that, one, our products aren't simple enough yet, because they can never be simple enough for SMBs, but two, our products are probably the simplest ones out there.
+PGrwlCCQdy CLAIM-Opinion(view) 2300 2366 And so I think we're leading and I think we have a lot more to do.
+tcc1Nfe7Ou PREMISE-Statistic 2367 2519 If we look at even in the United States, which is a very advanced market, I think it's something like 35% of SMBs don't have a web presence of any kind.
+bzUgfqzkg5 PREMISE-Fact 2520 2660 But a great majority of those do have a Facebook page, and that's because setting up a web presence for an SMB is complicated and expensive.
+9e2TbBrV4K PREMISE-Fact 2661 2692 You can't just start a webpage.
+EJueUnnETR PREMISE-Fact 2693 2773 But it is easier and free to start a Facebook page until you see broad adoption.
+jPFnrsrUp5 CLAIM-Fact 2774 2860 We also make a lot of things that they couldn't do in other platforms available on us.
+-5k0HL4ucE PREMISE-Statistic 2861 3012 So over 1 million SMBs have posted a video on Facebook, which is pretty amazing, because I doubt 1 million SMBs have ever run what is a video or TV ad.
+8p2geT6zJh PREMISE-Fact 3013 3141 That's because you can shoot it on your mobile device, you can upload it, you can do that for free or you can pay us for the ad.
+hoCiYGKJmQ CLAIM-Opinion(view) 3142 3223 And so I think our tools are the simplest, but I think we still need to do better
+__JBKvZdVR PREMISE-Fact 3224 3371 because what we hear from SMBs is simple, fast, inexpensive, showing them real return, and we're going to continue to focus on all of those things.
+R0 SUPPORT ARG1:07QZ7PumRX ARG2:ZvrouSmBrk
+R1 SUPPORT ARG1:V8hZquU2mc ARG2:ZvrouSmBrk
+R2 SUPPORT ARG1:NN0cl_VNax ARG2:ZvrouSmBrk
+R3 SUPPORT ARG1:-b3JDd7fj2 ARG2:S3YmlR7Nnt
+R4 SUPPORT ARG1:LLZ5w4M_zw ARG2:S3YmlR7Nnt
+R5 SUPPORT ARG1:NeyUyA61Aq ARG2:bN4wKdzbdg
+R6 SUPPORT ARG1:CCz2vs7mAO ARG2:bN4wKdzbdg
+R7 SUPPORT ARG1:UyE0yluIja ARG2:YaAsb_HB12
+R8 SUPPORT ARG1:i_Ho5R2fG_ ARG2:PGrwlCCQdy
+R9 SUPPORT ARG1:tcc1Nfe7Ou ARG2:PGrwlCCQdy
+R10 SUPPORT ARG1:bzUgfqzkg5 ARG2:PGrwlCCQdy
+R11 SUPPORT ARG1:9e2TbBrV4K ARG2:PGrwlCCQdy
+R12 SUPPORT ARG1:EJueUnnETR ARG2:PGrwlCCQdy
+R13 SUPPORT ARG1:-5k0HL4ucE ARG2:jPFnrsrUp5
+R14 SUPPORT ARG1:8p2geT6zJh ARG2:jPFnrsrUp5
+R15 SUPPORT ARG1:__JBKvZdVR ARG2:hoCiYGKJmQ
+ArgQ0 ZvrouSmBrk SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 S3YmlR7Nnt SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 bN4wKdzbdg SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 YaAsb_HB12 SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 PGrwlCCQdy SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 jPFnrsrUp5 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ6 hoCiYGKJmQ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

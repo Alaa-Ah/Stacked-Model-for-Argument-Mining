@@ -1,0 +1,63 @@
+DYBSd2W-YK CLAIM-Opinion(view) 1005 1063 So I’m generally happy that we’re moving on with the ramp.
+km4NKovmvA CLAIM-Fact 1064 1169 It is a new product for us, and with any kind of new product, you wind up taking some time to fully ramp.
+m7wWViqFIP PREMISE-Fact 1553 1744 The customer response from people that have gotten theirs over the weekend have been overwhelmingly positive, and we’re far ahead of where we expected to be from an application point of view.
+LOC5rMa5pU CLAIM-Opinion(view) 2119 2200 And so we couldn’t be happier about how things are going from that point of view.
+og-O8CZ4bT PREMISE-Fact 608 649 Right now, demand is greater than supply.
+K5Hp4LDb8w NON-ARG 540 607 Let me talk about supply and demand and sort of separate those two.
+fdEYchoY8z PREMISE-Fact 692 847 We’ve made progress over the last week or so, and we were able to deliver more customers an Apple Watch over the weekend than we had initially anticipated.
+BrZPKg_yHK PREMISE-Fact 848 1004 We’re going to keep doing that, and so we’ve already sent some notes out today, moving the customers and versus what we had communicated to them previously.
+ivFpwBkiUU CLAIM-Opinion(view) 1170 1363 Having said that, I think we’re in a good position and by sometime in late June, we currently anticipate being in a position that we could begin to sell the Apple Watch in additional countries.
+v0a20cxxrH CLAIM-Reformulated 2584 2722 And so I’m really happy where we are currently, and happy enough that we’re looking forward to expanding into more countries in late June.
+MQ9hk-VuVc NON-ARG 1364 1395 And so that’s our current plan.
+y-pQ93BrC4 PREMISE-Other 1745 1838 To give you a comparison, when we launched the iPhone, we had about 500 apps that were ready.
+CRkjlzu3J5 PREMISE-Other 1839 1886 When we launched iPad, we had about a thousand.
+s6gjS0yWzi CLAIM-Opinion(view) 1887 2031 And so our internal goal was to be able to beat the thousand level, and we thought it would be great if we were able to do that by a little bit.
+UXPzsg_BV3 PREMISE-Statistic 2032 2118 And as I mentioned before, we now have over 3,500 apps in the App Store for the watch.
+i8_1POmm0p PREMISE-Fact 1496 1552 So we’re filling orders completely online at the moment.
+kPlg6TpyF7 CLAIM-Opinion(view) 2492 2583 But I’m really confident that this is something we really understand how to do and will do.
+tThW0-V-4x PREMISE-Fact 2290 2383 There’s a much larger breadth of possibilities here for customers than in our other products.
+EB3uEk_xZB PREMISE-Fact 2201 2289 We are learning quickly about customer preferences between the different configurations.
+2w96T4xQel PREMISE-RealExample 3244 3294 We’ve now developed two new iPhones over the year.
+T8iXMy923k PREMISE-Fact 3295 3334 We were not doing that a few years ago.
+XLvvYrcrqo PREMISE-RealExample 3335 3355 Developed two iPads.
+zG1iUaz8g6 PREMISE-RealExample 3356 3398 And of course now we have the Apple Watch.
+qZvP9X0Vva PREMISE-RealExample 3399 3500 We’re also developing some core foundational technologies more in house now than we were in the past.
+7AMZxg3D7i CLAIM-Reformulated 3608 3735 So when you combined all these factors, that is the reason why you see these research and development increases year over year.
+EYXmba7u1L CLAIM-Opinion(view) 3736 3788 Research and development is the core of the company.
+kNV3VUdmHM CLAIM-Opinion(view) 3789 3827 Innovation is the core of the company.
+mImWamFSep PREMISE-RealExample 3862 3996 when you look, for example, at the last two quarters, the first half of 2015, our revenue growth has been higher than our opex growth.
+pZOOqsqOnm CLAIM-Fact 3157 3243 When you look at our current product portfolio, it is much broader than it used to be.
+O3MdYplTkW PREMISE-RealExample 3501 3607 And of course we’re also spending ahead of some of the products that will generate revenues in the future.
+JcP1HpzG-7 PREMISE-Statistic 3997 4231 And when you look at our expense to revenue ratio, which, for the first half of the year, has been 8.2%, it’s lower than it was a year ago, and it’s definitely something that we consider extremely competitive, and we’re very proud of.
+wYNI-otqL2 NON-ARG 3828 3861 And we’re very proud of the fact,
+YoGdVKVUAu NON-ARG 1390 1395 plan.
+pKAjKipjxb NON-ARG 1396 1495 From a demand point of view, it’s hard to gauge when you don’t have product in stores and so forth.
+PfWGZtJLRf NON-ARG 291 366  Katie, when you use the word “ramp,” I assume you’re talking about supply?
+FhFRjOwWnZ NON-ARG 649 692  And so we’re working hard to remedy that. 
+VGEmLANFcb NON-ARG 2383 2423  And in some cases, we called that well.
+EkvhGrlhcC NON-ARG 2424 2491 In some cases, we’re making adjustments to get in line with demand.
+fXCqkynZCp NON-ARG 3110 3157  Of course, we’ve said this several times now. 
+R0 SUPPORT ARG1:og-O8CZ4bT ARG2:DYBSd2W-YK
+R1 SUPPORT ARG1:fdEYchoY8z ARG2:DYBSd2W-YK
+R2 SUPPORT ARG1:BrZPKg_yHK ARG2:DYBSd2W-YK
+R3 SUPPORT ARG1:UXPzsg_BV3 ARG2:s6gjS0yWzi
+R4 SUPPORT ARG1:y-pQ93BrC4 ARG2:s6gjS0yWzi
+R5 SUPPORT ARG1:CRkjlzu3J5 ARG2:s6gjS0yWzi
+R6 SUPPORT ARG1:m7wWViqFIP ARG2:ivFpwBkiUU
+R7 SUPPORT ARG1:i8_1POmm0p ARG2:ivFpwBkiUU
+R8 ATTACK ARG1:tThW0-V-4x ARG2:kPlg6TpyF7
+R9 SUPPORT ARG1:EB3uEk_xZB ARG2:kPlg6TpyF7
+R10 SUPPORT ARG1:2w96T4xQel ARG2:pZOOqsqOnm
+R11 SUPPORT ARG1:T8iXMy923k ARG2:pZOOqsqOnm
+R12 SUPPORT ARG1:XLvvYrcrqo ARG2:pZOOqsqOnm
+R13 SUPPORT ARG1:zG1iUaz8g6 ARG2:pZOOqsqOnm
+R14 SUPPORT ARG1:qZvP9X0Vva ARG2:pZOOqsqOnm
+R15 SUPPORT ARG1:O3MdYplTkW ARG2:pZOOqsqOnm
+R16 SUPPORT ARG1:mImWamFSep ARG2:EYXmba7u1L
+R17 SUPPORT ARG1:JcP1HpzG-7 ARG2:EYXmba7u1L
+ArgQ0 DYBSd2W-YK SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 s6gjS0yWzi SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 ivFpwBkiUU SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 kPlg6TpyF7 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 pZOOqsqOnm SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 EYXmba7u1L SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2

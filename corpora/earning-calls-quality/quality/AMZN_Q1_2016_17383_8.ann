@@ -1,0 +1,11 @@
+oRJiILjgOl NON-ARG 556 569 This is Phil.
+TTCc92uUS9 NON-ARG 570 599 I'll take the India question.
+ylp_av2D8r CLAIM-Opinion(view) 600 686 We're happy to see the recent clarifications and we're happy to operate in any regime.
+kuhCgSABGC CLAIM-Fact 748 1028 And then on the logistics question, stepping back, the reason we add logistics capability and transportation capability is so we can serve our customers faster and faster delivery speeds and we've needed to add more of our own capacity to supplement our carriers and our partners.
+ZQaXOwbxzX NON-ARG 1227 1293 Thank you for joining us on the call today and for your questions.
+vgm5WKCIdE NON-ARG 1294 1395 A replay will be available on our Investor Relations website at least through the end of the quarter.
+ECuhOmUtDo NON-ARG 1396 1494 We appreciate your interest in Amazon.com and look forward to talking with you again next quarter.
+jtWVCgG3pN PREMISE-Fact 1029 1213 They're still, again, great partners, have been and will continue to be for the future, but we see opportunities where we need to add additional capacity and we're filling those voids.
+WkPJNO8-Vv NON-ARG 687 728 So frankly, the more clarity, the better.
+R0 SUPPORT ARG1:jtWVCgG3pN ARG2:kuhCgSABGC
+ArgQ0 kuhCgSABGC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,31 @@
+fAyYYiqGjQ NON-ARG 746 751 Sure.
+gGidoPvxWN NON-ARG 752 765 Let me start.
+2EHfmDLfvc NON-ARG 766 779 Thanks, Rick.
+0CyLoGWsWU CLAIM-Opinion(view) 780 912 What I think about even just my own day-to-day usage of Office, even in the last year, it’s gone through a drastic amount of change.
+WQxT4uglJ9 CLAIM-Opinion(view) 3299 3334 And I’m so excited about the space.
+vOnXremZMS PREMISE-RealExample 3335 3700 I don’t want to miss this one other big scenario which is Cortana , that’s perhaps the thing that’s going to change personal productivity even most and especially with Windows 10 and how Cortana comes to Windows, both to the browser as well as to the start, I think it completely change what personal productivity software mean from a day-to-day experience as well.
+-XSG1MY-2n CLAIM-Opinion(view) 1443 1527 It’s the richest way for me to visualize what’s happening at Microsoft in real time.
+3DPXiPtdey PREMISE-RealExample 982 1442 But if I think about all the tools that I’m using, which is all part of Office 365, today, on a daily basis and multiple times a day I start my day as I talked about in many conferences with Dell which is a tool I love which is in fact something that’s uniquely possible because of the shift to Office 365 where we can take organizational data and breakthrough all the boundaries or, again, in silos inside an organization and have people discover information.
+H38nSIlt4j PREMISE-RealExample 1528 1588 That news feed for me is kind of the lifeblood of Microsoft.
+S0pInNSMtj CLAIM-Fact 1661 1811 In fact, one of the cultural changes inside the company is everyone from the frontline engineer to the frontline salesperson is responsible for usage.
+eAfl62YLsV NON-ARG 1606 1660 One of the things that we talked a lot about is usage.
+OinIA6eRSn PREMISE-RealExample 1812 2037 And given that, we want to have these leading indicators showing up in our dashboard not are static reports and Power BI is this rich canvas for us to be able to, one, visualize data as well as ask natural language questions.
+DJHhiiwoU1 PREMISE-Fact 2085 2203 That’s gone through a fee change both because of the hardware innovation, innovation in Windows, innovation in Office.
+zTm9k3icat CLAIM-Opinion(view) 2528 2772 So that’s – we are well into it so that is not going to be waiting for some future date to release anything that’s new, but we’re well on our way with all of these tools and they’re available today and we’ll of course be iterating continuously.
+P3lXjTyExq PREMISE-RealExample 2204 2527 I look at something like Sway which I’m pretty excited about because basically we’re taking the concept of what is an interactive document and the website and bringing it all together into these Sway documents if you well and if you’re excited about what that could mean in customer service marketing or for school reports.
+zmOQAkzX-S PREMISE-RealExample 2038 2084 I look at my own usage of one note in Surface.
+5J2wMDTR60 PREMISE-RealExample 1589 1605 I use Power BI .
+GPW5uTcV46 PREMISE-RealExample 913 981 Of course, I use Word, PowerPoint, Excel, Outlook, on a daily basis.
+TxvyzPU95K CLAIM-Fact 2783 3152 And, Rick, on your other two questions specific to the tech guarantee that you would think about the time of year, due to the specific nature of the offer we have on Windows 10, there won’t be a tech guarantee as you think about it for this upgrade cycle and there’s disclosure in fact, in our revenue recognition section in the 10-Q that talks about that specifically.
+maTE0C8Jdc NON-ARG 3153 3298 When we talk about the accounting for Windows 10, I will touch on that next week but as we get closer to the launch we’ll go into more specifics.
+ggkDGbclFo NON-ARG 3711 3725  Thanks, Rick.
+usSXfLkDro NON-ARG 3726 3748 Next question, please.
+R0 SUPPORT ARG1:vOnXremZMS ARG2:WQxT4uglJ9
+R1 SUPPORT ARG1:3DPXiPtdey ARG2:-XSG1MY-2n
+R2 SUPPORT ARG1:H38nSIlt4j ARG2:-XSG1MY-2n
+R3 SUPPORT ARG1:OinIA6eRSn ARG2:S0pInNSMtj
+R4 SUPPORT ARG1:zmOQAkzX-S ARG2:S0pInNSMtj
+R5 SUPPORT ARG1:DJHhiiwoU1 ARG2:S0pInNSMtj
+R6 SUPPORT ARG1:P3lXjTyExq ARG2:S0pInNSMtj
+R7 SUPPORT ARG1:GPW5uTcV46 ARG2:-XSG1MY-2n
+R8 SUPPORT ARG1:5J2wMDTR60 ARG2:S0pInNSMtj

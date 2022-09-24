@@ -1,0 +1,39 @@
+fL9fpbhsdY NON-ARG 666 791 In fact, one of the big changes that has happened I would say in the last couple of years, and I’ll have Amy even detail out.
+kDJIucJeE2 CLAIM-Fact 1012 1153 We have driven significant process improvement to essentially make it as efficient as one can make it and that’s a continuous process for us.
+cM6utjo3cD CLAIM-Opinion(view) 1534 1725 And so we have a very good process and that’s a place were quite frankly a lot of the proprietary advantage of someone who is an at scale public cloud provider, not just with one application.
+rnZRfCx31B PREMISE-Fact 1446 1533 But you don’t need to build out data centers much before they’re really being utilized.
+1vlC3ThOcd NON-ARG 1370 1445 Surely there are some things which are long lead like data center location.
+hpxkyXDctQ PREMISE-Fact 1726 1768 And this is where the huge distinction is.
+2BntY8RCod NON-ARG 792 1011 It’s the way we’re going about everything from the very long lead things like actual data center locations and Build out to the procurement of individual machines, and essentially the work in progress inventory of that.
+eMZQtlC4px PREMISE-Fact 1154 1316 So when I think about even the capital allocation per quarter we very carefully look at what is our current utilization forecast, and what our demand forecast is.
+TCgfepagU3 PREMISE-Fact 1317 1369 And we now have the ability to be much more dynamic.
+bYtwdBZUXE CLAIM-Fact 2102 2154 And our supply chain management is optimized for it.
+1d1bhaBT1T PREMISE-Fact 2015 2101 And we learned a lot with what is our workload diversity as well as our geo-diversity.
+hLLBcA3_Q_ CLAIM-Opinion(view) 2194 2276 This is a place as Satya said we have made a lot of progress in being data-driven.
+PbOpW4a_c3 NON-ARG 2165 2193 Yeah, I would just add Mark.
+7i6KFxu1gJ NON-ARG 2603 2648 It’s something that we also care a lot about.
+-c1XfAzDkf PREMISE-Fact 2277 2343 This is down to a monthly review by workload, by property, by geo.
+gBe16V4_0S PREMISE-Fact 2344 2602 And this is a place where I feel that we are in it terrific position frankly to respond to data sovereignty demands, changes politically and our ability to execute that to provide what our customers demand in terms of security and manageability and location.
+BA8fm_WgBU NON-ARG 1858 2014 But this business of supporting a highly geo distributed enterprise cloud business is very different than just running in one at scale public cloud service.
+7XXCUeuP9o PREMISE-Other 1769 1857 After all we did run large-scale consumer services ourselves between Xbox LIVE and Bing.
+TPHanNifIg NON-ARG 2683 2691  Thanks.
+jbHERUQCmQ NON-ARG 2692 2697 Mark.
+cySzzRbTvW NON-ARG 2708 2758  So that wraps up the Q&A portion of today’s call.
+jQGvsWIwDE NON-ARG 2759 3012 We encourage you to tune into Build, our Annual Developer Conference which will be webcast live at to be www.buildwindows.com as well as our Financial Analyst Briefing on Wednesday, April 29, which will be webcast live on our Investor Relations website.
+IUpBATnXJd NON-ARG 3013 3104 We look forward to seeing many of you in the coming months at various Investor Conferences.
+vINpvbiNgr NON-ARG 3105 3152 Thank you for joining us, and talk to you soon.
+sEuzsfFSBv NON-ARG 3153 3161 Goodbye.
+EmkrFEMdnG NON-ARG 3176 3187  Thank you.
+PWenLPIPlC NON-ARG 3197 3205  Thanks.
+R0 SUPPORT ARG1:-c1XfAzDkf ARG2:hLLBcA3_Q_
+R1 SUPPORT ARG1:gBe16V4_0S ARG2:hLLBcA3_Q_
+R2 SUPPORT ARG1:eMZQtlC4px ARG2:kDJIucJeE2
+R3 SUPPORT ARG1:TCgfepagU3 ARG2:kDJIucJeE2
+R4 SUPPORT ARG1:rnZRfCx31B ARG2:cM6utjo3cD
+R5 SUPPORT ARG1:1d1bhaBT1T ARG2:bYtwdBZUXE
+R6 SUPPORT ARG1:7XXCUeuP9o ARG2:cM6utjo3cD
+R7 SUPPORT ARG1:hpxkyXDctQ ARG2:cM6utjo3cD
+ArgQ0 hLLBcA3_Q_ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 kDJIucJeE2 SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 cM6utjo3cD SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 bYtwdBZUXE SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

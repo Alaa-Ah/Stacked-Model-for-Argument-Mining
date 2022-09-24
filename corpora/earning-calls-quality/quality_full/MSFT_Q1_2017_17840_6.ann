@@ -1,0 +1,10 @@
+jUEiP8RDIn PREMISE-Fact 956 1364 When I look at what's happening with say some of the most innovative work we've done around distributed computing which is service fabric and how people are in fact going straight to building out using our past services some of the new HyperScale cloud services using microservices and not only are they doing that but we're also seeing great growth in our serverless infrastructure which is Azure functions.
+LSxgKiHZMD PREMISE-RealExample 1808 1989 It's not just the Silicon Valley startups anymore, it is the core enterprise that is also becoming a digital company and we are well positioned to serve them and that's good to see.
+Ggjre-1qa1 CLAIM-Opinion(view) 793 955 We definitely are seeing production workloads that are moving over from on premise, but I think the more interesting thing Heather for us is to see new workloads.
+N2goSgLN8K CLAIM-Opinion(view) 1365 1616 So I am actually as excited about new cloud growth from new cloud workloads from the same customers so the much interesting thing that I am observing is that it could be the same model customer that was participating with us in the client server area.
+mdNbs3OFtg PREMISE-Fact 1617 1807 We are not just building or moving their IT but they are building new digital services for HyperScale and that's what it is probably unique in terms of what is changed year-over-year for us.
+R0 SUPPORT ARG1:jUEiP8RDIn ARG2:Ggjre-1qa1
+R1 SUPPORT ARG1:mdNbs3OFtg ARG2:N2goSgLN8K
+R2 SUPPORT ARG1:LSxgKiHZMD ARG2:N2goSgLN8K
+ArgQ0 Ggjre-1qa1 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 N2goSgLN8K SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

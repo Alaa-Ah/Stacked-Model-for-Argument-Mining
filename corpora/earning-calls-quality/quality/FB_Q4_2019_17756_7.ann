@@ -1,0 +1,13 @@
+dIckuUUpD_ NON-ARG 501 513 Yes, thanks.
+o1c9_9pGFt NON-ARG 514 527 Thanks, Ross.
+Wi9XfrHQox CLAIM-Opinion(view) 553 588 We are pleased with our Q4 results.
+LPKjchgipV PREMISE-Fact 589 649 We had a strong holiday season despite it being abbreviated.
+snwiAPJ_XA CLAIM-Fact 528 552 No real surprises there.
+eS1wUvYz_V PREMISE-Fact 650 744 In terms of the North American numbers, we're seeing slower growth in our more mature markets.
+0GzxeCugmk PREMISE-Fact 745 815 That's consistent with the outlook that we had going into the quarter.
+X-O48fE_4l CLAIM-Reformulated 816 941 It's true in North America and our more developed markets within Europe, but I wouldn't say there's any real surprises there.
+R0 SUPPORT ARG1:LPKjchgipV ARG2:Wi9XfrHQox
+R1 SUPPORT ARG1:eS1wUvYz_V ARG2:snwiAPJ_XA
+R2 SUPPORT ARG1:0GzxeCugmk ARG2:snwiAPJ_XA
+ArgQ0 Wi9XfrHQox SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 snwiAPJ_XA SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

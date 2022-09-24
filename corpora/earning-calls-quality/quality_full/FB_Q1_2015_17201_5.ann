@@ -1,0 +1,29 @@
+dqpcIMYXBg CLAIM-Opinion(view) 1359 1479 So we're really pleased with the performance that we're seeing on the revenue front, certainly on the FX adjusted basis.
+fIPSM_3XI7 PREMISE-Fact 1480 1558 We're seeing strong growth in the face of really a tough currency environment.
+kKiLfO26vd CLAIM-Reformulated 1559 1593 So we're really pleased with that.
+KXKhFLH6D8 PREMISE-Other 1594 1693 We think we've got the best mobile ad product out there in the market and it's just getting better.
+gG6xzyhdIE CLAIM-Reformulated 1694 1761 So we're really pleased with what we're doing on the revenue front.
+glJqpjDgdQ NON-ARG 922 941 Youssef, it's Dave.
+TKoDONcNSd NON-ARG 942 1064 So on the FX adjusted ARPU growth, I would just really point to the overall revenue growth rate, that's what's driving it.
+s-WoiZJRhT NON-ARG 1065 1145 So you're coming up against a bigger business last year than we had in the past.
+aL95Ax3NjO NON-ARG 1146 1192 So you're seeing declining rate on that basis.
+oHwoq3n7LD NON-ARG 1193 1358 So I don't think there's anything specific to ARPU, it's just a reflection of what we're seeing on the revenue front as we scale, and it's sort of as expected there.
+lXPPXir0Nq CLAIM-Policy 1911 2043 What we're focused on doing is providing more higher quality services for free than what you could otherwise get in paying for them.
+K8c2SLnQ_T PREMISE-Fact 1786 1910 Yeah, and in terms of voice calling, no, we're not going to charge for it just like we're not going to charge for messaging.
+p57DKfm6k2 CLAIM-Opinion(view) 2573 2851 But now between Facebook Messenger and WhatsApp, which are two very broad communication networks, we're pretty confident that because of the higher quality of calling that you can get through the services that we're providing that this is going to continue growing very quickly.
+S4mPmjBfx5 PREMISE-Fact 2884 2938 we're just very early in rolling out and promoting it.
+fyv3WO_QUO PREMISE-Statistic 2939 3058 Even in Facebook Messenger, it's been out for a little while and we're already more than 10% of the global VoIP market.
+w5KfywBRkd CLAIM-Reformulated 3059 3202 And I think that that's just going to continue growing and I'm really looking forward to getting the first stats on WhatsApp VoIP as well soon.
+mvk_I87L-x PREMISE-Fact 2044 2251 And one thing that you may not know about voice calling is that by using the Internet for calling rather than the relatively low bit rate voice networks, you can actually get higher quality calls using VoIP.
+VWLFX4kDKL PREMISE-Fact 2252 2572 So one of our theories in this is that it's one of the reasons why voice calling has been a little slower to catch on is because you need the large established network of people who you know will have access to be able to receive a voice call before it, before that behavior can really take on in a big global community.
+MzyDnglNmo NON-ARG 2851 2884  I mean, a lot of people still – 
+R0 SUPPORT ARG1:fIPSM_3XI7 ARG2:dqpcIMYXBg
+R1 SUPPORT ARG1:KXKhFLH6D8 ARG2:dqpcIMYXBg
+R2 SUPPORT ARG1:K8c2SLnQ_T ARG2:lXPPXir0Nq
+R3 SUPPORT ARG1:mvk_I87L-x ARG2:lXPPXir0Nq
+R4 SUPPORT ARG1:VWLFX4kDKL ARG2:lXPPXir0Nq
+R5 SUPPORT ARG1:S4mPmjBfx5 ARG2:p57DKfm6k2
+R6 SUPPORT ARG1:fyv3WO_QUO ARG2:p57DKfm6k2
+ArgQ0 dqpcIMYXBg SPECIFIC_0 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 lXPPXir0Nq SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 p57DKfm6k2 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

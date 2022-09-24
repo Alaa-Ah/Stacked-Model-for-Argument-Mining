@@ -1,0 +1,33 @@
+q-PgKxUmNl NON-ARG 902 935 Heather, I can – I can take that.
+cWjnzuH2Qu CLAIM-Fact 936 1254 I mean in terms of the focus on privacy, the one thing that I would – I would sort of cite there, if anything the priority for messaging is clear, the focus on privacy and interoperability, and that means that monetization for messaging is a lower, near-term priority so that has some – has some impact on the outlook.
+i1lW_QYnOy NON-ARG 1763 1836 On IGTV and Watch, do you want to – does anybody want to take that or...?
+axSbK6ObDL CLAIM-Fact 1255 1687 And then when it comes to how we’re thinking about expense growth as we look beyond 2019, we’re not providing specific guidance but I’d note that we continue to invest aggressively across the business and there’s no change in our long-term outlook on the need to invest heavily in areas like safety and security, innovation in our core product and infrastructure and the ultimate impact that those will have on our operating margin.
+_91t_YMtPa CLAIM-Reformulated 1688 1762 So, we’re still positioned to invest aggressively both in 2019 and beyond.
+zkHypX95mQ NON-ARG 1854 1948 Well if you were going to – you’re going to have to do the numbers and then I’ll do the color.
+qBY4pnLXkI NON-ARG 1949 2019 Go for it with whatever you wanted to say and then I’ll jump in after.
+3R8uTmE7-U NON-ARG 2020 2158 All right, we’ll – before we get to IGTV and Watch, I’ll just add on the cost point that this is something that I’m focused on personally.
+8zqMRn0MpT NON-ARG 2159 2297 I care a lot about making sure that we want make the right investments in safety and innovation long-term, so I’m committed to doing that.
+pra9u1-SQr NON-ARG 2298 2448 But of course, I get that in running a company you don’t want to have costs growing at a much faster rate than your revenue for a long period of time.
+B7Bb2Ng-Zk NON-ARG 2449 2583 And that’s why I called that out last time exactly, because I care about making sure that we get that back more and more in line soon.
+YyhyPDo3SC NON-ARG 2584 2638 On Watch, generally this is starting to go quite well.
+OPxqhv7LBn NON-ARG 2639 2887 There’s – it’s early, but one of the big questions around Watch that we had early on was what is going to be people’s demand to go to a separate tab to have an experience that’s dedicated to interacting with people around a certain type of content?
+1nnd0BiQFV NON-ARG 2888 3092 If you remember the reason why we got to this strategy, it was because people wanted to watch a lot of video, but we saw that passive consumption of video was displacing social interactions and News Feed.
+d4SGZ2n-7M CLAIM-Opinion(view) 3303 3480 So, it was really important to me, and I think to making – to the long term of what our product stands for it to make sure that News Feed is always about meaningful interaction.
+mJlPvL4BZd PREMISE-Fact 3093 3302 And when you think about what Facebook stands for in the world, and the really unique value that we can deliver to people, it’s primarily around helping people stay connected and have a meaningful interaction.
+RSqSK1Bx63 NON-ARG 3679 3792 And one of the big open questions was to what extent, what percent of people are going to want to go and do this?
+36uHmeIqtg CLAIM-Fact 3481 3678 While people wanted to consume a lot of video and we thought that there were new ways that people could interact around that, we wanted to create a separate place, where people could go to do that.
+ypr_2RtvZE PREMISE-Statistic 3793 3967 And now it was more than 100 million people doing this, I think we’ve really proven as part of that hypothesis, that this is something that people are going to want to go do.
+HY1UNPDxUt PREMISE-Fact 4587 4737 But as Watch has grown, it has proven to us that that these sub-experiences as part of our different apps, similar with IGTV, can be quite successful.
+TtOAjTgXsC CLAIM-Opinion(view) 4738 4790 And that’s an optimistic sign for me for the future.
+rZq3LwXGLB PREMISE-Fact 3968 4169 That also not only with Watch, which is continuing to grow quickly, this also opens up opportunities around things – around doing this around areas like news, which I’ve recently started talking about.
+vRW-J-O1Rl PREMISE-Fact 4170 4472 And I don’t have anything too specific to add today, we’re trying to take a very consultative approach to how we develop anything around news or any of the things that touch the big social issues and certainly, supporting journalism is up there as one of the really important things that we care about.
+n8f1sODNNc CLAIM-Fact 4473 4586 So, we want to make sure we do this in a consultative away with a lot of folks in journalism and in the industry.
+R0 SUPPORT ARG1:mJlPvL4BZd ARG2:d4SGZ2n-7M
+R1 SUPPORT ARG1:ypr_2RtvZE ARG2:36uHmeIqtg
+R2 SUPPORT ARG1:rZq3LwXGLB ARG2:n8f1sODNNc
+R3 SUPPORT ARG1:vRW-J-O1Rl ARG2:n8f1sODNNc
+R4 SUPPORT ARG1:HY1UNPDxUt ARG2:TtOAjTgXsC
+ArgQ0 d4SGZ2n-7M SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 36uHmeIqtg SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 n8f1sODNNc SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 TtOAjTgXsC SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

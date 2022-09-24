@@ -1,0 +1,41 @@
+ru0GczVTtV CLAIM-Fact 581 695 See, our overall vision for how computing evolves is that it's going to be more distributed, not less distributed.
+h6i59EIwFF PREMISE-RealExample 696 754 Let's just take for example what's happening in a factory.
+pM-fXWv97D PREMISE-RealExample 755 849 In a factory, one thing that is secular is that they're putting lots and lots of more sensors.
+5MY4POgywg PREMISE-Fact 850 941 Lot of the sensors today are in fact rendezvousing some of that data straight to the cloud.
+HQqeNcYqhB PREMISE-RealExample 942 1116 As you do more of that, what happens is you need to - and then you start doing sensor fusion, which is your multiple sensors that you want to be able to fuse and take action.
+8qJJdDTZgG PREMISE-RealExample 1117 1152 The speed of light gets in the way.
+HN-bhqNzGu PREMISE-RealExample 1153 1180 So they want local compute.
+lyR2LD3-gp PREMISE-RealExample 1181 1311 And so, in order to have that local compute in some of these factories with millions of sensors, you may in fact need Azure Stack.
+sMTQ15LWTC PREMISE-RealExample 1312 1424 So it's not just about old workloads and service providers and essentially hybrid computing as we understand it.
+OQfxfshohU PREMISE-RealExample 1425 1583 When I think about hybrid computing at least in the fullness of time, it's more the future of distributed computing, where there is a cloud, there is an edge.
+uDebKCTskv PREMISE-RealExample 1584 1630 And even the edge is not just one single edge.
+3WEKche9Q1 PREMISE-RealExample 1631 1785 But it's got a topology associated with it, going all the way to the sensors, whether it's at home, whether it's in a hospital, whether it's in a factory.
+fSrdIYmLq0 PREMISE-Fact 1786 1928 So that's where we're going to end up, which is a true distributed computing fabric that the world needs in order to be digitally transformed.
+rC1UPWJBvs PREMISE-Fact 1929 2033 How - and quarter to quarter will there be volatility, shifts, changes, that's all going to be the case.
+WtByRJ2Oze PREMISE-Fact 2034 2111 But we see the pattern emerge pretty clearly in terms of where we need to go.
+x_Pvwg49tr NON-ARG 2123 2128 Okay.
+M08jOb-PVj NON-ARG 2129 2145 Thank you, Alex.
+tcARoiCbPF NON-ARG 2146 2204 So that wraps up the Q&A portion of today's earnings call.
+dQ-mzxegw3 NON-ARG 2205 2236 Thank you for joining us today.
+sGTe-sZIWQ NON-ARG 2237 2339 We look forward to seeing many of you at the coming months at various investor conferences and events.
+KrIYK16qSN NON-ARG 2340 2393 You can find the details on the Microsoft IR website.
+Tc0cGdIVvP NON-ARG 2394 2404 Thank you.
+dtCDDFnjuo NON-ARG 2420 2434 Thank you all.
+yMsD9qNG3B NON-ARG 2435 2455 Thank you very much.
+A3ahQGPUoy NON-ARG 2466 2480 Thank you all.
+qf2my-gPiw NON-ARG 2481 2495 Thanks, Chris.
+R0 SUPPORT ARG1:h6i59EIwFF ARG2:ru0GczVTtV
+R1 SUPPORT ARG1:pM-fXWv97D ARG2:ru0GczVTtV
+R2 SUPPORT ARG1:5MY4POgywg ARG2:ru0GczVTtV
+R3 SUPPORT ARG1:HQqeNcYqhB ARG2:ru0GczVTtV
+R4 SUPPORT ARG1:8qJJdDTZgG ARG2:ru0GczVTtV
+R5 SUPPORT ARG1:HN-bhqNzGu ARG2:ru0GczVTtV
+R6 SUPPORT ARG1:lyR2LD3-gp ARG2:ru0GczVTtV
+R7 SUPPORT ARG1:sMTQ15LWTC ARG2:ru0GczVTtV
+R8 SUPPORT ARG1:OQfxfshohU ARG2:ru0GczVTtV
+R9 SUPPORT ARG1:uDebKCTskv ARG2:ru0GczVTtV
+R10 SUPPORT ARG1:3WEKche9Q1 ARG2:ru0GczVTtV
+R11 SUPPORT ARG1:fSrdIYmLq0 ARG2:ru0GczVTtV
+R12 SUPPORT ARG1:rC1UPWJBvs ARG2:ru0GczVTtV
+R13 SUPPORT ARG1:WtByRJ2Oze ARG2:ru0GczVTtV
+ArgQ0 ru0GczVTtV SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

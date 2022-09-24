@@ -1,0 +1,28 @@
+aK693zk4mJ NON-ARG 744 749 Sure.
+tT8qVXY-Uk NON-ARG 750 781 I'll start with the second one.
+vu6wiQkR7M PREMISE-Statistic 782 906 Yes, as you noted in the press release or the 8-K, we had an absolute step-up from Q1 of $792 million to Q2 of $1.2 billion.
+67FoF9D-tg PREMISE-Statistic 907 984 So it increased 51% year-over-year in Q2 versus a head count increase of 42%.
+qmdXNb1p8I PREMISE-Statistic 1129 1274 But the 51% year-over-year is also – it's a combination of the hiring we've done but also an adjustment we made to our estimated forfeiture rate.
+_EGyUXmT5r PREMISE-Fact 1275 1422 We're seeing less forfeitures, which is a great sign for our employee retention, but you have to make adjustments to your reserves as you see that.
+w3sBb_MxyF PREMISE-Statistic 1615 1983 Prime benefits including Prime Video and remember we launched Global Video in Q4 of last year to 200 countries, Prime Now, Amazon Fresh, the general rise of FBA and added selection, both retail and FBA to make Prime more attractive, and the fulfillment and logistics costs that go with that, and the additional constant effort to reduce prices and accelerate shipping.
+hiJ-EKYnSg PREMISE-Fact 2050 2166 The North America segment is a little further along in the Prime, excuse me, yes, the Prime membership growth curve.
+ydWaKAC79g CLAIM-Opinion(view) 2405 2618 We're very hopeful with the progress we've made with sellers and customers alike in India and we see great momentum and success there, so we continue to invest and we have some of our best people in that business.
+J0Y5q3Bo8M CLAIM-Fact 1984 2049 So that all impacts both North America segment and international.
+KQCuz8VxsC CLAIM-Fact 1460 1614 On operating margins internationally, I would step back and say a lot of the investments we're making in North America we're also making in international.
+YkonmxSeXB CLAIM-Fact 1423 1459 So that was another influence in Q2.
+yijMN9mhmD CLAIM-Fact 985 1102 I'll also say that we generally see a step-up from Q1 to Q2 because we do our employee RCU grants in Q2 of each year.
+L6Fj6bVcEz PREMISE-Other 1103 1128 So that's a normal trend.
+emcFNUJcmQ PREMISE-Fact 2167 2332 And so in some respects we are giving benefits earlier in the lifecycle to international Prime customers than we did in North America just because it launched later.
+YBXFjwX3ry PREMISE-Fact 2333 2404 And there's also India, as I mentioned, we continue to invest in India.
+R0 SUPPORT ARG1:vu6wiQkR7M ARG2:yijMN9mhmD
+R1 SUPPORT ARG1:67FoF9D-tg ARG2:yijMN9mhmD
+R2 SUPPORT ARG1:qmdXNb1p8I ARG2:YkonmxSeXB
+R3 SUPPORT ARG1:_EGyUXmT5r ARG2:YkonmxSeXB
+R4 SUPPORT ARG1:w3sBb_MxyF ARG2:J0Y5q3Bo8M
+R5 SUPPORT ARG1:hiJ-EKYnSg ARG2:ydWaKAC79g
+R6 SUPPORT ARG1:emcFNUJcmQ ARG2:ydWaKAC79g
+R7 SUPPORT ARG1:YBXFjwX3ry ARG2:ydWaKAC79g
+ArgQ0 yijMN9mhmD SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 YkonmxSeXB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 J0Y5q3Bo8M SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 ydWaKAC79g SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

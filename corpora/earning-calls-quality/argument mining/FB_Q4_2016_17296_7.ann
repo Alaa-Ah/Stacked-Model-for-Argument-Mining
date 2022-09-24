@@ -1,0 +1,14 @@
+gMuvzPeUeA NON-ARG 53 68 Oh, buy button.
+ZKZkWAsmEP NON-ARG 69 81 Yeah, sorry.
+bqkwmBUXpI NON-ARG 82 113 Just to address the buy button.
+jDuZ-drenc PREMISE-Fact 114 193 The core of our business is really connecting people with what they care about.
+QxFopAK4tI CLAIM-Fact 194 259 And so we're looking at getting the right message the right time.
+vAB23xJ3M6 CLAIM-Fact 260 315 We've worked hard on products ads that get to products.
+ywPMseqnb3 PREMISE-Fact 316 392 So you've seen us work on dynamic ads, carousel ads, estimated store visits.
+wPhiFqNn3L PREMISE-Fact 393 440 Things that help our ad business sell products.
+OGgWoR9kjN PREMISE-Fact 441 666 You are seeing us take other steps like a buy button, like the Marketplace launch, which are really aimed at improving some of the experiences we think people are trying to have and already having in organic ways on Facebook.
+rBpdxzY9Uz CLAIM-Reformulated 667 770 But the core of our focus is still very much focused on ads and how we can do ads at the product level.
+R0 SUPPORT ARG1:ywPMseqnb3 ARG2:vAB23xJ3M6
+R1 SUPPORT ARG1:wPhiFqNn3L ARG2:vAB23xJ3M6
+R2 SUPPORT ARG1:OGgWoR9kjN ARG2:vAB23xJ3M6
+R3 SUPPORT ARG1:jDuZ-drenc ARG2:QxFopAK4tI

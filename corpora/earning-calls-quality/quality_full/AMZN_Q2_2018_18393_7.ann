@@ -1,0 +1,26 @@
+i5OXPpKQXB NON-ARG 1016 1021 Sure.
+lH5HNbsOHI PREMISE-Statistic 1022 1216 I would say it's just a demonstration of the very tight period where we – we've still added a lot, I mean, $4.6 billion is a lot of capital leases, but the rate of growth over last year is flat.
+9DSRCsIie7 CLAIM-Opinion(view) 1217 1291 So what I would say is, I'm not sure about the breakthrough element of it.
+B-usTISl0f PREMISE-Fact 1292 1364 We do spend a lot of time driving better efficiency in our data centers.
+CTAmvzvylC PREMISE-Fact 1365 1422 We do see it; sometimes it is higher than other quarters.
+DT8d6a-3bK CLAIM-Opinion(view) 1423 1632 The starting point for our expectation would be, the usage growth would be very – that our growth in infrastructure costs would start with the growth in usage, which has been exceeding the revenue growth rate.
+n0bQTYb94F CLAIM-Fact 1765 1805 So it will fluctuate quarter-to-quarter.
+PySi5cNntL CLAIM-Opinion(view) 1633 1764 But we can drive more efficiently and we can sometimes bank the efficiencies of prior investments that we've made in other periods.
+pn8RjIVPzt PREMISE-Fact 1806 1881 I would say last year in the first half was a pretty large investment area.
+096bsenx5E PREMISE-Statistic 1882 2042 I'll lump it in with capital expenditures, but in the first two quarters, Q1 of last year, it was 82% growth year-over-year in capital expenditures, Q2 was 67%.
+sXf8BL30fK PREMISE-Statistic 2043 2096 This year, those numbers are 33% in Q1, and 1% in Q2.
+bzFzJ5zERn CLAIM-Reformulated 2097 2300 So it's a – there's a bit of timing at play here, but I think overall, in the longer-term, we certainly work to drive efficiency in both AWS infrastructure capability, and also in our warehouse networks.
+fbTwHP8_Bn NON-ARG 2301 2388 I don't have on the other piece, on product detail, I don't have anything more for you.
+AS3Gi0cmN4 CLAIM-Fact 2389 2742 I would just say that, our growth is coming from customers that span from start-ups to enterprise customers to government agencies, and they start small and then they continue to build and shift their businesses to us, and many of them have gone – a large number have gone all-in on AWS, and have had a chance to lower their cost structures as a result.
+R2_wnhNGPR PREMISE-RealExample 2743 2906 I'd count Amazon in that category, because on the consumer side of the business, we increasingly see infrastructure savings due to the conversion to AWS resources.
+R0 SUPPORT ARG1:lH5HNbsOHI ARG2:9DSRCsIie7
+R1 SUPPORT ARG1:B-usTISl0f ARG2:DT8d6a-3bK
+R2 SUPPORT ARG1:CTAmvzvylC ARG2:DT8d6a-3bK
+R3 SUPPORT ARG1:pn8RjIVPzt ARG2:n0bQTYb94F
+R4 SUPPORT ARG1:096bsenx5E ARG2:n0bQTYb94F
+R5 SUPPORT ARG1:sXf8BL30fK ARG2:n0bQTYb94F
+R6 SUPPORT ARG1:R2_wnhNGPR ARG2:AS3Gi0cmN4
+ArgQ0 9DSRCsIie7 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 DT8d6a-3bK SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 n0bQTYb94F SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ3 AS3Gi0cmN4 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

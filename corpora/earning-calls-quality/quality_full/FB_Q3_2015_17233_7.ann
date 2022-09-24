@@ -1,0 +1,28 @@
+awPOIDfkSA NON-ARG 567 648 I can answer the policy question and then I guess Sheryl will take the other one.
+Ydyl9WKTDT CLAIM-Fact 649 744 The guiding principle for us on this is that we want to give the most voice to the most people.
+vgdzfFIcnG PREMISE-Fact 745 1214 And the idea is that there are all these different barriers that any given person has to being able to share and express everything that they want, from technical barriers, it's really hard to communicate with someone if you're not on the internet and they're far away, to product barriers, it's hard to share videos if we don't have a good product for sharing videos, to legal barriers, it's hard to share content that your government says is illegal for you to share.
+eNrGaQmZRW CLAIM-Fact 1215 1383 And at the end of the day, there's also policy and you're in a community and we have community standards for how we think people should communicate in order to be safe.
+nq7EZtWXX7 PREMISE-Fact 1384 1597 Because even if you have all of the internet connectivity and the products and the legal framework that you need, if you don't feel safe saying what you want to express, then you're probably not going to share it.
+N0q9VH6S2l PREMISE-Fact 1598 1820 And we see a lot of that online and that's a pretty big issue from everything from bullying to terrorism, there are lots of reasons why people might otherwise have the tools to share what they would want but feel silenced.
+1lKYDbfqop PREMISE-Fact 1821 1877 And that isn't giving the most voice to the most people.
+mTkv8Yk5Co CLAIM-Fact 1878 2247 So we feel a responsibility to have policies for our community which limit hate speech and limit things which are going to create just an overwhelmingly uncomfortable environment for people that is going to silence other people's speech in order to make sure that over the long-term we are enabling the most people to be able to express as much as possible as they can.
+sG39N1A9xT CLAIM-Reformulated 2248 2287 And that's the philosophy that we have.
+niyrWYHYlT NON-ARG 2308 2452 On commerce going into the holiday season, commerce is a really important vertical for us and we're working hard to make our ads more effective.
+XJ5ReGKz3q CLAIM-Opinion(view) 2453 2529 So what we're seeing from DPA ads and carousel ads, we're really happy with.
+ylOwcC4alK PREMISE-Fact 2530 2569 We're seeing lower cost per conversion.
+BvP-9dtAZ5 PREMISE-Fact 2570 2677 When people do multiple objectives and video, we're seeing lower cost per click than single image link ads.
+BVfmdqtSBi CLAIM-Fact 2678 2744 And importantly, we're also creating better experiences for people
+5WoX-qQpVC PREMISE-Fact 2745 2903 because when an ad is more targeted, more relevant, when you see a product you're interested in or a service you're interested in, that's a better experience.
+Qk_evMg9NO NON-ARG 2904 3105 So we go into the holidays feeling that we have a really strong product offering, certainly the best product offering we've ever had to connect people to the products they're going to buy this holiday.
+R0 SUPPORT ARG1:vgdzfFIcnG ARG2:Ydyl9WKTDT
+R1 SUPPORT ARG1:nq7EZtWXX7 ARG2:eNrGaQmZRW
+R2 SUPPORT ARG1:N0q9VH6S2l ARG2:mTkv8Yk5Co
+R3 SUPPORT ARG1:1lKYDbfqop ARG2:mTkv8Yk5Co
+R4 SUPPORT ARG1:ylOwcC4alK ARG2:XJ5ReGKz3q
+R5 SUPPORT ARG1:BvP-9dtAZ5 ARG2:XJ5ReGKz3q
+R6 SUPPORT ARG1:5WoX-qQpVC ARG2:BVfmdqtSBi
+ArgQ0 Ydyl9WKTDT SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 eNrGaQmZRW SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 mTkv8Yk5Co SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 XJ5ReGKz3q SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ4 BVfmdqtSBi SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3

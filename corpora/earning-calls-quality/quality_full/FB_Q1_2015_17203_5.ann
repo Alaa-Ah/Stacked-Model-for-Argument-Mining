@@ -1,0 +1,18 @@
+uwmVUPRngu CLAIM-Opinion(view) 911 972 2015 is a big investment year for us, both in CapEx and OpEx.
+frmBfCrx52 CLAIM-Reformulated 1385 1443 But 2015 is a big investment year for us across the board.
+beUn2alV-B NON-ARG 771 786 I can go first.
+OojCgaN4Vu NON-ARG 973 1057 It's a little bit early to be talking about how that's going to scale going forward.
+9Nlk3r81vd PREMISE-Fact 1058 1195 But, clearly, we've got a lot of areas that we're investing in, including video, including the various other services on top of Facebook.
+G5P0OZS4vp PREMISE-Other 1196 1384 So, we're going to be investing to deliver the best quality services that we can for our users, so we'll continue to invest heavily on the datacenter and infrastructure side going forward.
+aKzulc8hAb PREMISE-Fact 787 910 So on the CapEx growth for this year, Paul, yeah, we are ramping CapEx, obviously, to support the initiatives that we have.
+86F9VT1FzO CLAIM-Opinion(view) 1468 1566 Yeah, and on video, we're excited about people sharing all different kinds of content on Facebook.
+nMstJ2dYRW PREMISE-Fact 1567 1647 Right now, a lot of what people are sharing are their social videos and content.
+xnsLaZl1W1 PREMISE-Fact 1648 1859 There a lot of public figures who have pages often with millions or tens of millions of followers producing unique and really high-quality content that they're pushing out to all their fans on the network today.
+haW7YG4j37 CLAIM-Opinion(view) 1860 2018 So, yeah, we'll continue looking at ways to grow that and it's – the product experience that we have right now is growing quite well so we feel good about it.
+R0 SUPPORT ARG1:aKzulc8hAb ARG2:uwmVUPRngu
+R1 SUPPORT ARG1:9Nlk3r81vd ARG2:uwmVUPRngu
+R2 SUPPORT ARG1:G5P0OZS4vp ARG2:uwmVUPRngu
+R3 SUPPORT ARG1:nMstJ2dYRW ARG2:86F9VT1FzO
+R4 SUPPORT ARG1:xnsLaZl1W1 ARG2:86F9VT1FzO
+ArgQ0 uwmVUPRngu SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 86F9VT1FzO SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

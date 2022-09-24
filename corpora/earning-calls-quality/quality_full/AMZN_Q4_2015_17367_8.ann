@@ -1,0 +1,23 @@
+S6vI41DsHf CLAIM-Opinion(view) 582 631 So on the Echo, we like what - how Echo has done.
+aDTDBEY247 CLAIM-Reformulated 632 839 We're really excited about the ecosystem and some of the skills that are being added to Echo, as well as some of the other devices that are taking advantage of Alexa, which is kind of the brains behind Echo.
+TbEK-piMJx CLAIM-Reformulated 840 882 So we like our device business in general.
+8Md8Vztao1 PREMISE-Fact 883 1006 As you probably saw from the press release, we had a good Q4, where we did almost doubled, or double what we did last year.
+CD88tTSqbr CLAIM-Reformulated 1007 1041 So very excited about the devices.
+sdzlwWgTBY CLAIM-Opinion(view) 1042 1119 We like that they pump more energy into Prime and really the whole ecosystem.
+C1ZxxrLCim PREMISE-Fact 1120 1202 Not sure on the Internet of Things, but it's very exciting for devices standpoint.
+9arYBWTUBa PREMISE-Fact 1203 1247 And the brains of Echo are in the AWS cloud.
+7n5TWbSJA- PREMISE-Fact 1248 1328 And so, Echo gets new capabilities all the time as Alexa gets better and better.
+ifOF0sLSLq PREMISE-Fact 1329 1424 On the restaurant delivery, it's just another great service we can offer for our Prime members.
+Wpss5VpuyZ PREMISE-Fact 1425 1506 This is tied in with the Prime Now offering in a handful of cities at this point.
+LDUng9LLDW PREMISE-Fact 1507 1599 And so we have the delivery people going out and making the deliveries in the neighborhoods.
+JduJBs7yP- PREMISE-Fact 1600 1696 And so this is one more really valuable convenient service we can offer for our Prime customers.
+R0 SUPPORT ARG1:8Md8Vztao1 ARG2:S6vI41DsHf
+R1 SUPPORT ARG1:C1ZxxrLCim ARG2:sdzlwWgTBY
+R2 SUPPORT ARG1:9arYBWTUBa ARG2:sdzlwWgTBY
+R3 SUPPORT ARG1:7n5TWbSJA- ARG2:sdzlwWgTBY
+R4 SUPPORT ARG1:ifOF0sLSLq ARG2:sdzlwWgTBY
+R5 SUPPORT ARG1:Wpss5VpuyZ ARG2:sdzlwWgTBY
+R6 SUPPORT ARG1:LDUng9LLDW ARG2:sdzlwWgTBY
+R7 SUPPORT ARG1:JduJBs7yP- ARG2:sdzlwWgTBY
+ArgQ0 S6vI41DsHf SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 sdzlwWgTBY SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

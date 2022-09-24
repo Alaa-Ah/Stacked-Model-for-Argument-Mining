@@ -1,0 +1,18 @@
+yJoXa1yNhT NON-ARG 981 1010 It's a great question, Keith.
+SPpf5zFEcM CLAIM-Fact 1342 1517 For the first time, what you see across Microsoft is really one platform which spans all of these businesses and all of the margin structures that are there represented in it.
+feBs1OEaU9 PREMISE-Fact 1011 1341 I would say the way we think about our capital efficiency and I in fact added that even to my commentary this time, which is we're building this intelligent cloud, intelligent edge platform to span everything, not only the Azure business but also the future of game streaming to what we are doing at Microsoft 365 or Dynamics 365.
+P47vxTER4w CLAIM-Opinion(view) 1518 1820 So that's where if you think about the thing that Amy and I focus a lot on is the capital efficiency end-to-end in that context versus getting caught up in even the capital efficiency as measured by any one of these individual pieces, because we think that's what Microsoft's uniqueness long term lies.
+8oWgfibVu7 CLAIM-Fact 1821 1869 But that said on Azure, you're absolutely right.
+zwxg1k2IW6 CLAIM-Fact 1870 1904 What you are seeing is two things.
+X6VvH_M73o CLAIM-Opinion(view) 1905 2057 One is things like the Azure Hybrid Benefits as well as the higher-level services that create I think uniqueness both as well as good margins long term.
+PJmwmiaKRp PREMISE-Fact 2058 2213 I mean, especially on the database side is one place where I would say from a year-over-year worth of progress, whether it's just Azure database by itself.
+qvMck9ze88 CLAIM-Opinion(view) 2432 2487 And Cosmos DB I think is very unique in its capability.
+1fgh0cytPt CLAIM-Fact 2488 2621 So that's one place where as you know, any AI project first starts with data, and that's one place where we are seeing good traction.
+kX-DTmvrKN NON-ARG 2639 2653 Thanks, Keith.
+ifc-AiJcPo NON-ARG 2654 2696 Operator, we'll move to the next question.
+trzkT6Gqxi PREMISE-Fact 2214 2431 I mean that service with full compatibility with SQL Server is a fantastic value proposition for our customers who have huge estates whether it's the Data Warehouse that's become very, very competitive, the Data Lake.
+R0 SUPPORT ARG1:PJmwmiaKRp ARG2:X6VvH_M73o
+R1 SUPPORT ARG1:trzkT6Gqxi ARG2:X6VvH_M73o
+R2 SUPPORT ARG1:feBs1OEaU9 ARG2:SPpf5zFEcM
+ArgQ0 X6VvH_M73o SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 SPpf5zFEcM SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

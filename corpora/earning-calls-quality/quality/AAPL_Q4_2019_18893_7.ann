@@ -1,0 +1,38 @@
+XCq6mG0Tr7 NON-ARG 273 283 Thank you.
+9LmkCHGxT1 CLAIM-Opinion(view) 688 882 Yes, we had a very good September, Shannon, and the lead of that is sort of the reception of iPhone 11 and 11 Pro and 11 Pro Max, and so we feel really good about how we've gotten started there.
+MM1pta1K6U CLAIM-Fact 883 978 As you can tell from the numbers, we've significantly improved since the beginning of the year.
+YNmb8ZgU-C PREMISE-Statistic 979 1045 We've gone from minus well into the 20s to minus two last quarter.
+JGGivNJUes PREMISE-Statistic 1045 1114 And if you looked at that in constant currency, we actually grew one.
+ySS_TjvFVC CLAIM-Reformulated 1115 1158 And so there is a very slight growth there.
+nx8YNGKSHK CLAIM-Fact 1159 1195 We obviously want that to be better.
+wlUlZIxWvL CLAIM-Reformulated 1196 1235 But we feel good about how we're doing.
+E-Ji7iLLRH CLAIM-Opinion(view) 1235 1314 I think it's a combination of things that are - that have turned things around.
+HaCy38Pgh6 CLAIM-Opinion(view) 1315 1464 On a macro basis, I think the trade tension is less and that clearly looks positive right now with the comments that we've been reading in the press.
+nS6LY0nwRJ CLAIM-Fact 1464 1527 Secondly, the products have been extremely well received there.
+5dwrvEP2mW CLAIM-Fact 1528 1715 Third, the things that we've done from a pricing and monthly payments point of view and trade-in, getting the trade-in program up and running, all of these things have had moved the dial.
+2Yi2jEN8d8 CLAIM-Reformulated 1716 1759 And so it's sort of the sum of all of that.
+xpzA9ZCHMK CLAIM-Fact 2498 2559 Well, you know, Shannon, we've gone through different cycles.
+xnC_tXyR7t PREMISE-Fact 2560 2618 In some cases, our revenue growth exceeds our OpEx growth.
+5PmU2sw-iu PREMISE-Fact 2619 2680 In other cases, like fiscal '19, it was the other way around.
+5HGcREk9qu CLAIM-Fact 2733 2767 We want to invest in the business.
+xv7kFl05CY CLAIM-Fact 2767 2951 Our primary investments during the last few years have been in the R&D space, because obviously we want to continue to innovate, improve the user experience differentiate our products.
+tzyokyPlQi CLAIM-Fact 2951 2983 We continue to run SG&A tightly.
+XptymH5m5d CLAIM-Fact 1759 1849 I would also say, it's not all about iPhone in China, the services area grew double digit.
+nyieN3rDx_ CLAIM-Fact 1850 1946 We began to see more gaming approvals in the quarter, or I should say some key gaming approvals.
+qMKpXWkrs7 NON-ARG 1946 2009 It's not all about quantity, but about which ones, we saw that.
+_2ClxFLRpT CLAIM-Fact 2010 2074 Also Wearables, Wearables are doing so great at a company level.
+MBZKCmlWnV CLAIM-Fact 2075 2110 They're doing even better in China.
+xngNpO9Axf CLAIM-Fact 2111 2142 And so lots of positives there.
+yaD2bdPnc7 CLAIM-Fact 2681 2732 But our approach frankly is not changing over time.
+a39XY7Wf7H CLAIM-Fact 2984 3153 Obviously, if you look at what we had launched in the last few quarters and few years, we launched a lot of new products, and now we are launching a lot of new services.
+44jGZglME3 NON-ARG 3558 3577 Thank you, Shannon.
+OD2BVztYIY NON-ARG 3578 3617 Could we have the next question please?
+9TNKgyoV09 PREMISE-Fact 3153 3542 And when we do that we need to make the adequate investments in marketing and advertising to raise the awareness of the new products and new services and that is what you're seeing for example in the guidance that we provided for the first quarter as we’re launching new services right now, and so we're making investments both in engineering and in advertising to support the new launches
+R0 SUPPORT ARG1:YNmb8ZgU-C ARG2:MM1pta1K6U
+R1 SUPPORT ARG1:JGGivNJUes ARG2:MM1pta1K6U
+R2 SUPPORT ARG1:xnC_tXyR7t ARG2:xpzA9ZCHMK
+R3 SUPPORT ARG1:5PmU2sw-iu ARG2:xpzA9ZCHMK
+R4 SUPPORT ARG1:9TNKgyoV09 ARG2:a39XY7Wf7H
+ArgQ0 MM1pta1K6U SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 xpzA9ZCHMK SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 a39XY7Wf7H SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

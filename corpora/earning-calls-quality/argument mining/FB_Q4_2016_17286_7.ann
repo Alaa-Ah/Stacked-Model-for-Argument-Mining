@@ -1,0 +1,17 @@
+uaKRk9PopV CLAIM-Fact 535 588 We're focusing more on shorter-form content to start.
+mXl92FuaDA PREMISE-Fact 589 677 So the thesis that we have now is that there were different parts of short-term content.
+vh4NfHie0_ PREMISE-Fact 678 753 There is the type of content that people will produce socially for friends.
+xrUNTcGTkQ PREMISE-Fact 754 837 There's promotional content that businesses and celebrities and folks will produce.
+f6bcnWpgZK PREMISE-Fact 838 1097 But there's also a whole class of premium content that the creators need to get paid a good amount in order to support the creation of that content, and we need to be able to support that with a business model, which we're working on through ads to fund that.
+C-0IHaqsLO PREMISE-Fact 1098 1382 So the biggest change that I think that we're going to see on the consumption in News Feed and in the tab over the next year or two is going to be much more video inventory and content coming in as we work through and make that business model start to really click for a lot of folks.
+PjtjZKHXmP CLAIM-Opinion(view) 1383 1520 Over the longer term, I think as that works, people will experiment with longer forms of video as well and all kinds of different things.
+LGeRy2Un4f PREMISE-Fact 1521 1588 But that, I think, is the primary focus for the foreseeable future.
+xFjJnWwrnD NON-ARG 1606 1611 Yeah.
+MsIOxEJGCn NON-ARG 1612 1656 And Doug, I think you asked about platforms.
+8Ng3QJLB_g NON-ARG 1657 1794 I mean we've always been focused on a variety of – getting our services on a variety of platforms, but main focus is obviously on mobile.
+R0 SUPPORT ARG1:mXl92FuaDA ARG2:uaKRk9PopV
+R1 SUPPORT ARG1:vh4NfHie0_ ARG2:uaKRk9PopV
+R2 SUPPORT ARG1:xrUNTcGTkQ ARG2:uaKRk9PopV
+R3 SUPPORT ARG1:f6bcnWpgZK ARG2:uaKRk9PopV
+R4 SUPPORT ARG1:C-0IHaqsLO ARG2:PjtjZKHXmP
+R5 ATTACK ARG1:LGeRy2Un4f ARG2:PjtjZKHXmP

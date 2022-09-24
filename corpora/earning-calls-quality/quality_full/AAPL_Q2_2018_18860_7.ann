@@ -1,0 +1,51 @@
+COOIRKg3V8 NON-ARG 1050 1085 Yeah, Jim, thanks for the question.
+Rj1Woah3Qz NON-ARG 1086 1176 In terms of the – let me address the smartphone market a bit and then I'll mention iPhone.
+efa1fa__l4 PREMISE-Statistic 1177 1357 In terms of the market in general, if you look at last year, which is the last data point we have on the full market, there were still 0.5 billion feature phones sold in the world.
+urxUmed-Fa PREMISE-Fact 1358 1446 And so many of those were sold into emerging markets, not all of them, but many of them.
+dllcqx0XIA CLAIM-Opinion(view) 1447 1521 And we still believe that over time every phone sold will be a smartphone.
+kFHgj8_FzC CLAIM-Opinion(view) 1522 1623 And so it seems to us that with that many feature phones being sold, that's a pretty big opportunity.
+KG3_HIvj9Z PREMISE-Fact 1624 1835 In terms of the iPhone itself, even though we sell quite a few phones across the course of a year, our market share globally is low compared to the – our sales are low compared to the full market of smartphones.
+jZNqpwaxzz CLAIM-Other 1836 2076 And so our task is to convince people that currently – or have another type of phone to switch, while really taking care of people that have an iPhone so that they choose – when they elect to buy another phone, that they buy another iPhone.
+tU4DZh_keS PREMISE-Fact 2145 2226 I do think that India, India is the third largest smartphone market in the world.
+gsZ5ZgNTQv CLAIM-Opinion(view) 2227 2333 There's obviously huge opportunities there for us, and we have extremely low share in that market overall.
+jcSQejXTRu CLAIM-Fact 2077 2144 And so we've spent quite a bit of time on that, as you might guess.
+4uGnKErZSU CLAIM-Fact 2334 2476 And so we're putting a lot of energy there and working with the carriers in that market, and they're investing enormously on the LTE networks.
+ROFqgumHkN PREMISE-Fact 2477 2610 And the infrastructure has come quite a ways since we began to put a lot of energy in there because of their leadership and so forth.
+lFpgMmu5dD CLAIM-Opinion(view) 2611 2676 And so I do think – I don't buy the view that market's saturated.
+ahO-2GvT4w CLAIM-Opinion(view) 2775 2933 I think the smartphone market is sort of like the best market for a consumer product company in the history of the world and – but that's how I feel about it.
+XuQ_SNaX8u CLAIM-Opinion(view) 2934 2998 It's a terrific market, and we're very happy to be a part of it.
+eI_aA1iDtI CLAIM-Reformulated 2677 2774 I don't see that from a market point of view or – and certainly not from an iPhone point of view.
+0e_Nxp8eD0 NON-ARG 3013 3102 Jim, on the gross margin side, I think I'll repeat what I said earlier, but you're right.
+GDIllZzSCp PREMISE-Fact 3103 3188 Our services business, and I've said it in the past, is accretive to company margins.
+FoABTu3X5t CLAIM-Fact 3189 3285 And so as we are able to grow the services business, that should provide a positive, a tailwind.
+vio_4y7IcI PREMISE-Fact 3499 3741 At a macro level, because about two-thirds of our company is outside the United States, a weak dollar is a positive for our gross margins; a strong dollar, as it's been during the last four years, has been a bit of a headwind for the company.
+kNEFFWj7Vy PREMISE-Fact 3801 3991 And in general, when we look at our process to innovate our products, typically when we launch a new product, that product tends to have a higher cost structure than the product it replaces.
+hQCedVkeMm CLAIM-Opinion(view) 4232 4500 I think we've done a pretty remarkable job during the last several years at managing all these different variables and coming out with a level of gross margins that we think is really good for investors and certainly it is our plan to continue to manage them that way.
+jL1b03ZK8J NON-ARG 4501 4629 But it's very difficult for me to give you a prediction of where gross margins are going to be six months or 12 months from now.
+pi3-P0R5a8 NON-ARG 4644 4659 Thank you, Jim.
+BFtaJUYeUr NON-ARG 4738 4748 Thank you.
+ZXsFSRJxHd NON-ARG 4763 4891 A replay of today's call will be available for two weeks on Apple Podcast, as a webcast on apple.com/investor and via telephone.
+P12Yk3Kmcy NON-ARG 4892 5009 And the numbers for the telephone replay are 888-203-1112 or 719-457-0820 and please enter confirmation code 5253762.
+hpb2mMPwiD NON-ARG 5010 5086 These replays will be available by approximately 5:00 PM Pacific Time today.
+qzM8Iqu2os NON-ARG 5087 5177 Members of the press with additional questions can contact Kristin Huguet at 408-974-2414.
+vifm76HvQj NON-ARG 5178 5252 Financial analysts can contact Matt Blake or me with additional questions.
+tErH2lq1xL NON-ARG 5253 5302 Matt is at 408-974-7406, and I'm at 408-974-5420.
+nt-7XLJQ7v NON-ARG 5303 5331 Thanks again for joining us.
+TX-gsUdVqU CLAIM-Fact 3286 3498 At the same time, within the services portfolio that we have, we have services that have different levels of profitability, so we also need to take into account the mix of services that we're going to be selling.
+7RslhDl4WE CLAIM-Fact 3742 3800 We try to make it more stable through the hedging program.
+M1z_KBPCcE CLAIM-Policy 3992 4179 And so that is something that we need to work through every time we launch a new product and we have a pretty good track record and history of taking those cost structures down over time.
+HJYaC0qLXU CLAIM-Reformulated 4180 4231 So we need to balance all these different elements.
+R0 SUPPORT ARG1:efa1fa__l4 ARG2:kFHgj8_FzC
+R1 SUPPORT ARG1:KG3_HIvj9Z ARG2:jZNqpwaxzz
+R2 SUPPORT ARG1:tU4DZh_keS ARG2:gsZ5ZgNTQv
+R3 SUPPORT ARG1:ROFqgumHkN ARG2:lFpgMmu5dD
+R4 SUPPORT ARG1:GDIllZzSCp ARG2:FoABTu3X5t
+R5 SUPPORT ARG1:vio_4y7IcI ARG2:7RslhDl4WE
+R6 SUPPORT ARG1:kNEFFWj7Vy ARG2:M1z_KBPCcE
+ArgQ0 kFHgj8_FzC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 jZNqpwaxzz SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 gsZ5ZgNTQv SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 lFpgMmu5dD SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 FoABTu3X5t SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 7RslhDl4WE SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ6 M1z_KBPCcE SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

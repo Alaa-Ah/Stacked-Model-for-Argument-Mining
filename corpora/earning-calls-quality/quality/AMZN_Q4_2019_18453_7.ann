@@ -1,0 +1,5 @@
+QPwrm7YhVU NON-ARG 545 550 Sure.
+-JSWjQ8s6N PREMISE-Statistic 551 666 Well, as I said, on revenue we came in at $87.4 billion, which exceeded the high end of our range of $86.5 billion.
+sK3QQC2Yaa CLAIM-Fact 667 839 $400 million of -- roughly $400 million of that was due to foreign exchange, but what we saw was essentially very strong holiday performance from the middle of November on.
+R0 SUPPORT ARG1:-JSWjQ8s6N ARG2:sK3QQC2Yaa
+ArgQ0 sK3QQC2Yaa SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

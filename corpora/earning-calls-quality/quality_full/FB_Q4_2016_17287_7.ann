@@ -1,0 +1,27 @@
+k8ym7nb2uZ NON-ARG 774 810 I can start on that latter question.
+6TY9e1Wh6t CLAIM-Fact 811 976 Our goal really is to kick-start an ecosystem of partner content in the video tab, for example, and our model is really oriented towards revenue share with creators.
+3Db1zRsIts PREMISE-Fact 977 1068 We are funding some feed content to get the ecosystem going, but the focus is on rev share.
+WLdqv4vPFQ NON-ARG 1069 1168 And then I think your question was on how the core use case between Facebook and Instagram differs.
+KMzgLN-Hou NON-ARG 1193 1219 Yeah, I can take that one.
+8Qsp2UkW4z CLAIM-Fact 1220 1254 There are a number of differences.
+Lwissgh2CO PREMISE-Fact 1255 1357 I think a lot of this comes down to the graphs in the community that you have in the different places.
+a9P_02lJAN PREMISE-Fact 1358 1446 Instagram is a follow model, right, so it's – they're not all bidirectional friendships.
+nwkotMTEbe PREMISE-Fact 1447 1497 A larger portion of the content is public content.
+Z-pKDRIVZM PREMISE-Fact 1498 1535 More of the content is visual, right.
+L_vCIV0v-X PREMISE-Fact 1536 1624 Facebook has a mix of text and news and links and visual content like photos and videos.
+Cm3SMXq1JC PREMISE-Fact 1625 1701 And Instagram creates a pure experience that's focused on photos and videos.
+gnGUOtcD6e CLAIM-Fact 1702 1938 So all those good and subtle decisions that Kevin has made over the years add up to creating a different kind of community that what we're finding and that's great, is that it's really complementary to what people are doing on Facebook.
+2NmmDNiwO0 PREMISE-Fact 1939 2064 And some of what we found is that as we encourage people to use both Facebook and Instagram, engagement on both can increase.
+RBZeB8X7-L CLAIM-Reformulated 2065 2082 So that is great.
+W7ptuMUBq0 NON-ARG 2083 2253 And that I think speaks to how you can build these different kinds of communities with different connections in a way that really is creating new value in people's lives.
+R0 SUPPORT ARG1:3Db1zRsIts ARG2:6TY9e1Wh6t
+R1 SUPPORT ARG1:Lwissgh2CO ARG2:8Qsp2UkW4z
+R2 SUPPORT ARG1:a9P_02lJAN ARG2:8Qsp2UkW4z
+R3 SUPPORT ARG1:nwkotMTEbe ARG2:8Qsp2UkW4z
+R4 SUPPORT ARG1:Z-pKDRIVZM ARG2:8Qsp2UkW4z
+R5 SUPPORT ARG1:L_vCIV0v-X ARG2:8Qsp2UkW4z
+R6 SUPPORT ARG1:Cm3SMXq1JC ARG2:8Qsp2UkW4z
+R7 SUPPORT ARG1:2NmmDNiwO0 ARG2:gnGUOtcD6e
+ArgQ0 6TY9e1Wh6t SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 8Qsp2UkW4z SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 gnGUOtcD6e SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

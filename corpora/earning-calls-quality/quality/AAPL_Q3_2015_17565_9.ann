@@ -1,0 +1,48 @@
+Ip-PdBICtR NON-ARG 3067 3104 Yeah, I'm very familiar with the ads.
+25Aznqi_gp PREMISE-Fact 3105 3169 In certain geographies, the way that we win is to get switchers.
+8TWoo44lx9 PREMISE-Fact 3170 3259 In other geographies, the way that we win is to get people to buy their first smartphone.
+7MDQR7SVfI PREMISE-Fact 3260 3356 In other geographies, the way that we win is to get people to upgrade from their current iPhone.
+9Q5q1V-cgk CLAIM-Opinion(view) 3357 3400 And all of those are very important for us.
+DWNvebJPR7 NON-ARG 3401 3487 In many geographies, it's two of those or in some geographies it's all three of those.
+VbiJDEm0wV CLAIM-Reformulated 3488 3521 And so all of those are important
+QeCVcZkO_M CLAIM-Opinion(view) 3523 3673 We are very focused on growing iPhone around the world, not just in one geography and getting our message out there through ads is one way to do that.
+xnhmnVlbZI CLAIM-Opinion(view) 515 587 and we remain extremely bullish on China and we're continuing to invest.
+VnxChI33CS PREMISE-Fact 588 715 Nothing that's happened has changed our fundamental view that China will be Apple's largest market at some point in the future.
+zx8WkJ0l8a PREMISE-Fact 716 797 It's true, as you point out, that the equity markets have recently been volatile.
+WKid748__O PREMISE-Other 798 850 This could create some speed bumps in the near term.
+NK37CoaVOe PREMISE-Statistic 851 1096 But to put it in context, which I think is important, despite that volatility in the Chinese market, they're still up 90% over the last year, and they're up 20% year-to-date, and so these kind of numbers are numbers I think all of us would love.
+QQmfH0pvAK PREMISE-Fact 1097 1175 Also, the stock market participation among Chinese household is fairly narrow.
+N5LohWft93 PREMISE-Fact 1176 1326 And the stock ownership is very concentrated in a few people who put what appears to be a smaller portion of their wealth in the market than we might.
+fMIDSAnMFA PREMISE-Other 1327 1471 And so I think generally this has been, at least as we see it, maybe it's not true for other businesses, that this worry is probably overstated.
+Q27Oj394w1 CLAIM-Reformulated 1472 1507 And so we're not changing anything.
+8JfbF101g_ CLAIM-Value 1508 1577 We have the pedal to the metal on getting to 40 stores mid next year.
+Muj6mU4N3G CLAIM-Other 1578 1665 As we had talked about before, we're continuing to expand the indirect channel as well.
+Spy9GI6MFw PREMISE-Statistic 1666 1785 As you point out, and I think this is a major point that many people miss, the LTE penetration in China is only at 12%.
+732LoBCAkm PREMISE-Fact 1786 1965 And China doesn't possess the level of fiber that some other countries do, and so in order to get the great video performance, et cetera, raising that penetration is really great.
+I8oZCbxiMW CLAIM-Opinion(view) 1966 2033 I think that really plays to an incredible smartphone future there.
+66V4VMh4OT NON-ARG 2034 2091 Also, and I can't underestimate – I can't overstate this.
+NtUdiWjDsE CLAIM-Fact 2092 2171 The rise of the middle class there is continuing, and it is transforming China.
+OPlC-fBZCb PREMISE-Statistic 2172 2339 McKinsey, I saw a recent study from McKinsey that's projecting the upper middle class to grow from 14% to 54% of households over the ten-year period from 2012 to 2022.
+dRC9pzorpi PREMISE-Fact 2340 2484 So we're within that period at this moment, and you can see for all of us that travel there so much, with every trip you can see this occurring.
+wEg5VHqU9Q CLAIM-Reformulated 2485 2540 And so I think we would be foolish to change our plans.
+dM5ZjjGd9N CLAIM-Opinion(view) 2541 2640 I think China is a fantastic geography with an incredible unprecedented level of opportunity there.
+ZrlBneSnDf CLAIM-Reformulated 2641 2669 And we're going to be there.
+oYdJZE95Qi NON-ARG 482 514 Yeah, it's a very good question,
+R0 SUPPORT ARG1:25Aznqi_gp ARG2:9Q5q1V-cgk
+R1 SUPPORT ARG1:8TWoo44lx9 ARG2:9Q5q1V-cgk
+R2 SUPPORT ARG1:7MDQR7SVfI ARG2:9Q5q1V-cgk
+R3 SUPPORT ARG1:VnxChI33CS ARG2:xnhmnVlbZI
+R4 ATTACK ARG1:zx8WkJ0l8a ARG2:xnhmnVlbZI
+R5 ATTACK ARG1:WKid748__O ARG2:xnhmnVlbZI
+R6 SUPPORT ARG1:NK37CoaVOe ARG2:xnhmnVlbZI
+R7 SUPPORT ARG1:QQmfH0pvAK ARG2:xnhmnVlbZI
+R8 SUPPORT ARG1:N5LohWft93 ARG2:xnhmnVlbZI
+R9 SUPPORT ARG1:fMIDSAnMFA ARG2:xnhmnVlbZI
+R10 SUPPORT ARG1:Spy9GI6MFw ARG2:I8oZCbxiMW
+R11 SUPPORT ARG1:732LoBCAkm ARG2:I8oZCbxiMW
+R12 SUPPORT ARG1:OPlC-fBZCb ARG2:NtUdiWjDsE
+R13 SUPPORT ARG1:dRC9pzorpi ARG2:NtUdiWjDsE
+ArgQ0 9Q5q1V-cgk SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 xnhmnVlbZI SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 I8oZCbxiMW SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 NtUdiWjDsE SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

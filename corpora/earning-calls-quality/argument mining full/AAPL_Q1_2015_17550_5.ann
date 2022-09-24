@@ -1,0 +1,23 @@
+b7UjZte3tj PREMISE-Fact 800 891 And I’d also remind you that there is a lot of people that have not yet bought a smartphone
+k8hsBBl9Gf PREMISE-Fact 667 799 And given there are fair amount of Android units out there, there is also an enormous amount of Android customers that could switch.
+W0clInrBUh CLAIM-Opinion(view) 595 666 And so when I look at that I say that there is an enormous amount left.
+3Xm3SchvGU PREMISE-Fact 533 594 It’s a number that's in the mid-teens or barely in the teens.
+HXNhjR4TOn CLAIM-Reformulated 1035 1144 And so I see all three of those groups there and I'm very excited about all of them, and serving all of them.
+Yov5J2N9Cr CLAIM-Fact 893 1034 And I know it doesn’t feel like that when you’re sitting in the United States, but from a worldwide point of view there's still lots of them.
+nnt26JRRHP CLAIM-Opinion(view) 2040 2235 We feel very good about our hedging position and the decisions that we’ve made particularly during the summer when we felt that maybe we needed to hedge a bit more than we have done historically.
+QY6gvAhc6l PREMISE-Statistic 1515 1659 Typically, I think, we have clearly active hedging programs of winning the market almost every day, but we tend to hedge three to 12 months out.
+DXP1g9Uxde PREMISE-Fact 1903 2039 We take into account the exposures that we have around the world, taking into account our most recent forecast and we hedge accordingly.
+a_NdnXudS4 NON-ARG 1660 1787 There are cases where maybe we’ve had to go a bit longer, if we feel that we have a strong conviction about certain currencies.
+buhKhw-ax6 CLAIM-Fact 2246 2344 It’s probably worth pointing out too that there is some markets where we can’t economically hedge.
+uiEdlbHgsg NON-ARG 2359 2363 Yes.
+HjeJfSVyPC NON-ARG 2364 2482 There are some exposures where the cost of hedging is prohibitive or the financial instruments are not there to hedge.
+QaVbjC7SL9 NON-ARG 2483 2567 And in those cases of course that’s where you get the full impact of the volatility.
+zVs_okahE5 NON-ARG 1788 1845 Otherwise again the typical period is three to 12 months.
+uDfh3uq8Aa NON-ARG 1846 1902 And as hedges roll off, we replace them with new hedges.
+vzehviufUW NON-ARG 509 533  It’s a small fraction. 
+rHLHBmdXnO NON-ARG 1505 1515  Yes Rod. 
+R0 SUPPORT ARG1:3Xm3SchvGU ARG2:W0clInrBUh
+R1 SUPPORT ARG1:k8hsBBl9Gf ARG2:W0clInrBUh
+R2 SUPPORT ARG1:b7UjZte3tj ARG2:W0clInrBUh
+R3 SUPPORT ARG1:QY6gvAhc6l ARG2:nnt26JRRHP
+R4 SUPPORT ARG1:DXP1g9Uxde ARG2:nnt26JRRHP

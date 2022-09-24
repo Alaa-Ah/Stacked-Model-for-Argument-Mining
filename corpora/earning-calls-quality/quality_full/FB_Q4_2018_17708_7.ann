@@ -1,0 +1,32 @@
+RLKClKKJMg NON-ARG 876 889 Yes, I can...
+Vc9Q7LHUGD NON-ARG 907 943 Take that first one and then I'll...
+Nu95RIII4r NON-ARG 958 1006 Yes, I can start on the macro environment, Eric.
+1B9hvhUcpE NON-ARG 1007 1052 Obviously, we delivered strong results in Q4.
+Sx4SJ9kFk5 CLAIM-Opinion(view) 1053 1252 As we look out into 2019 further, that's - the macro economy is certainly a potential headwind and risk to the business just given the sensitivity of the advertising business to a slowdown in growth.
+vwF6UxUQrc CLAIM-Opinion(view) 1253 1398 Obviously, we believe we've got the best advertising products out there in terms of being able to deliver measurable business results to clients.
+2yuG3T1xlf CLAIM-Reformulated 1399 1598 And so we think that does help us in that environment, but clearly, macroeconomics stands out there as a risk on top of other issues that we face, leading to a deceleration of revenue growth in 2019.
+4ibzM_uezw NON-ARG 1616 1648 I'll talk about Watch and video.
+bDLrhpR7Pv CLAIM-Fact 1910 2100 And the big thing that unlocked a lot of growth in Watch is we basically were able to move a bunch of the video-watching behavior to a different tab, where people intentionally go to the tab
+cEUcwg0Ruo PREMISE-Fact 2101 2171 because they want to watch a video and browse and see what's going on.
+oY-1rc_AyI PREMISE-Fact 2172 2355 And that has allowed us to really increase the amount of video that people are watching without getting in the way of the core mission of what we do, which is helping people interact.
+OuHfAUstn6 PREMISE-Fact 2810 2930 It's a new feature that allows people to basically take a video and stream it live for the first time when it comes out.
+E7EMyay6lr CLAIM-Reformulated 2931 3128 So these are all things that make it so the video-watching experience isn't just about passive consumption but about interaction, and that's going to, I think, help really drive engagement as well.
+eT85X1WLIH PREMISE-Fact 3129 3291 Then there's also the monetization side for creators, which is going to be really important for making it so that we have the content that people want to consume.
+B3pyJjLy-9 CLAIM-Fact 3292 3354 And that's just a big thing that we're continuing to focus on.
+D6Usi0rGvT PREMISE-Other 3355 3459 We think that the more money that creators can make through Watch, there will be a virtuous cycle there.
+ZtjRdlaof9 CLAIM-Reformulated 3460 3536 And that's going to be really important for continuing to grow this as well.
+kPPYWaBmsG NON-ARG 3537 3600 But right now, it looks like this is going in a good direction.
+TPPtaaXzVY NON-ARG 3601 3623 It's still very early.
+7oAkKUk1oR NON-ARG 3624 3739 We're still growing quickly but from a small base, but it's one of the things that I'm excited about for this year.
+tMnnsAqfHI CLAIM-Fact 2356 2662 The two big things that we're really focused on now in Watch are, within the Watch tab, also just making sure that the consumption isn't all just passive consumption and making it so that there are more two-way interactions between viewers and the creators and that we can help build community around that,
+J_rtN2NoRr PREMISE-Fact 2663 2809 where we've built this great feature, Watch Party, that allows people to come together with their friends to watch different content and premiers.
+IXOn-amx-t CLAIM-Fact 1649 1909 So there, we've really had this dynamic over the last 12 to 18 months where we've limited the amount of video that we've shown in order to make sure - in News Feed, to make sure that it doesn't displace interactions, social interactions that people are having.
+R0 SUPPORT ARG1:J_rtN2NoRr ARG2:tMnnsAqfHI
+R1 SUPPORT ARG1:OuHfAUstn6 ARG2:tMnnsAqfHI
+R2 SUPPORT ARG1:eT85X1WLIH ARG2:B3pyJjLy-9
+R3 SUPPORT ARG1:D6Usi0rGvT ARG2:B3pyJjLy-9
+R4 SUPPORT ARG1:cEUcwg0Ruo ARG2:bDLrhpR7Pv
+R5 SUPPORT ARG1:oY-1rc_AyI ARG2:bDLrhpR7Pv
+ArgQ0 tMnnsAqfHI SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 B3pyJjLy-9 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 bDLrhpR7Pv SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

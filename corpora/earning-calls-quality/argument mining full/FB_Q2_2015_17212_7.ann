@@ -1,0 +1,36 @@
+wJem-u-Vka NON-ARG 565 589 I can talk about Oculus.
+vIoDEAdCm7 NON-ARG 590 681 So the reason why Facebook is excited in this space is I can give you two reasons for this.
+q6N-X1hg5o PREMISE-Fact 682 796 One is there's this continued progression of people getting richer and richer ways to share what's on their minds.
+ZO0satoqoo PREMISE-Fact 797 877 So if you go back 10 years, most of how people communicated and shared was text.
+_0qjm3C1P3 PREMISE-Fact 878 948 We are going through a period where now it's mostly visual and photos.
+1UteKzIouu CLAIM-Opinion(view) 949 1069 We are entering into a period where that's going to increasingly be primarily video, and we're seeing huge growth there.
+RXbIfRfOao PREMISE-Fact 1070 1105 But that's not the end of the line.
+gH2RTi5UOx CLAIM-Opinion(view) 1106 1275 I mean, there's always a richer way that people want to share and consume thoughts and ideas and I think that immersive 3D content is the obvious next thing after video.
+Vs7JYU5hkx PREMISE-Fact 1276 1417 So if you look at what the initial use cases are going to be around that, I think it's a lot of the stuff that you hear people talking about.
+n86xcvvDmX CLAIM-Reformulated 1418 1445 Video I think will be huge.
+oMYC_nYkB0 CLAIM-Reformulated 1446 1489 So just taking that to be 3D and immersive.
+cF1bDAxjFX CLAIM-Fact 1490 1510 Gaming will be huge.
+LoZoqpi27c PREMISE-Fact 1511 1573 And those are both areas that Facebook has been involved with.
+N9iwIwJwxG PREMISE-Fact 1574 1899 Once we start to get more of a critical mass, I think you can start to get social applications, which is what we as a company are more interested in over the long term and think have a huge amount of potential in addition to the video and gaming stuff, which I just think is going to be awesome in the next few years as well.
+m7oHyGSV73 CLAIM-Fact 2546 2598 On Instagram, we are opening up to more advertisers.
+dbccB7S0iy PREMISE-Fact 2599 2662 I talked about some of our global rollouts in the past quarter.
+q8U2Pn4VaV PREMISE-Fact 2663 2786 We're also opening up more capabilities, which means more formats, like direct response, more ways to buy, like self-serve.
+lur2_imHah CLAIM-Opinion(view) 2787 2977 That said, and it's important to understand this, while we think there's a lot of interest and great opportunity, we're going to be really thoughtful and strategic about how we ramp revenue.
+oIObwLo6aT PREMISE-Fact 2978 3099 Instagram remains small relative to Facebook and it's going to really take time to have significant impact on our growth.
+FWH6EHn4wu NON-ARG 1917 1927 Hey, Doug.
+rg2NWb6RvW NON-ARG 1928 1938 It's Dave.
+bDvI0i6J3O NON-ARG 1939 2084 So just on the question of how Oculus would affect the cost structure, it's premature for us to be giving guidance on the cost structure in 2016.
+S-AcUOvp62 CLAIM-Opinion(view) 2085 2171 But I think one of the things to recognize here is that we're still early with Oculus.
+TSsou6W0CN CLAIM-Reformulated 2273 2382 But we are still early in the development stage, so it'd be early to be talking about large volume shipments.
+HwbDSHV-Lr CLAIM-Fact 2383 2525 Obviously, we're investing on the research and development side on Oculus in 2015 and that's factored into our expense guidance for this year.
+dU6faHH9kb PREMISE-Fact 2172 2272 We haven't announced any specific plans as it relates to shipment volumes for the consumer for Rift.
+R0 SUPPORT ARG1:q6N-X1hg5o ARG2:1UteKzIouu
+R1 SUPPORT ARG1:_0qjm3C1P3 ARG2:1UteKzIouu
+R2 SUPPORT ARG1:RXbIfRfOao ARG2:gH2RTi5UOx
+R3 SUPPORT ARG1:Vs7JYU5hkx ARG2:gH2RTi5UOx
+R4 SUPPORT ARG1:LoZoqpi27c ARG2:cF1bDAxjFX
+R5 SUPPORT ARG1:N9iwIwJwxG ARG2:cF1bDAxjFX
+R6 SUPPORT ARG1:dbccB7S0iy ARG2:m7oHyGSV73
+R7 SUPPORT ARG1:q8U2Pn4VaV ARG2:lur2_imHah
+R8 SUPPORT ARG1:oIObwLo6aT ARG2:lur2_imHah
+R9 SUPPORT ARG1:dU6faHH9kb ARG2:S-AcUOvp62

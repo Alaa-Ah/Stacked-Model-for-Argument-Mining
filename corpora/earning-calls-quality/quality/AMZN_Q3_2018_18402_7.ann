@@ -1,0 +1,43 @@
+zlyoru58Sk NON-ARG 2861 2925 On the Robotics, I don't have much to say on autonomous driving.
+ht9D8CPIhx CLAIM-Fact 2926 3010 We are putting most of our efforts right now, continue to into our Robotics program.
+cOarQNB3QV CLAIM-Opinion(view) 3011 3075 We think it's been a great addition to our fulfillment capacity.
+aKUf9hI6DJ PREMISE-Fact 3076 3128 It makes the jobs in our warehouse that much better.
+WcWXReAGkB PREMISE-Fact 3129 3193 It makes the people around the robots that much more productive.
+fmNY7GkWhQ PREMISE-Fact 3194 3286 It allows us to have much greater density of product storage and a number of other benefits.
+XG3pKlmwDE PREMISE-Fact 3287 3392 It has some additional capital intensity, but it has good return on invested capital from our standpoint.
+j9jMjaG7R3 CLAIM-Opinion(view) 1617 1692 What I would say is that we feel like we're in great shape for the holiday.
+ozd6AWG1i2 PREMISE-Fact 1693 1723 The warehouses are very clean.
+T2ShKsmNHg CLAIM-Opinion(view) 1724 1818 We feel like we're going to have great capacity not only for retail products but also for FBA.
+6R2mvYdkCs CLAIM-Reformulated 1819 1884 We're going to have great capacity for shipping to our customers.
+Ko5kvujZee CLAIM-Reformulated 1984 2028 So we're very bullish on the fourth quarter.
+FeVzlQaw6Z CLAIM-Fact 1885 1911 So we're very ready to go.
+Ehh3XEy4Ib CLAIM-Fact 1912 1983 Selection should be at its highest point, especially for Prime members.
+A0TGZ7Rlpu NON-ARG 848 853 Sure.
+uyngS5IAUq NON-ARG 854 881 Let me talk about guidance.
+rA_xP_G_q_ CLAIM-Value 882 1019 So our guidance for the fourth quarter implies 10% to 20% growth and includes an 80-basis point unfavorable impact from foreign exchange.
+JbBufB1mr4 NON-ARG 1020 1061 I wouldn't point to any specific country.
+vskSl3fUON PREMISE-Fact 1062 1295 Once you adjust for the fact that Whole Foods, it was purchased in August of last year and that has impacted every quarter since then, Q4 will be the first solid non-Whole Foods comp since before we bought them since Q2 of last year.
+YFwH-i56MP PREMISE-Fact 1296 1400 So if you, even factoring that, and we're looking at Q4 and we have very high error bars on the quarter.
+grcDUlU_Xp PREMISE-Fact 1401 1557 Much of our, not only our revenue for the quarter, but also for the year comes in that very tight window between middle of November and the end of the year.
+I61BmkLiBb CLAIM-Fact 1558 1616 So it's always a very difficult period for us to estimate.
+_48bR-KmBS NON-ARG 2029 2077 And we'll just have to see how revenue comes in.
+-YeUHEW346 NON-ARG 2078 2213 I will say there's one housekeeping item on Prime revenue recognition that you should be aware of and may remember from prior quarters.
+ODsm3ob__M PREMISE-Fact 2214 2321 This year, we took Prime subscription revenue and amortized it over the quarters on a straight line method.
+B0nqltJQ4- PREMISE-Fact 2322 2376 Previously, we had done it on a, is tilted more to Q4.
+r6liYnwJEE PREMISE-Fact 2377 2411 It's based more on shipping units.
+v7Kjk-WPTI PREMISE-Fact 2412 2523 So what you've seen is a push of revenue and income from Q4 into Q1, 2 and 3 that we've mentioned on each call.
+6_kZV8yiT4 NON-ARG 2569 2597 That is to scale it for you.
+rInUqMdXZi CLAIM-Fact 2524 2568 This is the quarter where that will reverse.
+FQFc7RVJO9 PREMISE-Statistic 2598 2712 Under the old methodology we would have had $300 million more of both revenue and operating income in the quarter.
+wUjqZvk70A CLAIM-Fact 2713 2860 That has again been caught up for in prior quarters, but again not a huge factor on the growth rate for revenue, but just another item to consider.
+R0 SUPPORT ARG1:aKUf9hI6DJ ARG2:cOarQNB3QV
+R1 SUPPORT ARG1:WcWXReAGkB ARG2:cOarQNB3QV
+R2 SUPPORT ARG1:fmNY7GkWhQ ARG2:cOarQNB3QV
+R3 SUPPORT ARG1:XG3pKlmwDE ARG2:cOarQNB3QV
+R4 SUPPORT ARG1:ozd6AWG1i2 ARG2:j9jMjaG7R3
+R5 SUPPORT ARG1:vskSl3fUON ARG2:I61BmkLiBb
+R6 SUPPORT ARG1:YFwH-i56MP ARG2:I61BmkLiBb
+R7 SUPPORT ARG1:grcDUlU_Xp ARG2:I61BmkLiBb
+ArgQ0 cOarQNB3QV SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 j9jMjaG7R3 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 I61BmkLiBb SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

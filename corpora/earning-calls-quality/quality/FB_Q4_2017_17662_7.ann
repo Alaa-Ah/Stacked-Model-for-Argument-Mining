@@ -1,0 +1,16 @@
+ArlSVNcMT9 CLAIM-Fact 559 630 On marketplace, we're just going to continue to iterate on the ad test.
+KhVdaypK4F CLAIM-Opinion(view) 631 709 We're pretty encouraged by what we've seen even though it's pretty early days.
+Pp6PZ5gtzh CLAIM-Opinion(view) 710 811 What we're excited about is that our business is helping people connect with things they want to buy.
+IkmefXsOLP CLAIM-Fact 812 904 It's also important to note that commerce is a really important vertical in our ad business.
+_B4AXH2i4a PREMISE-Fact 905 973 So it's not just the commerce is being driven in ads in marketplace.
+DJuRvlrPsa PREMISE-Fact 974 1108 But in a much bigger way, commerce discovering product all the way, through to sales is a big part of what's driving our ads business.
+YrhzeWEsKZ CLAIM-Fact 1109 1172 On Ad Breaks for mid-roll video, early days pretty good result,
+YJn6ZOhGWc PREMISE-Statistic 1173 1290 more than 70% of Ad Break up to 15 seconds in length on Facebook and Audience Network are being viewed to completion.
+wJ8SBuTFFw PREMISE-Fact 1291 1331 Most are being viewed with the sound on.
+3YShTYd_Dd NON-ARG 1332 1367 But again it's very early for this.
+R0 SUPPORT ARG1:YJn6ZOhGWc ARG2:YrhzeWEsKZ
+R1 SUPPORT ARG1:wJ8SBuTFFw ARG2:YrhzeWEsKZ
+R2 SUPPORT ARG1:_B4AXH2i4a ARG2:IkmefXsOLP
+R3 SUPPORT ARG1:DJuRvlrPsa ARG2:IkmefXsOLP
+ArgQ0 YrhzeWEsKZ SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 IkmefXsOLP SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,37 @@
+6_YL6lIqpC NON-ARG 151 155 Yes.
+auL3aJRIeJ NON-ARG 842 858 So this is Phil.
+_6HxRTHI2S NON-ARG 859 885 I'll take the AWS portion.
+IAWcn_0PRp NON-ARG 886 923 So I'll echo what Brian said earlier.
+zWpZNWFUkW PREMISE-Fact 924 1087 This is a young and rapidly growing business, and as you've seen looking backwards, certainly growth rates and margins and capital expenditure timing can be bumpy.
+2RmCFZ4BLK CLAIM-Fact 1088 1140 We're taking a very long-term view on this business.
+Z_UWe43tCC CLAIM-Opinion(view) 1141 1364 We're excited about the potential there, and really the team's focused on just keeping their heads down and continuing to accelerate the pace of innovation to try to continue to grow the functionality gap we think we offer.
+UlQlmI4Os9 CLAIM-Reformulated 1365 1402 So a lot of hard work going on there.
+bMVsgMuNHV CLAIM-Reformulated 1403 1530 But again, we're taking a long-term view on the business and interested in helping customers as much as possible in that space.
+iVno7nApF3 CLAIM-Fact 1531 1670 On the CapEx, again, we're focused on the ability to drive efficiencies across all of Amazon, but we're also certainly investing in growth.
+0YXYGFylpZ PREMISE-Fact 1671 1810 And so, on the AWS side, we've got investment going on around the world, certainly additional servers to support the strong growth we have.
+6ByLOaru9D PREMISE-Fact 1811 1984 And some of the expense for things like data centers or new regions can be a little lumpy, and we've mentioned a couple of new regions we're working on throughout the world.
+BnZb1GZAGg NON-ARG 2032 2080 Mark, on your head count question, you're right.
+V21of25e5x PREMISE-Statistic 2081 2157 Headcount was up 49% year-over-year, which is higher than Q2 – we saw in Q2.
+oPoznyUEV2 PREMISE-Fact 2158 2204 This is going to be primarily in our ops area.
+sNRVMv9h5I PREMISE-Statistic 2205 2323 If you exclude ops-related employees, our head count's growing actually slower than our FX neutral growth rate of 30%.
+hMY6Usqt68 PREMISE-Statistic 2324 2439 So, what's going on in ops is we've added 14 net fulfillment centers this year, bringing the total to 123 globally.
+oVYDNOt-gl PREMISE-Statistic 2440 2513 We've added four sort centers in the U.S., bringing U.S. footprint to 23.
+Wdjt6mVTvK CLAIM-Fact 2514 2610 We're staffing earlier in those locations, we're in good shape for the holidays and ready to go.
+6jLaxEpKdV PREMISE-Fact 2611 2750 The other issue is there, the other reason is that we are also doing a lot of conversion of temp workers to full-time workers purposefully.
+5BWEgIJamH PREMISE-Fact 2751 2799 There is a metric employment of full-time hires.
+ujpX3D2FQz CLAIM-Fact 2800 2849 So it is a little bit higher due to that program.
+LvVGHbXwon NON-ARG 1985 2012 So that's going on as well.
+R0 SUPPORT ARG1:zWpZNWFUkW ARG2:2RmCFZ4BLK
+R1 SUPPORT ARG1:0YXYGFylpZ ARG2:iVno7nApF3
+R2 SUPPORT ARG1:6ByLOaru9D ARG2:iVno7nApF3
+R3 SUPPORT ARG1:V21of25e5x ARG2:Wdjt6mVTvK
+R4 SUPPORT ARG1:oPoznyUEV2 ARG2:Wdjt6mVTvK
+R5 SUPPORT ARG1:sNRVMv9h5I ARG2:Wdjt6mVTvK
+R6 SUPPORT ARG1:hMY6Usqt68 ARG2:Wdjt6mVTvK
+R7 SUPPORT ARG1:oVYDNOt-gl ARG2:Wdjt6mVTvK
+R8 SUPPORT ARG1:6jLaxEpKdV ARG2:ujpX3D2FQz
+R9 SUPPORT ARG1:5BWEgIJamH ARG2:ujpX3D2FQz
+ArgQ0 2RmCFZ4BLK SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 iVno7nApF3 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Wdjt6mVTvK SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 ujpX3D2FQz SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

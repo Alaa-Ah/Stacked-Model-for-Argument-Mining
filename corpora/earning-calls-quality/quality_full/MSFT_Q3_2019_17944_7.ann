@@ -1,0 +1,40 @@
+1Ze7Pblsls NON-ARG 1184 1219 Yes, thanks Keith for the question.
+_jAiLrTVkN NON-ARG 1220 1236 So let me start.
+0ZHmk-EaDv NON-ARG 1595 1646 But we were talking about this even five years ago.
+yx65UP78pW CLAIM-Fact 1647 1763 They also sort of said things that will matter in this transition to the cloud will be consistency and productivity.
+JPIkQfiSqy PREMISE-RealExample 1764 1983 So for example, whether it's developer productivity or IT productivity, it’s not any one dimension, you need to bring IT and developers together to drive agility in an organization and their digital capability building.
+OIlP4y6d3S CLAIM-Fact 1984 2044 This is again, a place where we've had traditional strength.
+Hav5dMbPwp PREMISE-Fact 2087 2246 And also if you look at our cloud stack, we have application and infrastructure, data and AI, productivity and collaboration, as well as business applications.
+hTSTgkgn2L CLAIM-Fact 2247 2274 That's pretty unique again.
+zuUSYMCtc8 CLAIM-Reformulated 2394 2511 But the most importantly, I think you see it in the customer momentum and what I believe is what is customer success.
+eNuRQXPkMN CLAIM-Opinion(view) 1237 1424 I think overall, what we're seeing is continued momentum, if you think about even our overall approach has been to have a view of an architecture that is grounded in our customers’ needs.
+rtAi0Blvb6 PREMISE-Fact 1425 1506 So we always believe that in distributed computing, you need a cloud and an edge.
+tGGQvy8uIx PREMISE-Fact 1507 1594 You need hybrid and guess what, today in 2019, hybrid has become much more main stream.
+KjoD2y2cl2 CLAIM-Fact 2045 2086 And that's showing up in the marketplace.
+HkysAXVqsl CLAIM-Reformulated 2275 2393 So that's, I think, what is showing up at scale as competitive differentiation and that's what you see in our numbers.
+dMbTn9GQC4 CLAIM-Fact 2512 2582 Digital technology today is not about tech companies doing innovation.
+R7gwcyMlpr CLAIM-Reformulated 2583 2703 It is about the rest of the world doing innovation with technology and Microsoft is uniquely in position to enable that.
+sVQ0U0fYDO NON-ARG 2714 2803 And on your operating margin question Keith, there's a couple of things I would say that.
+v5S-F7zPCx NON-ARG 2804 2946 In this quarter in particular, the places where we had a lot of outperformance were especially high margin areas, and I would point out three.
+ZA9AhecAAJ CLAIM-Fact 2947 2994 The first is obviously the OEM and chip supply.
+sdOO2GSQQ7 CLAIM-Fact 2995 3075 The improvement in that in Q3 is obviously very high margin and also the bottom.
+ic7c2p2ziZ PREMISE-RealExample 3076 3135 Japan as a geography for us is a high transactional market.
+ZDTsY9IlsV PREMISE-RealExample 3136 3231 And so when Japan is strong, it tends to be a very high margin landing down to the bottom line.
+2a0TrgEtIc CLAIM-Fact 3821 3911 And finally, focused investment and operating expense and that obviously creates leverage.
+oSU0RJMcIr CLAIM-Opinion(view) 3912 4004 And I think you do see that in general through the year as we continue to keep that formula.
+EmG328G_9t CLAIM-Fact 3232 3363 And the other one is the on-premises server number which is very good in terms of hybrid demand this quarter also with high margin.
+6Wt7k7qZ9W PREMISE-Fact 3364 3501 So when that happens, you do see because it's a lot of -- almost 100% in quarter recognition, a lot of help at the operating margin line.
+z45J6aquma CLAIM-Opinion(view) 3502 3702 Now, the more sustainable conversation I think we continue to have on operating margin is our ability to pick the right secular markets in the right secular trends, you see significant revenue growth.
+uJh9RfHH7Z CLAIM-Fact 3703 3820 We continue to focus on improving the gross margin of each individual product area, which creates leverage over time.
+R0 SUPPORT ARG1:rtAi0Blvb6 ARG2:eNuRQXPkMN
+R1 SUPPORT ARG1:tGGQvy8uIx ARG2:eNuRQXPkMN
+R2 SUPPORT ARG1:JPIkQfiSqy ARG2:yx65UP78pW
+R3 SUPPORT ARG1:Hav5dMbPwp ARG2:hTSTgkgn2L
+R4 SUPPORT ARG1:ic7c2p2ziZ ARG2:sdOO2GSQQ7
+R5 SUPPORT ARG1:ZDTsY9IlsV ARG2:sdOO2GSQQ7
+R6 SUPPORT ARG1:6Wt7k7qZ9W ARG2:EmG328G_9t
+ArgQ0 eNuRQXPkMN SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 yx65UP78pW SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 hTSTgkgn2L SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 sdOO2GSQQ7 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ4 EmG328G_9t SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

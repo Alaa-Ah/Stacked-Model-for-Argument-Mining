@@ -1,0 +1,17 @@
+e1YD-GwErd NON-ARG 636 660 Maybe I'll start, Satya.
+D4VHASTQv7 CLAIM-Fact 661 748 In terms of the Azure growth, most of the Azure growth is really driven by consumption.
+NP0ew4Frbt CLAIM-Fact 1784 2032 The way that -- the only other way that, that Azure number, to think about it, is when we've talked about the Azure Hybrid Benefits that exist, those show up actually in the on-prem number, right, even if they ultimately get used on the Azure side.
+xcTLKbMw8H CLAIM-Reformulated 2033 2116 So there actually is some Azure Benefit revenue ultimately that shows "is on-prem."
+CmQMfXIKMx CLAIM-Fact 749 901 So this is about getting projects started, making those projects successful, making sure customers feel the value and get the value of their investment.
+SiQem25v-4 PREMISE-Fact 902 1091 And increasingly, that's why we've been talking a bit about the form of these contracts changing, larger commitments being made that are -- that land in bookings but not in unearned, right?
+5ESbahyUg9 CLAIM-Fact 1092 1229 So it's a bit different mechanism than you think about having in our standard EA, where it goes to the balance sheet and gets earned off.
+iREWMiTuj1 PREMISE-Fact 1230 1348 These are contracts that unless it is used and deployed and a customer gets value from, it does not land into the P&L.
+usGUsRSVLE PREMISE-Fact 1349 1460 And so the part that looks a little bit more EA-like is the part we've talked about on a per-user basis, right?
+VvTLGPqsFn PREMISE-RealExample 1461 1542 That's something you're going to deploy, whether that's EMS, is the best example.
+8MFjsC6Knt CLAIM-Fact 1543 1678 And so those have the characteristic you talk about, which is that it really comes from the EA and the recognition is more predictable.
+ddVFoVSnMW CLAIM-Fact 1679 1783 But on the IaaS and PaaS layer, that's about our execution each quarter and especially making an impact.
+R0 SUPPORT ARG1:SiQem25v-4 ARG2:5ESbahyUg9
+R1 SUPPORT ARG1:iREWMiTuj1 ARG2:5ESbahyUg9
+R2 SUPPORT ARG1:usGUsRSVLE ARG2:5ESbahyUg9
+R3 SUPPORT ARG1:VvTLGPqsFn ARG2:5ESbahyUg9
+ArgQ0 5ESbahyUg9 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

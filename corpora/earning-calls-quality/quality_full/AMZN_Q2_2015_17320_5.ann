@@ -1,0 +1,26 @@
+8uKmGgYBNj NON-ARG 746 791 Let me start with that second question first.
+5xNN-V1Eba PREMISE-Fact 835 938 The vast majority of that is in operations where we are adding people for our new FCs and call centers.
+Zr64i1UKlj PREMISE-Fact 939 1105 We continue to look for smart, innovative people who want to build on behalf of customers and – but this particular quarter is colored a bit by the operations growth.
+t-2QYZQbvI CLAIM-Value 792 834 Yes, head count was up 38% year-over-year.
+F7MDwgDYIy CLAIM-Opinion(view) 1106 1177 If you look at Prime Day, we're thrilled with the results of Prime Day.
+Qa2iKuogku PREMISE-Fact 1270 1294 Customers save millions.
+2qEYoGNmxO PREMISE-Fact 1295 1360 New Prime members signed up in higher rates than we've ever seen.
+5bb40W47Ko PREMISE-Fact 1361 1410 People bought more devices than on any other day.
+lZpDKyQN19 CLAIM-Reformulated 1411 1436 So, it's a great success.
+30FwioWT36 PREMISE-Statistic 1437 1641 My hats off to operations team and all the people who worked on that because it was Christmas in July quite frankly, a bigger day than Black Friday, as we've said and orders increased 266% year-over-year.
+dOHNrk8yvS NON-ARG 1809 1909 So while not breaking out the impact of Prime Day specifically, it's incorporated into our guidance.
+SKS1zLKEzg CLAIM-Reformulated 1710 1808 so not only was it a great day for Amazon, it was also a great day for our sellers which is great.
+pP7EJSPMpB PREMISE-Statistic 1642 1709 I'll also point out that worldwide FBA unit growth approached 300%,
+vOuQ7xBx9g PREMISE-Fact 1178 1215 It surpassed all of our expectations.
+Pb16ggYafi PREMISE-Fact 1216 1269 Any metric we look at, everything was a huge success.
+R0 SUPPORT ARG1:5xNN-V1Eba ARG2:t-2QYZQbvI
+R1 SUPPORT ARG1:Zr64i1UKlj ARG2:t-2QYZQbvI
+R2 SUPPORT ARG1:vOuQ7xBx9g ARG2:F7MDwgDYIy
+R3 SUPPORT ARG1:Pb16ggYafi ARG2:F7MDwgDYIy
+R4 SUPPORT ARG1:Qa2iKuogku ARG2:F7MDwgDYIy
+R5 SUPPORT ARG1:2qEYoGNmxO ARG2:F7MDwgDYIy
+R6 SUPPORT ARG1:5bb40W47Ko ARG2:F7MDwgDYIy
+R7 SUPPORT ARG1:30FwioWT36 ARG2:F7MDwgDYIy
+R8 SUPPORT ARG1:pP7EJSPMpB ARG2:F7MDwgDYIy
+ArgQ0 t-2QYZQbvI SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 F7MDwgDYIy SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_2

@@ -1,0 +1,31 @@
+9DStqOZjim CLAIM-Opinion(view) 792 876 I think our approach to increasing monetization around the world is really the same.
+IZl7GElpx0 CLAIM-Fact 877 992 We need to build really compelling ad products with great formats that let marketers be creative and be convincing.
+9ztTbtaFuY NON-ARG 993 1058 I’ll share an example of something we did for an emerging market.
+XcDePQ1jyd PREMISE-Fact 1059 1247 I’ve mentioned briefly in my remarks, Slideshow, the Slideshow product is -- enables a video like experience which phone with lower connection speeds and feature phone by series of photos.
+k2RHul4ngK PREMISE-RealExample 1248 1293 So, Coca-Cola used that in Kenya and Nigeria.
+kbWw2K90nZ PREMISE-Statistic 1294 1469 They took screenshots of a video ad they have produced for other markets, they uploaded them with text; and they reached 2 million people with a 10-point lift in ad awareness.
+flrJjiuCwt CLAIM-Fact 1470 1750 So, the way we need to drive sales around the world is by understanding markets, launching things like click to missed call ads in India and making sure our products work for market but also being able to connect to those advertising metrics and business metrics around the world.
+yITr0KHq0O CLAIM-Fact 1751 1891 Video ads are important on our platform and the most important thing that’s growing well there is consumer engagement with video is growing.
+nsPUgO4S9v PREMISE-Statistic 1892 1940 We have 500 million people watching video a day.
+V7o8Mydx-e CLAIM-Fact 1941 2086 And the fact that so much video is being consumed on our platform gives us room for an ads business to grow because we want the formats to match.
+2_oMnJWvPR PREMISE-Fact 2087 2209 Marketers also really love video and it’s a really compelling way to reach people and video is contributing to our growth.
+qvobrpa_JL CLAIM-Fact 2210 2328 It’s important to note that it’s not just large brand advertisers that are doing video but all of our market segments.
+vlmvFIrEZf PREMISE-Statistic 2329 2453 Direct response, SMBs who have uploaded 1.5 million videos and have both organic and paid in the last month, and developers.
+_X7LFHvCwM CLAIM-Fact 2454 2620 The video ad spend is not all incremental of course because every time we put an ad in newsfeed, if it’s a video ad, it’s taking a place of an ad with another format.
+FltNDY7ooQ CLAIM-Fact 2621 2736 In terms of learnings, one of the most important learnings we have is that video formats are different on Facebook.
+JskpFKQR53 PREMISE-Fact 2737 2937 There’re certainly people that are watching the whole 30-second video ad with sound, but there are some people that are doing at less, they’re watching shorter formats and they’re watching with sound.
+OvZUk0yFuO NON-ARG 2938 3092 And one of the challenges we have in the market is convincing marketers and agencies and people that make the video to expand them with different formats.
+nBA-8_7Qu_ NON-ARG 3093 3265 The good news is that we’re getting great results like the Halo 5 example I shared in my remarks that when people are willing to experiment, this is a pretty unique canvas.
+jGTKa60-0E NON-ARG 3266 3367 You can do short form with sound off, you can be longer firm with sound on and everything in between.
+rEYZ_RObXI NON-ARG 3368 3477 And our ability to persuade marketers to experiment is going to be a major driver of how much we can do here.
+R0 SUPPORT ARG1:XcDePQ1jyd ARG2:flrJjiuCwt
+R1 SUPPORT ARG1:k2RHul4ngK ARG2:flrJjiuCwt
+R2 SUPPORT ARG1:kbWw2K90nZ ARG2:flrJjiuCwt
+R3 SUPPORT ARG1:nsPUgO4S9v ARG2:yITr0KHq0O
+R4 SUPPORT ARG1:2_oMnJWvPR ARG2:V7o8Mydx-e
+R5 SUPPORT ARG1:vlmvFIrEZf ARG2:V7o8Mydx-e
+R6 SUPPORT ARG1:JskpFKQR53 ARG2:FltNDY7ooQ
+ArgQ0 flrJjiuCwt SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 yITr0KHq0O SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 V7o8Mydx-e SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 FltNDY7ooQ SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,19 @@
+C99ufRsUN1 CLAIM-Opinion(view) 678 788 When you think about the way people have the choice to restrict data use, I think it would affect the product.
+HOXK3p0Aha PREMISE-Fact 789 850 There is lots of ways we use data to make the product better.
+5qvGwMIes4 PREMISE-Fact 851 888 It really depends what that would be.
+qvTtAuSmrb NON-ARG 889 979 I don't think we have full visibility into what those changes would be over the long time.
+xGwzP8fIeM PREMISE-Fact 1137 1393 The way we think about it, and Dave said this, is that the amount of uncertainty there is for us and all the other companies in the digital advertising industry is reasonably higher than it's been right now because we're in the process of rolling out GDPR.
+HKKY6qLXa9 PREMISE-Fact 1394 1549 We're going to all know a lot more after we roll out, but the thing that won't change is that advertisers are going to look at the highest ROI opportunity.
+azvz_a2F0Y PREMISE-Fact 1550 1635 And what's most important in winning budgets is relative performance in the industry.
+IFi7_iClpv CLAIM-Opinion(view) 1636 1901 And so we think that certainly we want to provide the best advertising, we certainly want to provide the best measurement, but our ability to do so as long as things happen across the industry, which is what's happening, I think we remain in a very strong position.
+ZhqLtE3bYt CLAIM-Opinion(view) 980 1093 In terms of measurement capabilities, I don't think there's a direct thing we're exactly worried about right now.
+e9Ox6DSx_V PREMISE-Fact 1094 1136 It's more what happens over the long time.
+R0 SUPPORT ARG1:HOXK3p0Aha ARG2:C99ufRsUN1
+R1 SUPPORT ARG1:5qvGwMIes4 ARG2:C99ufRsUN1
+R2 SUPPORT ARG1:HKKY6qLXa9 ARG2:IFi7_iClpv
+R3 SUPPORT ARG1:azvz_a2F0Y ARG2:IFi7_iClpv
+R4 SUPPORT ARG1:e9Ox6DSx_V ARG2:ZhqLtE3bYt
+R5 SUPPORT ARG1:xGwzP8fIeM ARG2:ZhqLtE3bYt
+ArgQ0 C99ufRsUN1 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 IFi7_iClpv SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 ZhqLtE3bYt SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

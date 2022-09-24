@@ -1,0 +1,19 @@
+2AW0Lbv4VV NON-ARG 542 566 Thanks for the question.
+fZfj0Hyv_6 CLAIM-Fact 1202 1283 What's nice is that the same targeting, the same measurement systems really work.
+8hkTmmhQ5p PREMISE-Fact 1284 1561 Because we are looking to show relevant ads to the right person at the right time, the systems we have that understand in a privacy-protected way what ads people are likely to be more interested in, those work, whether you're in Stories or Watch or Instagram Feed or News Feed.
+iTGxSSjqFN PREMISE-Fact 1562 1748 And the other thing is that our systems for measuring the effectiveness of ads, which help advertisers get all the way through to their ROI, which help them bid in our system, also work.
+oSZiuNs5Fd CLAIM-Reformulated 1749 1898 And so we take the advertiser base, we take the systems we have for targeting and measuring ads, and then we help advertisers move to the new format.
+B6So5-r6ll CLAIM-Reformulated 1899 1939 And I think that's the process we're on.
+nZAgOiHiJb CLAIM-Opinion(view) 567 700 We have a very large and growing advertiser base, and that gives us we think a really strong position to get people into new formats.
+-kqwGEXsoo NON-ARG 701 752 When you do that, a couple of things really matter.
+PuSvTUUqZo PREMISE-Fact 753 843 One is that the format of an ad really has to match the format of the consumer experience.
+SpWqPAzBsk PREMISE-Fact 844 1007 So the right ad in News Feed is different than the right ad in an Instagram or a Facebook story is different than the right ad in Watch, which would be video-only.
+EEqn2KTV4R PREMISE-Fact 1008 1089 And so making these new formats of ads is actually hard for people and expensive.
+_ScgOujELy CLAIM-Fact 1090 1201 And so we're working hard on tools to make the formats easier, and I talked about one of those examples before.
+R0 SUPPORT ARG1:8hkTmmhQ5p ARG2:fZfj0Hyv_6
+R1 SUPPORT ARG1:iTGxSSjqFN ARG2:fZfj0Hyv_6
+R2 SUPPORT ARG1:PuSvTUUqZo ARG2:_ScgOujELy
+R3 SUPPORT ARG1:SpWqPAzBsk ARG2:_ScgOujELy
+R4 SUPPORT ARG1:EEqn2KTV4R ARG2:_ScgOujELy
+ArgQ0 fZfj0Hyv_6 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 _ScgOujELy SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

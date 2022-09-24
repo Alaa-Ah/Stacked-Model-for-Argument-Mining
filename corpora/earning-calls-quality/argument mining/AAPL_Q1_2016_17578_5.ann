@@ -1,0 +1,36 @@
+Xu1srCfxTJ NON-ARG 1961 2080 And so it's really all of those factors that play in there and it's difficult to sort out how much is due to which one.
+EOroj8Njkr NON-ARG 1299 1366 We aren't projecting beyond the quarter, as Luca mentioned earlier.
+cr7bP05OBM CLAIM-Opinion(view) 1367 1433 But at this point in time, we see that Q2 is the toughest compare.
+415RNgnkkq PREMISE-Fact 1536 1654 If you recall, we were heavily supply constrained throughout the whole of Q1 and so some of that demand moved into Q2.
+DquuOpXeAd PREMISE-Fact 1655 1960 Plus we're in an environment now that is dramatically different from a macroeconomic point of view than last Q2, from a currency point of view, from the level of which we've had to adjust pricing in several of these markets, and sort pf the overall [Indiscernible] in virtually every country in the world.
+9892XKh7xL CLAIM-Reformulated 1434 1470 We believe it's the toughest compare
+tSmaljjX8b PREMISE-Fact 1471 1535 because of the year ago quarter also had catch up in it from Q1.
+oYVQMf4KNi PREMISE-RealExample 2693 2818 For example, almost half of the iPhones that we sold in China last quarter were to people who were buying their first iPhone.
+FLBW3ifxUV CLAIM-Opinion(view) 2819 3175 And certainly if you go outside of China into the other emerging markets, our share is much lower and the LTE penetration is so low, I mean in some cases, it's zero, that it indicates to me that there's still a lot of people, a tremendous number of people in the world, that will buy smartphones and we ought to be able to win over our fair share of those.
+RSu5d9boEl NON-ARG 2539 2692 And so as I look at sort of your -- maybe your broader umbrella point about a question on saturation, the metrics I see would strongly suggest otherwise.
+qPYKTKqpme NON-ARG 2314 2376 The market itself, we don't spend a lot of time on predicting.
+aljNWoVujx NON-ARG 2377 2538 Our view has always been that if we do -- if we make a great product and have a great experience that we ought to be able to convince enough people to move over.
+_K8S1JBqmO NON-ARG 4915 4987 And to reconfirm the growth of the installed base, yes, it was over 25%.
+vw_Vc6GPeR CLAIM-Opinion(view) 4861 4914 So, we are growing at very, very healthy levels okay.
+vJTVUAAHLI PREMISE-Statistic 4719 4860 when you look at it from a purchase value standpoint, actually in the December quarter, we grew 24%, and for the fiscal 2015, we grew at 23%.
+rwtIqXowzd NON-ARG 3767 3819 So, -- maybe I'm going to start with services, Toni.
+yqhnRHaByc NON-ARG 3820 3951 The reason why we added this -- I think it's page three of our supplemental material, is to try and explain that a couple of steps.
+PTHEfF-w4l CLAIM-Value 3952 4112 The first one is that of the services that we report, there's a portion, about 85% of all of the services that we report is directly tied to the installed base.
+ZXEsB3bv5O CLAIM-Reformulated 4113 4245 There is a smaller portion of our services business that is not related to installed base and more related to when we sell a device.
+sfeR7yAFMO PREMISE-RealExample 4246 4353 A perfect example would be an Apple Care agreement that you purchase at the time of the sale of the device.
+NurQW8Nc1l PREMISE-RealExample 4548 4714 And then there are transactions, like for example, App Store sales, where a portion of the transaction does not get recognized by Apple, but it goes to the developer.
+dOIOIsliW5 PREMISE-RealExample 4354 4547 And then we are showing that on that portion of installed base driven services business, there is a part that is related to -- where we recognize revenue in terms of the full transaction value.
+h3h0jiw6Fc CLAIM-Value 4988 5134 To the question around the channel inventory for iPhone, we grew channel inventory by 3.3 million units during the course of the December quarter.
+QeM6XQdZpU CLAIM-Fact 5135 5214 Keep in mind; we started in acquisition where we were below our targeted range.
+-ypir94jRa CLAIM-Fact 5215 5275 We were significantly short at the beginning of the quarter.
+ciXvVDusgs NON-ARG 1154 1219  Toni, we do think that iPhone units will decline in the quarter.
+GBBPpkdvcL NON-ARG 1220 1298 We don't think that they will decline to the levels that you're talking about.
+NnQoDVTsXi NON-ARG 4714 4719  So, 
+R0 SUPPORT ARG1:415RNgnkkq ARG2:cr7bP05OBM
+R1 SUPPORT ARG1:DquuOpXeAd ARG2:cr7bP05OBM
+R2 SUPPORT ARG1:oYVQMf4KNi ARG2:FLBW3ifxUV
+R3 SUPPORT ARG1:vJTVUAAHLI ARG2:vw_Vc6GPeR
+R4 SUPPORT ARG1:sfeR7yAFMO ARG2:PTHEfF-w4l
+R5 SUPPORT ARG1:NurQW8Nc1l ARG2:PTHEfF-w4l
+R6 SUPPORT ARG1:dOIOIsliW5 ARG2:PTHEfF-w4l
+R7 SUPPORT ARG1:tSmaljjX8b ARG2:cr7bP05OBM

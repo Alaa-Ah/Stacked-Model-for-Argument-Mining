@@ -1,0 +1,17 @@
+_4e6rh2mvn NON-ARG 804 809 Sure.
+l_yDKM-FFY CLAIM-Opinion(view) 810 945 First, I’d say we are in gaming because of what we believe are going to be the secular changes in the gaming addressable market for us.
+2wDsza71H7 PREMISE-RealExample 1154 1347 And we now have a business model with Game Pass as well as all the supporting mechanisms for Game Pass like game streaming, we’ve a social network in Xbox Live that is the best in the business.
+V8JPAQzUhk CLAIM-Opinion(view) 1348 1524 So I feel we are well positioned to what is going to be a much larger market than what was traditionally gaming, in spite of all the success we’ve had over the years in gaming.
+IRlk0M4wuc PREMISE-Other 946 1153 We’ve always had a gaming position with console as well as the PC, but going forward, we think that any endpoint can in fact be a great endpoint for high-end games, which is where our structural position is.
+iHzsb3wuAH CLAIM-Fact 1525 1600 Now the second point is that it builds on the rest of the cloud investment.
+Gvr5PjWlu0 CLAIM-Fact 1977 2131 So, you will see significant synergies in terms of the architectural platform underneath gaming, Microsoft 365, Dynamics 365, LinkedIn all being the same.
+0T065gCH-x PREMISE-RealExample 1693 1976 So when we think about capital allocation, what’s happening in the Cloud, what’s happening in the Edge, how we build the network to optimize for streaming the same infrastructure, for example, is what Sony has decided to use as well, and be on Azure as well as use our AI capability.
+HQ3TqxGmvx NON-ARG 2205 2218 Thanks, Mark.
+4CiDKfIX6U NON-ARG 2219 2268 Operator, we will take the next question, please.
+DdJqH9niVr CLAIM-Fact 1601 1692 So, if you think about what we are doing with xCloud, it's a hero workload on top of Azure.
+R0 SUPPORT ARG1:2wDsza71H7 ARG2:V8JPAQzUhk
+R1 SUPPORT ARG1:IRlk0M4wuc ARG2:l_yDKM-FFY
+R2 SUPPORT ARG1:0T065gCH-x ARG2:Gvr5PjWlu0
+ArgQ0 V8JPAQzUhk SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 l_yDKM-FFY SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Gvr5PjWlu0 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

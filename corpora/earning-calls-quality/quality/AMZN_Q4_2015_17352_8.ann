@@ -1,0 +1,13 @@
+qsN_ON_9Og NON-ARG 752 755 No.
+NjJ1a2ZSOQ PREMISE-Fact 927 996 But our fulfillment costs per unit actually decreased year-over-year.
+5tCtudcjx6 CLAIM-Fact 997 1125 It just we are now shipping more and more of our, other demand out of our warehouses, because of the strength in retail and FBA.
+HWeSqwOZKG PREMISE-Statistic 1126 1365 On gross margin, I would - first I'll caution you and say, we would encourage you to look at free cash flow, which was – grew at minimum of $4 billion on each of the metrics that we point out and our profit which was up 88% year-over-year.
+eCmLrKGPst PREMISE-Statistic 1366 1551 If you look sequentially, also keep in mind that in Q3 when it was up 500 basis points year-over-year, that was lapping the write-down of our Amazon phone [ph] inventory the prior year.
+LALsZ5SqZy CLAIM-Opinion(view) 1604 1750 But generally, again, we're happy with the ability to service customers, the reaction of customers in Q4, and the bottom line results that we had.
+Xmky0yp7fw NON-ARG 1552 1603 So there is a little bit of noise in the Q3 number.
+2jTLyolEY0 NON-ARG 756 926 And again, keep in mind that the fulfillment as a percent of revenue is impacted by the calculation of FBA revenue being a net number as opposed to a full revenue number.
+R0 SUPPORT ARG1:eCmLrKGPst ARG2:LALsZ5SqZy
+R1 SUPPORT ARG1:HWeSqwOZKG ARG2:LALsZ5SqZy
+R2 SUPPORT ARG1:NjJ1a2ZSOQ ARG2:5tCtudcjx6
+ArgQ0 LALsZ5SqZy SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 5tCtudcjx6 SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

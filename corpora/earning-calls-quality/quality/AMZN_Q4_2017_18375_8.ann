@@ -1,0 +1,39 @@
+DN9wo3bvQ- NON-ARG 734 739 Sure.
+008i4F5h0e NON-ARG 740 783 Let me start with the Whole Foods question.
+AnqVw_lhj4 CLAIM-Opinion(view) 784 911 We're continuing to be very excited about the opportunities we have to innovate with the Whole Foods and Amazon teams together.
+_-AKlhA5wf PREMISE-Statistic 912 1164 In our physical stores, it feels there are supplemental disclosure that physical stores revenue was $4.5 billion in Q4, which is primarily comprised of Whole Foods and was slightly better than what was built into our guidance that I gave you last call.
+Sh8M5-otpc PREMISE-Fact 1165 1313 So, so far, our focus has been on continuing to lower prices even beyond the initial ones that we discussed at the close of the deal in late August.
+8KwSOUsb_l PREMISE-Fact 1314 1523 We've launched Whole Foods products on our Amazon website, and we're -- the technical work continues to make Prime the Whole Foods customer rewards program and we expect to have more on that later in the year.
+7K2qEpG8Mv PREMISE-Fact 1524 1572 We've also added Lockers, and much more to come.
+b0wXZNwxG_ CLAIM-Reformulated 1573 1664 So we're very happy with the initial results out of the team in Whole Foods down in Austin.
+rnqREuxDPf PREMISE-Fact 1665 1765 Also, I will mention that we did see a small operating income loss for the quarter from Whole Foods.
+d-rXlNQHvh PREMISE-Fact 1766 1877 At the time of the acquisition, we had stepped up the fair market value of certain assets on the balance sheet.
+BRyOYnmdtC CLAIM-Fact 1878 1921 This is going to increase the amortization.
+SQbYr7NFdW CLAIM-Reformulated 1922 2130 It's a noncash charge, but it will increase the amortization over the useful life, and a lot of that is forward frontloaded, so we'll see higher amortization in the first few years, and then it reverse later.
+iQWDosOjWl NON-ARG 2131 2328 So excluding this noncash expense items, Whole Foods had a positive operating income in Q4, but you'll see in the 10-K that the operating income, including the charges, was slightly negative in Q4.
+MszlAiWr3p PREMISE-Fact 2329 2445 International growth, your comment about slowing down, I think there's a slowdown versus Q3, if that was your point.
+fTDLHLxYFv PREMISE-Statistic 2446 2578 28% growth in Q3, FX neutral, was helped quite a bit by Prime Day and kind of the strengthening of Prime Day in a number of locales.
+YRNG8G_Jpd NON-ARG 3613 3660 So that's a little bit on international growth.
+oGoQQpHmrm PREMISE-Statistic 3323 3612 So the selection is also increasing Prime eligible selection is up over 25 million items, launching Video there and also continuing to add other Prime benefits such as Prime Music will be coming soon, Amazon Family is there, as I said, Prime Video, and we had our first Prime Day in India.
+eysZk2pLKT PREMISE-Fact 3171 3322 In fact, more Prime members joined India's Prime program in the first year than we've seen in any other country in the history of the world, our world.
+08kHU4brpm CLAIM-Fact 3062 3114 In India, India continues to be a good story for us.
+1P3-pUnc_I CLAIM-Reformulated 3115 3170 We feel that it's had a lot of growth in the past year.
+GC9zO7_QGY CLAIM-Policy 2777 3061 So we're -- continue to be pursuing the same strategy as we have in North America, adding Prime benefits, adding devices, adding video content, adding AmazonFresh, Prime Now, giving a lot of value to the Prime customers in the international countries as well and also in that numbers.
+LntzISRGZx PREMISE-Fact 2579 2694 Although we've had Prime Day in most of those countries, it's really starting to gain more and more traction there.
+JoOdkOh_1G PREMISE-Fact 2695 2776 So that is probably more of a help to Q3 than a discussion of any weakness in Q4.
+R0 SUPPORT ARG1:_-AKlhA5wf ARG2:AnqVw_lhj4
+R1 SUPPORT ARG1:Sh8M5-otpc ARG2:AnqVw_lhj4
+R2 SUPPORT ARG1:8KwSOUsb_l ARG2:AnqVw_lhj4
+R3 SUPPORT ARG1:7K2qEpG8Mv ARG2:AnqVw_lhj4
+R4 SUPPORT ARG1:rnqREuxDPf ARG2:BRyOYnmdtC
+R5 SUPPORT ARG1:d-rXlNQHvh ARG2:BRyOYnmdtC
+R6 SUPPORT ARG1:MszlAiWr3p ARG2:GC9zO7_QGY
+R7 SUPPORT ARG1:fTDLHLxYFv ARG2:GC9zO7_QGY
+R8 SUPPORT ARG1:LntzISRGZx ARG2:GC9zO7_QGY
+R9 SUPPORT ARG1:JoOdkOh_1G ARG2:GC9zO7_QGY
+R10 SUPPORT ARG1:eysZk2pLKT ARG2:08kHU4brpm
+R11 SUPPORT ARG1:oGoQQpHmrm ARG2:08kHU4brpm
+ArgQ0 AnqVw_lhj4 SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ1 BRyOYnmdtC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 GC9zO7_QGY SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ3 08kHU4brpm SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

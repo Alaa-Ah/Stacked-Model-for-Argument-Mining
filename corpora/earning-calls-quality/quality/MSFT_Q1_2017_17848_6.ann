@@ -1,0 +1,22 @@
+9eOspkli1q PREMISE-Fact 969 1152 So these are capabilities that are not easy to build if you don't have a real commitment to research and then the ability to take that research and then ultimately turn into products.
+L_NPAYcmia PREMISE-Fact 1153 1254 So the way to measure from the investment side is to see AI when it is infused into everything we do.
+Vn1IrX-M0e PREMISE-RealExample 1255 1436 Take Hololens, the ability of Hololens to be able to see the world, reconstructed and in that world to be able to superimpose holograms, that is AI applied AI that is working today.
+-WEGM5cr_q PREMISE-RealExample 1437 1736 When you have Skype translate when two people are talking two different languages and are able to automatically translate without between languages, it's using a deep neural net pens bring together speech synthesis, speech recognition and machine translation with Skype data, that is fairly magical.
+qovjlSGXVj PREMISE-Fact 1737 1866 When you seeing capable of running flow to create intelligence, that is what we are using impact from our speech and vision work.
+y2J-SCdQ4D PREMISE-Fact 1867 1895 That is AI as applied today.
+11mYJpPcyY PREMISE-Hypothesis 1896 2024 So I am not waiting for some future date to see ROI from AI, we're very much going forward even the office tools example I used.
+-nDINeGw8C PREMISE-Fact 2025 2052 They're all using AI today.
+2NbRo69CR- PREMISE-RealExample 2053 2175 The PowerPoint designer if you want the most practical use of it, even identify great PowerPoint slides now because of AI.
+yFGfz3mx9t CLAIM-Reformulated 2176 2214 And so, that's how I measure progress.
+0Xl9bSkzXX PREMISE-Fact 2215 2406 We are committed to long-term research, but we're also very focused on having the long term research translated into everyday use products, and that's what you will see from us going forward.
+IE-irbQYSl CLAIM-Opinion(view) 638 968 Overall, I am thrilled about both the AI group that we have formed, the AI research and the heritage we have with them even this week I think we publicly are talking about setting the state-of-the-art when it comes to something like speech recognition and something that we did even with image net an image recognition and object.
+R0 SUPPORT ARG1:9eOspkli1q ARG2:IE-irbQYSl
+R1 SUPPORT ARG1:Vn1IrX-M0e ARG2:IE-irbQYSl
+R2 SUPPORT ARG1:-WEGM5cr_q ARG2:IE-irbQYSl
+R3 SUPPORT ARG1:qovjlSGXVj ARG2:IE-irbQYSl
+R4 SUPPORT ARG1:y2J-SCdQ4D ARG2:IE-irbQYSl
+R5 SUPPORT ARG1:11mYJpPcyY ARG2:IE-irbQYSl
+R6 SUPPORT ARG1:-nDINeGw8C ARG2:IE-irbQYSl
+R7 SUPPORT ARG1:2NbRo69CR- ARG2:IE-irbQYSl
+R8 SUPPORT ARG1:0Xl9bSkzXX ARG2:IE-irbQYSl
+ArgQ0 IE-irbQYSl SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

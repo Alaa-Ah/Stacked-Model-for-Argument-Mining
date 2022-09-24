@@ -1,0 +1,23 @@
+XipuniwGMI NON-ARG 361 372 Yeah, sure.
+qJhsAUaDjv NON-ARG 373 380 Thanks.
+8zfDoi_aKV NON-ARG 381 481 Actually, I just returned from India where I spent a week with our teams in Bangalore and Hyderabad.
+ugwaaxyAfb PREMISE-Fact 482 534 We're breaking ground on a new 10-acre campus there.
+eX1jm9c74y CLAIM-Fact 535 610 So we are solidifying and increasing our investment in India on all fronts.
+e3r4HBrTKl NON-ARG 611 795 I had a chance to see firsthand the level of invention going on with both customers and sellers, making deliveries to customers, seeing the I Have Space program we have with merchants.
+AZ_t1tqs4n CLAIM-Fact 796 874 It's a very exciting time in India and again, the invention is off the charts.
+hr1v0sdkuJ PREMISE-Fact 875 988 We are inventing things in India that do not exist in other parts of the country – excuse me, parts of the world.
+7zc80vY-a5 PREMISE-Fact 989 1027 And the team there is one of our best.
+v3OxA0t8PE CLAIM-Fact 1028 1086 You can see it in some of the external commentary as well.
+ETUPMHVeZj PREMISE-Fact 1087 1195 For the second year in a row customers selected Amazon India as Amazon's most trusted online shopping brand.
+DAyio3xBH4 PREMISE-Fact 1196 1329 During the quarter, we rolled out a feature called Tatkal which is a studio on wheels that we go to the sellers to help them sign up.
+5h3R2n22di PREMISE-Fact 1330 1411 We let them do registration, imaging, catalog, uploads and basic seller training.
+87qk86GEFB PREMISE-Fact 1412 1482 So we're taking it to the sellers, taking the business to the sellers.
+S2MbLkmvnU PREMISE-Fact 1483 1646 We've already reached sellers in 25 cities and we're really helping them expand their business not only within their home region, but throughout the whole country.
+R0 SUPPORT ARG1:ugwaaxyAfb ARG2:eX1jm9c74y
+R1 SUPPORT ARG1:hr1v0sdkuJ ARG2:AZ_t1tqs4n
+R2 SUPPORT ARG1:7zc80vY-a5 ARG2:AZ_t1tqs4n
+R3 SUPPORT ARG1:ETUPMHVeZj ARG2:v3OxA0t8PE
+R4 SUPPORT ARG1:DAyio3xBH4 ARG2:v3OxA0t8PE
+R5 SUPPORT ARG1:5h3R2n22di ARG2:v3OxA0t8PE
+R6 SUPPORT ARG1:87qk86GEFB ARG2:v3OxA0t8PE
+R7 SUPPORT ARG1:S2MbLkmvnU ARG2:v3OxA0t8PE

@@ -1,0 +1,35 @@
+dxUU2XZyyI CLAIM-Fact 1020 1083 And a lot of this happens within the current News Feed product.
+_c5t4EQa2T PREMISE-Fact 1084 1103 People post videos.
+im5X9Otibk PREMISE-Fact 1104 1137 People consume News Feed stories.
+A8RBQOIE81 CLAIM-Fact 1880 2064 An ad that works really well 30 seconds in other platforms and more traditional platforms can work on ours, but the ones that are optimized and use our targeting really perform better.
+sEFJ6OxQ0m NON-ARG 3075 3166 And Eric, you were asking about content and where that's going to get picked up in the P&L.
+3V8-BnZb4J NON-ARG 3167 3205 There's no real simple answer in that.
+Li10IDEn_t CLAIM-Fact 2065 2127 And we're working hard with advertisers to help them see that.
+RnxGzupHTe PREMISE-RealExample 2128 2334 So to share one example, Motorola working with Ogilvy and Moto Mento (28:55) launched the Moto Z phone, and they did awareness boosting before they launched, targeting Android users and Verizon subscribers.
+59hHti8RNI PREMISE-RealExample 2335 2410 And they optimized their video for the Facebook and Instagram mobile feeds.
+RqyQZsoHm0 PREMISE-RealExample 2411 2521 And then after they launched, they did purchasing ads and re-targeted people who had viewed those initial ads.
+tmWUj3efWS PREMISE-RealExample 2522 2670 That's just a great example of someone using video ads, optimizing a format, but also using the pretty unique targeting we can offer to drive sales.
+wBe2R9U8kC PREMISE-Statistic 2671 2772 They measured that they had over a 3.5% lift in sales driven by the Facebook and Instagram video ads.
+YDUIDm_QDc CLAIM-Opinion(view) 2773 3057 And so we're pretty excited about the opportunity we have in our current business, and we're going to work client by client to get the video format of those ads right, get the targeting to be as good and as deep as it can be and make sure we're measuring all the way through to sales.
+0OpoemtkCZ CLAIM-Fact 1754 1879 One of the things that's really important in this is helping marketers understand that they need to optimize those video ads.
+CkxH32t3S2 CLAIM-Fact 843 1019 On the video ad opportunity, we're seeing consumer video exploding on our platform, as Mark has talked about, and that really creates the opportunity for video ads in the feed.
+dF9FLsUILd PREMISE-Fact 1138 1235 Those stories include video stories from consumers, and then we have an opportunity to serve ads.
+SSRCzobfLU CLAIM-Reformulated 1236 1397 As consumer video has grown in News Feed, it's given us that opportunity for video ads because the format of the ads fits the format of what consumers are doing.
+czEKbERVTI CLAIM-Fact 1398 1502 And we're seeing a lot of great examples of people using ads in the feed across Instagram and News Feed.
+BIHvkrbHeb CLAIM-Fact 1503 1753 In terms of monetizing some of our newer attempts at products in News Feed such as Ad Break, those are really in early experimental stages, and for now, we're really focused primarily on our core business, our core ad products, of which video is one.
+EPVEcaBul5 CLAIM-Fact 3206 3329 I would say in general where we're going to be, rev sharing with creators, that's going to be picked up in cost of revenue.
+A_fkHXN2zq NON-ARG 3330 3369 So that's probably the simplest answer.
+qB-XeRDNyR PREMISE-Fact 3370 3587 But as we do arrangements to get the ecosystem going, some of that could get picked up in sales and marketing, and then we have content as well that's getting picked up in R&D for the efforts we're making with Oculus.
+D4e0JWyG0e CLAIM-Fact 3588 3744 So you're seeing some of those get spread across several different lines in the P&L, so it's not going to be a clean one spot where you're going to find it.
+R0 SUPPORT ARG1:_c5t4EQa2T ARG2:dxUU2XZyyI
+R1 SUPPORT ARG1:im5X9Otibk ARG2:dxUU2XZyyI
+R2 SUPPORT ARG1:59hHti8RNI ARG2:A8RBQOIE81
+R3 SUPPORT ARG1:RqyQZsoHm0 ARG2:A8RBQOIE81
+R4 SUPPORT ARG1:tmWUj3efWS ARG2:A8RBQOIE81
+R5 SUPPORT ARG1:wBe2R9U8kC ARG2:A8RBQOIE81
+R6 SUPPORT ARG1:RnxGzupHTe ARG2:A8RBQOIE81
+R7 SUPPORT ARG1:dF9FLsUILd ARG2:dxUU2XZyyI
+R8 SUPPORT ARG1:qB-XeRDNyR ARG2:D4e0JWyG0e
+ArgQ0 dxUU2XZyyI SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 A8RBQOIE81 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 D4e0JWyG0e SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

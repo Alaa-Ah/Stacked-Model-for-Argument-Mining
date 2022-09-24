@@ -1,0 +1,20 @@
+vkUSHjNHDd NON-ARG 559 564 Sure.
+kELbUP_s5i NON-ARG 565 702 So I don't have a forecast for you on content costs in isolation or really forward looks on anything besides the guidance I've given you.
+0ij5roUDnq NON-ARG 703 773 But, yes, it hits in the gross margin, content costs do show up there.
+2iginsf9gd PREMISE-Statistic 774 1106 I think the bigger issues that you should look at in gross margin, and again starting with the comment that we expanded by 300 basis points year-over-year, that is really driven by, first of all, the AWS growth and again, $10 billion business growing 64% is very – we're very pleased with that and that affects gross margin as well.
+bZOSqmNHEf CLAIM-Fact 1107 1171 The other bigger element though is the third-party contribution.
+5yg4e5sB27 PREMISE-Statistic 1172 1318 Third-party units are now up to 48% of paid units and that's up 400 basis points year-over-year, so that continues to be a factor in gross margin.
+xUlBSZJgzk NON-ARG 1319 1354 Again, we book that on a net basis.
+XVXruY1hoi NON-ARG 1513 1526 This is Phil.
+3rnmwX-Gnq NON-ARG 1527 1548 Also just to jump in.
+KI4Ti_Dbzs CLAIM-Fact 1549 1623 The gross margin is not the primary metric we use to measure the business.
+lbJqCZWoRP PREMISE-Fact 1624 1704 We are much more focused on free cash flow dollars and operating profit dollars.
+GE1MInB3gr NON-ARG 1705 1797 So there are a whole lot of moving parts in gross margin, and Brian mentioned a lot of them.
+cNkcKJ41nM CLAIM-Reformulated 1798 1835 But it's not a primary metric for us.
+r9ASvW3dH- CLAIM-Fact 1355 1498 The third-party revenue, it's a positive factor in gross margin and can be a negative factor in fulfillment costs and some of the other metrics
+R0 SUPPORT ARG1:2iginsf9gd ARG2:bZOSqmNHEf
+R1 ATTACK ARG1:lbJqCZWoRP ARG2:KI4Ti_Dbzs
+R2 SUPPORT ARG1:5yg4e5sB27 ARG2:r9ASvW3dH-
+ArgQ0 bZOSqmNHEf SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 KI4Ti_Dbzs SPECIFIC_2 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 r9ASvW3dH- SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

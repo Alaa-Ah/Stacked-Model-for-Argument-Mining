@@ -1,0 +1,25 @@
+vugt9Z1dGy NON-ARG 563 575 Thanks Brad.
+tzIx1zb6pI CLAIM-Opinion(view) 576 639 Let me, first, I wouldn't say penetration is the word for this.
+mOCr-YO5Do CLAIM-Fact 640 701 Let me talk about this in two or even a couple of components,
+AqrRM1FNwD PREMISE-Fact 702 957 because when you think about Windows 10, what we've seen over the past couple of years is, you're right, a very strong enterprise deployment cycle and real pull for that product inside enterprises, because of the security value prop of the product itself.
+wvNTjqRe93 PREMISE-Fact 958 1091 When you see that deployment for security reasons, an externality of that is people often choose to upgrade machines in that process.
+rT_8gLWSVK PREMISE-Fact 1092 1289 We've seen good demand inside commercial entities for and when they make those upgrades to buy Windows PCs and often Surface devices, in that choice, I think it's benefited our OEM partners and us.
+RMaffYJYk3 PREMISE-Fact 1290 1360 The portfolio of devices that are available are incredibly compelling.
+BnqKIJudRn PREMISE-Fact 1361 1423 I think our partners have done a terrific job on that as well.
+MN5pAsyCYa PREMISE-Fact 1424 1523 The overall economy is certainly also quite good, and the installed base had actually gotten older.
+InsblWj4Uc CLAIM-Opinion(view) 1524 1646 And so I think what you're starting to see is a process whereby there's a great product, there's a good macro environment.
+4VSvl3MkFv PREMISE-Fact 1647 1723 And you've got customers who really want to move to a modern infrastructure.
+nnWjI_tGV8 PREMISE-Fact 1724 1920 A modern infrastructure has to both be secure at its very core, and that can result, as you're seeing through that confluence of events, in a very strong PC market with very strong Pro performance
+8NwvBAYH-2 CLAIM-Opinion(view) 1922 1991 And certainly, the guide for Q4 continues to imply all those factors.
+qmWyFpkJeS NON-ARG 2053 2067  Thanks, Brad.
+jvSRSqViiT NON-ARG 2068 2105 We'll take next question now, please.
+R0 SUPPORT ARG1:AqrRM1FNwD ARG2:mOCr-YO5Do
+R1 SUPPORT ARG1:wvNTjqRe93 ARG2:mOCr-YO5Do
+R2 SUPPORT ARG1:rT_8gLWSVK ARG2:mOCr-YO5Do
+R3 SUPPORT ARG1:RMaffYJYk3 ARG2:mOCr-YO5Do
+R4 SUPPORT ARG1:BnqKIJudRn ARG2:mOCr-YO5Do
+R5 SUPPORT ARG1:MN5pAsyCYa ARG2:mOCr-YO5Do
+R6 SUPPORT ARG1:4VSvl3MkFv ARG2:InsblWj4Uc
+R7 SUPPORT ARG1:nnWjI_tGV8 ARG2:InsblWj4Uc
+ArgQ0 mOCr-YO5Do SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 InsblWj4Uc SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

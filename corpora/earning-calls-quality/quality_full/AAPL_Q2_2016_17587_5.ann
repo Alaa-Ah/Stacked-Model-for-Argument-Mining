@@ -1,0 +1,35 @@
+wDbuFRFcrB NON-ARG 795 860 Gene, I think the iPhone SE is attracting two types of customers.
+ioHpzhAiDJ NON-ARG 861 1022 One is customers that wanted the latest technology but wanted it in a more compact package, and we clearly see even more people than we thought in that category.
+vCeacfBtyR NON-ARG 1023 1188 And then secondly, it's attracting people who aspire to own an iPhone but couldn't quite stretch to the entry price of the iPhone, and we've established a new entry.
+MyOeOySqKD NON-ARG 1189 1310 And so I think both of these markets are very, very important to us, and we're really excited about where it can take us.
+mlXdqyPnNm NON-ARG 1311 1445 I do think that we will be really happy with the new-to-iPhone customers that we see from here because of the early returns we've had.
+vnnGECRxJy NON-ARG 1446 1543 We are currently supply constrained, but we'll be able to work our way out of this at some point.
+JqrxKtsqfo NON-ARG 1544 1597 But it's great to see the overwhelming demand for it.
+dOXwSTHuwd NON-ARG 1598 1632 I'll let Luca comment on the ASPs.
+r8MDx5EZOn CLAIM-Opinion(view) 1669 1723 we mentioned that we're going to be down sequentially.
+-guT8uLwvs PREMISE-Other 1829 1957 It's the fact that we are having the iPhone SE entering the mix, and that obviously is going to have a downward pressure on ASP.
+cJWpia5qzD PREMISE-Other 1958 2157 And also this channel inventory reduction that we've talked about, obviously the channel inventory reduction will come from higher-end models, and that is also affecting the sequential trend on ASPs.
+eO0I-f7GUK CLAIM-Fact 2158 2273 The question on Services, when we look at our Services business, it's obviously growing very well across the board.
+eZSpV6v7yv PREMISE-RealExample 2274 2394 The biggest element and the part of the Services business that is growing very well, we mentioned 35%, is the App Store.
+1jB12VVQr4 PREMISE-RealExample 2395 2593 It's interesting for us that our Music business, which had been declining for a number of quarters, now that we have both a download model and a streaming model, we have now hit an inflection point.
+t02079vNX_ PREMISE-RealExample 2757 2941 We have an iCloud business that is growing very quickly, faster than the App Store from a much lower base, but I think it's important for us as we continue to develop these businesses.
+T0ql3uqNfk PREMISE-Fact 2692 2756 We have many other Services businesses that are doing very well.
+QCvQwRYrPY NON-ARG 1724 1828 And this is really the combination of two factors when we go from the March quarter to the June quarter.
+N7KD5mtAHw PREMISE-RealExample 2974 3223 It doesn't provide a meaningful financial contribution at this point, but as we look at the amount of transactions that are going through Apple Pay right now and we think ahead for the long term, that could be an interesting business for us as well.
+k-HN7eyXh2 PREMISE-RealExample 2942 2973 Tim has talked about Apple Pay.
+iZQngZtzAq NON-ARG 3224 3440 From a profitability standpoint, we had mentioned last time that when you look at it on a gross basis, so in terms of purchase value of these services, the profitability of the business is similar to company average.
+bQTdNQqmFV NON-ARG 3441 3647 Of course, when you net out the amount that is paid to developers and you look at it in terms of what is reported in our P&L, obviously that business has a profitability that is higher than company average.
+uwJyjKkKch NON-ARG 3648 3781 We don't get into the specifics of specific products or services, but it's very clear it's significantly higher than company average.
+NZ3DDabt5a PREMISE-Other 2594 2691 And we really believe that this will be the bottom and we can start growing from there over time.
+PZbsUnNlSs NON-ARG 1646 1669  So on the ASPs, Gene, 
+R0 SUPPORT ARG1:-guT8uLwvs ARG2:r8MDx5EZOn
+R1 SUPPORT ARG1:cJWpia5qzD ARG2:r8MDx5EZOn
+R2 SUPPORT ARG1:eZSpV6v7yv ARG2:eO0I-f7GUK
+R3 SUPPORT ARG1:1jB12VVQr4 ARG2:eO0I-f7GUK
+R4 SUPPORT ARG1:T0ql3uqNfk ARG2:eO0I-f7GUK
+R5 SUPPORT ARG1:t02079vNX_ ARG2:eO0I-f7GUK
+R6 SUPPORT ARG1:k-HN7eyXh2 ARG2:eO0I-f7GUK
+R7 SUPPORT ARG1:N7KD5mtAHw ARG2:eO0I-f7GUK
+R8 SUPPORT ARG1:NZ3DDabt5a ARG2:eO0I-f7GUK
+ArgQ0 r8MDx5EZOn SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 eO0I-f7GUK SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

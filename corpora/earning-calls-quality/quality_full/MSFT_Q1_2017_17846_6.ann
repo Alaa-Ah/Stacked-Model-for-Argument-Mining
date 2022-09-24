@@ -1,0 +1,22 @@
+l8DRwkhTyW CLAIM-Opinion(view) 556 698 I would say I talked about sort of the reasons the three big reasons why customers choose our cloud in our cloud infrastructure in particular.
+Xlds2AIFRU CLAIM-Fact 699 816 One, it is about the hybrid design point that is at the core of how we are billed, both Azure as well as our servers.
+4tBVJ2nTHv PREMISE-Fact 817 873 It is because of the higher level services that we have.
+iEcBPrfhiJ PREMISE-Fact 874 1122 It is also because of the design point we have around not just Azure but as well as Dynamics 365 and Office 365 and the extensibility of our cloud services across all three of them, and that's really the fundamental reasons why customers choose us.
+iRI7MBHKVv CLAIM-Fact 1123 1297 The other thing I will mention is, we have more of a commitment I would say which is been there from a long time to build out a global footprint with more regions and anyone.
+fLhWZCoNpZ PREMISE-Fact 1298 1416 We are more certifications than anyone in terms of adhering to both regulated industry as well as digital sovereignty.
+25w8mFZMI0 PREMISE-RealExample 1417 1505 We've done many things we're the only cloud provider for example that operates in China.
+KUpX380grc PREMISE-RealExample 1506 1545 We operate in Germany under German law.
+7ulEDEGneg PREMISE-Fact 1546 1663 And that matters to multinational companies but also are trying to operate across many geographies and jurisdictions.
+Y4dmd3duE- CLAIM-Reformulated 1664 1767 So those are our core attributes that are driving our growth and will continue to stay focused on them.
+Gc_q6U87II CLAIM-Opinion(view) 1778 2064 In terms of the gross margin question, I feel very good talk about this quarter about our improvement year-over-year and remain confident that we are heading in the right direction and so, I think when you think about that plus the rest of our offerings, I think we're pretty confident.
+Qs_aMjWzFT PREMISE-Fact 2065 2461 I will take the opportunity and asked about Windows 10 in the enterprise market that we are encouraged by the pace of deployment, the number of proof of concepts, and actually some of the stability we've seen in the commercial PC market in terms of starting to see some so I think overall I think we will continue to watch, but our security and management value prop I think really is paying off.
+R0 SUPPORT ARG1:4tBVJ2nTHv ARG2:Xlds2AIFRU
+R1 SUPPORT ARG1:iEcBPrfhiJ ARG2:Xlds2AIFRU
+R2 SUPPORT ARG1:fLhWZCoNpZ ARG2:iRI7MBHKVv
+R3 SUPPORT ARG1:25w8mFZMI0 ARG2:iRI7MBHKVv
+R4 SUPPORT ARG1:KUpX380grc ARG2:iRI7MBHKVv
+R5 SUPPORT ARG1:7ulEDEGneg ARG2:iRI7MBHKVv
+R6 SUPPORT ARG1:Qs_aMjWzFT ARG2:Gc_q6U87II
+ArgQ0 Xlds2AIFRU SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 iRI7MBHKVv SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Gc_q6U87II SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

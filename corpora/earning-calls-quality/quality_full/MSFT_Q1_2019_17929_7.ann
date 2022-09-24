@@ -1,0 +1,12 @@
+sKxO7ZkOP7 NON-ARG 501 506 Sure.
+2DYwKNGqNB NON-ARG 507 545 Let me spend a couple minutes on that.
+Aq_MhaoFmK CLAIM-Fact 546 639 We actually saw better bookings in Q1 again on Azure, as I mentioned, just like we did in Q4.
+Zjxchf0IjZ CLAIM-Opinion(view) 745 832 But as I think about – I tend to focus as you know on the all-up server and product KPI
+faS8-GWoDR PREMISE-Fact 833 1074 because the Azure hybrid benefits that exist with Windows Server and SQL Server are really valuable to customers if they want to move to Azure on their own terms, is the single best value proposition to a customer to make a commitment there.
+hdi6y6C0vH CLAIM-Fact 640 744 And so obviously that's certainly encouraging as we look on a go-forward basis for the rest of the year.
+7yIh4C8PPx CLAIM-Fact 1075 1255 And so, if we start to focus on one number or the other, I think we're missing the fact that our customer method and go-to-market is actually through the overall product portfolio.
+ROOy733-C- CLAIM-Fact 1256 1534 And so, I tend to probably as you might imagine be more confident than I was in coming out of Q4 with a strong Q1 in that overall hybrid demand and Azure signal plus good Azure bookings when I talked about my confidence in high teens growth in that KPI for the rest of the year.
+GGT2jFAivZ NON-ARG 1596 1611 Thanks, Walter.
+EBhhAP1x6F NON-ARG 1612 1657 Operator we'll take the next question please.
+R0 SUPPORT ARG1:faS8-GWoDR ARG2:Zjxchf0IjZ
+ArgQ0 Zjxchf0IjZ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

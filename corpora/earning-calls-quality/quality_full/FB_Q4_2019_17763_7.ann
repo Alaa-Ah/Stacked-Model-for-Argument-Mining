@@ -1,0 +1,19 @@
+gy4OTp2K6q NON-ARG 593 622 I can talk about Marketplace.
+aQX9RAJoyQ CLAIM-Fact 623 653 Marketplace is growing nicely.
+horu8F7pgj PREMISE-Fact 654 714 It's now used by hundreds of millions of people every month.
+PJlkugQ2A8 PREMISE-Fact 860 936 We're seeing a lot of interest, especially with retail and auto advertisers.
+rbzF4HiJVx CLAIM-Opinion(view) 985 1060 So we believe this is a good opportunity we're going to continue to invest.
+AKL6fUn_Rp PREMISE-Fact 937 984 It's very early, but we're seeing good results.
+J4YzWH5REs CLAIM-Fact 715 859 We also rolled out ads in Marketplace, which are available in 94 markets, which means advertisers can extend their News Feed ads to Marketplace.
+aoMUBNdAAA CLAIM-Reformulated 1061 1139 But for the foreseeable future, even within this, ads remains the great focus.
+40sKs5kFfu NON-ARG 1157 1161 Yes.
+RrYg0cSzsb NON-ARG 1162 1268 And I think you mentioned Threads and Reels and a couple of the apps that we've launched within Instagram.
+llnz3AGxJj NON-ARG 1269 1286 It's still early.
+Urllz5O3Fx CLAIM-Opinion(view) 1287 1326 I think there are some promising signs.
+Yyu6KfgAfK CLAIM-Fact 1327 1514 We're figuring out the extent to which those should grow to be big, independent apps over time, or should be integrated into the core of the Instagram service or our other messaging apps.
+IQQgF2f6KY CLAIM-Reformulated 1515 1689 So we'll figure that over time, but those are certainly both important spaces to be in, visual messaging and kind of interest-based talent showing Stories-type functionality.
+R0 SUPPORT ARG1:horu8F7pgj ARG2:aQX9RAJoyQ
+R1 SUPPORT ARG1:PJlkugQ2A8 ARG2:rbzF4HiJVx
+R2 SUPPORT ARG1:AKL6fUn_Rp ARG2:rbzF4HiJVx
+ArgQ0 aQX9RAJoyQ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 rbzF4HiJVx SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,20 @@
+iIhurjsfPs NON-ARG 881 886 Sure.
+IOvhesdTuT NON-ARG 887 927 So I think I'll take all of those, Ross.
+IBLv07ECam CLAIM-Fact 928 1010 So the impression growth acceleration, you've got a couple factors going on there.
+5zxCRl5kQV PREMISE-Fact 1011 1083 One of the factors is just that the desktop roll-off is just continuing.
+qoTtRyudQc PREMISE-Fact 1084 1340 So as it gets smaller, it has less of a depressive effect on the overall impression growth number, because if you recall, desktop has quite a number of impressions per DAU, just given it's the right-hand column that has multiple impressions on each screen.
+MRzY4buYtR NON-ARG 1341 1370 So that's one of the reasons.
+Stydcitkdw PREMISE-Fact 1371 1478 And obviously, Instagram is continuing to grow nicely as well, so that's another contributing factor there.
+HzLGhrDnCY PREMISE-Fact 1479 1743 In terms of the North America revenue growth acceleration, one of the big factors there is really just also that's where you're picking up some of the accounting change from the Instant Articles going from net to gross, so that's contributing to that acceleration.
+3dXU3vwRDq CLAIM-Opinion(view) 1744 1970 Obviously, I'm very pleased with the strength of North American ad revenue and, overall, all the different regions, but that's a factor there, and IG is, obviously, contributing nicely to growth in North America and worldwide.
+kYCttTD9QC CLAIM-Fact 1971 2203 Finally, on the GDPR trend, that's just based on what we're expecting given that you're having to bring people through these consent flows, and we have been modeling it and expect there would be a flat to down impact on MAU and DAU.
+aFbCeUISh3 PREMISE-Fact 2204 2291 It's very early in our rollout, but nothing inconsistent with what we've been modeling.
+juSUTRe5Xj CLAIM-Reformulated 2292 2353 So that's why we're giving that indication of what we expect.
+R0 SUPPORT ARG1:5zxCRl5kQV ARG2:IBLv07ECam
+R1 SUPPORT ARG1:qoTtRyudQc ARG2:IBLv07ECam
+R2 SUPPORT ARG1:Stydcitkdw ARG2:IBLv07ECam
+R3 SUPPORT ARG1:HzLGhrDnCY ARG2:3dXU3vwRDq
+R4 SUPPORT ARG1:aFbCeUISh3 ARG2:kYCttTD9QC
+ArgQ0 IBLv07ECam SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 3dXU3vwRDq SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 kYCttTD9QC SPECIFIC_2 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

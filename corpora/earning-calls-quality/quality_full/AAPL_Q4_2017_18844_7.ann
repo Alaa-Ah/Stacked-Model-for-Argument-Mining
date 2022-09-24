@@ -1,0 +1,37 @@
+5XbkDSpjAQ NON-ARG 1655 1659 Yes.
+JeNQQDF5iN NON-ARG 1660 1678 I think it's both.
+D_3RaXVXlN CLAIM-Fact 1679 1803 As I mentioned, particularly on the App Store, which is very important to us, the number of paying accounts has grown a lot.
+irwNDkJX5z PREMISE-Fact 1804 2056 It's grown a lot because, as you said, the installed base has grown, but also because we have made a number of changes that have made it easier for our customers around the world to participate on the App Store and be able to transact on the App Store.
+zQsYWJjUix PREMISE-RealExample 2057 2164 We are accepting, for example, more forms of payment today than we were 12 months ago or even 6 months ago.
+SfLrCIEnAD NON-ARG 2165 2195 So that's been very important.
+oTsyw24B3o NON-ARG 2196 2265 We also see that there is a typical spending curve for our customers.
+JTgG3__-JD CLAIM-Fact 2266 2427 When they start transacting on the Store, they start at a certain level and they tend over time to get more familiar with the Store and they start to spend more.
+Jf6JVYmmdx PREMISE-Fact 2428 2536 We're also now, very recently, made some changes, as you probably have seen, to the design of the App Store.
+ODMlxuuCTc PREMISE-Fact 2537 2642 And I was mentioning to you in the prepared remarks that these changes have been received very favorably.
+4Vn43s85VS CLAIM-Reformulated 2643 2771 And so people now are spending more time on the Store, they download more apps, and that over time translates into monetization.
+K2qe8H88K1 CLAIM-Fact 2772 2865 But we also have other businesses that are growing very, very fast and actually accelerating.
+b2bTLcv11P PREMISE-Fact 2866 2884 I mentioned Music.
+OVRlwYn0gR PREMISE-Fact 2885 2927 I mentioned iCloud, and so it all adds up.
+6J-D6PYYRA CLAIM-Reformulated 2928 2992 And as you correctly point out, our growth rate is accelerating.
+JyN-lPDeSu NON-ARG 3007 3023 Thank you, Amit.
+o0mkT9Nknq NON-ARG 3024 3063 Could we have the next question please?
+inRrwS3rOP NON-ARG 494 498 Yes.
+Wshrwgot9X PREMISE-Statistic 499 535 Amit, so we're guiding 38% to 38.5%.
+zGK0fqfhPp PREMISE-Statistic 536 566 That's up 35 bps sequentially.
+fJMwtRMS-a CLAIM-Fact 567 628 Obviously we're getting the leverage from the larger volumes.
+pUBZXvnuPM PREMISE-Fact 629 727 As I mentioned, I think to Toni, we have higher cost structures every time we launch new products.
+VZR-PHs8Of CLAIM-Fact 728 873 So that is going to be the offset, and I mentioned particularly the impact from the memory pricing environment which is a headwind at this point.
+XOs-r89R9u PREMISE-Statistic 874 1001 Just to size it for you, the impact of memory on our gross margin is 40 bps sequentially and 110 bps on a year over year basis.
+UQDpZpi2s2 CLAIM-Fact 1002 1096 So they are meaningful impacts, and I think that is what I think probably you're referring to.
+R0 SUPPORT ARG1:Jf6JVYmmdx ARG2:JTgG3__-JD
+R1 SUPPORT ARG1:ODMlxuuCTc ARG2:JTgG3__-JD
+R2 SUPPORT ARG1:b2bTLcv11P ARG2:K2qe8H88K1
+R3 SUPPORT ARG1:OVRlwYn0gR ARG2:K2qe8H88K1
+R4 SUPPORT ARG1:irwNDkJX5z ARG2:D_3RaXVXlN
+R5 SUPPORT ARG1:zQsYWJjUix ARG2:D_3RaXVXlN
+R6 SUPPORT ARG1:XOs-r89R9u ARG2:VZR-PHs8Of
+R7 SUPPORT ARG1:pUBZXvnuPM ARG2:VZR-PHs8Of
+ArgQ0 JTgG3__-JD SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 K2qe8H88K1 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 D_3RaXVXlN SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ3 VZR-PHs8Of SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

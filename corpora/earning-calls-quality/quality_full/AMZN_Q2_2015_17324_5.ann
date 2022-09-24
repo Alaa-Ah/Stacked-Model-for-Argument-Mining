@@ -1,0 +1,18 @@
+heCbDaaDdl NON-ARG 628 636 Hey Ron.
+0Py9MVk1dR NON-ARG 637 673 So, I'll comment on the units first.
+PpTpioXwQP CLAIM-Policy 674 914 We are really following the model of giving our customers as many choices as possible and letting them choose whether they want to buy first-party or third-party and I think we're working really hard to make sellers succeed on the platform.
+366nqYBkH2 PREMISE-Statistic 1051 1197 When we surveyed those sellers in the past, in 2014 about 71% of sellers saw a 20% or greater increase in sales when they entered the FBA program.
+-52lOw6gaU CLAIM-Reformulated 1270 1370 We're working really hard to give customers as many options as possible and allowing them to choose.
+ADCwLvnMmK CLAIM-Opinion(view) 1198 1269 So we are really happy with what that's doing for third-party business.
+Q5teQvP8cS CLAIM-Reformulated 1421 1458 It all comes down to customer choice.
+rwpubLf4xB CLAIM-Reformulated 1371 1420 And we don't really have a specific target there.
+ruDFK3PFr1 PREMISE-Fact 915 1050 Brian touched on the success that our FDA sellers had with Prime Day, but we see FBA as a tailwind for third-party business in general.
+Hd_T9Ql8r9 CLAIM-Fact 1459 1677 On the price reduction question, we've got a long track record of driving costs out of the business and you can certainly see where we've even done that over the last several quarters if you look at the margins in AWS.
+Z3W2ovgUAv PREMISE-Statistic 1678 1739 We've also lowered prices for customers 49 times since launch
+LNSNno0H7R CLAIM-Reformulated 1740 1814 and so it can be lumpy, but over the long haul that's the model we follow.
+R0 SUPPORT ARG1:ruDFK3PFr1 ARG2:ADCwLvnMmK
+R1 SUPPORT ARG1:Z3W2ovgUAv ARG2:Hd_T9Ql8r9
+R2 SUPPORT ARG1:366nqYBkH2 ARG2:PpTpioXwQP
+ArgQ0 ADCwLvnMmK SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Hd_T9Ql8r9 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 PpTpioXwQP SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

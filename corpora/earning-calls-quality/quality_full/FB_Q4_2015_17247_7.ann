@@ -1,0 +1,15 @@
+R83eAhuMKs PREMISE-Fact 562 598 Fourth quarter is a holiday quarter,
+bmNhUW14o2 CLAIM-Fact 599 651 so our top verticals were ecommerce, CPG and retail.
+IPbPWUvx9N PREMISE-Fact 652 685 Our growth is really broad-based,
+lCrvJFs1X6 CLAIM-Opinion(view) 686 749 and I think it really shows how important the targeting can be.
+1mdDDqLqO7 CLAIM-Fact 750 893 What we’ve definitely done over the last year and plan to invest even more in over the next year is worked hard on vertical specific targeting.
+mnd6esg80m PREMISE-RealExample 894 1064 So for example for the telecom industry being able to target existing consumers with new consumers with people who are -- their voice plan or data plan’s about to expire.
+lwurAQzIhj PREMISE-RealExample 1065 1411 With the auto industry, really important industry for growth for us, helping them figure out who their current customers are, who their potential customers are and where are the audience segments out there who have similar likes, interests, backgrounds, demographics to their current customers so that they can serve right ad to the right people.
+CenL_FoWgC CLAIM-Reformulated 1412 1590 The kind of things we’re able to do with targeting and measurement apply across industries and obviously have to be industry and vertical specific and we’re working hard at that.
+R0 SUPPORT ARG1:R83eAhuMKs ARG2:bmNhUW14o2
+R1 SUPPORT ARG1:mnd6esg80m ARG2:1mdDDqLqO7
+R2 SUPPORT ARG1:lwurAQzIhj ARG2:1mdDDqLqO7
+R3 SUPPORT ARG1:IPbPWUvx9N ARG2:lCrvJFs1X6
+ArgQ0 bmNhUW14o2 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ1 1mdDDqLqO7 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_0
+ArgQ2 lCrvJFs1X6 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3

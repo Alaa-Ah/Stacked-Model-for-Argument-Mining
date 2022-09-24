@@ -1,0 +1,23 @@
+Eh4p4fr4H5 NON-ARG 506 669 Sure, why don’t I talk a little bit about that from a math perspective and I'll let Satya add from some more engineering improvements, which I think are important.
+X2y_AjW1Z3 CLAIM-Fact 1490 1608 So these are all got a different profile in terms of margin and they are all now pretty high growth businesses for us.
+AOKKbx7Xpx CLAIM-Reformulated 1778 1848 So that aggregate portfolio is what helps us move up the margin curve.
+DRNUacMuWK PREMISE-Fact 1995 2102 One of the comments I had made in my remarks was some momentum we're seeing in our consumer cloud services.
+PwSvsjDn6_ PREMISE-RealExample 2103 2319 So for example, the store monetization, Bing monetization, Xbox Live monetization as Xbox Live monetization as Xbox Live now in fact is going to span devices are all things that drive monetization for below 9 inches.
+TvI2alYbpE CLAIM-Opinion(view) 2320 2367 So I think of device gross margin in some cases
+6h5kVvBstp PREMISE-Fact 2368 2579 because we are building devices like the phones as well as this post sale monetization using our consumer cloud services as the two additional levers that we have in order to be able to monetize Windows devices.
+O3xUUT5vRE CLAIM-Fact 670 895 Mark, as I talked a bit about, we've seen a mix shift as we have moved Office 365 and Azure to our premium service and to premium SKUs within our cloud environment, that is one of the drivers that helps improve margin growth.
+IunGhkz4Ek PREMISE-Fact 896 1114 In addition, we've done a lot of hard engineering work I believe over the past six quarters to be able to take advantage of more utilization and capacity over time and I'll let Satya maybe add a little bit technically.
+nXyENMt-SE PREMISE-Fact 1130 1270 Overall, the shift to the higher layer services is the real driver here, which is obviously Office 365 and its various levels is one factor.
+Qf_Rb3d79W PREMISE-Fact 1271 1489 The other one is what I talked about in the Enterprise Mobility Suite, that's really got fantastic momentum in the marketplace because the solution has really come together and is fairly unique, as well as Dynamic CRM.
+7y26wHET0t PREMISE-Fact 1609 1696 So when you think about our cloud, you got to think about the low-level infrastructure.
+EjWKTVyM1G PREMISE-Fact 1697 1777 Even there we now have premium offerings and then we have higher level services.
+jettSFmkws NON-ARG 2590 2631  Excellent, thank you, I appreciate Mark.
+wRIAayJeCA NON-ARG 2642 2682  We'll move to the next question please.
+R0 SUPPORT ARG1:DRNUacMuWK ARG2:TvI2alYbpE
+R1 SUPPORT ARG1:PwSvsjDn6_ ARG2:TvI2alYbpE
+R2 SUPPORT ARG1:6h5kVvBstp ARG2:TvI2alYbpE
+R3 SUPPORT ARG1:IunGhkz4Ek ARG2:O3xUUT5vRE
+R4 SUPPORT ARG1:nXyENMt-SE ARG2:X2y_AjW1Z3
+R5 SUPPORT ARG1:Qf_Rb3d79W ARG2:X2y_AjW1Z3
+R6 SUPPORT ARG1:7y26wHET0t ARG2:X2y_AjW1Z3
+R7 SUPPORT ARG1:EjWKTVyM1G ARG2:X2y_AjW1Z3

@@ -1,0 +1,23 @@
+j4oDqtMCvD CLAIM-Other 538 596 I am actually going to cover in commercial segments as one
+Y11TfI5j3G PREMISE-Fact 597 874 because really when you think about the commercial cloud, it's really about capturing the opportunity of selling more complete solutions which include dynamics and office plus some components of Azure which is I think really the trend you'll see us talk about from here on out.
+plw6HuR9V0 PREMISE-Fact 875 985 So what I would say is, he will continue to see us focus on gross margin improvement and we talked about that.
+M--IvbHlpj PREMISE-Fact 986 1099 You also continue to see us invest where we see massive market addressable expansion with sales capacity as well.
+h4-yGhEZFY CLAIM-Fact 1100 1165 So I think we have pivoted dollars to invest in that opportunity.
+xPZtyj-mB3 CLAIM-Opinion(view) 1202 1290 But we also expect revenue growth in gross margin growth to come out of that investment.
+WLBPduzOPS CLAIM-Opinion(view) 1291 1454 So I do believe that's a continued pace you will see us on, and we feel good about the ROI of the investments we have made especially in those commercial segments.
+HGHndLAulF CLAIM-Opinion(view) 1455 1631 In MPC, I generally expect he will continue to see improvement through the year just based on the mix of products that we will have over the course of the year, that's not new.
+HnAP5M5dYX PREMISE-Fact 1761 1909 And so, I suspect you will see a similar pattern on a similar desire by Satya to continue to invest toward growth especially on the commercial side.
+8TRhYLQiVW PREMISE-Fact 1166 1201 He will continue to see us do that.
+Xtclo-gh8A NON-ARG 532 537 Sure.
+H4jxYavFa1 PREMISE-Fact 1632 1686 Use all the same mechanism last year through the year.
+pyyMkVVwF_ PREMISE-Fact 1687 1760 As we pivot from our phone business to some of our higher margin product.
+R0 SUPPORT ARG1:plw6HuR9V0 ARG2:h4-yGhEZFY
+R1 SUPPORT ARG1:M--IvbHlpj ARG2:h4-yGhEZFY
+R2 SUPPORT ARG1:8TRhYLQiVW ARG2:h4-yGhEZFY
+R3 SUPPORT ARG1:HnAP5M5dYX ARG2:HGHndLAulF
+R4 SUPPORT ARG1:Y11TfI5j3G ARG2:j4oDqtMCvD
+R5 SUPPORT ARG1:H4jxYavFa1 ARG2:HGHndLAulF
+R6 SUPPORT ARG1:pyyMkVVwF_ ARG2:HGHndLAulF
+ArgQ0 h4-yGhEZFY SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 HGHndLAulF SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 j4oDqtMCvD SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

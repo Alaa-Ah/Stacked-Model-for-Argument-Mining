@@ -1,0 +1,22 @@
+S49OfYkcWS CLAIM-Opinion(view) 842 1050 In ads in Stories, we rolled out globally about 1.5 years after launching Instagram so it's still early but we're definitely seeing a lot of value for businesses on Instagram, and we believe same on Facebook.
+a6E1FUC2T8 PREMISE-RealExample 1051 1184 To share one example, a local e-commerce jewelry brand called Lokai started donating 10% of their net profits to charitable partners.
+hFBxmCnWt9 PREMISE-RealExample 1185 1254 And they started running video ads in Facebook Stories and News Feed.
+QBE8yY4h0L PREMISE-RealExample 1255 1345 And just the addition of Facebook Stories drove 26% more additions to their checkout cart.
+et8oWpGwEX CLAIM-Reformulated 1346 1479 So I think we are seeing that – including on Facebook, including in ads even though it's earlier – the additional opportunity is big.
+C9aTOpahx7 CLAIM-Opinion(view) 699 841 So on Facebook Stories, we have 0.5 billion people using it daily, and we think that's pretty impressive growth; we're seeing real engagement.
+fBr-8x0Fim NON-ARG 1493 1512 So Mark, it's Dave.
+75f2TjP0fb NON-ARG 1513 1650 So in the impression growth I sort of cited the drivers in order of impact, and I listed Instagram Stories first and then Instagram Feed.
+wqHyh-z9jC PREMISE-Fact 1651 1780 Stories it is the biggest individual driver of impression growth, and we talked about how that is coming through at lower prices.
+TmlCEjIGzW NON-ARG 1781 1933 And there's some opportunity to increase – we were seeing increased engagement in Stories and there's some opportunity to increase load growing forward.
+FadTp58fDi PREMISE-Fact 1934 2169 On Instagram Feed, which was the second factor, we have seen some increase in ad load on Instagram on a year-over-year basis, but we expect that there'll be less significant growth opportunities going forward on Instagram Feed ad load.
+-ge6T4ZfES PREMISE-Fact 2170 2302 And then finally, you've got – you have Facebook Feed which we're still seeing impression growth and that's coming around the globe.
+qzNK1sPS7G NON-ARG 2303 2368 And we're tending to see growth in – outside the U.S. and Canada.
+bovylqC6pc CLAIM-Fact 2369 2461 So that gives you some color on the sort of the type of impression growth that we're seeing.
+R0 SUPPORT ARG1:a6E1FUC2T8 ARG2:S49OfYkcWS
+R1 SUPPORT ARG1:hFBxmCnWt9 ARG2:S49OfYkcWS
+R2 SUPPORT ARG1:QBE8yY4h0L ARG2:S49OfYkcWS
+R3 SUPPORT ARG1:wqHyh-z9jC ARG2:bovylqC6pc
+R4 SUPPORT ARG1:FadTp58fDi ARG2:bovylqC6pc
+R5 SUPPORT ARG1:-ge6T4ZfES ARG2:bovylqC6pc
+ArgQ0 S49OfYkcWS SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 bovylqC6pc SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

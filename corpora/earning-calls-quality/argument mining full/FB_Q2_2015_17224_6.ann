@@ -1,0 +1,10 @@
+Arkk2Xfs-b CLAIM-Fact 517 776 So e-commerce is one of our top categories of advertisers, and we are already driving a lot of product sales through Facebook but importantly, our e-commerce initiatives are really about connecting consumers with marketers so that they can buy from companies.
+gUoF9iazBH PREMISE-Fact 777 807 They're not buying through us.
+juLXqJ1QtE PREMISE-Fact 808 964 We are testing a buy button in the new shop section on pages, but again, that buy button is letting people buy directly from their advertisers, not from us.
+omegdmp3lu PREMISE-Fact 965 988 It's pretty early days.
+eX8MCbfJa7 CLAIM-Opinion(view) 989 1136 We're excited by what we see in the e-commerce vertical and we're going to continue to invest in growing that vertical as part of our ads business.
+XLYtOoURhw NON-ARG 1154 1160  Okay.
+wHpABajBII NON-ARG 1161 1206 Operator, we have time for one last question.
+R0 SUPPORT ARG1:gUoF9iazBH ARG2:Arkk2Xfs-b
+R1 SUPPORT ARG1:juLXqJ1QtE ARG2:Arkk2Xfs-b
+R2 SUPPORT ARG1:omegdmp3lu ARG2:Arkk2Xfs-b

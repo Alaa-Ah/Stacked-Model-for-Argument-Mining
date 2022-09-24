@@ -1,0 +1,13 @@
+_Efz_IbMD_ NON-ARG 801 814 So, hi, Eric.
+V8A9wTp-9G NON-ARG 815 829 This is Darin.
+4ybuwGznW4 NON-ARG 830 869 I'll take the second question on China.
+8xtDDHyZVv CLAIM-Fact 870 911 So we continue to operate well in China. 
+XzsnoAI7_X PREMISE-Other 911 1144 We see China as a – and the way we're approaching China as a way to – a trusted avenue for our Chinese customers to access authentic international brands and we'll focus on those global brands and bringing those to Chinese customers.
+ewWLT86FXF PREMISE-Fact 1145 1344 Offerings like the Amazon Global Store where Chinese customers can access those international brands on the China website and have them shipped directly to their houses is something we're focused on.
+ryzL1id35R CLAIM-Opinion(view) 1345 1489 So, yeah, it's still early days and some of those experiments that we're doing, but we're seeing good traction on those things and we like that.
+6N1vmctSp4 NON-ARG 1509 1735 Yeah and on the content spend, I think the only other data point I can give you is probably a dated one at this point, but we spent $1.3 billion in 2014, that's the last number that we disclosed and we continue to add content.
+4lFD6achXE NON-ARG 1736 1856 The best I can give you at this point is that it will be double, nearly double what we spent in the second half of 2015.
+R0 SUPPORT ARG1:XzsnoAI7_X ARG2:8xtDDHyZVv
+R1 SUPPORT ARG1:ewWLT86FXF ARG2:ryzL1id35R
+ArgQ0 8xtDDHyZVv SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 ryzL1id35R SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

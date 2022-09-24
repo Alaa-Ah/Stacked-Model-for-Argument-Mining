@@ -1,0 +1,43 @@
+ZcqxTmngBO NON-ARG 812 868 Katy, I've talked about these elements at a broad level.
+rjWdWTPBNc NON-ARG 869 917 Of course, there are degrees of positive impact.
+1JKQaSCcpZ PREMISE-Fact 918 1056 We for example on the mix front, every cycle is slightly different on our product mix, and so that clearly has an impact on gross margins.
+RKcEByu4UD PREMISE-Statistic 1440 1580 And so versus September of 2014, for example, the U.S. dollar has now strengthened on average against international currencies by about 15%.
+l92K8O9xBA PREMISE-Fact 1675 1769 We've taken a lot of actions on the cost side, on the pricing side, and obviously with hedges.
+MfJRMdAgib PREMISE-Statistic 1986 2133 Just to give you a sense, on a year-over-year basis, when I look at foreign exchange, that has an impact of almost 300 basis points on our margins.
+3f85lxonkv NON-ARG 1770 1845 But we need to deal with this situation, and that's where we are right now.
+7i672mhIve CLAIM-Value 1846 1985 We feel that 37.5% to 38% given the new FX environment I think says a lot about all the work that we've done on the cost side to get there.
+Fj7UBg7AXM NON-ARG 1581 1674 And I think we need to accept that now we're living in this stronger U.S. dollar environment.
+8BkBrKlCfa PREMISE-Fact 1221 1334 And as you know, we work with our hedging program where we get protection from FX fluctuations in the short term.
+zlV6z8Mk-p NON-ARG 1335 1439 When these hedges roll off over time, we end up replacing them with new hedging contracts at spot rates.
+mxeVkEm1Im PREMISE-Fact 1057 1220 And the other thing that we need to keep in mind as we step back for a second and now we've gone through a couple of cycles where the U.S. dollar has strengthened.
+IIazRBAak7 NON-ARG 2704 2760 I don't want to talk about phones that aren't announced.
+QjloH1A_Zy NON-ARG 2761 2936 And so that aside, what we have seen in the past tense or current tense on the upgrade rate is that the iPhone upgrade rate for the iPhone 6S is very similar to the iPhone 5S.
+UBM_yJnDlE NON-ARG 2937 3047 And I guess in retrospect, maybe that was a predictable thing, although we didn't predict it in the beginning.
+Zh39JNA5uA NON-ARG 3048 3089 It took us a little time to realize that.
+T00t0CGOR9 NON-ARG 3234 3274 And so what the future holds, we'll see.
+YFUnkz6_eg CLAIM-Opinion(view) 3275 3362 But I'm very optimistic about the future because I see so many signs that are positive.
+OcqfqqZE-O PREMISE-Fact 3363 3420 I see an installed base that has gotten incredibly large.
+EYHmdePM6f PREMISE-Fact 3421 3468 I see a switcher rate that is the highest ever.
+5723Vd99tg PREMISE-Fact 3603 3822 And all of the things that are coming both in the fall, the things that we've announced that you can see with iOS 10, hopefully you're running by now with the beta, those and other things make it even more instrumental.
+amL9Xi-ziu PREMISE-Fact 3823 3863 And AI even makes it even more and more.
+FrZwnxxOmq PREMISE-Fact 3864 3975 As the phone becomes more and more your assistant, it's one of those that you're not going to leave without it.
+LBK5Rhajqz CLAIM-Reformulated 3976 4049 And so I see all of those things as vectors that are incredibly positive.
+AIWBbL948f CLAIM-Reformulated 4343 4412 And so I see lots of positive things, and so that's how I look at it.
+hrrffGbKLQ PREMISE-RealExample 4050 4342 I also really like what I've seen with the iPhone SE and the fact that it's opening the door to customers that we weren't reaching before and likely convincing some people to upgrade that wanted a smaller form factor but wanted to stay with iPhone, and so they were waiting for the iPhone SE.
+wfwcq5GU4L NON-ARG 3090 3233 The iPhone 6 was significantly higher than that, and so it likely accelerated upgrades that would have been in the current year ahead of those.
+FxqXScqjPi PREMISE-Fact 3469 3577 I see the smartphone itself, led by iPhone, becoming even more instrumental and important to people's lives.
+E_dlooWgLn PREMISE-Fact 3578 3602 It's becoming essential.
+R0 SUPPORT ARG1:MfJRMdAgib ARG2:7i672mhIve
+R1 SUPPORT ARG1:l92K8O9xBA ARG2:7i672mhIve
+R2 SUPPORT ARG1:RKcEByu4UD ARG2:7i672mhIve
+R3 SUPPORT ARG1:8BkBrKlCfa ARG2:7i672mhIve
+R4 SUPPORT ARG1:mxeVkEm1Im ARG2:7i672mhIve
+R5 SUPPORT ARG1:1JKQaSCcpZ ARG2:7i672mhIve
+R6 SUPPORT ARG1:OcqfqqZE-O ARG2:YFUnkz6_eg
+R7 SUPPORT ARG1:EYHmdePM6f ARG2:YFUnkz6_eg
+R8 SUPPORT ARG1:5723Vd99tg ARG2:YFUnkz6_eg
+R9 SUPPORT ARG1:amL9Xi-ziu ARG2:YFUnkz6_eg
+R10 SUPPORT ARG1:FrZwnxxOmq ARG2:YFUnkz6_eg
+R11 SUPPORT ARG1:hrrffGbKLQ ARG2:YFUnkz6_eg
+R12 SUPPORT ARG1:FxqXScqjPi ARG2:YFUnkz6_eg
+R13 SUPPORT ARG1:E_dlooWgLn ARG2:YFUnkz6_eg

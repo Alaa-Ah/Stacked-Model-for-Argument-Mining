@@ -1,0 +1,13 @@
+UXVLSJte5F NON-ARG 520 541 Yes, John, it’s Dave.
+Q4VqJx9QY0 NON-ARG 542 605 Just on that question, we’re not commenting specifically on Q1.
+b8R3oonZnp CLAIM-Fact 606 754 We didn’t see anything in Q4 that indicated broad-based macro weakness beyond of course the impact that FX was having, which was pretty significant.
+Ak1n1mWcuJ PREMISE-Statistic 755 856 I mean we saw the impact in places like Brazil, where you’ve gotten in currency headwind of over 30%.
+pSsGFS9KTd CLAIM-Reformulated 857 899 So, you’re certainly seeing that impacted.
+No8nx4WBz1 CLAIM-Fact 900 997 And obviously those sort of global macroeconomic and currency factors will continue to impact us.
+P1g0LrukcJ CLAIM-Fact 998 1119 We’re obviously benefiting from a strong secular shift to usage of mobile and we feel we’re very well positioned in that.
+2kFnJpAre2 PREMISE-Fact 1120 1399 We’re seeing more and more advertisers move to mobile; they realize that it’s no longer question of whether they need to be on mobile, but it’s really how they’re going to be on mobile, and we think we’ve got the best solution for that and we’re investing to make it even better.
+Ag4XzDEj7w CLAIM-Reformulated 1400 1550 So, I think from a secular trend point of view, we’re very well-positioned, but obviously we’ll continue to monitor the macro conditions and currency.
+R0 SUPPORT ARG1:Ak1n1mWcuJ ARG2:b8R3oonZnp
+R1 SUPPORT ARG1:2kFnJpAre2 ARG2:No8nx4WBz1
+ArgQ0 b8R3oonZnp SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 No8nx4WBz1 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

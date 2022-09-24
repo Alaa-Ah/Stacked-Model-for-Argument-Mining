@@ -1,0 +1,12 @@
+FKYZUDnfZC NON-ARG 91 96 Yeah.
+dYExUSVOJX NON-ARG 97 103 Sorry.
+bWaBZDPdbP NON-ARG 104 146 Mark's going to take China second (39:12).
+rO_yQYOD9o PREMISE-Fact 177 388 So as I've said a number of times before, our mission is to connect everyone in the world, and it's hard to do that over the long term if we don't find a way to serve more than a billion people who live in China
+0YRNgmxzYz CLAIM-Fact 390 469 So that's certainly a thing that we're going to look out at over the long term.
+IFqbnDVP-0 NON-ARG 470 607 In the specific time horizon that you mentioned, I think it's really hard to predict how this will play out or what we will end up doing.
+Fbvl5IM_sq PREMISE-Fact 608 766 But one of the big things that we need to think about here is, of course, we're only going to do this in a way that we're comfortable with over the long term.
+x0p5V5bKfe CLAIM-Fact 767 907 So this is something that we're going to continue engaging in and thinking about, how to move forward on, and long-term it's very important.
+mFpdaofIbx NON-ARG 908 944 But no news at all in the near-term.
+NhsH3fvIIO NON-ARG 171 175 Sure
+R0 SUPPORT ARG1:rO_yQYOD9o ARG2:0YRNgmxzYz
+R1 SUPPORT ARG1:Fbvl5IM_sq ARG2:x0p5V5bKfe

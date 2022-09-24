@@ -1,0 +1,48 @@
+DETbCsk2H- NON-ARG 1152 1210 I can talk about video and the business model around that.
+4RD9upA5ni PREMISE-Fact 1211 1385 So you're definitely right that there's a certain class of content which is only going to come on to Facebook if there's a good way to compensate the content owners for that.
+VGmmCN06N7 CLAIM-Fact 1386 1550 And we've recently rolled out the business model for this, which is for premium content, we'll give a revenue share on a portion of the views to the content owners.
+ZxVYyiYdua NON-ARG 1551 1594 And we've got good feedback so far on that.
+OhYo1o5D2o CLAIM-Reformulated 1595 1705 We're working with a small set of partners to start, and we'll roll it out beyond that as that keeps on going.
+C-p5zrCV3y CLAIM-Fact 1863 1934 There are a lot of people who are just sharing content socially, right,
+GgEOuUm3hi PREMISE-Fact 1935 1974 because they want to get a message out.
+aDLUJ2PcN0 CLAIM-Fact 1975 2010 That may not be business motivated.
+7FThXyPgG9 PREMISE-Fact 1706 1862 But it's important to keep in mind that there are a few different reasons why people share content on Facebook, and that's just one of the use cases, right?
+iex2SBcsC2 PREMISE-Fact 2011 2159 There are a lot of folks who are business motivated but who primarily post content in order to promote something or gain distribution for something.
+39tlQTu3us PREMISE-Fact 2160 2318 And that you can gain value without some kind of rev share, and that's why the video ecosystem has grown so quickly even before we rolled out a revenue share.
+mUiWDO5cvl CLAIM-Opinion(view) 2319 2570 And now the third class of content, which I think is going to be important and increasingly important over time is the one that you basically want to essentially trade the content for money, and that is one where you need the rev share to unlock that.
+nKYZ1J-_xj PREMISE-Fact 2571 2619 But we're getting good feedback on that upfront.
+xLQGdC3vc7 CLAIM-Reformulated 2620 2671 So we're looking forward to seeing how that trends.
+hQ76lbqQo3 CLAIM-Opinion(view) 2692 2794 On our marketer segments, we don't break out by segment, but all of our marketer segments are growing.
+OfHE4jXVhC PREMISE-Fact 2795 2929 We're seeing strong growth in brand, and we believe that's because we're delivering on the promise of personalized marketing at scale.
+EDPhBiRghv CLAIM-Fact 2930 3048 So we've worked hard on things that will help brand purchasers feel comfortable on the platform and measure their ROI.
+eg48sdN13E PREMISE-Fact 3049 3256 So that's where TRP buying comes in, allowing people who usually buy TV ads to plan, buy and measure Facebook ads the same way, enables apples-to-apples comparison that we believe is very strong for our ROI.
+5Jw0e-4lJv PREMISE-Fact 3257 3393 We've also worked on brand awareness optimization, mobile polling to measure campaign effectiveness, and we're working client by client.
+14rx_efbGN CLAIM-Reformulated 3394 3433 Our other segments are growing as well.
+S6hXJ2XOPi PREMISE-Fact 3434 3543 We're working hard in the direct response area, rolling out things like carousel ads and dynamic product ads.
+De2VPcUF-z CLAIM-Fact 3544 3654 And one thing that's worth understanding is that all of these different marketer segments often work together.
+bhchYBsHeg PREMISE-RealExample 3655 3750 So to share one example, IKEA wanted to boost their online sales when their stores were closed.
+TwS0dYG3oN PREMISE-RealExample 3751 3816 So in Norway, most retailers are closed Saturday to Sunday night.
+JZaOd6ClV0 PREMISE-Statistic 3817 4030 So they invested in carousel ads and only show them when their stores were closed and they turned a $35,000 investment in carousel ads into $2 million in sales which happened precisely when they want it to happen.
+c0izboICAF CLAIM-Fact 4031 4062 That's a direct response ad buy
+P8mrUYe-wN PREMISE-Fact 4063 4236 because it's very specific carousel ads product but it's also a brand play for them as they strengthen their brand and get people to interact with them as they want them to.
+R0 SUPPORT ARG1:4RD9upA5ni ARG2:VGmmCN06N7
+R1 SUPPORT ARG1:7FThXyPgG9 ARG2:C-p5zrCV3y
+R2 SUPPORT ARG1:GgEOuUm3hi ARG2:C-p5zrCV3y
+R3 SUPPORT ARG1:iex2SBcsC2 ARG2:aDLUJ2PcN0
+R4 SUPPORT ARG1:39tlQTu3us ARG2:aDLUJ2PcN0
+R5 SUPPORT ARG1:nKYZ1J-_xj ARG2:mUiWDO5cvl
+R6 SUPPORT ARG1:OfHE4jXVhC ARG2:hQ76lbqQo3
+R7 SUPPORT ARG1:eg48sdN13E ARG2:EDPhBiRghv
+R8 SUPPORT ARG1:S6hXJ2XOPi ARG2:EDPhBiRghv
+R9 SUPPORT ARG1:bhchYBsHeg ARG2:De2VPcUF-z
+R10 SUPPORT ARG1:TwS0dYG3oN ARG2:De2VPcUF-z
+R11 SUPPORT ARG1:JZaOd6ClV0 ARG2:De2VPcUF-z
+R12 SUPPORT ARG1:P8mrUYe-wN ARG2:c0izboICAF
+ArgQ0 VGmmCN06N7 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 C-p5zrCV3y SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 aDLUJ2PcN0 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 mUiWDO5cvl SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 hQ76lbqQo3 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 EDPhBiRghv SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ6 De2VPcUF-z SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ7 c0izboICAF SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

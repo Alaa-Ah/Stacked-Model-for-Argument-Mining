@@ -1,0 +1,35 @@
+LB6r-JXACV NON-ARG 512 536 Thanks for the question.
+kBOHUta4q0 CLAIM-Opinion(view) 721 774 And we're really proud of the growth of the business.
+PDJtJy8T7c PREMISE-Statistic 775 906 The watch units more than doubled in six of our top ten markets, which is phenomenal growth, particularly in a non-holiday quarter.
+LFhEPOX_xk CLAIM-Reformulated 907 952 And so we couldn't be more satisfied with it.
+lmILVyfQXw CLAIM-Opinion(view) 1481 1604 The watch hasn't out very long and AirPods has been out there for three, four months, and so we feel really great about it.
+riIgoZ78YB NON-ARG 1605 1622 Where does it go?
+2a1iTgpk-u CLAIM-Opinion(view) 1704 1796 And I think in terms of competition falling out and so forth, the watch area is really hard.
+_e0RH7NnvN PREMISE-Fact 1797 1908 It in essence from an engineering point of view is similar to a phone in terms of the intricacies and so forth.
+BmcryfUvd7 CLAIM-Opinion(view) 1979 2102 But we're very committed to it and believe that – it's already a big business and believe over time it will be even larger.
+qA0rtJRYZs NON-ARG 2103 2127 Thanks for the question.
+fA-T1RpJQS CLAIM-Reformulated 1623 1703 I wouldn't want to comment on that, but we do have a really great pipeline here.
+sngBuCFk3q CLAIM-Fact 537 628 We have seen the watch as a really key product category for us since before we launched it.
+8Yav_W1nMC PREMISE-Fact 629 720 We took our time to get it right, and we've made it even better with the Series 2 offering.
+D9WKlu1fGb CLAIM-Opinion(view) 1909 1978 And so I'm not very surprised that some people are falling out of it.
+bMFhFcbv1F PREMISE-Fact 1129 1223 It's still very much in the ramping mode, and we're not coming close to satisfying the demand.
+onAa3S5JIP PREMISE-Fact 1224 1417 And then add the Beats products that a group of our customers really enjoy as well, and look on the trailing 12 months – so this is not a forecast – that business was well into the Fortune 500.
+_xnhJqRupW NON-ARG 1418 1480 And so as I look at that, that's pretty fast to come that far.
+Mh6JcxYZga PREMISE-Fact 953 1128 As some people are doing when you begin to combine the watch revenues with the revenues for AirPods, and as you know, this was the first full quarter of shipments for AirPods.
+CzQkxKxEee NON-ARG 2530 2590 I only glanced at it, and so I haven't had time to study it.
+cd61e8cilX NON-ARG 2591 2786 But in general, what we are seeing, we're seeing what we believe to be a pause in purchases on iPhone, which we believe are due to the earlier and much more frequent reports about future iPhones.
+UGS8yogYVW NON-ARG 2787 2864 And so that part is clearly going on, and it could be what's behind the data.
+tQtJfM3Chy NON-ARG 2865 2923 I don't know, but we are seeing that in full transparency.
+wIP5YqVkPN NON-ARG 2978 3002 Thanks for the question.
+IE2EYXpWue NON-ARG 3017 3034 Thank you, Steve.
+BoY-9JBBKo NON-ARG 3035 3073 Can we have the next question, please?
+R0 SUPPORT ARG1:8Yav_W1nMC ARG2:sngBuCFk3q
+R1 SUPPORT ARG1:PDJtJy8T7c ARG2:kBOHUta4q0
+R2 SUPPORT ARG1:Mh6JcxYZga ARG2:lmILVyfQXw
+R3 SUPPORT ARG1:bMFhFcbv1F ARG2:lmILVyfQXw
+R4 SUPPORT ARG1:onAa3S5JIP ARG2:lmILVyfQXw
+R5 SUPPORT ARG1:_e0RH7NnvN ARG2:2a1iTgpk-u
+ArgQ0 sngBuCFk3q SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 kBOHUta4q0 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 lmILVyfQXw SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ3 2a1iTgpk-u SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

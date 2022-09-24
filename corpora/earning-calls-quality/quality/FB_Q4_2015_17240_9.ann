@@ -1,0 +1,25 @@
+Z3kc31USEV CLAIM-Fact 601 699 When we introduce ads into feed and continue to increase the ad load, we monitor really carefully.
+1Ij0Jod2cx PREMISE-Fact 700 785 We’re looking at user engagement on the platform, we also look at the quality of ads.
+xWNfg0Wyyk CLAIM-Opinion(view) 786 928 And our basic belief is that if we have high quality ads, those create a good consumer experience and we can look at what consumers are doing,
+PGNtLnM4FK PREMISE-Fact 929 1001 because we can understand how actively engaged they are on the platform.
+1Ncv0gx5lA CLAIM-Opinion(view) 1045 1103 Instagram, and we’re pleased with the growth on Instagram.
+DrAbZ4-cg7 PREMISE-Statistic 1104 1199 And as I mentioned, 98 of our top 100 advertisers in Facebook are now advertising on Instagram.
+BVQ4Yjh9HZ PREMISE-Fact 1200 1270 It’s also the case that Facebook had remarkably strong growth as well.
+ENqYsJ1dz6 CLAIM-Fact 1271 1325 So, we’re seeing strong growth across those platforms.
+y6rDq-xoRL CLAIM-Opinion(view) 1326 1490 I think what’s exciting about those platforms is that they combine the art and the science of both a creative canvas that marketers are excited about and targeting.
+4xiCIeb3Kq PREMISE-RealExample 1491 1637 So to share another example from a holiday, Shutterfly did a Facebook and Instagram, both the brand and direct response holiday campaign on mobile
+lFEoncCpFT PREMISE-Statistic 1639 1840 And what they did was just beautiful pictures but also targeting very specifically to women with specific interest, such as things like weddings and babies, and they saw a 6.4 times return on ad spend.
+Ta5wL8FagC NON-ARG 1841 1981 We think that’s what’s possible when you combine the creative canvas we have using the technology and using the platform that we’ve created.
+CmTvF8gueI NON-ARG 1002 1044 For Instagram, we don’t break out revenue.
+R0 SUPPORT ARG1:1Ij0Jod2cx ARG2:Z3kc31USEV
+R1 SUPPORT ARG1:PGNtLnM4FK ARG2:xWNfg0Wyyk
+R2 SUPPORT ARG1:DrAbZ4-cg7 ARG2:1Ncv0gx5lA
+R3 SUPPORT ARG1:BVQ4Yjh9HZ ARG2:ENqYsJ1dz6
+R4 SUPPORT ARG1:DrAbZ4-cg7 ARG2:ENqYsJ1dz6
+R5 SUPPORT ARG1:4xiCIeb3Kq ARG2:y6rDq-xoRL
+R6 SUPPORT ARG1:lFEoncCpFT ARG2:y6rDq-xoRL
+ArgQ0 Z3kc31USEV SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 xWNfg0Wyyk SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 1Ncv0gx5lA SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 ENqYsJ1dz6 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 y6rDq-xoRL SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

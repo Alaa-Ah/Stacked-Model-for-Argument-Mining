@@ -1,0 +1,35 @@
+paErJc9Qa9 CLAIM-Opinion(view) 3088 3251 Justin, then your question on ARPU in the U.S., we do think that there are opportunities to continue to grow the business in the U.S. on a lot of different fronts.
+wccKkgtP4M CLAIM-Reformulated 3252 3472 So we can continue to grow engagement on core Facebook, as well as there are opportunities with Instagram and the other services that we have that are not monetizing significantly today, so there are opportunities there.
+MKEG8g2Ic3 PREMISE-Fact 3473 3738 But most importantly, I would go back to the fact that we're getting better on the ad product side of being able to optimize our inventory for the advertisers in a way that will we think drive good pricing in the system for us and good outcomes for the advertisers.
+mmPDf_DPSl CLAIM-Opinion(view) 3739 3832 So we do think that that will lead to the potential for additional revenue growth in the U.S.
+QFbaxIajKM NON-ARG 659 740 I'll talk about video engagement, and then Dave can jump in on some of the stats.
+LRvINnfnt_ CLAIM-Fact 741 959 So one of the important points here that I tried to communicate in my comments up front is that connecting with friends and family and having those meaningful interactions is more important than just consuming content.
+Ncjdj-wvOp PREMISE-Fact 960 1088 So video is growing incredibly quickly, and that goes across both social content and more passive public consumption of content.
+5IR5_erRPV CLAIM-Reformulated 1089 1191 And they create different dynamics in the system, and I think that's an important thing to understand.
+VWz92z8ejs PREMISE-Fact 1192 1294 When your friend posts something and you get to engage with it, it might inform you and entertain you.
+2XBXBnx8X1 PREMISE-Fact 1295 1497 But you also, if you interact with it, you're building a relationship with that person or you feel closer to that person, and that is a really important part of what social networking is supposed to do.
+4XK0gZivl0 PREMISE-Fact 1498 1692 Whereas when you engage with public content, you might get informed or be entertained, but it's not necessarily increasing social capital in the same way or building relationships between people
+g_8S9Nr_Fl CLAIM-Reformulated 1694 1849 So we really differentiate what the core thing is that we're trying to do, which is help people connect with each other and build meaningful relationships.
+NWGMLTEzWI PREMISE-Fact 1850 2033 And that's why on a lot of these calls, I emphasize products like Instagram Stories or WhatsApp Status, which are very video-based products, but they're improving social interactions.
+KDgzBje2_v CLAIM-Fact 2034 2133 And we're going to focus a lot more on helping people share videos of their moments in their lives.
+khBATqK0M0 CLAIM-Opinion(view) 2484 2533 What we really want to go for is time well spent.
+ODd5lHGl0u CLAIM-Reformulated 2534 2731 And what the research that we found shows is that when you're actually engaging with people and having meaningful connections, that's time well spent, and that's the thing that we want to focus on.
+nBRuQhHLNd CLAIM-Reformulated 2732 2880 So out of this big video thing that's growing very quickly, I think that is the real opportunity and product area that we should be focused on more.
+SSxPtgCjiL CLAIM-Reformulated 2881 3070 And to the extent that there is going be a lot of public content, which there will be, a big part of the focus is going to be around building community and interactions around that content.
+-out134HYK PREMISE-Hypothesis 2134 2337 Because in a lot of ways, I think if you take a video of yourself and your family out trick-or-treating, that's more engaging than a photo and a better representation of that than writing it out in text.
+bFhL70dJA5 PREMISE-Fact 2338 2399 But overall, I would say not all time spent is created equal.
+qtNbM03Wat CLAIM-Fact 2400 2483 That's why I tried to stress up front that time spent is not a goal by itself here.
+R0 SUPPORT ARG1:Ncjdj-wvOp ARG2:LRvINnfnt_
+R1 SUPPORT ARG1:VWz92z8ejs ARG2:5IR5_erRPV
+R2 SUPPORT ARG1:2XBXBnx8X1 ARG2:5IR5_erRPV
+R3 SUPPORT ARG1:4XK0gZivl0 ARG2:5IR5_erRPV
+R4 SUPPORT ARG1:NWGMLTEzWI ARG2:g_8S9Nr_Fl
+R5 SUPPORT ARG1:MKEG8g2Ic3 ARG2:mmPDf_DPSl
+R6 SUPPORT ARG1:-out134HYK ARG2:KDgzBje2_v
+R7 SUPPORT ARG1:bFhL70dJA5 ARG2:qtNbM03Wat
+ArgQ0 LRvINnfnt_ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 5IR5_erRPV SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 g_8S9Nr_Fl SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 mmPDf_DPSl SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 KDgzBje2_v SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 qtNbM03Wat SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

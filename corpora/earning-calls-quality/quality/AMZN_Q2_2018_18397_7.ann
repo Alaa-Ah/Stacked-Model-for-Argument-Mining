@@ -1,0 +1,10 @@
+cIHmW_Y1vA NON-ARG 753 758 Yeah.
+I5GJwijtHy NON-ARG 759 785 Hey, Youssef this is Dave.
+JTztZXsj8X NON-ARG 1219 1282 As you could imagine some of these are still really early days.
+tHfBfMnvzV NON-ARG 1133 1218 We haven't said – and to your second point we've not talked about any kind of trends.
+e_msiJXBV0 CLAIM-Fact 917 961 For 3P sellers right now, it's three states.
+q8NqdROldz CLAIM-Reformulated 1073 1132 So those are the ones where we're collecting and remitting.
+ceyaqiIxrJ PREMISE-Fact 962 1072 So Washington State started as of January 1, Pennsylvania as of April 1, and most recently Oklahoma on July 1.
+8AC1w1_i3M CLAIM-Fact 786 916 So right now, as you mentioned 45 states that have state-imposed sales tax, first-party products we do our own collection on that.
+R0 SUPPORT ARG1:ceyaqiIxrJ ARG2:e_msiJXBV0
+ArgQ0 e_msiJXBV0 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

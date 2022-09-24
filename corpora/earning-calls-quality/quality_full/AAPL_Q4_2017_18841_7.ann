@@ -1,0 +1,36 @@
+k3wR2JIaoR CLAIM-Opinion(view) 3377 3430 I think, Steve, we've been in a competitive position.
+aA6y9HO6Tr NON-ARG 3431 3522 And so I probably maybe have a different view than you do or the folks that you're quoting.
+N0_8cFCItT NON-ARG 3523 3566 There's always doubting Thomases out there.
+Q0Ha--vOsd NON-ARG 3567 3682 And I've been hearing those for the 20 years I've been here and suspect I'll hear about them until I retire, right.
+Tf1WEAZlX5 NON-ARG 3683 3725 So I don't really listen to that too much.
+KlTt7qU4WH CLAIM-Fact 3726 3802 There's lots of fantastic people here and they're doing unbelievable things.
+RYasRPy2tG CLAIM-Opinion(view) 3803 3834 And yes, I view AR as profound.
+y_Tly3aWuH NON-ARG 3835 3934 Not today, not the app that you'll see on the App Store today, but what it will be, what it can be.
+mqE0BbWGuR CLAIM-Reformulated 3935 4027 I think it's profound and I think Apple is in a really unique position to lead in this area.
+dfDvWUBU6G NON-ARG 4042 4059 Thank you, Steve.
+Ll5zBdh9bb NON-ARG 4060 4100 Could we have the next question, please?
+j-v9Rc9N16 NON-ARG 737 780 Obviously, I'm not going to talk about mix.
+fmgsAqPv0a NON-ARG 781 826 That's something that we've done in the past.
+oNcjeP92zU PREMISE-Fact 827 934 If you look at the 8 and 8 Plus, when we launched them, they instantly became our top two selling products.
+UiGQCiEEgd PREMISE-Fact 935 1118 If you look at 8 Plus in particular, to provide a little color there, 8 Plus for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model.
+v8LLtFsJ7u CLAIM-Opinion(view) 1119 1191 That for us was a bit of a surprise, and a positive surprise, obviously.
+HkifwGGxLr NON-ARG 1192 1227 And so we'll see what happens next.
+k5N1hcZM_d CLAIM-Opinion(view) 1228 1461 As I've mentioned before, we've never had three products and it's only today that the first customers can sort of look at all three of those and I'm sure there's been some people that wanted to do that before deciding even which one.
+p2s7jO9S9a NON-ARG 1462 1498 And so we'll see what happens there.
+Ok-nY9tq_c CLAIM-Opinion(view) 1499 1625 But in terms of price elasticity, I think it's important to remember that a large number of people pay for the phone by month.
+a42iYwIPaR PREMISE-Other 1626 1824 And so if you were to go out on just the U.S., since that tends to be more of the focus of this call, you look at the U.S. carriers, I think you would find you could buy an iPhone X for $33 a month.
+UCpsSuRejf NON-ARG 1825 1885 And so if you think about that, that's a few coffees a week.
+BzvGxTQVfB NON-ARG 1886 1961 It's let's say less than a coffee a day at one of these nice coffee places.
+vGb23LBwHk PREMISE-Fact 1962 2073 The other thing to keep in mind is that many people are now trading in their current iPhone on the next iPhone.
+wav3YTpoBO NON-ARG 2330 2398 And so I do think it's important to try to place it in that context.
+sV8Sa4784w NON-ARG 2257 2329 And then obviously, some carriers also have promotional things going on.
+WkCbCi9ss- CLAIM-Fact 2399 2480 In terms of the way we price, we price to sort of the value that we're providing.
+bUYPsFiX6H NON-ARG 2481 2561 We're not trying to charge the highest price we could get or anything like that.
+Yrl7dpszSf CLAIM-Reformulated 2562 2618 We're just trying to price it for what we're delivering.
+L-EsbQUW6r CLAIM-Fact 2074 2256 And the residual value for iPhone tends to be the highest in the industry and many people pick up $300, $350 or so for their iPhone and so that even reduces the monthly payment less.
+szCIPWT6ZW CLAIM-Fact 2619 2801 And iPhone X has a lot of great new technologies in there that are leading the industry, and it is a fabulous product and we can't wait for people to start getting it in their hands.
+R0 SUPPORT ARG1:oNcjeP92zU ARG2:v8LLtFsJ7u
+R1 SUPPORT ARG1:UiGQCiEEgd ARG2:v8LLtFsJ7u
+R2 SUPPORT ARG1:vGb23LBwHk ARG2:L-EsbQUW6r
+ArgQ0 v8LLtFsJ7u SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 L-EsbQUW6r SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

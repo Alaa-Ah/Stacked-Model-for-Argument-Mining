@@ -1,0 +1,57 @@
+NBUlf2Kaiy NON-ARG 4624 4629 Yeah.
+BI5jDAPFkH CLAIM-Opinion(view) 5354 5401 I think Apple has a huge opportunity in health.
+jZinSH-hlt NON-ARG 5570 5708 And I don't want to talk about the future because I don't want to give away what we're doing, but this is an area of major interest to us.
+2Va27HRXnv NON-ARG 5709 5719 Thank you.
+Dws34KLSmu NON-ARG 5734 5751 Thank you, Wamsi.
+bbQRvBi3xJ NON-ARG 5752 5792 Could we have the next question, please?
+o1B4X9YtoT CLAIM-Fact 5402 5569 And you can see from our past several years that we have an intense interest in the space and are adding products and services, non-monetized services, so far to that.
+BmhXqUOjvg NON-ARG 673 678 Sure.
+9KGSgzXacU NON-ARG 679 694 Great question.
+8h1Ds8fkuY NON-ARG 695 726 Starting with emerging markets.
+w5QZjR2pk1 PREMISE-Fact 727 825 The emerging markets that we're seeing pressure in are markets like Turkey, India, Brazil, Russia.
+QCpShuMiSj PREMISE-Fact 826 898 These are markets where currencies have weakened over the recent period.
+MBJgtfOLBN CLAIM-Opinion(view) 899 1012 In some cases, that resulted in us raising prices and those markets are not growing the way we would like to see.
+z_ITTFmy8e PREMISE-Fact 1013 1095 To give you a perspective in of some detail, our business in India in Q4 was flat.
+zgX2FL6EBW PREMISE-Fact 1151 1206 Brazil was down somewhat compared to the previous year.
+lfZSsey8jF CLAIM-Opinion(view) 1207 1417 And so I think, or at least the way that I see these, is each one of the emerging markets has a bit of a different story, and I don't see it as some sort of issue that is common between those for the most part.
+FGr4MgxkEi CLAIM-Reformulated 1096 1150 Obviously, we would like to see that be a huge growth.
+K6lpDgZcPb NON-ARG 1418 1492 In relation to China specifically, I would not put China in that category.
+YAL9xsnbVb CLAIM-Fact 1493 1544 Our business in China was very strong last quarter.
+UhRnkkBBs6 PREMISE-Statistic 1545 1586 We grew 16%, which we're very happy with.
+66mO7jNf6z PREMISE-Fact 1587 1663 iPhone in particular was very strong, very strong double-digit growth there.
+LTXSmCcfDL PREMISE-Fact 1664 1772 Our other products category was also stronger, in fact, a bit stronger than even the overall company number.
+EdBxgTp0iD NON-ARG 2078 2225 And as you've probably seen, some of the larger companies there that are public have talked about this as they've announced their earnings as well.
+xBz5Tf52Ee NON-ARG 2226 2345 We don't know exactly when this will – the approvals will return to a normal pace, so I would not want to predict that.
+uUc3XsLT8V CLAIM-Opinion(view) 2346 2501 I do not view – just for avoidance of doubt here, I don't view that that issue has anything to do with the trade-related discussions between the countries.
+DMA4TbiWKX CLAIM-Fact 2554 2717 In terms of larger developers, if you step back and look at the value proposition for people from the App Store, there are two key constituencies in that equation.
+9bo9fh9O7k CLAIM-Fact 2718 2761 There's the user and there's the developer.
+OL3BklMnCe CLAIM-Fact 2762 2876 If you start with the user, what the App Store provides people is the best and safest place for users to get apps.
+3KDtJmnU3l CLAIM-Fact 2877 2951 And we have a tremendous process and infrastructure around achieving that.
+-1eIypd9-Z PREMISE-Statistic 2952 3133 And where it is not perfect, we wind up reviewing over 100,000 apps per week between new apps and updates for existing apps, and then work with developers quickly to fix the issues.
+XFnu6lPgqy PREMISE-Fact 3134 3361 And we also provide the user a one-payment model for purchasing apps and subscriptions and in-app purchases, et cetera, so that they are not in a position that they have to share their private information across many companies.
+5Aj3H6hdgV CLAIM-Reformulated 3362 3405 And so that's the proposition for the user.
+zViusjqMCp CLAIM-Fact 3406 3618 For the developer, we obviously provide the developers a tremendous amount of developer tools, programs, compilers, languages, of course the operating system, APIs, SDKs, and have a huge developer relations team.
+M-quYK8_VQ CLAIM-Fact 3619 3820 And we do a tremendous amount of marketing for developers, including the new Today Editorial that we just started in the past few months, personal recommendations, search tools, and so on and so forth.
+NU0irJW-dw CLAIM-Opinion(view) 3821 3975 And so there will be – there's no doubt in my mind there have already been some large developers that concluded that they could do something on their own.
+WzE4BAx3_V NON-ARG 3976 3997 We're fine with that.
+gQ01YNVtnd PREMISE-Statistic 3998 4294 I think Luca mentioned in his comments that the largest – if I look at the largest developer, they make up less than 0.3% of the services revenue, so it's probably good to think about that in that context, and there are millions of apps on the store obviously, and 30,000 or so subscription apps.
+n03W14-Gep CLAIM-Opinion(view) 4419 4546 I think that the vast majority of people are very happy with it, including the most important people at all, which is the user.
+QAGKN0KSYk CLAIM-Fact 4295 4418 And so the subscription business itself is nearly as broad as the App Store itself is, and so that's the value proposition.
+pNWqKRz8RI CLAIM-Reformulated 2502 2553 I think that is strictly a domestic issue in China.
+CQDhAlT93b NON-ARG 1773 1881 The App Store in China, we have seen a slowdown or a moratorium, to be more accurate, on new game approvals.
+6KjzgOzWiw NON-ARG 1882 1992 There is a new regulatory setup in China, and there things are not moving the way they were moving previously.
+YFNnjUUm4f NON-ARG 1993 2077 We did see a few games approved recently, but it's very far below the historic pace.
+R0 SUPPORT ARG1:w5QZjR2pk1 ARG2:MBJgtfOLBN
+R1 SUPPORT ARG1:QCpShuMiSj ARG2:MBJgtfOLBN
+R2 SUPPORT ARG1:z_ITTFmy8e ARG2:MBJgtfOLBN
+R3 SUPPORT ARG1:zgX2FL6EBW ARG2:MBJgtfOLBN
+R4 SUPPORT ARG1:UhRnkkBBs6 ARG2:YAL9xsnbVb
+R5 SUPPORT ARG1:66mO7jNf6z ARG2:YAL9xsnbVb
+R6 SUPPORT ARG1:LTXSmCcfDL ARG2:YAL9xsnbVb
+R7 SUPPORT ARG1:-1eIypd9-Z ARG2:3KDtJmnU3l
+R8 SUPPORT ARG1:XFnu6lPgqy ARG2:3KDtJmnU3l
+R9 SUPPORT ARG1:gQ01YNVtnd ARG2:QAGKN0KSYk
+ArgQ0 MBJgtfOLBN SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 YAL9xsnbVb SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ2 3KDtJmnU3l SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 QAGKN0KSYk SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

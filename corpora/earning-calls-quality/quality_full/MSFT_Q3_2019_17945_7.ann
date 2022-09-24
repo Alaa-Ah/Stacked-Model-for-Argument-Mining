@@ -1,0 +1,14 @@
+fpkylP88gh NON-ARG 648 727 Yes, maybe I can start on the second part and then leads to the first question.
+e8IrzfB4Sm CLAIM-Opinion(view) 1399 1830 The one additional thing I’d mention, which is increasingly becoming clearer to us is operational sovereignty will become important, the world and its distributed computing needs is not going to become some margin as set of requirements but it's going to be very heterogeneous, very in many cases regulated and so what we provide in terms of both the technology and the business model I think shows up with the maximum flexibility.
+_bzew3CjzO CLAIM-Opinion(view) 728 854 I would say Mark the main thing that this offering enables is the flexibility with which customers can adopt hybrid computing.
+3qxtT1YnWQ PREMISE-Fact 855 1051 And as I've always said that there is -- hybrid computing is important for workloads that are more in the characteristic -- can be characterized as lift, shift and modernize, so that's one motion.
+_5GAvxRbea PREMISE-Fact 1052 1223 And then there is a new load hybrid as well which is people are building in fact they're doing AI training job in the cloud but want to deploy the model close to the edge.
+0WE6XIGSf1 PREMISE-Fact 1224 1398 And in both of the cases, hybrid benefits actually help with -- our business model is basically differentiated in supporting the architectural need and the flexibility needs.
+h863jtO-ZG NON-ARG 1841 1975 And then let me talk a little bit about the question from server products and services and how to think about the hybrid use benefits.
+3ZZvownAhf CLAIM-Fact 1976 2369 In general today Mark almost all of that benefit shows up in what I would say as the on-premise KPI, and so over time though how you should think about that it will eventually show up in Azure consumed revenue growth, this is a benefit that’s fundamentally about high value and flexibility and meeting customers where they are so that they can make a determination of when to make that choice.
+TNBjpEf9ax CLAIM-Reformulated 2567 2783 But to your specific questions it shows up today in the on-prem number is where you can see most of the strength of that value and over time as it gets used and consumed it will show lot more in the Azure ACR number.
+4qn-IrLKRY CLAIM-Fact 2370 2566 And so it tends to be like it's focusing people back on the all up KPI because it's a best representation of where customer commitment and usage of our architected from the beginning hybrid cloud.
+R0 SUPPORT ARG1:3qxtT1YnWQ ARG2:_bzew3CjzO
+R1 SUPPORT ARG1:_5GAvxRbea ARG2:_bzew3CjzO
+R2 SUPPORT ARG1:0WE6XIGSf1 ARG2:_bzew3CjzO
+ArgQ0 _bzew3CjzO SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

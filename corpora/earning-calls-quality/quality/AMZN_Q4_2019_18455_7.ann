@@ -1,0 +1,18 @@
+aObYqqySf4 NON-ARG 783 809 Yes Stephen, this is Dave.
+LNYSN6pwkQ NON-ARG 810 834 Thanks for the question.
+LUqIrKhLlZ CLAIM-Opinion(view) 835 1026 As you said, I think as we mentioned this in the release, we're definitely continuing to improve the experience in India for customers and sellers, excited by some of the response we've seen.
+m3gu5rfZb0 CLAIM-Fact 1027 1138 We are continuing to invest meaningfully in digitizing those say MSMBs micro-small and medium-sized businesses.
+nrK1FTTgpd PREMISE-Statistic 1139 1249 We did pledge to invest $1 billion to help digitize traders and those micro and small businesses across India.
+Wmv94V_4vW PREMISE-Statistic 1250 1319 And we've got a goal of bringing more than 10 million online by 2025.
+ZoPNOiiZdW PREMISE-Statistic 1320 1420 So, this $1 billion investment will help to enable $10 billion in cumulative Indian exports by 2025.
+tbwDfQBIxa CLAIM-Fact 1421 1551 A lot of different facets to those types of investments, won't go into too much for specifics, but a lot of work being done there.
+EoNPUVrlL0 CLAIM-Fact 1552 1610 We're also focused on job growth, job creation over there.
+3Tf6teqqSt PREMISE-Statistic 1611 1704 Since we launched over in India in 2013, we've created over 700,000 direct and indirect jobs.
+HZEs99e_H1 PREMISE-Statistic 1705 1799 So -- we also recently announced plans to create additional one million jobs in India by 2025.
+R0 SUPPORT ARG1:nrK1FTTgpd ARG2:m3gu5rfZb0
+R1 SUPPORT ARG1:Wmv94V_4vW ARG2:m3gu5rfZb0
+R2 SUPPORT ARG1:ZoPNOiiZdW ARG2:m3gu5rfZb0
+R3 SUPPORT ARG1:3Tf6teqqSt ARG2:EoNPUVrlL0
+R4 SUPPORT ARG1:HZEs99e_H1 ARG2:EoNPUVrlL0
+ArgQ0 m3gu5rfZb0 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 EoNPUVrlL0 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

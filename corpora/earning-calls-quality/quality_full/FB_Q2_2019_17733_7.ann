@@ -1,0 +1,17 @@
+c_gxYkOE51 NON-ARG 638 643 Sure.
+95DYmLmtJx PREMISE-Fact 830 994 We are seeing faster growth in impressions coming from Stories and then also coming from geographies that monetize at lower rates on things like Facebook News Feed.
+9bYOLYWjnD PREMISE-Fact 995 1115 So even though we’re seeing good impression growth that’s impression growth it’s flowing through at a lower price point.
+bw73Y8axAF PREMISE-Fact 1116 1171 Then, the way that growth was driven in the prior year.
+TPAoSHroO0 CLAIM-Fact 1172 1279 So that’s contributing to some of the deceleration, specifically as we look out into the remainder of 2019.
+QPuI49Ulah CLAIM-Fact 1280 1365 When we get into Q4, we’re going to be similar to how we had good product wins in Q2.
+YZaGwlb8Sk PREMISE-Fact 1366 1465 We also had several product optimizations in Q4 that contributed a strong performance that quarter.
+q1b2-Ab1_N CLAIM-Fact 1466 1522 So, we’re going to have a tougher compare on that basis.
+PdLWncxku2 CLAIM-Reformulated 1523 1749 So, just broadly, I think we expect the revenue deceleration trend that Q2 is not mark a reversal of that, but we expect to kind of return to constant currency revenue growth deceleration as you get into the remainder of 2019.
+dIYn90L35a CLAIM-Fact 644 768 Ross, I mean if you remember we’re seeing good impression growth across Instagram Stories, Instagram Feed and Facebook Feed.
+i9QAcIEWn0 CLAIM-Reformulated 769 829 So, we’re seeing good impression growth across all of those.
+R0 SUPPORT ARG1:95DYmLmtJx ARG2:TPAoSHroO0
+R1 SUPPORT ARG1:9bYOLYWjnD ARG2:TPAoSHroO0
+R2 SUPPORT ARG1:bw73Y8axAF ARG2:TPAoSHroO0
+R3 SUPPORT ARG1:YZaGwlb8Sk ARG2:q1b2-Ab1_N
+ArgQ0 TPAoSHroO0 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 q1b2-Ab1_N SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

@@ -1,0 +1,27 @@
+XQBce2qTrK NON-ARG 1055 1113 Now the next question is what’s the uniqueness of Windows?
+6Q3accgCEn CLAIM-Fact 632 875 Yeah so overall at the highest level, our strategy here is to make sure that the Microsoft Services i.e. cloud services be it Azure, Office 365, CRM Online or Enterprise Mobility suite are covering all the devices out there in the marketplace.
+LwfY2sgQAb PREMISE-Fact 876 989 So that, that way we maximize the opportunity we have for each of these subscription and capacity based services.
+J_VTcR3PwC CLAIM-Reformulated 990 1054 So that’s the core rational for why we are doing cross platform.
+lO2qVGSVe6 PREMISE-Fact 1114 1282 And the uniqueness of Windows comes because we don’t think of these services and their application end points as apps, but fundamentally core to the Windows experience.
+KoSmIdOgvH CLAIM-Fact 1283 1329 So we are building them natively into windows.
+qlgVlUNIWi PREMISE-RealExample 1330 1427 So for example, when you log into Windows, you are logging in with Microsoft account or Azure ID.
+bfxTvPSyls PREMISE-Fact 1428 1482 When you have files, they are synching with one drive.
+0kFlsO9amg PREMISE-Fact 1483 1523 Outlook is the email client for Windows.
+W-tY0BcV9d PREMISE-Fact 1524 1622 So that’s how Windows will differentiate and not to mention, our Gaming and Xbox Live experiences.
+jG8hSjcu3w NON-ARG 2049 2056 Thanks.
+h94anOwFb1 NON-ARG 2057 2111 That wraps up the Q&A portion of today’s earning call.
+hQubwWisDA NON-ARG 2112 2203 We look forward to seeing many of you in the coming months at various investor conferences.
+LpH5i0MCm_ NON-ARG 2204 2339 For those unable to attend in person, these events will generally be webcast and you can follow our comments at microsoft.com/investor.
+vjcb9G561y NON-ARG 2340 2427 Please contact us if you need any additional detail and thank you for joining us today.
+TPpoFBd61G NON-ARG 2042 2048 Great.
+1tuyQ_rUb5 CLAIM-Fact 1623 1896 So overall, we will build a differentiated Windows because our application experiences for our cloud end points will be native in windows and at the same time, we will make sure that our services are available on all end points driving more usage, more subscription growth.
+_AS85Y6_dR CLAIM-Reformulated 1897 2000 So the best way to measure our progress is Office 365 subscription growth, Azure growth and EMS growth.
+dWvbnZHlOt NON-ARG 2437 2448  Thank you.
+NYAsWXnWnd NON-ARG 2463 2474  Thank you.
+R0 SUPPORT ARG1:LwfY2sgQAb ARG2:6Q3accgCEn
+R1 SUPPORT ARG1:lO2qVGSVe6 ARG2:KoSmIdOgvH
+R2 SUPPORT ARG1:qlgVlUNIWi ARG2:KoSmIdOgvH
+R3 SUPPORT ARG1:bfxTvPSyls ARG2:KoSmIdOgvH
+R4 SUPPORT ARG1:W-tY0BcV9d ARG2:KoSmIdOgvH
+ArgQ0 6Q3accgCEn SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 KoSmIdOgvH SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

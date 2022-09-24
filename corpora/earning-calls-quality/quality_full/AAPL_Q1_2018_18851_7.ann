@@ -1,0 +1,26 @@
+MK_XJ2e4Sr CLAIM-Opinion(view) 2769 2847 And so I think the use cases on this much like our phones will be broad based.
+KtS6J8MhUi CLAIM-Reformulated 2848 3061 Some people will use it significantly for music and others may use it significantly for as a digital assistance; and I think the majority of people will likely use all of it and use all of the functionality of it.
+IheKTHoLFg PREMISE-Fact 1661 1840 HomePod is an incredible product that is a unbelievable audio experience in a very small form factor with a super digital assistant in Siri that knows an enormous amount of music.
+uY66R-cz88 PREMISE-Fact 1841 2064 But also can handle request to like home automation to close your garage door, open your door, turn the light on, turn the fireplace on, change the thermostat, all of the things that you would like to do in home automation.
+fePWX1RpSl NON-ARG 2065 2152 But takes it further, because we think do it right from the home app instead of seeing.
+_LehhEha2j NON-ARG 2153 2403 So you can see, hey Siri, I’m reading and your room will change to the things you would like happening in that particular room for when you read, maybe it’s a particular light, maybe it’s a type of light, maybe it’s the fireplace, so on and so forth.
+1NHth5Oipv PREMISE-Fact 2404 2491 It also, obviously, you can also do things with HomePod like use it as a speaker phone.
+4g-OOBLpTq NON-ARG 2492 2622 And so if you’re talking to your parents or they’re talking to their grand kids, its unbelievable audio quality for speaker phone.
+RJDpI5csUs PREMISE-Fact 2623 2720 You can also have Siri call for you, you can send messages, you can get a Uber car or a Lyft car.
+bzZwb2rotu NON-ARG 2721 2768 And so there is just a whole variety of things.
+lx-2gTyWa0 CLAIM-Opinion(view) 559 712 What I said on the investor part is that I think every investor has to look at their own situation and conclude the things that they think are important.
+nVPR2jAQ7x CLAIM-Opinion(view) 713 906 What I think is important, I think the active devices are hugely important and that's the reason that we released the number two years ago, and the reason that we’re releasing that again today.
+g2qBiJqozT PREMISE-Fact 907 1016 That number speaks to the strength of the product the loyalty of the customer, the strength of the ecosystem.
+KmfLC7eZUl CLAIM-Reformulated 1017 1062 And so we do put a lot of weight behind that.
+gt5ifqKb-Q PREMISE-Fact 1063 1113 And it obviously also fuels the services business.
+KzoTXo_CZP CLAIM-Opinion(view) 1114 1209 So I have long believed that on 90 day clock on unit sales is a very surface way to view Apple.
+TN2vzE2YJG CLAIM-Reformulated 1210 1284 I think that the far bigger thing is to look over a longer period of time.
+aa8ML3lo9E NON-ARG 1285 1376 And customer satisfaction and engagement and number of active devices are all part of that.
+R0 SUPPORT ARG1:IheKTHoLFg ARG2:MK_XJ2e4Sr
+R1 SUPPORT ARG1:uY66R-cz88 ARG2:MK_XJ2e4Sr
+R2 SUPPORT ARG1:1NHth5Oipv ARG2:MK_XJ2e4Sr
+R3 SUPPORT ARG1:RJDpI5csUs ARG2:MK_XJ2e4Sr
+R4 SUPPORT ARG1:gt5ifqKb-Q ARG2:nVPR2jAQ7x
+R5 SUPPORT ARG1:g2qBiJqozT ARG2:nVPR2jAQ7x
+ArgQ0 MK_XJ2e4Sr SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 nVPR2jAQ7x SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

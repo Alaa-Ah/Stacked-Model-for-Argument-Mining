@@ -1,0 +1,14 @@
+jelnMOMGDM NON-ARG 614 644 So in terms of - this is Phil.
+0EPVM-BqMF CLAIM-Opinion(view) 645 834 In terms of expectations, I think we were pleased with what we saw this Q4 and, you know, if you look at what we gave for guidance, we were in the upper half of the range there for revenue.
+wAjcMbPo-5 NON-ARG 835 861 So no real callouts there.
+L2gY84bgrl NON-ARG 862 914 I think, what was your second part of your question?
+83YPLzSA7- CLAIM-Fact 915 999 Oh, and mobile, we said for a long time continues to be a tailwind for the business.
+Aj34VXff8P PREMISE-Fact 1000 1183 We're working very hard to make sure that it's very easy for customers to buy the things they want to buy and access, a lot of the features they’ve grown accustomed to on the website.
+oLGm2NSW0S PREMISE-Fact 1184 1236 And so we're very focused on the convenience factor.
+WGIRBAawng PREMISE-Fact 1370 1487 As Brian's mentioned, allowed them to shop even up to Christmas Eve and then have their items delivered in two hours.
+sii4dI13XH PREMISE-Fact 1237 1369 And if you look at some of our new offerings like Prime Now that's available through a mobile app and very convenient for customers.
+R0 SUPPORT ARG1:Aj34VXff8P ARG2:83YPLzSA7-
+R1 SUPPORT ARG1:oLGm2NSW0S ARG2:83YPLzSA7-
+R2 SUPPORT ARG1:sii4dI13XH ARG2:83YPLzSA7-
+R3 SUPPORT ARG1:WGIRBAawng ARG2:83YPLzSA7-
+ArgQ0 83YPLzSA7- SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

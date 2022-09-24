@@ -1,0 +1,18 @@
+4vlW6GmC03 NON-ARG 483 504 Yes, thanks, Stephen.
+rCVvKOblSM NON-ARG 505 552 No, I don't have a usage growth number for you.
+K2rFFINp4n CLAIM-Fact 553 593 We'll say we're - it's been very strong.
+Mk2jxJzlvT PREMISE-Statistic 594 673 And AWS revenue is on a, just short of a $10 billion run rate at the end of Q4.
+FQ2-sADt-W PREMISE-Fact 674 763 As far as pricing is concerned, we had a price reduction in January for our EC2 services.
+nJAgaWMV1M PREMISE-Statistic 764 828 It was our 51st price reduction since we launched AWS years ago.
+A9G6FPz3mr CLAIM-Opinion(view) 829 883 And generally what we find is that price is important.
+aFRboRCWfO CLAIM-Opinion(view) 1110 1231 So we feel we have a lead in this space and we don't take it for granted and we want to serve customers better each year.
+4Cr0Kj8EhG PREMISE-Statistic 884 1004 But so is speed and agility for customers and the ability to deliver services and features that were beneficial to them.
+4ezPZDfo86 PREMISE-Statistic 1005 1109 I will point out that we added 722 new features and services in 2015 and that was up 40% year-over-year.
+R0 SUPPORT ARG1:nJAgaWMV1M ARG2:A9G6FPz3mr
+R1 SUPPORT ARG1:FQ2-sADt-W ARG2:A9G6FPz3mr
+R2 SUPPORT ARG1:Mk2jxJzlvT ARG2:K2rFFINp4n
+R3 SUPPORT ARG1:4Cr0Kj8EhG ARG2:aFRboRCWfO
+R4 SUPPORT ARG1:4ezPZDfo86 ARG2:aFRboRCWfO
+ArgQ0 A9G6FPz3mr SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 K2rFFINp4n SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 aFRboRCWfO SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

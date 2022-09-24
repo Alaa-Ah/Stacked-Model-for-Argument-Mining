@@ -1,0 +1,25 @@
+mAzWK-wj5M NON-ARG 892 898 Great.
+MSGGkBWUDE NON-ARG 899 909 Thank you.
+eQtuHcn23W CLAIM-Opinion(view) 910 1055 On the OEM side, the way to think about those comments is we do expect inventory levels to likely remain low as we exit the next quarter as well.
+_UM7FtetqH CLAIM-Opinion(view) 1056 1150 So think about there having -- because your -- we do expect chip supply to remain constrained.
+TrwPYEIHrh CLAIM-Opinion(view) 1151 1240 I don't expect to see any impact from changing inventory levels through the next quarter.
+0y_-eZF3tz CLAIM-Opinion(view) 1342 1527 I do think what we will see in Q3 is we're expecting a little better performance in the Pro side of the market in terms of seeing growth there, and that's probably helping a little bit.
+eCylfBS6dh CLAIM-Fact 1528 1698 To your second question on Office -- I'm sorry, on Windows Commercial overall, our real investment -- and you're right, we are starting to reach some tougher comparables.
+jMwRVgQeKP CLAIM-Fact 1241 1341 So I would sort of remove that as one of the mechanisms you're thinking about on overall OEM demand.
+RC3vqdet6U PREMISE-Fact 1699 1870 But a lot of that comparability, which you referenced, is due a little bit of how it's licensed, which is a lot of this is new and gets recognized more upfront in quarter.
+C7uPo_8ewH CLAIM-Fact 1871 1949 That's going to continue to have some lumpiness still as we go over the years.
+IipF_CRZdC CLAIM-Fact 1950 2016 As that business continues to grow, it'll get less of that impact.
+eBZ7vbfwHe CLAIM-Opinion(view) 2017 2119 The primary driver in terms of billings is how I tend to think about that, has been pretty consistent.
+EGNgFmLaiC PREMISE-Fact 2120 2161 It's been double-digit consistent growth.
+TRzbjULWAk PREMISE-Fact 2162 2212 It tends to look a lot like our Office 365 motion.
+XASBqmDF7e PREMISE-Fact 2213 2242 It's sold with Microsoft 365.
+DmKEyQeiWg PREMISE-Fact 2243 2305 It's about the selling motion of E3 and E5 that we talk about.
+eIAMRftTwv PREMISE-Fact 2306 2420 If you could almost take out that 606 impact in the billings team to almost mirror the Microsoft 365 SKUs we sell.
+R0 SUPPORT ARG1:RC3vqdet6U ARG2:eCylfBS6dh
+R1 SUPPORT ARG1:EGNgFmLaiC ARG2:eBZ7vbfwHe
+R2 SUPPORT ARG1:TRzbjULWAk ARG2:eBZ7vbfwHe
+R3 SUPPORT ARG1:XASBqmDF7e ARG2:eBZ7vbfwHe
+R4 SUPPORT ARG1:DmKEyQeiWg ARG2:eBZ7vbfwHe
+R5 SUPPORT ARG1:eIAMRftTwv ARG2:eBZ7vbfwHe
+ArgQ0 eCylfBS6dh SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 eBZ7vbfwHe SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

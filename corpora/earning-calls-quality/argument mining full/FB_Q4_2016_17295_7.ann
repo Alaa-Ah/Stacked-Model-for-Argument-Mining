@@ -1,0 +1,22 @@
+AKwtIlptvh NON-ARG 792 797 Yeah.
+fmZwRYAsSM NON-ARG 798 939 So when you think on measurement, your question gets to the heart of the matter, which is, there's a lot of conversations on what we measure.
+PAEEiHIl7E PREMISE-Fact 940 1204 And when you see platform shifts, as you are in the ad market, from more traditional forms of media to display, to now mobile, we're seeing those metrics change, and there's obviously a lot of conversation and a lot of concern out there about what we're measuring.
+T1uT2a-qfb CLAIM-Opinion(view) 1205 1380 We think the answer to all of this is to remember that what really matters is going all the way through from the ad itself to the sale, whether that sale is online or offline.
+Qa-h_OdR_9 CLAIM-Fact 1381 1474 And we are working hard to work on the data in a privacy protected way to be able to do that.
+uQkOb8aJbo CLAIM-Fact 1475 1546 And we're making progress across verticals, across our large customers.
+-mzdADwD-X PREMISE-Fact 1547 1653 I don't have the percentage of exactly how many customers are working on this type of measurement with us.
+xa7CiBrmNm PREMISE-Fact 1654 1677 It's certainly growing.
+o_vDHqZANP PREMISE-Fact 1678 1741 It's certainly something we're working on vertical-by-vertical.
+y7n55peyFf PREMISE-Fact 1742 1927 But it has really important impacts, not just in their ability to serve the right ads to the right person at the right time, but also their ability to optimize their ads for our format.
+Xe9ZxpCn7B CLAIM-Fact 1928 2121 That once they understand what's really moving their product off shelves, online and off, that's where we get to the real work we need to do to optimize the ad and really work on the targeting.
+ZjLc63zTap PREMISE-Fact 2122 2154 And so I remain very optimistic.
+N8r5tfAz3h PREMISE-Fact 2155 2254 We have a lot of hard work to do to get to all of our ad campaigns having that kind of measurement.
+FiaElOMjgO PREMISE-Fact 2255 2288 That's going to take a long time.
+63CtlE2EQY CLAIM-Fact 2289 2373 But the more we can do it, even in studies with each client, the better our ads get.
+R0 SUPPORT ARG1:-mzdADwD-X ARG2:uQkOb8aJbo
+R1 SUPPORT ARG1:xa7CiBrmNm ARG2:uQkOb8aJbo
+R2 SUPPORT ARG1:o_vDHqZANP ARG2:uQkOb8aJbo
+R3 SUPPORT ARG1:y7n55peyFf ARG2:Xe9ZxpCn7B
+R4 SUPPORT ARG1:ZjLc63zTap ARG2:63CtlE2EQY
+R5 SUPPORT ARG1:N8r5tfAz3h ARG2:63CtlE2EQY
+R6 SUPPORT ARG1:FiaElOMjgO ARG2:63CtlE2EQY

@@ -1,0 +1,30 @@
+GRWqOHNfbv CLAIM-Fact 1888 2067 Yeah, John, on the video investment in the first quarter, it's clearly going to be more weighted towards the rest of the year, but we're already seeing the impact of some of that.
+He1xgmxN__ PREMISE-Statistic 2068 2195 So if you look at just the cost of revenue line where that's getting picked up, we saw cost of revenue grow 66% year-over-year.
+EHFf0tkQXL PREMISE-Statistic 2196 2256 If you look at the gross margin, it dropped from 86% to 84%.
+kdn9DoRPxs CLAIM-Fact 2257 2330 There's really two kind main – two big factors in that compression there.
+Y6ISdnkqXY PREMISE-Fact 2331 2376 One of those is the video content investment.
+RwvcCqPWz5 PREMISE-Fact 2377 2462 The other is the move to gross versus net accounting on the Instant Articles product.
+RhjwLs9ejX CLAIM-Reformulated 2463 2590 So those are the two things that I'd point to as being drivers of that margin compression getting picked up in cost of revenue.
+6f6ybs5ZH8 PREMISE-Fact 2591 2682 So video is having an impact, but we grew expenses 39% year-over-year in the first quarter.
+8VlRr0GpsF CLAIM-Fact 2683 2835 We're obviously expecting faster growth in the back half – back three quarters of the year, so that's – video's going to be a component in driving that.
+i0QJQfjjxg NON-ARG 707 918 To the first, in the immediate days of the concern, we heard from a handful of advertisers who paused spend, one of whom has already come back, and we haven't seen a meaningful trend or anything much since then.
+TYE021iPyL NON-ARG 919 1113 Advertisers ask the same questions as people are, that they want to make sure their and their customers' data is protected, and I think we are able to answer those questions in a compelling way.
+ZWY0kc4G4l CLAIM-Fact 1114 1275 In terms of ROI on the platform, the ROI is really determined by the ability of advertisers to put the right ad in front of the right person in the right format.
+G6K713sP_e CLAIM-Opinion(view) 1276 1341 And I think we're seeing impressive growth in all of those areas.
+BTo2mAZSEg PREMISE-Fact 1342 1425 We have more advertisers using the ability to target their ads to the right person.
+6r2i0rYenY PREMISE-Fact 1426 1488 We have more advertisers experimenting with different formats.
+ICNTeszBC3 PREMISE-Fact 1489 1585 Stories on Instagram are a very promising one, and we're seeing some nice experimentation there.
+gsA5EwyB-X PREMISE-Fact 1586 1714 And we have more advertisers really embracing the measurement that helps close the loop and helps make their ads more effective.
+JNey75ygAp CLAIM-Reformulated 1715 1870 So I think in terms of the ROI we are able to offer our marketers, the signs are strong, and we also continue to see there's a lot of room for improvement.
+R0 SUPPORT ARG1:He1xgmxN__ ARG2:GRWqOHNfbv
+R1 SUPPORT ARG1:EHFf0tkQXL ARG2:GRWqOHNfbv
+R2 SUPPORT ARG1:Y6ISdnkqXY ARG2:kdn9DoRPxs
+R3 SUPPORT ARG1:RwvcCqPWz5 ARG2:kdn9DoRPxs
+R4 SUPPORT ARG1:6f6ybs5ZH8 ARG2:kdn9DoRPxs
+R5 SUPPORT ARG1:BTo2mAZSEg ARG2:G6K713sP_e
+R6 SUPPORT ARG1:6r2i0rYenY ARG2:G6K713sP_e
+R7 SUPPORT ARG1:ICNTeszBC3 ARG2:G6K713sP_e
+R8 SUPPORT ARG1:gsA5EwyB-X ARG2:G6K713sP_e
+ArgQ0 GRWqOHNfbv SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 kdn9DoRPxs SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 G6K713sP_e SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

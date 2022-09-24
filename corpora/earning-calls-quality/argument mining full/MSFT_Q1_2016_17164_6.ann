@@ -1,0 +1,32 @@
+ydAPGI9hfi CLAIM-Fact 512 638 The way to think about that how is I look at – well, the way I would generally say it is you look at each of the KPIs we give.
+djJA9Tm2tx CLAIM-Opinion(view) 1120 1236 Now that can technically, Ross, be interesting in certain quarters of the year where we have very heavy expirations.
+cXBONVUX9X PREMISE-Statistic 889 1119 And that's probably frankly been true a little bit longer than we talked about technically in terms of what goes off and what comes on given we've now got, as Satya said, 60 million users and more than that in terms of seats sold.
+AhfaZrlGxx CLAIM-Opinion(view) 1237 1336 And so it just depends year over year, but that's why the commercial is slightly harder to do it on
+AJr_xLjHqS PREMISE-Fact 1337 1410 because there's some volatility in the ins and outs based on seasonality.
+GmI98LGcip CLAIM-Fact 1694 1770 I want to make this simple and unfortunately it's just slightly complicated.
+L3CWIqiRMd PREMISE-Other 1771 1889 Because so much of our installed base was already on an annuity contract, it makes the transition mathematically hard.
+rr2PPFeDvs CLAIM-Opinion(view) 1890 2009 I think what you're asking is specifically for a transactional component when the old transactional component has gone.
+cFUmqs8Buw PREMISE-Fact 2010 2085 But it's a very hard – but that's a component of the number, not the total.
+DsS5lRsmx0 NON-ARG 2086 2181 So it's why it's technically difficult to answer the question you're specifically asking, Ross.
+dpOl_MzGef PREMISE-Statistic 2182 2465 But the way I would think about it is we are moving such a substantive piece of our EA business and with our annuity mix all up in commercial, up to 86% percent, we're feeling very good about our ability to transition people at LTV and grow the business overall at a very high level.
+ZN4rMdaqjA PREMISE-Statistic 702 780 If some transition earning back off the balance sheet, the total cloud is 70%.
+s2hrjsUlmk PREMISE-Fact 781 888 When we start to get to this point and the percentage we already have in the cloud, it is really an offset.
+t9V_FRo3Zf PREMISE-Statistic 639 681 So the Office commercial business grew 5%.
+NI-7agh2d8 PREMISE-Statistic 682 701 It was negative 8%.
+mmueRlDNqR NON-ARG 2476 2493  Thank you, Ross.
+IJZLSLCRjt NON-ARG 2543 2551  Thanks.
+zgMJGpanpE NON-ARG 2562 2621  So that wraps up the Q&A portion of today's earnings call.
+AeqCRgdYxA NON-ARG 2622 2713 We look forward to seeing many of you in the coming months at various investor conferences.
+DMPoEYKxzK NON-ARG 2714 2839 For those unable to attend in person, these events will be webcast and you can follow our comments at microsoft.com/investor.
+SqezhbvPZf NON-ARG 2840 2925 Please contact us if you need any additional details and thank you for joining today.
+KxpnNifgdK NON-ARG 2938 2956  Thanks, everyone.
+sYtgtiHFfz NON-ARG 2971 2992  Thank you, everyone.
+R0 SUPPORT ARG1:ZN4rMdaqjA ARG2:ydAPGI9hfi
+R1 SUPPORT ARG1:s2hrjsUlmk ARG2:ydAPGI9hfi
+R2 SUPPORT ARG1:cXBONVUX9X ARG2:ydAPGI9hfi
+R3 SUPPORT ARG1:AJr_xLjHqS ARG2:AhfaZrlGxx
+R4 SUPPORT ARG1:L3CWIqiRMd ARG2:GmI98LGcip
+R5 SUPPORT ARG1:cFUmqs8Buw ARG2:rr2PPFeDvs
+R6 SUPPORT ARG1:dpOl_MzGef ARG2:rr2PPFeDvs
+R7 SUPPORT ARG1:t9V_FRo3Zf ARG2:ydAPGI9hfi
+R8 SUPPORT ARG1:NI-7agh2d8 ARG2:ydAPGI9hfi

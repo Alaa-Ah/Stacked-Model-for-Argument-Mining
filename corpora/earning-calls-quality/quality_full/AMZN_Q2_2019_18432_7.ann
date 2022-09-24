@@ -1,0 +1,20 @@
+8QNycfc0Ns NON-ARG 824 834 Yes, sure.
+VcPxTHRlvV CLAIM-Fact 835 965 On that second point, I'd say we're seeing a lot of increased adoption and machine learning services especially Amazon Sage Maker.
+ecIQv_mmNe CLAIM-Fact 966 1115 We've had tens of thousands of customers who are now using AWS machine learning services and we'll continue to innovate on behalf of those customers.
+liPYcI-aJ9 PREMISE-Statistic 1116 1212 We released more than 200 machine learning features and capabilities in 2018 alone in this area.
+2AUDkZRPDe PREMISE-RealExample 1213 1281 Database is also a multibillion-dollar business propelled by Aurora.
+Kr89qht2pk CLAIM-Reformulated 1317 1428 We're seeing strong usage growth that outpaces revenue growth as usual increased pace of enterprise migrations.
+G1ZysIpZjE CLAIM-Fact 1429 1529 So, I would say that on a percentage growth basis again on a dollar basis, it's going very strongly.
+SqPzkBv3Mm CLAIM-Fact 1530 1630 On a percentage growth basis, we are lapping some very strong growth in the first half of last year.
+WzRn76xQYo PREMISE-Statistic 1631 1688 We were growing about 50% in the first half of last year.
+iM0r0nqIHB CLAIM-Reformulated 1282 1316 So we're seeing a lot of strength.
+-hmyNh9GtZ PREMISE-Fact 1689 1831 There's some particular unique customer volumes that were flowing through that some customers have really high usage tied to their businesses.
+e-R3Fvgs8_ CLAIM-Fact 1832 1941 But for the most part, we continue to grow usage and our expansion of our services with all of our customers.
+iEUmEQSYbr CLAIM-Opinion(view) 1942 1956 So very happy.
+R0 SUPPORT ARG1:liPYcI-aJ9 ARG2:ecIQv_mmNe
+R1 SUPPORT ARG1:2AUDkZRPDe ARG2:ecIQv_mmNe
+R2 SUPPORT ARG1:WzRn76xQYo ARG2:SqPzkBv3Mm
+R3 SUPPORT ARG1:-hmyNh9GtZ ARG2:e-R3Fvgs8_
+ArgQ0 ecIQv_mmNe SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 SqPzkBv3Mm SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 e-R3Fvgs8_ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

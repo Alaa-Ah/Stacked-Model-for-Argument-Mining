@@ -1,0 +1,21 @@
+HWgmFBynka NON-ARG 621 726 I think, Rod, you're probably indirectly asking about our trough comment, if you will, from last quarter.
+icmohzZRGZ NON-ARG 727 883 And when we made that, we did not contemplate or comprehend that we were going to make a $2 billion-plus reduction in channel inventory during this quarter.
+qnpJRRLYDA NON-ARG 884 1049 And so if you factor that in and look at true customer demand, which is the way that we look at it internally, I think you'll find a much more reasonable comparison.
+fGYColpBtG NON-ARG 2630 2813 The only thing I would add, Rod, is I think there are a growing number of people in both parties that would like to see comprehensive reform, and so I'm optimistic that it will occur.
+laGNWxqTQV NON-ARG 2814 2841 It's just a matter of when.
+DnpTcECDNs NON-ARG 2842 2952 And that's difficult to say, but I think most people do recognize that it's in the U.S.'s interest to do this.
+iEpqAsOeUh CLAIM-Opinion(view) 1514 1628 Frankly, from first read, we don't anticipate that they're going to have any material impact on our tax situation.
+CzmLNdroUw NON-ARG 1436 1440 Yes.
+OlfsQnZbwQ NON-ARG 1441 1472 Rod, these are new regulations.
+QsjmbVJrUS NON-ARG 1473 1513 We are in the process of assessing them.
+d5YOeNmk40 PREMISE-Fact 1629 1716 Some of them relate to inversion transactions, so obviously that's not an issue for us.
+eyou8kso_A PREMISE-Fact 1717 1837 Some of them are around internal debt financing, which is not something that we use, so we don't expect any issue there.
+k3xTqHx_mb PREMISE-Fact 1838 2003 As you know, we are the largest U.S. taxpayer by a wide margin, and we already pay full U.S. tax on all the profits from the sales that we make in the United States.
+_kB84jRZht CLAIM-Reformulated 2004 2053 So we don't expect them to have any impact on us.
+gLtaTjAhCL NON-ARG 2054 2215 On tax reform, maybe I can continue, and I'll let Tim provide more color, but we've been strong advocates for comprehensive corporate tax reform in this country.
+yNeeTJvPez NON-ARG 2216 2239 We continue to do that.
+kxwhvcMlka NON-ARG 2240 2436 We think a reform of the tax code would have significant benefits for the entire U.S. economy, and we remain optimistic that we're going to get to a point where we can see that tax reform enacted.
+JKYhtIRdKl NON-ARG 2437 2608 At that point in time, of course, we would have much more flexibility around optimizing our capital structure and around providing more return of capital to our investors.
+R0 SUPPORT ARG1:d5YOeNmk40 ARG2:iEpqAsOeUh
+R1 SUPPORT ARG1:eyou8kso_A ARG2:iEpqAsOeUh
+R2 SUPPORT ARG1:k3xTqHx_mb ARG2:iEpqAsOeUh

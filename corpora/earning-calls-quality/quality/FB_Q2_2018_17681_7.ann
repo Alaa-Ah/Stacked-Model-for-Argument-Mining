@@ -1,0 +1,29 @@
+G42GhQESzM NON-ARG 664 724 Yeah, Eric, it's going to be a combination of those factors.
+RmhlLOaNOG CLAIM-Fact 725 818 I would say we're going to continue to invest in core product development and infrastructure.
+EuESEcMOPl PREMISE-Fact 819 910 And so, you've seen that already in terms of the ramp that we have in capital expenditures.
+usxY-bdO8Q PREMISE-Fact 911 1105 We're continuing to build out features and functionality for the community across a wide range of different products, whether it be the ad products that Sheryl talked about or IGTV and the like.
+9kNoV8MgBc CLAIM-Fact 1616 1681 Secondly, we're continuing to make big investments in innovation.
+TmWOaJZQKM CLAIM-Opinion(view) 1682 1738 Those, we believe, are attractive long-term investments.
+aw_pRilY56 PREMISE-Fact 1739 1831 The things that I would point to are things like AI as well as our investments in AR and VR.
+LI1lOL3lVa PREMISE-Fact 1832 2027 Those are things that will play out – AI in the near-term, but the investments in AR and VR are really about building the next generation of computing, and that's got a longer-term return window.
+qQSYcUKXue CLAIM-Reformulated 2028 2182 So, attractive investments we believe, but ones that will take longer-term to pay off, and those would have a dilutive effect on margins in the near-term.
+Vf3hf7hrNF PREMISE-Fact 2183 2231 Those are the two factors that I would point to.
+SlF_cP4hPZ CLAIM-Fact 2232 2548 In addition, on the CapEx side, we're continuing to invest heavily on capital expenditures, first, to just get ahead of user growth and engagement and then also to make sure that we've got the compute available to support the growth of a number of the key drivers of our business around feed ranking and ads ranking.
+wUtOFnLalR NON-ARG 2549 2656 So, I think those are the things that I would point to, all factoring into the margin guidance that I gave.
+EynM5Jl5UL PREMISE-Fact 1106 1225 In addition to those core developments, we're also making the significant long-term investments in safety and security.
+y4U-Jgj84j PREMISE-Fact 1226 1284 Those investments are in the billions of dollars per year.
+sy8pfCU_Yu PREMISE-Fact 1285 1330 Those will have a negative impact on margins.
+XkQMRrJwYJ PREMISE-Fact 1331 1479 We think that's the right thing to do for the business in terms of ensuring the community's safety and security and the durability of the franchise.
+6XzZczxZum CLAIM-Fact 1480 1615 So those are important investments from an ROI perspective, but they don't have, obviously, immediate translation into revenue dollars.
+R0 SUPPORT ARG1:EuESEcMOPl ARG2:RmhlLOaNOG
+R1 SUPPORT ARG1:usxY-bdO8Q ARG2:RmhlLOaNOG
+R2 SUPPORT ARG1:EynM5Jl5UL ARG2:RmhlLOaNOG
+R3 SUPPORT ARG1:XkQMRrJwYJ ARG2:RmhlLOaNOG
+R4 SUPPORT ARG1:y4U-Jgj84j ARG2:6XzZczxZum
+R5 SUPPORT ARG1:sy8pfCU_Yu ARG2:6XzZczxZum
+R6 SUPPORT ARG1:aw_pRilY56 ARG2:9kNoV8MgBc
+R7 SUPPORT ARG1:LI1lOL3lVa ARG2:TmWOaJZQKM
+ArgQ0 RmhlLOaNOG SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 6XzZczxZum SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 9kNoV8MgBc SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 TmWOaJZQKM SPECIFIC_0 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

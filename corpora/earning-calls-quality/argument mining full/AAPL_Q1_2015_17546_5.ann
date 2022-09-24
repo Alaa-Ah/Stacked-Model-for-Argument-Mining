@@ -1,0 +1,39 @@
+QCwidkdMzg CLAIM-Opinion(view) 402 514 You can see from the March guidance that we’ve given, that we are incredibly bullish about iPhone going forward.
+sEMYDq4SN- CLAIM-Reformulated 515 569 We believe that it’s the best smartphone in the world.
+IXPmNd3HKb PREMISE-Fact 570 604 Our customers are telling us that.
+sDPVkDoEXR PREMISE-Fact 605 635 The market is telling us that.
+mSRkUeanPO PREMISE-Fact 636 692 We’re doing well in virtually every corner of the world.
+8cK_ekipkZ CLAIM-Reformulated 693 742 And so we’re very bullish that it does have legs.
+tj02RED2Vx CLAIM-Fact 824 884 And so there is a lot more people within the installed base.
+rIT-qlBJXO CLAIM-Reformulated 1232 1347 And so we see that we’re appealing to new customers, both new to smartphone and new to iPhone and people switching.
+KsvKxCDj52 CLAIM-Reformulated 1348 1458 We’re very bullish on the product and getting great feedback about the quality of the products we’re shipping.
+XV7bRo62vg CLAIM-Reformulated 1459 1491 And so we’re very, very bullish.
+rkuF1ikdqd CLAIM-Fact 1492 1602 The emerging markets which has been a source to great questions over time, the growth was absolutely stunning,
+ItLcCwZkdA PREMISE-RealExample 1603 1731 in Brazil and Mainland China more than doubling year-over-year which is 3x to 4x what those markets were doing according to IDC.
+M4Fo4-5-WZ CLAIM-Fact 1732 1789 And so we enter the quarter with quite a bit of momentum.
+5iS-an6nYx PREMISE-Fact 885 1008 But I would also point out that we had the highest number of customers new to iPhone last quarter than in any prior launch.
+p-cq4nGvOZ PREMISE-Fact 1009 1158 And also that the current iPhone line up experienced the highest Android switcher rate in any of the last three launches in the three previous years.
+jIZeWdoLRB NON-ARG 1159 1202 And we didn’t look back to the other years.
+KFqhTEQQqe NON-ARG 1203 1231 So I don’t know about those.
+PkQq3ntK5n CLAIM-Opinion(view) 2922 2991 we feel slightly very good about where we are right now in the cycle.
+jjbIV0LCUk PREMISE-Statistic 2877 2921 Having said all that guiding 38.5% to 39.5%,
+71ucqfpJAi CLAIM-Opinion(view) 2748 2876 So you obviously have that loss of leverage, but without a doubt the biggest headwind that we got right now is foreign exchange.
+IVWTQ8B2hA PREMISE-Fact 2521 2648 The other element that is there and it’s very seasonal, it’s always there, it’s the loss of leverage that we got from Q1 to Q2.
+oK_kNmE1TN PREMISE-Statistic 2649 2747 When you look at our revenue guidance, we are guiding to a sequential decline between 26% and 30%.
+XgfqdKGySJ NON-ARG 2084 2103 Katy, you’re right.
+CQwOrHTVEs NON-ARG 2104 2126 I mean on both fronts.
+wpUSyYZ5Ic PREMISE-Fact 743 823 I would point out that only a small fraction of the installed base has upgraded.
+f9ePJUChNk PREMISE-Statistic 2261 2400 The foreign exchange headwinds as I was explaining to Shannon, they will be on a sequential basis a headwind of more than 100 basis points.
+QK56mihmj5 NON-ARG 2229 2260 It goes with our product cycle.
+EWQGe1b3pD CLAIM-Opinion(view) 2127 2228 We certainly expect more favorable cost in the March quarter than we’ve seen in the December quarter.
+Hlx4eZQh4r PREMISE-Hypothesis 2401 2520 So if you were to exclude that foreign exchange impact, we would actually be guiding to sequential increase in margins.
+FDLlMiGZVa NON-ARG 380 391  Sure Katy.
+VBOMjotJpn NON-ARG 392 401 It’s Tim.
+R1 SUPPORT ARG1:IXPmNd3HKb ARG2:QCwidkdMzg
+R2 SUPPORT ARG1:sDPVkDoEXR ARG2:QCwidkdMzg
+R3 SUPPORT ARG1:mSRkUeanPO ARG2:QCwidkdMzg
+R4 SUPPORT ARG1:oK_kNmE1TN ARG2:71ucqfpJAi
+R5 SUPPORT ARG1:IVWTQ8B2hA ARG2:71ucqfpJAi
+R7 SUPPORT ARG1:wpUSyYZ5Ic ARG2:tj02RED2Vx
+R8 SUPPORT ARG1:5iS-an6nYx ARG2:tj02RED2Vx
+R9 SUPPORT ARG1:p-cq4nGvOZ ARG2:tj02RED2Vx

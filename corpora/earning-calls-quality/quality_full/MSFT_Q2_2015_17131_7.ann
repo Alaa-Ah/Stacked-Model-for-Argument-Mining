@@ -1,0 +1,23 @@
+KiqbX1hHw2 NON-ARG 843 855 Thanks Phil.
+45mYWGU3B9 NON-ARG 856 872 So let me start.
+-0XUkhNcs5 CLAIM-Fact 873 967 Overall, what we're seeing is, clearly there is increased usage of infrastructure as a service
+JdF0neIvuD PREMISE-Fact 968 1038 because a lot of people will move an existing workload into the cloud.
+mK6f5n5Bv- PREMISE-Fact 1410 1860 So we see the combination and they're not all happening coincident, but there is time lag in it but therefore that’s one of the reasons why we want to be very aggressive in getting the workloads on to Azure both storage and compute; and even in the storage and compute, we now have premium offerings for higher SLA, for higher performance, higher VM sizes and then on top of that, we have these managed services which have a different margin profile.
+duNwNJH5Ya PREMISE-RealExample 1138 1409 Especially for example, if you move a VM with some data into the cloud, you may want to use the same data to build a mobile front end and that’s when you're starting to use some of our platform as a service components like our Azure Mobile Services, Azure Media Services.
+eUTWYBXB19 PREMISE-Fact 1039 1137 But the interesting thing that happens once you move your initial workload is you build around it.
+m_PCPt4K-u PREMISE-Fact 1861 1963 So media services, mobile services, WAB which is another place where we actually have lot of traction.
+kK6szAXy-M PREMISE-Fact 1964 1998 And then that’s all just on Azure.
+-l7hQbpZ6m PREMISE-Fact 1999 2272 Once you get beyond Azure, you have things like CRM Online, you have enterprise mobility suite and of course the Office 365 line up and when we think about our capital and in fact the core infrastructure, we don’t have different infrastructure for these different services.
+eDZv6I55_K PREMISE-Fact 2273 2387 It’s one common infrastructure and one common data center footprint between O365 Azure, CRM, Xbox Live everything.
+wYONExdoE3 CLAIM-Reformulated 2388 2527 So that’s why utilization of that entire infrastructure is how we think about even total return on invested capital for our cloud business.
+wBVHyOqYms NON-ARG 2559 2572  Thanks Phil.
+DsLcCAsnck NON-ARG 2573 2612 We'll move to the next question please.
+R0 SUPPORT ARG1:JdF0neIvuD ARG2:-0XUkhNcs5
+R1 SUPPORT ARG1:duNwNJH5Ya ARG2:-0XUkhNcs5
+R2 SUPPORT ARG1:eUTWYBXB19 ARG2:-0XUkhNcs5
+R3 SUPPORT ARG1:mK6f5n5Bv- ARG2:-0XUkhNcs5
+R4 SUPPORT ARG1:m_PCPt4K-u ARG2:-0XUkhNcs5
+R5 SUPPORT ARG1:kK6szAXy-M ARG2:-0XUkhNcs5
+R6 SUPPORT ARG1:-l7hQbpZ6m ARG2:-0XUkhNcs5
+R7 SUPPORT ARG1:eDZv6I55_K ARG2:-0XUkhNcs5
+ArgQ0 -0XUkhNcs5 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

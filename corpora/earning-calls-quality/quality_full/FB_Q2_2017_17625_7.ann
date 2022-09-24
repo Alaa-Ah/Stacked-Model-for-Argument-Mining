@@ -1,0 +1,21 @@
+V-fSpmtCLS CLAIM-Opinion(view) 540 657 So we're really happy that our growth has been really strong across our verticals, and that continues to be the case.
+jIl3zgDz3u PREMISE-Fact 658 759 Our top verticals are pretty consistent in e-commerce, CPG, entertainment, media, retail, and gaming.
+eNaOSY1eSH PREMISE-Fact 760 867 For the most part, when we build products, we build them to work for all verticals, and you see us do that.
+WWe-SIwxi7 NON-ARG 868 967 So being able to upload your catalog of products can be used no matter what your product lists are.
+aHAl4rgJkk NON-ARG 968 1110 We do build vertical-specific ad products when they are necessary, so Dynamic Ads for travel, for example, as you mentioned, being an example.
+EBNHJa6u3e CLAIM-Opinion(view) 1111 1265 I think the heaviest lifting of the work we do is really helping marketers in different verticals focus on the right metrics, which are the sales metrics,
+KjB1DpERyT PREMISE-Fact 1266 1445 because for too long our industry has been focused on proxy metrics, how long someone viewed a video, even brand lift, measurements we care about, but these are all proxy metrics.
+fBD2tHzeL7 PREMISE-Fact 1446 1505 What really matters is you see an ad and you buy a product.
+kPOVBvtjpC PREMISE-Fact 1506 1550 You see an ad and you drive a car off a lot.
+TBp8h8SUVg PREMISE-Fact 1551 1589 You see an ad and you order a service.
+R-uWYV7XZe CLAIM-Fact 1590 1784 And so there are very different processes with these different verticals in terms of helping them understand their own purchasing data so that we can connect our ads to their ultimate purchases.
+fuITPIJNaj NON-ARG 1785 1904 We believe that's one of the most important things that we've been very, very focused on, and we have a long way to go.
+E7YUM2-qt6 PREMISE-Fact 1905 2072 And part of the results you see from us in different verticals are actually explained by the ability of us to help those marketers measure sales at the end of the day.
+W5zobAq9Jh NON-ARG 2073 2245 The more that we can tie ad viewing to sales, the stronger our case is with our clients, and so we need to do a lot of work around the measurement with different verticals.
+R0 SUPPORT ARG1:KjB1DpERyT ARG2:EBNHJa6u3e
+R1 SUPPORT ARG1:fBD2tHzeL7 ARG2:R-uWYV7XZe
+R2 SUPPORT ARG1:kPOVBvtjpC ARG2:R-uWYV7XZe
+R3 SUPPORT ARG1:TBp8h8SUVg ARG2:R-uWYV7XZe
+R4 SUPPORT ARG1:E7YUM2-qt6 ARG2:EBNHJa6u3e
+ArgQ0 EBNHJa6u3e SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 R-uWYV7XZe SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

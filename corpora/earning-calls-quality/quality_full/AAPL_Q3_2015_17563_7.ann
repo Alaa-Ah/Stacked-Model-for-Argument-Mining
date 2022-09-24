@@ -1,0 +1,41 @@
+CIE36WkvGE NON-ARG 817 861 We look at it a bit differently than you do.
+bwVCDrF16y CLAIM-Opinion(view) 862 1035 We look at it as our job is to grow our products regardless of the price, which means that we need to convince in some cases people to move from one price band to the other.
+LDVNfQky_C CLAIM-Opinion(view) 1036 1174 And that we think if we do a great job with the product that people will be willing to spend more because they get so much more out of it.
+JCUMvhvkbK PREMISE-RealExample 1175 1252 And I think you can look at the results on the iPhone and see that in action.
+P6g7RpN8hB PREMISE-Statistic 1253 1282 I mean, we grew 87% in China.
+vGcPeJKhCh PREMISE-Statistic 1283 1309 We grew 90%-plus in India.
+nOQIoqO1Gb PREMISE-Statistic 1310 1343 Emerging markets are growing 65%.
+QEelxNfFV_ PREMISE-Other 1344 1448 These numbers are unbelievable and they're done in an environment where it's not the best of conditions.
+qY-9dnEOl6 CLAIM-Reformulated 1449 1474 So that's how we look at.
+q3joVPVjcD NON-ARG 1475 1600 We don't do the MBA analysis of there's only X people buying in a price band and therefore we can only get X minus Y percent.
+ge-R-JOTO5 NON-ARG 1601 1644 That's not the way we've ever looked at it.
+P9HatFANRV NON-ARG 1645 1693 If we did, we wouldn't be shipping any products.
+QnN0fRyRhP PREMISE-Fact 2276 2371 Oh, I think there's no doubt if you look at it we are expanding the market size in those areas.
+2rfcZ1UvJ9 PREMISE-Fact 2372 2496 It's also true that there's some people that are switching from comparable price points to the iPhone, and that's great too.
+G8ZIyvLxfq CLAIM-Opinion(view) 2497 2606 But I think the answer is that both of those things are happening and it's key that we do both, not just one.
+enhFIL2Hyi PREMISE-Hypothesis 3516 3557 Our own data would look better than that.
+6kL2JPvZK7 CLAIM-Fact 3667 3741 On the upgrade cycle and what we're seeing, it's not remarkably different.
+HiZLcgvpQ7 PREMISE-Fact 3742 3848 However, there's a number of plans that people began signing up for in the last year that could change it.
+I9wMP5sq0D PREMISE-Fact 3849 3890 These are upgrade any time kind of plans.
+DngZPq1fkO PREMISE-Fact 3891 3961 They may be one year leases that could actually help the upgrade rate.
+HeYZ-M5i3f CLAIM-Opinion(view) 3962 4043 And I think it'll be interesting to see how that plays out over the next horizon.
+bUvF6-So-n CLAIM-Fact 4044 4129 But generally speaking, I see positive vectors there, not negative, in the aggregate.
+kADKCZNJXo CLAIM-Opinion(view) 3426 3515 The 86% also seems low to me but I was quoting a third-party source and not our own data.
+Ud2rsLH-EU PREMISE-Fact 3558 3666 But the numbers are only comparable if I quote the third-party source for both and so that's what I'm doing.
+a5tX8bJBZE NON-ARG 801 816 Toni, it's Tim.
+drlFxhcWCa NON-ARG 3298 3303  Yes.
+R0 SUPPORT ARG1:JCUMvhvkbK ARG2:LDVNfQky_C
+R1 SUPPORT ARG1:P6g7RpN8hB ARG2:LDVNfQky_C
+R2 SUPPORT ARG1:vGcPeJKhCh ARG2:LDVNfQky_C
+R3 SUPPORT ARG1:QEelxNfFV_ ARG2:LDVNfQky_C
+R4 SUPPORT ARG1:QnN0fRyRhP ARG2:G8ZIyvLxfq
+R5 SUPPORT ARG1:2rfcZ1UvJ9 ARG2:G8ZIyvLxfq
+R6 SUPPORT ARG1:enhFIL2Hyi ARG2:kADKCZNJXo
+R7 ATTACK ARG1:HiZLcgvpQ7 ARG2:6kL2JPvZK7
+R8 ATTACK ARG1:I9wMP5sq0D ARG2:6kL2JPvZK7
+R9 ATTACK ARG1:DngZPq1fkO ARG2:6kL2JPvZK7
+R10 SUPPORT ARG1:Ud2rsLH-EU ARG2:kADKCZNJXo
+ArgQ0 LDVNfQky_C SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 G8ZIyvLxfq SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 kADKCZNJXo SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 6kL2JPvZK7 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

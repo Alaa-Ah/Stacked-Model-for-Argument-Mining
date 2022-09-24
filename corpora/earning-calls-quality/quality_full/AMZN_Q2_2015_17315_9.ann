@@ -1,0 +1,17 @@
+8oah4Pvykc NON-ARG 888 897 Yes, Mark
+i0qzOexzZt NON-ARG 899 924 Thanks for your question.
+5SVYuwW1gm PREMISE-Fact 1045 1131 You remember that we are lapping a number of large price decreases in Q2 of last year,
+yuY-X5sKI- CLAIM-Fact 1132 1193 so it was somewhat expected but a very strong quarter in AWS.
+Mbf_vuCVSV PREMISE-Fact 1194 1228 We did announce a region in India.
+guwHnb2mo- PREMISE-Statistic 1229 1364 The other thing to mention is that we continue to see very strong usage of growth that's outpacing the revenue growth of 81% obviously.
+ROy-Tmzij5 CLAIM-Opinion(view) 1365 1403 And so, we're really excited about it.
+WmiZvUZ4Tl CLAIM-Fact 1404 1462 From a distribution of customers, it is a global business.
+Uf0Lb2sM3a PREMISE-Statistic 925 1044 We will not be providing the granular customer detail unfortunately but we will say the growth of 81% was up 49% in Q1.
+3RumYhwqcP PREMISE-Fact 1463 1608 We have regions spread throughout the world; we have 11 regions at this point and have announced plans to launch a region in India in the future.
+R0 SUPPORT ARG1:Uf0Lb2sM3a ARG2:yuY-X5sKI-
+R1 SUPPORT ARG1:5SVYuwW1gm ARG2:yuY-X5sKI-
+R2 SUPPORT ARG1:Mbf_vuCVSV ARG2:yuY-X5sKI-
+R3 SUPPORT ARG1:guwHnb2mo- ARG2:yuY-X5sKI-
+R4 SUPPORT ARG1:3RumYhwqcP ARG2:WmiZvUZ4Tl
+ArgQ0 yuY-X5sKI- SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 WmiZvUZ4Tl SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

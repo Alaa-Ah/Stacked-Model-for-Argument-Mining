@@ -1,0 +1,11 @@
+jhG3-IXt_X NON-ARG 653 684 Yeah, thanks for your question.
+UvMFifNo5e CLAIM-Fact 685 728 This growth rate is going to bounce around.
+HnCK1cfj2r PREMISE-Fact 729 818 We've had sequential increase in growth rate the prior three quarters, I believe, it was.
+-IMJv5hHAx PREMISE-Statistic 819 886 This quarter is slightly down, but still 46% growth is very strong.
+KGc1MLacW8 PREMISE-Statistic 887 989 We are at an annualized run rate above $26 billion and that was about $18 billion this time last year.
+hTCbJEQ8LQ CLAIM-Opinion(view) 990 1100 So we're very happy with the growth in the business, the momentum that we're seeing with enterprise customers.
+khOswYXF23 CLAIM-Fact 1101 1230 And we just mentioned on the cost side, it's been a very good year from gaining greater efficiencies in our infrastructure costs.
+R0 SUPPORT ARG1:HnCK1cfj2r ARG2:hTCbJEQ8LQ
+R1 SUPPORT ARG1:-IMJv5hHAx ARG2:hTCbJEQ8LQ
+R2 SUPPORT ARG1:KGc1MLacW8 ARG2:hTCbJEQ8LQ
+ArgQ0 hTCbJEQ8LQ SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

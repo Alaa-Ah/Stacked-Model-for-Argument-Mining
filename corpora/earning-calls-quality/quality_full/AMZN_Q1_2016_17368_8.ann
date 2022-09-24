@@ -1,0 +1,20 @@
+j75rVPWd6N NON-ARG 726 731 Sure.
+a9mX9a21dQ CLAIM-Fact 732 832 Your first question on international, yes, all three segments had very strong growth in the quarter.
+NyXC9uTuUB PREMISE-Statistic 833 940 International's 26% FX-neutral growth rate was actually the strongest we've seen in three and a half years.
+NiRF1vZ-r- CLAIM-Opinion(view) 941 984 I would attribute it to the Prime flywheel.
+RZwH8BA94A PREMISE-Statistic 985 1298 As we may have mentioned in the past, we feel that Europe and large countries in Europe and Japan are a few years behind the U.S. on a lot of the key Prime metrics, but we also said last year that Prime subscriptions were up 51% year-over-year in 2015, 47% in the U.S. and a higher rate than that internationally.
+3TLzyz1sX2 CLAIM-Opinion(view) 1299 1456 So certainly, a lot going on in international, a lot that's really good, adding Prime subscribers at a high clip, continuing to add selection at FBA sellers.
+uRbvTqkIT_ PREMISE-Other 1457 1502 So you'll see devices, you see video content.
+tj_LQyMW8V NON-ARG 1909 1948 We don't forecast obviously by segment.
+feilBnNwxV PREMISE-Fact 1747 1908 On the AWS side, I think the 2016 to 2015 comparison probably stands on its own and 2014 falls by the wayside, so I would encourage you to look at recent trends.
+8vMP9zAlR2 PREMISE-Fact 1592 1746 It may be getting there a little slower than the starting point in the U.S. but we see it really showing up in customer engagement and customer purchases.
+lbsZWpiE9e PREMISE-Other 1503 1566 So it's the whole array of Prime offering, Prime Now, Same-Day.
+Q6RcLv8rj1 PREMISE-Other 1567 1591 Everything is in Europe.
+R0 SUPPORT ARG1:NyXC9uTuUB ARG2:a9mX9a21dQ
+R1 SUPPORT ARG1:RZwH8BA94A ARG2:a9mX9a21dQ
+R2 SUPPORT ARG1:uRbvTqkIT_ ARG2:3TLzyz1sX2
+R3 SUPPORT ARG1:8vMP9zAlR2 ARG2:3TLzyz1sX2
+R4 SUPPORT ARG1:feilBnNwxV ARG2:3TLzyz1sX2
+R5 SUPPORT ARG1:lbsZWpiE9e ARG2:3TLzyz1sX2
+ArgQ0 a9mX9a21dQ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 3TLzyz1sX2 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_1

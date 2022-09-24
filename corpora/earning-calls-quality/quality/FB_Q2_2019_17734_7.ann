@@ -1,0 +1,23 @@
+bfa4BeuJQr NON-ARG 1874 1941 And then Doug, you were asking about the impacts on expense growth.
+SMZhbw3pXM NON-ARG 1942 2010 We’re not giving guidance, specifically on the 2020 expense outlook.
+4HXP0qxsrC PREMISE-Fact 2011 2210 But the privacy efforts do require significant investments obviously and compliance processes, people and then technical infrastructure and those are factored into the 2019 operating expense outlook.
+fbH83EMUAf PREMISE-Fact 2211 2308 One of the impacts that I’d point to you is it’s also a reallocation of resources around privacy.
+VFxBvtVXgo CLAIM-Fact 2309 2380 So that will have an impact on our overall product development as well.
+fFvdV0yXjK NON-ARG 2381 2511 So that’s something that I’d factor in both in terms of just the overall impact to the business, not purely just the expense side.
+T0sU4Qjxtl NON-ARG 601 606 Sure.
+veBdbSDrsn NON-ARG 903 1013 If Facebook from a few years ago would have probably just showed up and tried to release a product on our own.
+iPQfSlmDp- NON-ARG 1014 1143 And now, the approach on all of these fronts is to outline the ideas in the values that we think an eventual service should have.
+Lb_BhLOPZf CLAIM-Fact 1144 1390 We’ve opened a period of, however, long it takes to address regulators and different experts and constituents questions about this and then figure out what the best way to move forward is and that’s certainly what we’re planning to do with Libra.
+yPZbncKHTe PREMISE-Fact 1391 1616 So, we worked with the 27 other members of the association to publish the white paper to put the idea out there expecting that this is a very important and heavily regulated area and there were going to be a lot of questions.
+MLQYvJ8Qua NON-ARG 1617 1658 We’re going to have to work through that.
+nXIWw038M0 NON-ARG 1659 1716 So, I think we’re currently in the process of doing that.
+pJ_HX0Wfzr NON-ARG 607 761 So, on Libra and similar to our approach on some of the important social issues that we face around encryption and content regulation and things like that
+1iC8EWMLQ9 NON-ARG 1788 1860 So that’s always been the strategy and we’ll continue to engage it here.
+R-TYWP2ret NON-ARG 763 823 We get that these are really important and sensitive spaces.
+0UpQBY7IXt NON-ARG 824 902 So, our approach has been to try to have a very open dialog about this, right.
+TYf9vvAqNQ NON-ARG 1717 1787 We are trying to provide a safe and stable and well-regulated product.
+R0 SUPPORT ARG1:4HXP0qxsrC ARG2:VFxBvtVXgo
+R1 SUPPORT ARG1:fbH83EMUAf ARG2:VFxBvtVXgo
+R2 SUPPORT ARG1:yPZbncKHTe ARG2:Lb_BhLOPZf
+ArgQ0 VFxBvtVXgo SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Lb_BhLOPZf SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

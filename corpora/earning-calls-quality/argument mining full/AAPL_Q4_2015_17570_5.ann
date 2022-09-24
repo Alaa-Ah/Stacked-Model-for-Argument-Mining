@@ -1,0 +1,35 @@
+moNWbMoEET CLAIM-Opinion(view) 1434 1643 And so I do not envision Apple's having a large enterprise sales force will certainly make – we continue adding some people more on the engineering side, but I don't envision having a large direct sales force.
+AYeKrJxjjp NON-ARG 665 765 From a product point of view, we'd actually been continuing to change and improve IOS for some time.
+RtSAIljhiJ NON-ARG 766 922 With every release they are more enterprise features and so, I would describe it as sort of continuation of that cadence perhaps with little more intensity.
+mAAaLWhnWM NON-ARG 923 1006 From a go to market point of view, we will be working with or are working with IBM.
+XuVooWAJOT NON-ARG 1007 1018 With Cisco.
+VyzZvgHfyI NON-ARG 1019 1154 We're already working with 75 mobility partners that are principally in the U.S. but that's expanding quickly to international as well.
+ZqqXVzyQjf NON-ARG 1155 1281 And so, many of these companies have -- in some cases very large sales forces, in many cases the reasonable seize sales force.
+kDXFIiprhF NON-ARG 1282 1433 And in addition to a direct sales force there is a huge worldwide indirect channel that many customers buy from and count on buying some services from.
+Dm5PYupmMj PREMISE-RealExample 2313 2427 iPhone 6 was the number one selling smartphone in Mainland, China last quarter and iPhone 6 Plus was number three.
+D8anyqLvzA CLAIM-Fact 2253 2312 And so, we've been able to grow without the market growing.
+oBcFXBNd0j PREMISE-Statistic 2042 2149 If you look at China, we grew from an iPhone point of view, Greater China, we grew 87% the market grew for.
+nLEv4TLYmB PREMISE-Hypothesis 2150 2252 If you take iPhone out of the market number, the certain market x iPhone actually contracted slightly.
+25lKjm788v CLAIM-Reformulated 2428 2455 And so, we did fairly well.
+6xU_4FCeRT CLAIM-Opinion(view) 4004 4053 And so, the ecosystem there is very, very strong.
+QljxWG1KUD PREMISE-Fact 4054 4193 I was very impressed with the number the developers I met last week and of course, the customers in stores are enthusiastically contagious.
+QT8jbKxoQ_ PREMISE-Fact 3886 4003 And that's not just for sales, that's also developer community is growing faster than any other country in the world.
+QJhrhHjMpa CLAIM-Opinion(view) 3619 3885 So, we're very bullish on it, and I would point out that we're investing in China not for next or the quarter after, or the quarter after, we're investing for the decades ahead and as we look at it our own views is that China will be Apple's top market in the world.
+1MEFGjwGoR CLAIM-Opinion(view) 3028 3180 That said, I don't think it’s growing as fast as it was, but I also don't think that Apple's results are largely dependent on minor changes than growth.
+w6HZS2onMz PREMISE-Hypothesis 2456 2835 The sort of the economic question which I know there's a bit lot of attention on, frankly, if I were to shut off my web and shut off the TV and just look how many customers are coming in our stores regardless to whether they're buying, how many people are coming online, and in addition looking at our sales trend, I wouldn't know if there was any economic issue at all in China.
+RenUnoeF38 NON-ARG 2836 2885 And so I don't know how unusual we are with that.
+5Un-45xOpZ PREMISE-Other 2886 3027 I think that there's a misunderstanding probably particularly in the Western world about China's economy, which contributes to the confusion.
+3ORO8P9EE4 PREMISE-Fact 3520 3618 I mean, you really can't tell the difference, if you look at sort of our daily and weekly numbers.
+mnQelzqC2y PREMISE-Other 3388 3519 But I just think that the area that it's currently operating within, it's hard to tell the difference of the consumer level for us.
+RUeZgJhSIg NON-ARG 3181 3272 I think it’s much more of contributing – I think other things contribute to that much more.
+cgjkqIWKpI NON-ARG 3273 3387 That does say, you'll never had problem there, because the economy, I'm not saying, I'm dumb enough to think that.
+JbAUlwZmhU NON-ARG 2036 2042  Yes. 
+R0 SUPPORT ARG1:nLEv4TLYmB ARG2:D8anyqLvzA
+R1 SUPPORT ARG1:oBcFXBNd0j ARG2:D8anyqLvzA
+R2 SUPPORT ARG1:Dm5PYupmMj ARG2:D8anyqLvzA
+R3 SUPPORT ARG1:5Un-45xOpZ ARG2:1MEFGjwGoR
+R4 SUPPORT ARG1:w6HZS2onMz ARG2:1MEFGjwGoR
+R5 SUPPORT ARG1:QljxWG1KUD ARG2:6xU_4FCeRT
+R6 SUPPORT ARG1:QT8jbKxoQ_ ARG2:6xU_4FCeRT
+R7 SUPPORT ARG1:mnQelzqC2y ARG2:1MEFGjwGoR
+R8 SUPPORT ARG1:3ORO8P9EE4 ARG2:1MEFGjwGoR

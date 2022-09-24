@@ -1,0 +1,34 @@
+0nMTHGNXfY CLAIM-Opinion(view) 397 428 I think its good clarification.
+-FFbfKSuno NON-ARG 381 396 That’s correct.
+86vxhuUVwy PREMISE-Fact 429 481 I was talking about the net impact after the hedges.
+yXyUbcrao9 CLAIM-Fact 525 562 And again this is sequentially right.
+9KpCNVgEJC PREMISE-Fact 563 696 Because on a year-over-year basis actually the impact is larger, given the fact that currencies have moved during the last 12 months.
+haNcv9bcu2 CLAIM-Reformulated 697 790 But the 100 basis points that I quoted includes the mitigating impact of the hedging program.
+RUEAfyyRAy CLAIM-Fact 482 524 The impact without hedges would be higher.
+S1Ywn-9utX CLAIM-Fact 1288 1349 So the issue is not that, and it’s not a market share number,
+r7HNuiH8t8 PREMISE-Fact 1350 1393 because our market share is extremely high.
+pyx9fBrrIE PREMISE-Fact 1154 1287 We think that what we know, that if you look at the Fortune 500 as an example, we’re in essentially all of the Fortune 500 companies.
+lMrsl06NZh PREMISE-Fact 1394 1510 The issue is that enterprises, generally speaking are only deploying iPads to a small percentage of their workforce.
+_0wJ6jl8g8 CLAIM-Opinion(view) 1511 1608 And so the real opportunity is to bring mobility into the enterprises and change how people work.
+fsp-qJZ3E6 PREMISE-Fact 1609 1809 In order to do that, you obviously need apps that are written to specific jobs, not just apps that are general productivity apps like work processors and spreadsheets and presentation tools et cetera.
+1XgWyOV54- CLAIM-Fact 1810 2026 And so that’s one of the things that working with IBM provides us, is both that and the knowledge of the verticals, which they bring a significant amount of knowledge on all of the verticals that I mentioned earlier.
+4B-dpf670X NON-ARG 2027 2060 And so where can we take that to?
+Yu0RiQv9JX CLAIM-Opinion(view) 2061 2150 I think if we can really change the way people work, I think the opportunity is enormous.
+uPLYHFYXXJ PREMISE-Fact 2151 2283 We’re not hanging numbers out there to be measured on at this point, but we don’t do a lot of big partnerships as you probably know.
+jXRlNT1Kdf CLAIM-Opinion(view) 2284 2324 And so when we do one, it is significant
+9tWDVsuI0N PREMISE-Other 2325 2434 and it’s because we really believe in it, and we really believe in this one and what it can do for customers.
+R0 SUPPORT ARG1:86vxhuUVwy ARG2:RUEAfyyRAy
+R1 SUPPORT ARG1:9KpCNVgEJC ARG2:yXyUbcrao9
+R2 SUPPORT ARG1:pyx9fBrrIE ARG2:S1Ywn-9utX
+R3 SUPPORT ARG1:r7HNuiH8t8 ARG2:S1Ywn-9utX
+R4 SUPPORT ARG1:lMrsl06NZh ARG2:_0wJ6jl8g8
+R5 SUPPORT ARG1:fsp-qJZ3E6 ARG2:1XgWyOV54-
+R6 SUPPORT ARG1:uPLYHFYXXJ ARG2:Yu0RiQv9JX
+R7 SUPPORT ARG1:9tWDVsuI0N ARG2:jXRlNT1Kdf
+ArgQ0 RUEAfyyRAy SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 yXyUbcrao9 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 S1Ywn-9utX SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 _0wJ6jl8g8 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 1XgWyOV54- SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 Yu0RiQv9JX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ6 jXRlNT1Kdf SPECIFIC_0 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

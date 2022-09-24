@@ -1,0 +1,12 @@
+U54ez43uV3 NON-ARG 614 619 Sure.
+5Ry2a2x3s2 NON-ARG 620 645 Thanks for your question.
+iV0hkPe0j4 CLAIM-Fact 646 673 So, early results are good.
+vB2Hi3d3eX PREMISE-Fact 674 823 We -- our grocery delivery orders from the combination of Amazon Fresh and Whole Foods Market more than doubled in the fourth quarter year-over-year.
+bBgE8__iCT CLAIM-Opinion(view) 824 899 So, we believe customers are starting to notice and take advantage of this.
+T3kY3ffADo CLAIM-Fact 900 986 We wanted to take -- we will see where people's tastes and preferences will take them.
+2F0PPEanKA PREMISE-Fact 987 1123 We are -- whether they go to the store, the Whole Foods Market store, whether they use Prime Now or Amazon delivery for their groceries.
+NuTk4EJsbp CLAIM-Fact 1124 1271 Right now, we're really just testing and reacting to the customer demand and the customers' preferences and we'll do so for the foreseeable future.
+R0 SUPPORT ARG1:vB2Hi3d3eX ARG2:iV0hkPe0j4
+R1 SUPPORT ARG1:2F0PPEanKA ARG2:T3kY3ffADo
+ArgQ0 iV0hkPe0j4 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 T3kY3ffADo SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

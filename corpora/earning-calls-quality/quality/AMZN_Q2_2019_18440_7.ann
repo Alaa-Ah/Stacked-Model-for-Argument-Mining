@@ -1,0 +1,15 @@
+VPLwfW2yRz NON-ARG 429 439 Yes, sure.
+UBpwLAcVXe CLAIM-Fact 440 501 So again the biggest individual item is the one-day shipping.
+tlhd93kAvy CLAIM-Fact 502 692 As I said earlier, we had a meaningful step up in shipments in Q2 versus Q1, but we're still on our way and Q3 will be a step up over Q2 in North America and we'll see more in international.
+82XDdG7wAD CLAIM-Reformulated 693 825 So it's -- that increase in one-day shipping and all the associated cost of additional transportation and getting capacity in place.
+7l0nGVNsv2 CLAIM-Fact 826 930 As I mentioned earlier new costs and things like expanding inventory, getting it closer to the customer.
+5rEHiEqYQ9 CLAIM-Fact 931 1053 Just a lot of things moving -- a lot of moving parts in the fulfillment center world right now and our transport networks.
+H2qj5Gd5OM CLAIM-Fact 1054 1234 So that is the biggest individual contributor but as I mentioned in Q2's results, some of the investments in marketing, the step up in infrastructure spending that should continue.
+QVqgXDOSh_ CLAIM-Fact 1235 1499 We certainly have a lot of areas where we continue to invest not the least of which is our AWS business, devices, video, the global expansion of a lot of our Prime Benefits and things like stores and grocery delivery through Whole Foods, Prime Now and AmazonFresh.
+ZNvBG1i3ee CLAIM-Reformulated 1500 1712 So I would say, yes, we had -- as we've mentioned the last couple of calls, we had some lessening of expenses in some key areas last year, mostly tied to headcount growth, infrastructure and fulfillment capacity.
+0YSch6R6Xq CLAIM-Opinion(view) 1713 1743 We expected a step up in 2019.
+0LUfY5u--D PREMISE-Fact 1744 1864 We didn't see as much of it in Q1, mainly because of the timing of the seasonality of the year and getting things going.
+0gSg0A6DWm PREMISE-Fact 1865 1946 We’re seeing more of it in Q2 and we'll see it through the remainder of the year.
+R0 SUPPORT ARG1:0LUfY5u--D ARG2:0YSch6R6Xq
+R1 SUPPORT ARG1:0gSg0A6DWm ARG2:0YSch6R6Xq
+ArgQ0 0YSch6R6Xq SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2

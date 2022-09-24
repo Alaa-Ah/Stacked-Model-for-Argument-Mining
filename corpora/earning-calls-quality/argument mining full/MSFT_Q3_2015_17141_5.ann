@@ -1,0 +1,45 @@
+bbAxP6CGA1 NON-ARG 723 757 Let me start and then you can add.
+ifNNO5s8mr NON-ARG 758 819 I mean I think you have to sort of look at all the use cases.
+qiYjlBtyMl NON-ARG 3710 3761 And, John, to your specific question, you’re right.
+sMJwmpDZln NON-ARG 3762 3938 A lot of the Azure is, the good way to think about that is new; and especially our Dynamics business, CRM online and some of the work we’ve done across AX is certainly all new.
+WSFftctWEe NON-ARG 3939 4041 And the lower down in the segment of Office you get, the more new it is, is the way to think about it.
+aVbc4kNw1s CLAIM-Opinion(view) 3003 3183 Yeah, and also it sort of comes in interesting ways because one of the things IT, as you know, it’s not about sort of replacing what you have, it’s always augmenting what you have.
+6UBmWfQPag PREMISE-RealExample 3184 3334 A very classic scenario would be I’ll take a SQL database application, bring it to the Cloud and then build a new mobile back end using the same data.
+z3YLt9r1xe PREMISE-RealExample 3335 3445 So reuse of code, reuse of data, so you would use some amount if iOS infrastructure and then past consumption.
+hNk8ZlDCTs PREMISE-RealExample 3515 3699 In fact, our own IT Systems, take what we have done with our HR and our financial systems and some of those things as they move to the Cloud, we bring some existing and then add to it.
+0Fe3myI2Ee NON-ARG 3446 3514 So that’s one of the very typical enterprise solutions you will see.
+q7Adr2dM7- PREMISE-Statistic 1290 1367 We not only see Windows Server obviously but we see 20%-plus of Linux growth.
+zCMZdJpsF5 CLAIM-Opinion(view) 820 919 In fact as I said, a lot of the Azure use case, I think you referenced this, have been non-zero-sum
+vZbm9dFEpd PREMISE-Fact 920 1029 because our people started building their mobile back end, web back end using Big Data not workloads we have.
+uiC9SoyKKu PREMISE-Fact 1030 1180 I look at sort of everyday usage growth, even if they’re creating a web workload it’s for a very different type of web back end and a mobile back end.
+MaVCCSNK_G CLAIM-Reformulated 1368 1398 So that’s again non-zero-sum .
+bgt6Ek6YTk PREMISE-RealExample 1225 1289 I even look at the growth of virtual machine instances on Azure.
+r8qFEgNzqT PREMISE-RealExample 1181 1224 And the same thing with advanced analytics.
+F7DBQAXu5n CLAIM-Fact 2039 2085 And so we are seeing increasing usage of that.
+X74QXLWJBQ NON-ARG 2371 2399 So that’s what we’re seeing.
+a7j49XAu86 PREMISE-Fact 1838 2038 But again take all the other things I described, power BI , Dell and the list goes on, take eDiscovery; even for the largest of enterprise these were things that had low penetration or low deployment.
+hesivD0fav NON-ARG 1399 1558 So there’s significant traction we have in terms of moving beyond just one-for-one shift of a workload that traditionally ran on our server to our Azure Cloud.
+aKqKeeqlwy NON-ARG 1559 1621 In fact if anything the majority of what we are seeing is new.
+oe9D88O1bu CLAIM-Opinion(view) 2400 2573 We definitely are seeing one-for-one migration, but the opportunity in everyone one of our offerings from Office 365 to Dynamics to Azure has a non-zero-sum component to it.
+99pBr1dPBN CLAIM-Fact 2086 2124 Same thing with our Dynamics business.
+1tgTevUlUF PREMISE-RealExample 2125 2162 EMS , it’s completely a new category.
+iaFR-D6OhT PREMISE-Fact 2163 2212 We never had that kind of a management footprint.
+CVwN5xTiN2 PREMISE-Fact 2213 2347 We now have the ability to have one control plane for IT for all the devices, identity management, device management, data protection.
+7fijDpAAkl NON-ARG 2348 2370 That’s a new workload.
+P7WwFk1C1N CLAIM-Fact 1622 1673 Even in Office 365 it’s not just one-for-one shift.
+P0xvmEeLBo PREMISE-Hypothesis 1674 1837 Of course if you are – were using as a large enterprise Exchange and you moved to Office 365 you moved to using Exchange Online; same thing is true for SharePoint.
+FdhQxjTReu NON-ARG 4094 4102  Thanks.
+zUGzTBKfYk NON-ARG 4103 4125 Next question, please.
+R0 SUPPORT ARG1:6UBmWfQPag ARG2:aVbc4kNw1s
+R1 SUPPORT ARG1:z3YLt9r1xe ARG2:aVbc4kNw1s
+R2 SUPPORT ARG1:hNk8ZlDCTs ARG2:aVbc4kNw1s
+R3 SUPPORT ARG1:vZbm9dFEpd ARG2:zCMZdJpsF5
+R4 SUPPORT ARG1:uiC9SoyKKu ARG2:zCMZdJpsF5
+R5 SUPPORT ARG1:r8qFEgNzqT ARG2:zCMZdJpsF5
+R6 SUPPORT ARG1:bgt6Ek6YTk ARG2:zCMZdJpsF5
+R7 SUPPORT ARG1:q7Adr2dM7- ARG2:zCMZdJpsF5
+R8 SUPPORT ARG1:P0xvmEeLBo ARG2:P7WwFk1C1N
+R9 SUPPORT ARG1:a7j49XAu86 ARG2:F7DBQAXu5n
+R10 SUPPORT ARG1:1tgTevUlUF ARG2:99pBr1dPBN
+R11 SUPPORT ARG1:iaFR-D6OhT ARG2:99pBr1dPBN
+R12 SUPPORT ARG1:CVwN5xTiN2 ARG2:99pBr1dPBN

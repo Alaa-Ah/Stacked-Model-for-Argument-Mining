@@ -1,0 +1,26 @@
+AteXeXa8RO NON-ARG 689 701 Hi, Youssef.
+bih-Zkv7-- NON-ARG 702 740 Let me start your question on one-day.
+yfwAOzzV3h CLAIM-Fact 937 976 So we're always working within a range.
+CDsE1ufgul NON-ARG 1786 1790 Yes.
+-hA0BsSKuf NON-ARG 1791 1823 And then just on Sizmek quickly.
+_MAPW82tTv CLAIM-Opinion(view) 1824 1932 We are excited to have acquired the Sizmek ad server and then Sizmek's dynamic creative optimization or DCO.
+AHkfnGK203 CLAIM-Fact 1933 2018 Customers are going to be able to continue to use those proven products and services.
+5b-C9ldnvW CLAIM-Fact 2019 2069 We're invested in the long-term success of Sizmek.
+BSQvHXY_WP CLAIM-Fact 2210 2364 So we're looking forward to work with that team and we'll share more updates as we invent and create new opportunities to serve advertisers in the future.
+I62gwMcsW1 PREMISE-Fact 2070 2209 And again, Amazon advertising and Sizmek has many mutual customers, so we know how valued these prudent solutions are to the customer base.
+-TAQvwELyC PREMISE-Statistic 977 1055 We're confidently we were near but just above our $800 million estimate in Q2.
+n5wnhl_-wY PREMISE-Fact 1124 1219 We had a meaningful step up in North America in Q2 and it was accelerating through the quarter.
+jV5pzFJyfC CLAIM-Fact 1220 1246 We'll see more cost in Q3.
+bPIUFI2zWx CLAIM-Fact 1247 1358 We'll see about Q4 when we talk and everything we know about or anticipate about Q3 is built into our guidance.
+hwE2-dCbTz NON-ARG 741 828 I'm not breaking out the specific cost this quarter as I did last year -- last quarter.
+dfjbjZYFf_ NON-ARG 829 936 Some of this is because it's very hard to pinpoint exactly the lines between one-day and other cost issues.
+aAO7z-8uh6 NON-ARG 1056 1123 And as I said, this is going to take multiple quarters to play out.
+n1iMsIw1TC CLAIM-Reformulated 1359 1399 So I wouldn't break out the dollar term.
+vTQfWObzQR CLAIM-Fact 1400 1508 I will tell you at the end of the quarter kind of what we're seeing on cost and how it looks for Q4 as well.
+ks9RNONvoW CLAIM-Fact 1509 1772 And the other thing I would point out on the trajectory is that, we're just getting started in international and most of that work is ahead of us although the speed that tick up a bit in Q1 -- excuse me Q2 but -- and will do even more so in Q3 in future quarters.
+R0 SUPPORT ARG1:I62gwMcsW1 ARG2:BSQvHXY_WP
+R1 SUPPORT ARG1:-TAQvwELyC ARG2:yfwAOzzV3h
+R2 SUPPORT ARG1:n5wnhl_-wY ARG2:jV5pzFJyfC
+ArgQ0 BSQvHXY_WP SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 yfwAOzzV3h SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ2 jV5pzFJyfC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

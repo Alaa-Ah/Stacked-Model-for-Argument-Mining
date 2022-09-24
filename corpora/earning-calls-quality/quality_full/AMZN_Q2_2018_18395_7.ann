@@ -1,0 +1,32 @@
+PIzwaHDbch NON-ARG 675 680 Sure.
+DOYWPgz7k5 CLAIM-Fact 681 732 So, it was a big quarter for Whole Foods and Prime.
+f9aeELSIdt PREMISE-Fact 733 797 We launched additional savings for Prime members at Whole Foods.
+vUYn3ny79h PREMISE-Fact 798 939 If you go to Whole Foods store or Whole Foods Market 365 store, you see a lot of yellow stickers for 10% discounts of hundreds of sale items.
+wjmbs5oZ6u PREMISE-Fact 940 997 You also see deep discounts on selected popular products.
+4d3eGf3NGm CLAIM-Fact 998 1226 So Prime members have adopted this benefit, it's one of the fastest rates we've ever seen for a Prime benefit, and they've already saved millions of dollars on everything from seasonal favorites to as I said popular daily sales.
+7h2SLs1xMl PREMISE-Statistic 1227 1315 So in addition, we've expanded grocery delivery to 20 cities so that's picking up steam.
+440Mz3aJKa PREMISE-Fact 1316 1398 During the Prime Day, we had some unique deals for Prime customers at Whole Foods.
+0jTUOBIGL2 NON-ARG 1399 1452 Actually, the deals lasted for a week at Whole Foods.
+1wz8mMSYAp CLAIM-Reformulated 1453 1583 And people had, again the ability to see the benefit that Prime membership save incremental dollars, because of it at Whole Foods.
+1m4XLNo_pB PREMISE-Fact 1584 1708 And the Prime Rewards Visa Card, which gives you 5% off on all purchases has been applied to Whole Foods' purchases as well.
+tU3u5anN64 PREMISE-Fact 1709 1938 So that is the second wave, probably after the first wave where we talked in previous calls about initial price drops, putting lockers in the stores, selling some of the Whole Foods' products on the Amazon site, and other things.
+LhnJe_BTgG CLAIM-Fact 1939 1983 So the invention level is still really high.
+_fLVxuLYgX CLAIM-Opinion(view) 1984 2120 We think it's a big milestone this quarter to launch Prime benefits with Whole Foods, and we'll keep going, we'll see how that develops.
+rHlSP9p5-S PREMISE-Statistic 2121 2216 Prime Now, I guess, my comments are that, it's in 50 cities worldwide, it's across 9 countries.
+UXCAl4FJ1v PREMISE-Fact 2217 2293 It is different than – we have multiple options for you in grocery delivery.
+IvEIGMEexc PREMISE-Fact 2294 2382 We have the delivery services – so AmazonFresh and Prime Now which serve a certain need.
+xIxrBSLbKr PREMISE-Fact 2383 2679 We have a traditional grocery store now with Whole Foods, and then we have the combination of those two with home delivery, and we're using Prime Now or Whole Foods products through Prime Now to make those deliveries as well as the new kind of stores with Amazon Go that we're experimenting with.
+gwKve0_rrU CLAIM-Reformulated 2680 2735 So lots of innovation, invention on that front as well.
+R0 SUPPORT ARG1:rHlSP9p5-S ARG2:LhnJe_BTgG
+R1 SUPPORT ARG1:UXCAl4FJ1v ARG2:LhnJe_BTgG
+R2 SUPPORT ARG1:IvEIGMEexc ARG2:LhnJe_BTgG
+R3 SUPPORT ARG1:xIxrBSLbKr ARG2:LhnJe_BTgG
+R4 SUPPORT ARG1:f9aeELSIdt ARG2:DOYWPgz7k5
+R5 SUPPORT ARG1:vUYn3ny79h ARG2:DOYWPgz7k5
+R6 SUPPORT ARG1:wjmbs5oZ6u ARG2:DOYWPgz7k5
+R7 SUPPORT ARG1:7h2SLs1xMl ARG2:DOYWPgz7k5
+R8 SUPPORT ARG1:440Mz3aJKa ARG2:DOYWPgz7k5
+R9 SUPPORT ARG1:1m4XLNo_pB ARG2:DOYWPgz7k5
+R10 SUPPORT ARG1:tU3u5anN64 ARG2:DOYWPgz7k5
+ArgQ0 LhnJe_BTgG SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 DOYWPgz7k5 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

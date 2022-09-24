@@ -1,0 +1,17 @@
+pdpCHh4Bql NON-ARG 619 642 Sure, Brian, it’s Dave.
+DjNim4iwm3 CLAIM-Opinion(view) 643 737 I think on the Facebook app, I just say the DAU trend paints the picture broadly for Facebook.
+MsMcPUoVHK PREMISE-Fact 738 823 We’re seeing stability in the developed markets and growth in the developing markets.
+k4SKGVi3zn CLAIM-Opinion(view) 824 978 And so, we’re continuing to see solid performance on Facebook, and we’re pleased with the engagement levels that we’re seeing overall on the Facebook app.
+MP_vNq9JzM CLAIM-Reformulated 979 1043 So, I think the first half has been solid from that perspective.
+f81nDqbzp7 NON-ARG 1044 1115 And then the second question was on the ad targeting related headwinds.
+3ItWixhn20 CLAIM-Opinion(view) 1116 1165 So, we think of those in really three components.
+316fzovIcM PREMISE-Fact 1166 1287 The first is regulatory as you think about things like GDPR and other impacts and how those will be rolling out globally.
+YD2Bi7OgG5 PREMISE-Fact 1288 1486 The second is platform changes as it relates to operating systems and a more of a focus on privacy from the operating systems and the impact that that can have on measurements and also on targeting.
+7Xyh9IrEQh PREMISE-Fact 1487 1573 And then the third is our own product changes as we put privacy more front and center.
+7Ao0PyIZtk CLAIM-Reformulated 1574 1736 So really, it’s the compounding of those three issues that are creating headwinds that we think are going to impact us, as we get later in the year and into 2020.
+R0 SUPPORT ARG1:MsMcPUoVHK ARG2:k4SKGVi3zn
+R1 SUPPORT ARG1:316fzovIcM ARG2:3ItWixhn20
+R2 SUPPORT ARG1:YD2Bi7OgG5 ARG2:3ItWixhn20
+R3 SUPPORT ARG1:7Xyh9IrEQh ARG2:3ItWixhn20
+ArgQ0 k4SKGVi3zn SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 3ItWixhn20 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

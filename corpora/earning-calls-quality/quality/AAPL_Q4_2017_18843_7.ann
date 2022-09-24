@@ -1,0 +1,34 @@
+kkqqYfeT76 NON-ARG 958 1027 In terms of India, many of the things that you mentioned are correct.
+AfzUEXTt_V CLAIM-Fact 1028 1115 Growing a market like India is a result of all of those things and doing them all well.
+s4fGCfr1pD CLAIM-Fact 1116 1179 And so it's analogous to the many years that we put into China.
+hpkwUH5T7Q PREMISE-Fact 1180 1201 It's building stores.
+1j3h6V9Ow9 PREMISE-Fact 1202 1225 It's building channels.
+PS_LMlLi2L PREMISE-Fact 1226 1248 It's building markets.
+qEBRrJgdV_ PREMISE-Fact 1249 1287 It's building the developer ecosystem.
+Dbn43OQ2I0 PREMISE-Fact 1288 1340 It's having the right product lineup for the market.
+IJWbMI6hQk CLAIM-Opinion(view) 1341 1530 And I feel like we're making good progress there and are gaining understanding of the market, but we still have a long way to go, which I sort of see as an opportunity instead of a problem.
+6mc3mMNqMN CLAIM-Opinion(view) 1531 1573 And I do feel great about the growth rate.
+kCwVrw-tje NON-ARG 1574 1594 And so that's India.
+S_pF9HHp0o NON-ARG 1595 1628 I think it's all of those things.
+X2t4EMyFQP CLAIM-Reformulated 2330 2390 So I feel good about all that, but we have a long way to go.
+X8PNKwGFm6 PREMISE-Hypothesis 2559 2674 And we think that if we get the experience right, that revenues and profits will be a result of getting that right.
+0Dz_EUoxnt CLAIM-Reformulated 2675 2734 And so we're very much focused on the experience right now.
+VogiGAHfGD CLAIM-Fact 2391 2498 In terms of the monetization question on AR/VR, we tend to focus first and foremost on customer experience.
+cl6BRrF11N CLAIM-Reformulated 2499 2558 And so we're all about making sure the experience is great.
+UFCDIZ-RYM NON-ARG 2268 2329 So there's been a sea change there in a short period of time.
+q8FRCwLFHx PREMISE-Fact 1747 1855 And the majority of the iPhone SEs that we sold in the domestic market last quarter were manufactured there.
+7DN75YIkjj PREMISE-Fact 1629 1746 As you know, as I think we talked about before, we started manufacturing the iPhone SE there six, nine months ago so.
+j7E4dJqqXb NON-ARG 1856 2016 And so we also have that going and are hoping that that winds up saving some amount of money over time and avoiding some of the compounding of taxes, et cetera.
+IMUgj4V-7q PREMISE-Fact 2017 2267 The bandwidth issue has also been an issue, but as you point out, it is being addressed and between the large carriers there with Bharti and now Jio investing the way they are, the service in India is materially better than it was just 12 months ago.
+Y5TWWaHegL NON-ARG 2749 2764 Thank you, Jim.
+9mfZkzLskI NON-ARG 2836 2874 Can we have the next question, please?
+R0 SUPPORT ARG1:hpkwUH5T7Q ARG2:AfzUEXTt_V
+R1 SUPPORT ARG1:1j3h6V9Ow9 ARG2:AfzUEXTt_V
+R2 SUPPORT ARG1:PS_LMlLi2L ARG2:AfzUEXTt_V
+R3 SUPPORT ARG1:qEBRrJgdV_ ARG2:AfzUEXTt_V
+R4 SUPPORT ARG1:Dbn43OQ2I0 ARG2:AfzUEXTt_V
+R5 SUPPORT ARG1:7DN75YIkjj ARG2:IJWbMI6hQk
+R6 SUPPORT ARG1:q8FRCwLFHx ARG2:IJWbMI6hQk
+R7 SUPPORT ARG1:IMUgj4V-7q ARG2:IJWbMI6hQk
+ArgQ0 AfzUEXTt_V SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 IJWbMI6hQk SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

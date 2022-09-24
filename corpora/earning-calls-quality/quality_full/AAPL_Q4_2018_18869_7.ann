@@ -1,0 +1,25 @@
+QQVc6agCjg CLAIM-Fact 400 517 Katy, if you look at the products that we have created and are manufacturing, they're really manufactured everywhere.
+LcOJGKHrc4 PREMISE-RealExample 518 567 We have significant content from the U.S. market.
+ZBxevnCnze PREMISE-RealExample 568 713 We have content from Japan to Korea to many countries, and we have great content from China as well, and so there are many hands in the products.
+dd6h-eitUi NON-ARG 1823 1891 You're referring to the guidance that we provided for Q1, I imagine.
+SlGCDbSSlO NON-ARG 2823 2839 Thank you, Katy.
+M9ANK808dP NON-ARG 2840 2880 Could we have the next question, please?
+A1S5sZpIp8 NON-ARG 714 828 The vast majority or almost all of the R&D is in the United States, as well as a lot of the support organizations.
+_e2hkDk8Is CLAIM-Opinion(view) 996 1152 I think there's a reason why things have developed in that way and I think it's great for all countries and citizens of countries that are involved in that.
+tY7AresuqE CLAIM-Opinion(view) 1153 1276 And I'm still of the mindset that I feel very optimistic and positive that the discussions that are going will be fruitful.
+wSb6fW4GAg CLAIM-Reformulated 1430 1592 And so I'm optimistic that the countries, the U.S. and China and the U.S. and Europe and so forth, can work these things out and work for the benefit of everyone.
+kbtGvdWcTC CLAIM-Fact 1277 1429 These relationships, these trade relationships are big and complex, and they clearly do need a level of focus and a level of updating and modernization.
+U-JRwc8dse CLAIM-Opinion(view) 829 995 And so, I think that that basic model where you look around the world and find the best in different areas, I don't expect that model to go out of style, so to speak.
+B-KQUVTdag NON-ARG 1933 1974 Let me give you the puts and takes, Katy.
+0E4yz3wRMF NON-ARG 1975 1990 You're correct.
+k594BF-ZSk CLAIM-Fact 1991 2085 We are going to be getting some benefits from commodities in general and memory in particular.
+7hOqzKYeR3 PREMISE-Fact 2086 2189 Memory on a sequential basis is about 30 basis points favorable for us going into the December quarter.
+TT8pxTn7xt CLAIM-Opinion(view) 2314 2527 On the other hand, as I mentioned before, currencies have weakened against the U.S. dollar, and the impact that we expect at the gross margin level from foreign exchange is a 90 basis points headwind sequentially.
+a_BddKShPs NON-ARG 2686 2808 So those are the puts and takes, leverage and commodity savings on one side and FX and the new products on the other side.
+pD_r8jcfof CLAIM-Fact 2190 2313 And obviously, we're going to be benefiting from the leverage, which is typical of our seasonality in the December quarter.
+pW7AaqcKex CLAIM-Fact 2528 2685 And of course, at this point in the cycle, we also have higher cost structures because, as I said, we've launched so many new products in the last six weeks.
+R0 SUPPORT ARG1:LcOJGKHrc4 ARG2:QQVc6agCjg
+R1 SUPPORT ARG1:ZBxevnCnze ARG2:QQVc6agCjg
+R2 SUPPORT ARG1:7hOqzKYeR3 ARG2:k594BF-ZSk
+ArgQ0 QQVc6agCjg SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 k594BF-ZSk SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

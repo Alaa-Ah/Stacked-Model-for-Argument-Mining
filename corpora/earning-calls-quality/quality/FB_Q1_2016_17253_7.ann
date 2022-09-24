@@ -1,0 +1,27 @@
+2AAN2Dv0wP NON-ARG 525 597 So Instant Articles is all about the quality of the consumer experience.
+HLo5HA8Bii CLAIM-Fact 598 704 Right now for links that are not Instant Articles, it can be one of the slowest parts of the Facebook app.
+FCWpixyZ1x PREMISE-Statistic 705 891 You're browsing through a News Feed, you tap on a link, if you're not on a good connection, the content isn't cached, it can take 10 or 20 seconds in some cases for that content to load.
+qcEqCTflIs PREMISE-Fact 892 1024 And people in our community, they don't know the difference about whether that content is coming from Facebook or a different place.
+AAOFPlj7oH CLAIM-Fact 1025 1132 They hold us accountable for making their experience quick, and we want to do everything we can to do that.
+MsFiullLUA PREMISE-Fact 1133 1290 So Instant Articles makes it so that any publisher around the world now can deliver a really great native experience instantly with no latency in loading it.
+PyuBvI9VAB PREMISE-Fact 1291 1361 And we're just seeing that people like to engage with that a lot more.
+Tt5SsB1NSw CLAIM-Fact 1362 1409 So that's where we're most excited about there.
+4loZNQ9Gtd NON-ARG 1430 1584 The APAC question, it has been growing really well for several quarters now, and we're seeing a lot of great adoption as people learn to use the products.
+zQvhEKt7x_ CLAIM-Opinion(view) 1585 1742 One part of the business that I think has been really strong and is worth noting is we're working with marketers in China to help with their export business.
+aalHVg_rzS PREMISE-RealExample 1743 1774 So Air China is a good example.
+ysmBF6HsfY PREMISE-Fact 1775 1882 They're a popular airline in China, but they don't really have – they're not really as well-known overseas.
+3y3evICA-- PREMISE-Fact 1883 1958 And before working with us, they really only invested in traditional media.
+n6_0zGEeAq PREMISE-RealExample 1959 2074 They had a goal of promoting their new flight routes, including one from Mumbai to Beijing, and their new aircraft.
+Ehlg6OPPAK PREMISE-Statistic 2075 2136 So they launched a campaign with us in 15 countries globally.
+uAroMCiVe- PREMISE-Fact 2137 2203 They used reach and frequency and Carousel and video ad targeting.
+mxB8xuOGaT PREMISE-RealExample 2204 2408 And for example, they would target in the U.S. age 18 and above frequent international travelers living in cities where they had routes or Indian expats living in the U.S. to promote new routes to Mumbai.
+XJYPVDM7Gr PREMISE-Statistic 2409 2474 They reached 30 million people globally, more than 95% on mobile.
+MJa7lchKTJ PREMISE-Statistic 2475 2548 And here's the best part, they had a 73% sales lift in the United States.
+iy2EHgK_fz CLAIM-Reformulated 2549 2651 So our APAC business is robust, and I think the global nature of our business is part of driving that.
+R0 SUPPORT ARG1:FCWpixyZ1x ARG2:HLo5HA8Bii
+R1 SUPPORT ARG1:qcEqCTflIs ARG2:AAOFPlj7oH
+R2 SUPPORT ARG1:MsFiullLUA ARG2:Tt5SsB1NSw
+R3 SUPPORT ARG1:PyuBvI9VAB ARG2:Tt5SsB1NSw
+ArgQ0 HLo5HA8Bii SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 AAOFPlj7oH SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 Tt5SsB1NSw SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

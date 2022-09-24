@@ -1,0 +1,23 @@
+zBk9fpCRaE NON-ARG 2675 2706 Thanks, Mark, for the question.
+EsL5u5nH1Z CLAIM-Opinion(view) 2707 3084 The only transactional weakness I felt in the quarter at all was what we covered, which was the OEM impact from the chip supply, which was about 1.5 points of growth on MPC, and the Office Consumer impact, which was secondary impact of the PC environment plus some execution challenges we had that I feel really good that we've gotten to the root of and will get handled in H2.
+O275DQmqKJ CLAIM-Fact 3085 3166 Outside of that, our transactional execution was really precisely as we expected.
+jtC1y2G5E- CLAIM-Fact 3167 3332 Office Commercial actually had a pretty reasonable quarter given some of the impacts we had in Q1, a couple of points of impact of extra growth that we talked about.
+8mmasEgtBe CLAIM-Fact 3333 3480 And the product and services KPI on prem and server was also quite good when we think about the balance and what that represents for hybrid demand.
+5FEsIWUSmb CLAIM-Fact 3481 3590 We continue to see good demand on DC -- sorry, data center modernization as well as some of the premium SKUs.
+AlGZgvQGVN NON-ARG 579 584 Sure.
+IqkH9OFw2- NON-ARG 585 598 Thanks, Mark.
+7DQr8_a-kr CLAIM-Opinion(view) 599 688 So the way we think about our overall investment, I think of this as a systems investment
+DOuGtAIKFi PREMISE-Fact 689 1049 because at the scale at which we operate, the Intelligent Cloud and the intelligent edge infrastructure, which you all track as Azure, you got to remember it's the core platform that's powering everything from our gaming ambitions to what we are doing with Microsoft 365, to what we are doing with Dynamics 365 and of course, our third-party business in Azure.
+Use-glSswc CLAIM-Fact 1050 1078 So that's the core platform.
+Tq8u81gsin CLAIM-Fact 1079 1360 And now when you think about the scale at which we operate, it is very important for us to make sure that every new breakthrough that happens in the system architecture that can improve efficiencies in what is distributed computing is something that we stay on the forefront of it.
+eZ74INWB5q PREMISE-Fact 1361 1540 So that's why we have a very long-term view on Quantum, and the things that we did even in this last quarter is take things like the quantum simulator stuff and bring it to Azure.
+kOrKUW8QTs PREMISE-Fact 1541 1851 In fact, we are seeing very good adoption in scientific labs, in universities and some pharma companies and others who are looking at really building their quantum algorithmic promise long before the quantum computer cloud is real so that they are ready to be able to take advantage of that computing resource.
+YGdVMxwbc9 PREMISE-Fact 1852 2094 So that's how we look at it, but you got to remember that before Quantum, there are many byproducts of a quantum effort that have significant implications on how we get more competitive, efficient in terms of providing computing to the world.
+GaOmQ7kU4C CLAIM-Fact 2095 2296 So that's one of the reasons why you hear us talk about quantum as the long-term goal, but you can fully expect us to take a lot of learnings, advances in that roadmap and bring them to market earlier.
+R0 SUPPORT ARG1:DOuGtAIKFi ARG2:7DQr8_a-kr
+R1 SUPPORT ARG1:eZ74INWB5q ARG2:Tq8u81gsin
+R2 SUPPORT ARG1:kOrKUW8QTs ARG2:Tq8u81gsin
+R3 SUPPORT ARG1:YGdVMxwbc9 ARG2:GaOmQ7kU4C
+ArgQ0 7DQr8_a-kr SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Tq8u81gsin SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 GaOmQ7kU4C SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

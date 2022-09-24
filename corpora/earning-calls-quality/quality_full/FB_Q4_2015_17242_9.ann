@@ -1,0 +1,20 @@
+gBSz72UaoE PREMISE-RealExample 850 898 So, for example, we have this Pages Manager App.
+AD5ljoUmIJ PREMISE-Statistic 899 959 There are 50 million businesses that have pages on Facebook.
+TqCcegNKAR NON-ARG 960 1103 And while that is not a huge number compared to the size of the overall community of people, it’s a very large number of people and businesses.
+-yDrKsqXyK PREMISE-Fact 1104 1371 And giving a focused experience for the person who wants to run their business through Facebook and be communicating with their customers all day long, that’s just proven to be an incredibly engaging experience that drives content into the system and is good overall.
+4NxMxZnTgg CLAIM-Fact 703 849 So, on the apps question, the ones that have done the best are things that augment core Facebook functionality for large subsets of the community.
+9yFfe2x6gR PREMISE-Statistic 1372 1609 We have introduced a number of things like that for public figures, for groups, messengers, probably been the most successful; it’s something that’s connected to the Facebook experience that now has more than 800 million people using it.
+aJQMUeBtH9 CLAIM-Fact 1722 1798 Ben just following up on VR and supply constraints, so we have two products.
+e-7UbffdJT PREMISE-RealExample 1799 1940 You’ve got Gear VR and Samsung is really handling all of that from a hardware perspective, and obviously they’re well prepared on that front.
+BOIZtJ5wiC PREMISE-Fact 1941 2047 With Rift, it’s really -- it’s early in the evolution of VR; it’s early to be talking about large volumes.
+lA8rzrlTI_ CLAIM-Opinion(view) 2048 2151 So, at this point I don’t think we’re giving a lot of color around supply chain and that sort of thing.
+Fl4eBAfUGx NON-ARG 2152 2210 It’s not going to be material to our financials this year.
+zThKpZTCHK NON-ARG 1610 1708 So, I do think that there’re additional opportunities for this and we’ll continue looking at them.
+R0 SUPPORT ARG1:gBSz72UaoE ARG2:4NxMxZnTgg
+R1 SUPPORT ARG1:AD5ljoUmIJ ARG2:4NxMxZnTgg
+R2 SUPPORT ARG1:-yDrKsqXyK ARG2:4NxMxZnTgg
+R3 SUPPORT ARG1:9yFfe2x6gR ARG2:4NxMxZnTgg
+R4 SUPPORT ARG1:e-7UbffdJT ARG2:aJQMUeBtH9
+R5 SUPPORT ARG1:BOIZtJ5wiC ARG2:aJQMUeBtH9
+ArgQ0 4NxMxZnTgg SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 aJQMUeBtH9 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

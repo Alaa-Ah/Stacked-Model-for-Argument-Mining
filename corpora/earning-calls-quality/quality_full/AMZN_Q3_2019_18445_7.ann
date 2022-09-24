@@ -1,0 +1,12 @@
+yqkpkU9PJi NON-ARG 826 831 Sure.
+nkI2CWIs8U NON-ARG 832 867 Thank you for your questions Heath.
+J1PQoRMXJw CLAIM-Opinion(view) 868 986 On the first question, I think it boils down to whether it will be competitive long term with other options out there.
+Ar_zbsOa_X PREMISE-RealExample 1021 1224 In many cases we are already are and the places where we have very high AMZL percentages, the U.K. for instance, in some cases we’re lacking alternative options for the type of delivery that we’re doing.
+rj6SLLkKHI PREMISE-Fact 1225 1401 But in the long run we’re going to have a combination both of our own capacity, certainly fueled by helps with third party carriers, large carriers that we’ve used in the past.
+HRVdApB8Px CLAIM-Fact 1402 1574 So we see a role for all carriers, in fact including the delivery service partner program that we’ve developed to help spur small businesses to help fill this need as well.
+-ifZsDQE24 CLAIM-Fact 1576 1786 But on the cost side, yes it’s going to be the route density and other things will improve over time and get our cost structure down, but for now, there is certainly some start-up paying in adding new capacity.
+RdC4UhwCOa CLAIM-Opinion(view) 987 1020 Yes, we will be, we believe that.
+R0 SUPPORT ARG1:rj6SLLkKHI ARG2:HRVdApB8Px
+R1 SUPPORT ARG1:Ar_zbsOa_X ARG2:RdC4UhwCOa
+ArgQ0 HRVdApB8Px SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 RdC4UhwCOa SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

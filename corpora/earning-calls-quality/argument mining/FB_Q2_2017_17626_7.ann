@@ -1,0 +1,32 @@
+7geEP07bdY NON-ARG 1974 1990 Doug, it's Dave.
+LBhveL4h-A NON-ARG 1991 2058 I don't think there's anything that's really fundamentally changed.
+vFeMuDUPx7 NON-ARG 2059 2141 We are tightening the range to 40% to 45% expense growth due to better visibility.
+MIYkl4hlWK CLAIM-Fact 2142 2179 We remain solidly in investment mode.
+3p_VxMPJNw PREMISE-Fact 2180 2242 And if anything, we're finding new opportunities to invest in.
+l-gyA40I21 CLAIM-Fact 2243 2475 From the perspective of hiring growth, I'd really point to the fact that we've been consistently accelerating hiring so far in 2017, and I pointed to the fact that we expect to accelerate hiring in the back half of the year as well.
+MhZGMGdmSu PREMISE-Fact 2476 2568 And this quarter was the biggest recruiting quarter in terms of net hires ever for Facebook.
+ISrYfbNtbQ PREMISE-Fact 2569 2688 We're continuing to invest in a number of key areas, hiring engineers to drive the three, five, and 10-year priorities.
+gWJb-vRHu6 PREMISE-Fact 2689 2808 We're going to be investing in content to help build a platform for content producers to find an audience and monetize.
+xl7whqQJR1 PREMISE-Fact 2809 2893 We are also continuing to invest in areas like community operations and other areas.
+qCjAUd0sWP CLAIM-Reformulated 2894 2970 So, we remain solidly in investment mode from a total expense point of view.
+9BHWUoBClx PREMISE-Fact 2687 2688 .
+j4uTLnHTzP PREMISE-Statistic 2971 3154 On CapEx, we still expect to be within the range of $7 billion to $7.5 billion, and we're investing aggressively in our data center footprint to support the global growth that we see.
+-_Q_BusEjh NON-ARG 3155 3209 So, I think across the board, we're investing heavily.
+qJbRVDyTDp NON-ARG 538 704 So a lot of the themes around building community and bringing people closer together have been underscored by a lot of the experiences that I've had traveling around.
+nXJC-YjoYb NON-ARG 705 740 And I've tried to write about them.
+I0hEc5gIAj NON-ARG 741 796 I don't write about each visit that I make on Facebook.
+crclhvlSrf NON-ARG 797 983 But it's been really striking to me when you talk to folks in a lot of different communities how important local institutions and their local communities are for supporting people there.
+lylpuIGwdv NON-ARG 984 1112 And there's been a clearly documented trend across the world of declining membership in a lot of different kinds of communities.
+QyLcp1gUr3 NON-ARG 1113 1289 And I think that that's an important problem that is eating at the social fabric not only of our country but around the world that I hope that we can play a role in addressing.
+MuWk_f2xtx NON-ARG 1290 1510 And that's not something that we can do directly, but I believe that we can empower people who want to build local communities and want to play a leadership role in their local community to have the tools that they need.
+aPPglBI3Ts NON-ARG 1511 1599 And I think if we can do that, then you start bringing people together at a local level.
+NNzqGtSrjm NON-ARG 1600 1776 And when people feel more comfortable in their lives at a local level, then I also think that that helps bring people and bring the world closer together at a global level too.
+mtVpUMtm6U NON-ARG 1777 1956 So that all has been underscored by a lot of the visits and what I've seen as well as a lot of the research that we've done at Facebook, and it's all reflected in the new mission.
+isyxLfk7SJ CLAIM-Reformulated 3210 3437 On head count, I would just point out that our payroll growth tends to lag head count growth, because head count is an end-of-period number, so the acceleration that we're seeing in 2017 will obviously play out in 2018 as well.
+R0 SUPPORT ARG1:3p_VxMPJNw ARG2:MIYkl4hlWK
+R1 SUPPORT ARG1:MhZGMGdmSu ARG2:l-gyA40I21
+R2 SUPPORT ARG1:ISrYfbNtbQ ARG2:l-gyA40I21
+R3 SUPPORT ARG1:ISrYfbNtbQ ARG2:MIYkl4hlWK
+R4 SUPPORT ARG1:gWJb-vRHu6 ARG2:MIYkl4hlWK
+R5 SUPPORT ARG1:xl7whqQJR1 ARG2:MIYkl4hlWK
+R6 SUPPORT ARG1:j4uTLnHTzP ARG2:MIYkl4hlWK

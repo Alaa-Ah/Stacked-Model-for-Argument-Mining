@@ -1,0 +1,44 @@
+XkxXF11S0Q NON-ARG 718 723 Sure.
+F5ftAe62t9 CLAIM-Opinion(view) 724 794 So, on Instagram, there are a number of really exciting opportunities.
+_3M_hXzaXQ CLAIM-Fact 795 979 The main focus is on helping people capture and share any moment that they want, and also the whole theme that we have around community plays out a little bit differently on Instagram.
+Avz_H4PMJZ PREMISE-Fact 980 1069 So for example, while there is no formal groups product on Instagram, people use Explore.
+1hfQAzqR4l PREMISE-Statistic 1070 1258 More than 200 million people use Explore in order to see content that's interesting to them and interact with people beyond their friends and the people who are – who they follow directly.
+qekG60wn0g PREMISE-Fact 1259 1301 We launched hashtag following in December.
+5pZrvHfdFL PREMISE-Fact 1302 1343 That's a product that has done very well.
+AGBxvBBjU6 PREMISE-Statistic 1344 1608 I think now more than 100 million people follow different hashtags, which is a way that people can form ad hoc communities, and that – it all goes towards the overall mission that we have as a company of helping to build community and bring people closer together.
+p28xsKeDXQ PREMISE-Fact 1609 1799 Private sharing, both with Stories and direct messaging, are growing incredibly quickly on Instagram, and I think that those are both very exciting areas for development of products as well.
+-zo71N714N NON-ARG 1800 1867 You asked about payments in WhatsApp and Messenger, was that right?
+5gtzEO4zj- CLAIM-Opinion(view) 1910 1971 So I think that this is going to be a really big opportunity.
+HQ2M_QO2Cm PREMISE-Fact 1972 2048 And again, like I said earlier, the point here isn't to charge for payments.
+Z7Z2RrL7NN PREMISE-Fact 2049 2114 It's that messaging can be a more transactional medium than feed.
+CT3Fkg0g6_ CLAIM-Opinion(view) 2115 2240 So I think what you're going to start to see are people interacting with pages, maybe follow a page on Facebook or Instagram.
+vj6MyAHOT5 PREMISE-Fact 2241 2272 You see content from that page.
+qBSjWR1r6k PREMISE-Fact 2273 2432 You can click through or tap through to a message thread, and then you can either get customer support or complete a transaction or do a follow-on transaction.
+NjvEbf47if CLAIM-Fact 2433 2479 And that will be very valuable for businesses.
+qORlw30qO6 PREMISE-Fact 2480 2665 So we view the payment in that context not as the goal, but as something that's helping the business and the person succeed at having the transaction or doing what they're trying to do.
+PuYt7yauF3 PREMISE-Fact 2666 2920 And that's going to make people's experience better, somebody can just do that online, and it's going to make businesses – it's going to make the experience of being on Facebook as a business more valuable because you can complete the transactions there.
+-N79k61mpm NON-ARG 2921 2985 I'll add one more thing that I think is interesting on payments.
+2K9-mKVvaC NON-ARG 2986 3074 I think this is probably different from what you're asking about, but I think it's cool.
+uiO2RzgkHp PREMISE-RealExample 3075 3284 We've been running an experiment with mobile financial services in Messenger, and one of the things that we found in the Philippines, for example, is that people can buy access to data plans through Messenger.
+LrrvirN0q0 PREMISE-Statistic 3285 3641 And because it allows the mobile carriers to not have to have the whole supply chain and sales and retail that they have otherwise, they're able to sell the data plans for on average about 10% less than they would be able to otherwise, which actually is allowing more people to get on the internet in the first place because they can now afford data plans.
+bkmPGP4yxJ PREMISE-RealExample 3642 3916 So it's an interesting example of how having payments in messaging can increase efficiency for businesses and how in this case that's contributing to our Internet.org and connectivity goals of helping more people access the internet who wouldn't have otherwise been able to.
+w3Ehcj1OKk CLAIM-Fact 3917 4025 In other cases, it will be able to help people accomplish their goals with different businesses more easily.
+R0 SUPPORT ARG1:Avz_H4PMJZ ARG2:_3M_hXzaXQ
+R1 SUPPORT ARG1:1hfQAzqR4l ARG2:_3M_hXzaXQ
+R2 SUPPORT ARG1:qekG60wn0g ARG2:_3M_hXzaXQ
+R3 SUPPORT ARG1:5pZrvHfdFL ARG2:_3M_hXzaXQ
+R4 SUPPORT ARG1:AGBxvBBjU6 ARG2:_3M_hXzaXQ
+R5 SUPPORT ARG1:p28xsKeDXQ ARG2:_3M_hXzaXQ
+R6 SUPPORT ARG1:uiO2RzgkHp ARG2:w3Ehcj1OKk
+R7 SUPPORT ARG1:LrrvirN0q0 ARG2:w3Ehcj1OKk
+R8 SUPPORT ARG1:bkmPGP4yxJ ARG2:w3Ehcj1OKk
+R9 SUPPORT ARG1:qORlw30qO6 ARG2:NjvEbf47if
+R10 SUPPORT ARG1:PuYt7yauF3 ARG2:NjvEbf47if
+R11 SUPPORT ARG1:HQ2M_QO2Cm ARG2:CT3Fkg0g6_
+R12 SUPPORT ARG1:Z7Z2RrL7NN ARG2:CT3Fkg0g6_
+R13 SUPPORT ARG1:vj6MyAHOT5 ARG2:CT3Fkg0g6_
+R14 SUPPORT ARG1:qBSjWR1r6k ARG2:CT3Fkg0g6_
+ArgQ0 _3M_hXzaXQ SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 w3Ehcj1OKk SPECIFIC_0 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 NjvEbf47if SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 CT3Fkg0g6_ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

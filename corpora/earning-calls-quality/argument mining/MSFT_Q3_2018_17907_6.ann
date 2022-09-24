@@ -1,0 +1,61 @@
+dcoGXlW1nD NON-ARG 635 669 Yeah and I'll start qualitatively.
+4wGO15Exuw CLAIM-Fact 670 766 And it's true that we are at this point at scale on Azure and with very, very high growth rates.
+okTMNRnelt CLAIM-Fact 767 866 But as I said, I think the key things that we think about is differentiation of Azure at each level
+RVqwgoDqRh PREMISE-Fact 867 1016 because that's what is super important for us as we compete in this marketplace and more importantly double down on areas of differentiation we have.
+Ej7C2AtoVF PREMISE-Fact 1017 1327 So the first thing is on the infrastructure side itself with the combination of the edge and the cloud I believe between Azure Stack and Azure as well as inclusive of our servers, we have the best crowd platform for what is going to be hybrid computing and we'll continue to push on that, so you'll see growth.
+n2l4xfJQUr PREMISE-Fact 1328 1369 It's just got a different margin profile.
+wsKj1ntUBS PREMISE-Other 1370 1436 The layer above that is the place which we are very excited about.
+NWo3N4EMr_ PREMISE-Fact 1601 1657 This was actually a database we just launched last year.
+V-1KIq2pCI PREMISE-Fact 1658 1709 I mean, I've been around databases for a long time.
+eLCXeeia8T PREMISE-Fact 1710 1785 I've never seen a product that's gotten to this kind of scale this quickly.
+8mLj2djZu- PREMISE-Fact 1786 1905 And so we're very bullish about what can happen in the higher-level services and we'll continue to build on that piece.
+z8Hi1XBS0f PREMISE-Fact 1906 2123 But as I said, one of the key things is, architecturally, the way we build Azure, the way we build Office 365, the way we build our gaming cloud and the way we build even Dynamics are all pretty much one architecture.
+LLoUr837Jh PREMISE-Fact 2124 2174 And you see that even in the way customers use it.
+uP6DisuPIT CLAIM-Reformulated 2175 2310 So overall to your specific question on Azure, the growth will moderate as the numbers become big, and they've already become very big.
+eqotshwBTB CLAIM-Opinion(view) 2311 2531 But that said, we see plenty of opportunity for total gross margin growth in terms of dollars just because of the number of markets that we participate, in which we by the way, never participated in the old server world.
+sbV1CsTjLZ PREMISE-Fact 1437 1553 We've seen lots of consecutive quarters of growth in our higher-level services but we're now seeing some good scale.
+8sBaHkpPkO PREMISE-RealExample 1554 1600 I, for the first time, talked about Cosmos DB.
+TC3BFBvgzX CLAIM-Fact 2545 2738 And, Walter, I think the way you see that show up is really in my conversation on FY 2019, to Satya's point, really we talked about that server product and KPI being high teens through FY 2019.
+KCyQ8pFti9 PREMISE-Statistic 2739 2866 We're really confident in double-digit growth in that PBP segment with the components of Office 365, Dynamics 365 and LinkedIn.
+H443RWQwp5 PREMISE-Statistic 2867 3055 So if you think about that as the primary components of our commercial cloud overall, we're certainly saying that it's a big business growing very fast at $6 billion not counting LinkedIn.
+vA1WRIMceF PREMISE-Statistic 3056 3136 At 58% growth, it certainly speaks to having a big base and a big growth number.
+uRzlaJ8kGk NON-ARG 3137 3160 On Azure, you're right.
+m3jOaYxO8G PREMISE-Fact 3161 3196 It will moderate through next year.
+fcFMKBcHrE PREMISE-Fact 3197 3337 But because of the scale at which it's operating, that's why you still see that server KPI remain at that high level even as the base grows.
+QsUWsKG-Hg PREMISE-Fact 3338 3420 And so you will see also some different dynamics within that Azure revenue number.
+G_KbKbFedu PREMISE-Fact 3421 3457 Satya mentioned the layers of Azure.
+kdTTGt9mpj PREMISE-Fact 3458 3559 If you think about the IaaS and PaaS numbers, I would expect to be on the higher end of growth rates.
+kUOP8w-p-_ PREMISE-Fact 3560 3748 And some of the services that are more per-user like, like EMS within the Azure frame, you would expect that growth to moderate somewhat more quickly just because it's a per-seat business.
+XOrbCj0Jtc PREMISE-Fact 3749 3845 You will actually over time see us be able to continue to add ARPU and growth in those segments.
+rWQYILcad3 PREMISE-Fact 3846 3889 Think of it almost like an Office business.
+DHT3dRzlnK PREMISE-Fact 3890 3957 Internally, we call that component part of our Microsoft 365 Value.
+dM4i-pO9XA PREMISE-Fact 3958 3996 That's how we sell it externally even.
+x77615mbrK PREMISE-Fact 3997 4161 And so hopefully, that helps give a little context to the number as well as our overall ability to continue to grow the sort of hybrid cloud opportunity high teens.
+SVISqipAns NON-ARG 4210 4225  Thanks Walter.
+MAffiNRRNo NON-ARG 4226 4262 We'll take the next question please.
+R0 SUPPORT ARG1:RVqwgoDqRh ARG2:okTMNRnelt
+R1 SUPPORT ARG1:Ej7C2AtoVF ARG2:okTMNRnelt
+R2 SUPPORT ARG1:n2l4xfJQUr ARG2:okTMNRnelt
+R3 SUPPORT ARG1:wsKj1ntUBS ARG2:okTMNRnelt
+R4 SUPPORT ARG1:sbV1CsTjLZ ARG2:okTMNRnelt
+R5 SUPPORT ARG1:8sBaHkpPkO ARG2:okTMNRnelt
+R6 SUPPORT ARG1:NWo3N4EMr_ ARG2:okTMNRnelt
+R7 SUPPORT ARG1:V-1KIq2pCI ARG2:okTMNRnelt
+R8 SUPPORT ARG1:eLCXeeia8T ARG2:okTMNRnelt
+R9 SUPPORT ARG1:8mLj2djZu- ARG2:okTMNRnelt
+R10 SUPPORT ARG1:z8Hi1XBS0f ARG2:okTMNRnelt
+R11 SUPPORT ARG1:LLoUr837Jh ARG2:okTMNRnelt
+R12 SUPPORT ARG1:KCyQ8pFti9 ARG2:TC3BFBvgzX
+R13 SUPPORT ARG1:H443RWQwp5 ARG2:TC3BFBvgzX
+R14 SUPPORT ARG1:vA1WRIMceF ARG2:TC3BFBvgzX
+R15 SUPPORT ARG1:m3jOaYxO8G ARG2:TC3BFBvgzX
+R16 SUPPORT ARG1:fcFMKBcHrE ARG2:TC3BFBvgzX
+R17 SUPPORT ARG1:QsUWsKG-Hg ARG2:TC3BFBvgzX
+R18 SUPPORT ARG1:G_KbKbFedu ARG2:TC3BFBvgzX
+R19 SUPPORT ARG1:kdTTGt9mpj ARG2:TC3BFBvgzX
+R20 SUPPORT ARG1:kUOP8w-p-_ ARG2:TC3BFBvgzX
+R21 SUPPORT ARG1:XOrbCj0Jtc ARG2:TC3BFBvgzX
+R22 SUPPORT ARG1:rWQYILcad3 ARG2:TC3BFBvgzX
+R23 SUPPORT ARG1:DHT3dRzlnK ARG2:TC3BFBvgzX
+R24 SUPPORT ARG1:dM4i-pO9XA ARG2:TC3BFBvgzX
+R25 SUPPORT ARG1:x77615mbrK ARG2:TC3BFBvgzX

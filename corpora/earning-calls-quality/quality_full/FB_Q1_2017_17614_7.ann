@@ -1,0 +1,29 @@
+rKjbR7hqU- NON-ARG 2409 2496 John, I think your question then was on Ad Breaks and then the mid-roll type of format.
+54a5QfOzXv PREMISE-Fact 2497 2612 I think there we're testing the ability and are putting short Ad Breaks into longer-form live and on-demand videos.
+HPuAOf6jJg CLAIM-Fact 2613 2816 Tests are going well, but it's really early days to talk about that being a significant contributor, so we're working to continue to make those products better and continuing those tests, but it's early.
+nK_QdDHPcP PREMISE-Fact 2817 2953 On that front, we're focused on building out the best video experiences for our community and growing longer-form content as a priority.
+Kyz9B-Cygj PREMISE-Fact 2954 3051 And Ad Breaks is going to allow us to have a monetization strategy with that longer-form content.
+zMT_-80jW0 CLAIM-Fact 3052 3080 But like I said, it's early.
+T1ltl_V8bm NON-ARG 585 678 I'll talk to the content and AI questions, and then someone else can talk about the ad piece.
+T6zkiN2G5k NON-ARG 679 703 The short answer is yes.
+K7vgDYvGPj CLAIM-Fact 704 870 AI tools over time will be able to do a better job of flagging things for the set of people who are in the Community Ops teams that we can prioritize what we look at.
+0VEvpdIIL1 CLAIM-Fact 871 956 A lot of what we're trying to do here is not just about getting content off Facebook.
+sH-A1rDkVO CLAIM-Reformulated 1440 1480 Over time, the AI tools will get better.
+UtzlbsKmdk PREMISE-Fact 957 1070 Last week there was this case where someone was using Facebook Live to broadcast – or was thinking about suicide.
+BUCmPuaX-v PREMISE-Fact 1071 1253 And we saw that video and actually didn't take it down and helped get in touch with law enforcement who used that live video to communicate with that person and help save their life.
+z7huhWVMKm CLAIM-Reformulated 1254 1332 So a lot of what we're trying to do is not just about taking the content down,
+oGZF-n1VB5 PREMISE-Fact 1333 1439 but also about helping people when they're in need on the platform, and we take that very, very seriously.
+GK5Uf3HQDw NON-ARG 1481 1620 Right now there are certain things that AI can do in terms of understanding text and understanding what's in a photo and what's in a video.
+NHNos-eRO3 CLAIM-Reformulated 1621 1652 That will get better over time.
+LZqWtQuqGI CLAIM-Reformulated 1653 1742 That will take a period of years, though, to really reach the quality level that we want.
+g8ICu_u02G CLAIM-Reformulated 1743 1937 So for a while, our strategy has been to just continue building as good tools as we can because no matter how many people we have on the team, we're never going to be able to look at everything.
+-VojOxv4gn NON-ARG 1938 1973 So that's going be a big challenge.
+j-PCZWUEbQ NON-ARG 1974 2308 But given the importance of this and how quickly live video is growing, we wanted to make sure that we doubled down on this and made sure we provided as safe of an experience for the community as we can, which is why we're almost doubling the size of the Community Ops team to focus on some of these issues around safety on live video
+zHUEKe3V-t NON-ARG 2310 2391 But over time for sure, more AI will do this, but this is over a period of years.
+R0 SUPPORT ARG1:54a5QfOzXv ARG2:HPuAOf6jJg
+R1 SUPPORT ARG1:nK_QdDHPcP ARG2:HPuAOf6jJg
+R2 SUPPORT ARG1:Kyz9B-Cygj ARG2:HPuAOf6jJg
+R3 SUPPORT ARG1:UtzlbsKmdk ARG2:0VEvpdIIL1
+R4 SUPPORT ARG1:BUCmPuaX-v ARG2:0VEvpdIIL1
+ArgQ0 HPuAOf6jJg SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 0VEvpdIIL1 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

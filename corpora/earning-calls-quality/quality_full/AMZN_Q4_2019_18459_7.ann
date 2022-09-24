@@ -1,0 +1,26 @@
+FDIKfWtWUW NON-ARG 1437 1458 On the international?
+2r8wQJtEHP NON-ARG 1475 1518 On the international segment excuse me yes.
+DHoVRFxacE NON-ARG 1519 1578 The -- sorry the first question was for the holiday season.
+YQDp1Nud3t NON-ARG 1579 1623 Yes, we don't see that as a factor actually.
+bOmHWkqxB3 NON-ARG 1624 1721 And I mentioned that last call as it wasn't incorporated into our guidance in a negative fashion.
+pI9fKVv5MM CLAIM-Fact 1722 1910 The way we look at it and the way we believe it works at least in our business is that customers will have a holiday budget and they will spend it between generally the middle of November.
+NQLIKGPH6r PREMISE-Fact 1911 1985 It's creeping up to the early part of November through the holiday season.
+1n1WZEotml PREMISE-RealExample 1986 2163 And we do see obviously spikes in Black Friday and Cyber Monday and we also see relative tick-up in trends as we get closer to the holiday and for the shipping threshold cutoff.
+qC-_vMWlp_ CLAIM-Fact 2164 2289 So, there's a polarization of tends to be a polarization to early shipping -- or excuse me early purchase and late purchases.
+9xfEcsFP2c PREMISE-RealExample 2290 2418 As far as, the six days that sort of time period between Thanksgiving and the Christmas holiday, we don't see an impact on that.
+QlnCxx1dIh CLAIM-Fact 2419 2515 Perhaps it's a bigger issue for stores and foot traffic, but we don't notice it in our business.
+gLEs7wKQTK NON-ARG 744 748 Yes.
+R_ZsZKsgvA CLAIM-Fact 749 893 First of all on the -- there were two items we discussed last quarter with the Japan consumption tax raising from 8% to 10% effective October 1.
+a3bD7nn7ob PREMISE-Fact 894 1033 The net result was a pull forward of some purchases by Japanese customers into Q3 and also some negative elasticity effects post October 1.
+zV_kW5x5kD PREMISE-Fact 1034 1230 The other item was Diwali timing, the Indian holiday which has a very large swing factor on international revenues is, it moved more into the third quarter this year versus -- in 2019 versus 2018.
+Qy9hM0wir8 CLAIM-Fact 1231 1275 So, it was a help to Q3 and a penalty to Q4.
+2GbPoa2x9j CLAIM-Reformulated 1276 1357 Those two items impacted the Q4 growth rate negatively by about 300 basis points.
+lJag7GZqv0 CLAIM-Opinion(view) 1358 1423 That was our estimate and we believe that was the actual outcome.
+R0 SUPPORT ARG1:NQLIKGPH6r ARG2:pI9fKVv5MM
+R1 SUPPORT ARG1:1n1WZEotml ARG2:pI9fKVv5MM
+R2 SUPPORT ARG1:9xfEcsFP2c ARG2:qC-_vMWlp_
+R3 SUPPORT ARG1:a3bD7nn7ob ARG2:R_ZsZKsgvA
+R4 SUPPORT ARG1:zV_kW5x5kD ARG2:R_ZsZKsgvA
+ArgQ0 pI9fKVv5MM SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 qC-_vMWlp_ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 R_ZsZKsgvA SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

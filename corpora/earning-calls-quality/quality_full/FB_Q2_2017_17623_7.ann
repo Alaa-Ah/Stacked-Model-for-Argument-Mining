@@ -1,0 +1,26 @@
+s5mNYjQk5_ CLAIM-Fact 515 573 On Messenger, there are two basic things that we're doing.
+RsW7Rgt-bQ PREMISE-Fact 574 797 One is we're starting to put some ads into the product just to see the basic parameters around how that performs, how people like the ads or don't, how they work for businesses, and just try to get an understanding of that.
+KbNsDdXpoP NON-ARG 798 845 So we're starting to run that across the world.
+pTvIY9p7Fh NON-ARG 846 963 But as Dave said, even though we're starting to roll that out in a lot of places, the volume starts off pretty small.
+T1uHbAAXGc PREMISE-Fact 964 1179 The biggest strategic thing that we really need to do in messaging right now is make it so that people organically interact with businesses and that that is a good interaction both for people and for the businesses.
+jfxbhPQk5d NON-ARG 1180 1218 So here's one way to think about this.
+-IAkOmjsu3 PREMISE-Fact 1219 1505 If you're a business and you have a higher ROI for interacting with a person in your messaging thread than you do on the mobile web or trying to get them to install an app, then that creates this positive feedback loop, where you're going to point your ads towards the Messenger thread.
+i0yAZlzjf5 PREMISE-Fact 1506 1631 You're going to invest more of your engineering resources in building out the content and experience on the Messenger thread.
+sgOdDtRnKt CLAIM-Fact 1632 1710 So we're currently working on making it so that that is the highest ROI thing.
+QzdxbpbhHy CLAIM-Opinion(view) 1711 1747 I think we're making progress there.
+mQkLRUzAlb PREMISE-Fact 1748 1855 It's not that we're going to crack every market at once, but in sum I think we're definitely getting there.
+EO6BgpWu7N PREMISE-Fact 1856 1909 We're getting some positive feedback from the market.
+KtiqhAf8Vk NON-ARG 1910 2198 But once we start to achieve that in more and more verticals, I think that's going to start unlocking a lot of behavior, and a lot of businesses are going to want to push more interactions to happen there, which I think will really be the foundation for building that into a big business.
+nEd3wD9zPH NON-ARG 2216 2233 Ralph, it's Dave.
+kOYXMTN3pP NON-ARG 2234 2355 I would just add that with messaging monetization, this is early and it's not a near-term overall Facebook growth driver.
+g7uSOyiTGB NON-ARG 2356 2426 And much like Instagram in its early days, we're going to be cautious.
+aCIP9tDjLg NON-ARG 2427 2513 But unlike Instagram, this isn't a feed product, so just there are more unknowns here.
+R0 SUPPORT ARG1:RsW7Rgt-bQ ARG2:s5mNYjQk5_
+R1 SUPPORT ARG1:T1uHbAAXGc ARG2:sgOdDtRnKt
+R2 SUPPORT ARG1:-IAkOmjsu3 ARG2:sgOdDtRnKt
+R3 SUPPORT ARG1:i0yAZlzjf5 ARG2:sgOdDtRnKt
+R4 SUPPORT ARG1:mQkLRUzAlb ARG2:QzdxbpbhHy
+R5 SUPPORT ARG1:EO6BgpWu7N ARG2:QzdxbpbhHy
+ArgQ0 s5mNYjQk5_ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 sgOdDtRnKt SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 QzdxbpbhHy SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

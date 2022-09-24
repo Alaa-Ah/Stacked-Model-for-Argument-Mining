@@ -1,0 +1,31 @@
+Trg34HoGZk NON-ARG 814 819 Sure.
+J1VSyNP1JY NON-ARG 820 852 Thanks for that question, Heath.
+DZa4J8d369 CLAIM-Fact 853 1046 No, I would say, A, we're not expecting diminished returns in any of our businesses or growth rates nor are we restraining the business or constraining the business in any way with our capital.
+um_61xw2bh PREMISE-Fact 1047 1125 I would point you back again to the investments that we made in 2016 and 2017.
+lCliin5S55 PREMISE-Fact 1126 1223 So we did front-load a lot of the investment both in fulfillment centers and also infrastructure.
+2l9Hcxt2ni PREMISE-Fact 1224 1299 But more than that, it's more than kind of leading through excess capacity.
+5JeRnwxz4v CLAIM-Fact 1300 1411 We have some really, really impressive gains and efficiencies in both the warehouses and also the data centers.
+fN4JfnkYPw CLAIM-Reformulated 1412 1431 We talk efficiency.
+o80KKPTc2s PREMISE-Fact 1432 1528 And every percentage utilization in our data centers is worth tens and more millions of dollars.
+ywbHwJFpDm CLAIM-Fact 1529 1570 So again, that's a big part of our model.
+Ybt21nEPkF PREMISE-Fact 1571 1678 It is not only investing, but also working on efficiencies, adding new products and features for customers.
+9A1QQdwthL PREMISE-Fact 1679 1787 And as we lower costs, we pass those along to customers, either through new rates or new deals that we have.
+ig2OKQjq_R CLAIM-Fact 1788 1985 So I would say that I would look back on the performance in 2018 and say that that was great work with a - on a lot of efficiency as we also banked a lot of capacity that had been built previously.
+eNviyNn8fs CLAIM-Fact 1986 2069 Moving forward, that's why I say it will be increasing as we move through the year.
+O9TF1jpp9r CLAIM-Fact 2070 2214 And that will be a constant battle between, again, growth, geographic expansion in AWS and also efficiencies to limit how much we actually need.
+hb6CUHDNH6 CLAIM-Opinion(view) 2215 2353 I think we're also getting much better at adding capacity faster, so there's less need to build it 6 to 12 months in advance, I would say.
+oLZCueGleq NON-ARG 2354 2449 Although, we did just launched our Hong Kong region today as well and I want to point that out.
+dbtWCZfAQV CLAIM-Fact 2450 2536 The business in China is going really well and we continue to see strong growth there.
+3b0pZEaGgA PREMISE-Statistic 2537 2618 And, launching the Hong Kong region gets us to a footprint of 19 cities in China.
+P_4e1lh4Wx CLAIM-Fact 2619 2668 So it continues to be a really good story for us.
+R0 SUPPORT ARG1:um_61xw2bh ARG2:DZa4J8d369
+R1 SUPPORT ARG1:lCliin5S55 ARG2:DZa4J8d369
+R2 SUPPORT ARG1:2l9Hcxt2ni ARG2:DZa4J8d369
+R3 SUPPORT ARG1:Ybt21nEPkF ARG2:ig2OKQjq_R
+R4 SUPPORT ARG1:9A1QQdwthL ARG2:ig2OKQjq_R
+R5 SUPPORT ARG1:3b0pZEaGgA ARG2:P_4e1lh4Wx
+R6 SUPPORT ARG1:o80KKPTc2s ARG2:5JeRnwxz4v
+ArgQ0 DZa4J8d369 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 ig2OKQjq_R SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 P_4e1lh4Wx SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 5JeRnwxz4v SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

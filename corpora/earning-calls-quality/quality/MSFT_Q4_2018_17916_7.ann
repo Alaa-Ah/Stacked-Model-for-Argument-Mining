@@ -1,0 +1,13 @@
+5UIGEtV5id NON-ARG 942 968 Let me take both of those.
+92tu0uWbdh NON-ARG 969 1033 On the first one, in terms of the GM this quarter, you're right.
+el2vRXSU17 CLAIM-Fact 1034 1199 The improvements particularly in the IaaS and PaaS, gross margin of Azure did offset the cloud mix to Azure within the segment, going forward continuing to see that.
+W9pGTGcHu7 CLAIM-Opinion(view) 1815 1960 And I think that the rate of CapEx growth, as I said in FY’19 will moderate, that happens because of course we’re doing some replacement overall.
+i25jtNkILo PREMISE-Fact 1961 2121 We're adding regions and seeing a lot of global demand, and so -- and improving margin, so I think that’s clearly the very high level as you asked the question.
+OuXrQIaf_S CLAIM-Fact 1553 1814 On your second question in terms of capital spent, if you think about it at a high level, our capital expenditures are growing at a lower rate than our overall cloud revenue is growing, and that’s why we’re starting to see leverage, right, flow through the P&L.
+rq683OLuRU CLAIM-Reformulated 2122 2181 I tend to think revenue is growing faster than the capital.
+Ywo1p9YAz8 CLAIM-Reformulated 2182 2292 You’re seeing leverage through the P&L and we’ll see a moderating rate in FY’19 even if Q1 is the big quarter.
+bvDCyP7Mgc CLAIM-Fact 2293 2402 It’s just going to be volatile as CapEx tends to be quarter-to-quarter based on both supply chain and demand.
+PPJk6dpEjJ CLAIM-Fact 1416 1552 That being said, we’ve a lot as you saw this quarter room to grow gross margin dollars, in that even within that frame going into FY’19.
+9XceXru2B9 CLAIM-Opinion(view) 1200 1415 I think looking more pressured on gross margin just because the amount of Azure in the mix at the rate is growing, we’re still not at that point where a $1 of gross margin in the cloud is equivalent to a $1 on-prem.
+R0 SUPPORT ARG1:i25jtNkILo ARG2:W9pGTGcHu7
+ArgQ0 W9pGTGcHu7 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

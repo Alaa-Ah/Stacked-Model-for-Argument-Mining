@@ -1,0 +1,38 @@
+Mm8KHdRZWc CLAIM-Opinion(view) 703 795 So, on LiveRail, we're pleased with the performance and the changes we've been able to make.
+7vM1uJoCN4 PREMISE-Fact 796 912 Video is obviously super important so having the ability to do – work on video across the web has been really great.
+y5O6isqkt1 PREMISE-RealExample 913 976 And then at F8 we made two more announcements that I mentioned.
+qIMYbnQ7SD CLAIM-Fact 977 1099 What we're hearing from publishers is that this is a good opportunity and they're pleased with the extensions we're making
+0Zb3xF_83H PREMISE-Fact 1100 1193 because it can make their ad serving and buying more efficient across the platforms they use.
+82CD8kL-kE CLAIM-Opinion(view) 1194 1261 In terms of areas for improvement, I think there's a lot we can do.
+SZoSXJpL2p PREMISE-RealExample 1262 1379 I think have you to look at our ad tech investments very holistically from Atlas to LiveRail to the Audience Network.
+bLT1jpw1YO PREMISE-Fact 1380 1593 These are all different pieces of the ad tech but what they're all working on is taking the relevance and the ability to do people-based marketing and make that available to work on Facebook but also off Facebook.
+dSlHozzHZy CLAIM-Opinion(view) 1895 2010 Just on the OpEx question, I think the key is that we're investing in our near, mid-term, and long-term priorities,
+7ytkixzUPW PREMISE-Fact 2011 2175 so in the near-term we're investing to grow the community, execute on the existing business, both on the product side and then the advertising and sales force side.
+Q8Ppifp6S0 PREMISE-RealExample 2176 2347 And in the mid-term, we're building out those next-generation of services to be great businesses that reach their full potential, so that's Instagram, WhatsApp, Messenger.
+hwpWxqSpxU PREMISE-RealExample 2348 2462 And then in the long-term, we're investing in areas like the next-generation computing platform, internet.org, AI.
+mrhHo7CssJ CLAIM-Fact 2463 2540 In general, I would say our head count growth has skewed towards the R&D side
+NVcjAP0cTV PREMISE-Fact 2541 2609 because a lot of these initiatives have long-term development needs.
+o0jD6q4wkO PREMISE-Fact 2610 2640 So we've been investing there.
+FB9G6LxS3H PREMISE-Fact 2641 2679 But we are investing across the board.
+ECd8UJwC6g NON-ARG 2928 2966 We haven't lapped those at this point.
+D304dmpb_1 NON-ARG 2680 2769 In terms of a specific head count guidance, I would just stick with our expense guidance.
+PO4oJRyWPE NON-ARG 2770 2927 But I'd note that the 48% year-over-year does include some inorganic growth from the pickup of the three larger acquisitions, Oculus, LiveRail, and WhatsApp.
+jRNaw-_dax PREMISE-Fact 1594 1855 We believe that because we can do marketing to people and then measure results across what people do in privacy-protective ways, we have an ability to improve the relevance of marketing which will make it better for consumers and increase returns for marketers.
+NNisro-jk5 NON-ARG 1873 1894 And Brian, it's Dave.
+R0 SUPPORT ARG1:7vM1uJoCN4 ARG2:Mm8KHdRZWc
+R1 SUPPORT ARG1:y5O6isqkt1 ARG2:Mm8KHdRZWc
+R2 SUPPORT ARG1:0Zb3xF_83H ARG2:qIMYbnQ7SD
+R3 SUPPORT ARG1:SZoSXJpL2p ARG2:82CD8kL-kE
+R4 SUPPORT ARG1:bLT1jpw1YO ARG2:82CD8kL-kE
+R5 SUPPORT ARG1:7ytkixzUPW ARG2:dSlHozzHZy
+R6 SUPPORT ARG1:Q8Ppifp6S0 ARG2:dSlHozzHZy
+R7 SUPPORT ARG1:hwpWxqSpxU ARG2:dSlHozzHZy
+R8 SUPPORT ARG1:NVcjAP0cTV ARG2:mrhHo7CssJ
+R9 SUPPORT ARG1:o0jD6q4wkO ARG2:mrhHo7CssJ
+R10 ATTACK ARG1:FB9G6LxS3H ARG2:mrhHo7CssJ
+R11 SUPPORT ARG1:jRNaw-_dax ARG2:82CD8kL-kE
+ArgQ0 Mm8KHdRZWc SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 qIMYbnQ7SD SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 82CD8kL-kE SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 dSlHozzHZy SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 mrhHo7CssJ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

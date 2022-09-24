@@ -1,0 +1,24 @@
+9zZ4eMpFGY CLAIM-Opinion(view) 627 927 I think one of the things that's interesting about Instagram is while the ads are really visually appealing and that brings to mind certain verticals like fashion or autos, things where the visual really matters, what we're seeing is that lots of different verticals can use the platform really well.
+olgajh0YPV PREMISE-RealExample 928 1065 So a recent example, HTC working with their agency Swift did Instagram videos to raise awareness of their mobile device warranty program.
+_sG9SJmvHR PREMISE-Statistic 1066 1270 So they targeted 18- to 34-year olds, they did five short videos with these funny moments of where you're about to break your phone, and they got a 6 point lift in awareness of what is a warranty program.
+3HWmbzWXqE NON-ARG 1271 1342 I think that's not something you would think of typically as Instagram.
+g013QOHfJs CLAIM-Opinion(view) 1343 1587 In terms of Instagram and Facebook, we believe that marketers are looking to connect with people in a really deep way, connect with the right people, and our targeting we think is really strong compared to any other platform, at the right time.
+gz6jOa--1L PREMISE-Fact 1588 1617 And that really means mobile.
+qYcldf2A93 PREMISE-Fact 1618 1856 And we see such engagement on both Facebook and Instagram along with the different targeting and ad formats, we believe we'll be able to have and are already starting to have a relationship with marketers which grow across both platforms.
+MhlbTuM4V2 CLAIM-Fact 1857 1921 Our focus with our marketing partners is their business results.
+NYBGXrHUu0 PREMISE-Fact 1922 1985 I talked about in my remarks how we're looking for conversions.
+Y2xriwCkL6 PREMISE-Fact 1986 2020 We're trying to help them measure.
+TMlH-WsxLP CLAIM-Opinion(view) 2290 2407 And we like having more abilities, more products, more apps to work with so that we can drive those business results.
+q0C_DOuR3u PREMISE-RealExample 2021 2090 If you do a car ad for us, how many vehicles were driven off the lot?
+hRxC6Lcg1D PREMISE-Fact 2091 2289 We see what products you use within Facebook or Instagram, or Facebook and Instagram, as less important as the best products for the right marketer at the right time to drive their business results.
+R0 SUPPORT ARG1:gz6jOa--1L ARG2:g013QOHfJs
+R1 SUPPORT ARG1:qYcldf2A93 ARG2:g013QOHfJs
+R2 SUPPORT ARG1:NYBGXrHUu0 ARG2:MhlbTuM4V2
+R3 SUPPORT ARG1:Y2xriwCkL6 ARG2:MhlbTuM4V2
+R4 SUPPORT ARG1:olgajh0YPV ARG2:9zZ4eMpFGY
+R5 SUPPORT ARG1:_sG9SJmvHR ARG2:9zZ4eMpFGY
+R6 SUPPORT ARG1:q0C_DOuR3u ARG2:MhlbTuM4V2
+R7 SUPPORT ARG1:hRxC6Lcg1D ARG2:MhlbTuM4V2
+ArgQ0 g013QOHfJs SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 MhlbTuM4V2 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 9zZ4eMpFGY SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

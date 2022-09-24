@@ -1,0 +1,12 @@
+ndQQaF8hVt NON-ARG 804 826 Sure, I'll take those.
+iXh61toxTL NON-ARG 827 1033 In terms of the OFA roll out we initially launched that in August and we've been continuing to slowly roll that out globally and we'll be doing that over the next several months through the end of the year.
+4BwlrF3APr NON-ARG 1034 1090 And we're rolling it out globally on a percentage basis.
+JkxyVbpRlk NON-ARG 1091 1159 We've seen a positive reception to having this feature as an option.
+wYQIAJoxRy NON-ARG 1160 1288 It's too early to share adoption and we'll just have to see kind of over time how that gets picked up and how that gets adopted.
+5ii-f7T9DM NON-ARG 1289 1346 But I think it's too early to really share much about it.
+3QNac6hYUR NON-ARG 1535 1560 So, it's very early days.
+tq4yA8B0sO NON-ARG 1561 1625 And from a revenue perspective, it's not material at this point.
+i7slTf0lTR CLAIM-Fact 1347 1422 In terms of search, we are showing ads in Marketplace in FB search results.
+F6ukFB7z7Y PREMISE-Fact 1423 1534 But really the vast majority of searches on Facebook are for people, not topics related to retailer e-commerce.
+R0 ATTACK ARG1:F6ukFB7z7Y ARG2:i7slTf0lTR
+ArgQ0 i7slTf0lTR SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

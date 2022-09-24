@@ -1,0 +1,43 @@
+eo9vXsB55n CLAIM-Opinion(view) 1738 1810 And so we did exceptionally well I think in any way that you look at it.
+lxRS8WdgYJ PREMISE-Statistic 1362 1489 And if you look at it at a little narrower regional level, Western Europe grew 30% versus a market of 7%, so four times market.
+4SdvAX-QBk PREMISE-Statistic 1490 1524 Japan grew over five times market.
+7dz24MAz9g PREMISE-Statistic 1525 1580 We doubled in Korea versus a market that was shrinking.
+qfQfEkoURJ PREMISE-Statistic 1581 1737 And India we grew at 93% and this is on top of the Greater China numbers that we've already covered that grew 87% during the quarter against a market of 5%.
+UZAU-Nztz0 CLAIM-Opinion(view) 2239 2302 And so from our point of view, the iPhone is doing outstanding.
+5Tyb5zTKWT CLAIM-Reformulated 2148 2238 We also are incredibly happy to see the highest Android switcher rate that we've observed.
+cVZHQVxxf3 CLAIM-Opinion(view) 2039 2147 And so we view that as a very bullish sign on the future, that there's a lot of headroom left for upgraders.
+3EbrNxsg2i PREMISE-Statistic 1811 2038 In terms of the percentage of customers that have upgraded to a 6 and 6 Plus versus that have not upgraded, it's 73%, or meaning that 27% of the installed base of customers prior to the launch of 6 and 6 Plus have now upgraded.
+glmDzYpz3- NON-ARG 2687 2784 Well you know, Katy, we purposely just give guidance for the current quarter and we've done that.
+99oXFWckk8 PREMISE-Other 3045 3328 But as I back up from it and look at it more from a macro point of view, the things that makes me very bullish is the 27% number I just quoted, the fact that we are seeing the highest Android switcher rate, the customer satisfaction that we have on the iPhone versus the competition.
+cpJagFKE2v PREMISE-RealExample 3422 3614 I also look at the first time iPhone buyers and we're still seeing very, very large numbers in the countries that you would want to see those in, like China and Russia and Brazil and so forth.
+uNkKoqmEfU PREMISE-Statistic 3615 3807 I also see a market that over a five-year horizon, if you look at the IDC numbers, is projected to grow from 1.3 million in 2014 to over 1.9 billion – this is billion, rather, billion in 2019.
+_xcB_8HzWz PREMISE-Fact 3349 3421 The loyalty rate that we have versus competition, an enormous gap there.
+cebo_4SnhG NON-ARG 2986 3044 How the future looks, we'll take it one quarter at a time.
+D12S9q4YbV CLAIM-Opinion(view) 2785 2917 And obviously the kind of numbers that we have indicated growth in the revenue means that iPhone would have another stellar quarter.
+qxDOBXjwxe CLAIM-Reformulated 2918 2985 And so we're very confident that this quarter is going to be great.
+1uidVbBqHB PREMISE-Other 3329 3348 It's a huge margin.
+IqE3sE935Y CLAIM-Reformulated 3808 3841 And so it's an incredible market.
+sPXc3xH3Vl CLAIM-Opinion(view) 3842 3994 I think everybody's going to own a smartphone, and I think we've proven that we can compete for a fair number of those, as you can see from our results.
+oQfup4PcwC CLAIM-Opinion(view) 890 1042 And so in this particular quarter, we were able to end basically right at the bottom end of our range and we view that as a good thing, not a bad thing.
+fJepzfdvzy PREMISE-Statistic 1272 1361 In terms of what's going on with iPhone, the 35% growth is almost three times the market.
+Ck3Mrm0jau CLAIM-Other 1043 1210 Obviously the revenues could have been much higher if we would have expanded the channel, but if you don't need to do that, that's not how we think about the business.
+AXg_jUjS4x PREMISE-Other 1211 1271 We run the business for the long term, not the 90-day clock.
+5ylfBedDjA PREMISE-Fact 519 594 We sold more units than we thought we would and so that was a part of that.
+qUVr1dIIMi PREMISE-Fact 595 694 The other part of it is that we always run with just the amount of inventory that we think we need.
+F2gCinMC9z PREMISE-Hypothesis 695 889 And so to the degree that sales are distributed in the countries with disproportionally with shorter supply chains, or the standard deviation demand is less, we would always choose to have less.
+PBcfpmYlZV NON-ARG 438 453 Katy, it's Tim.
+CAARlgnSCZ NON-ARG 454 518 As Luca mentioned, the channel inventory did go down by 600,000.
+R0 SUPPORT ARG1:lxRS8WdgYJ ARG2:eo9vXsB55n
+R1 SUPPORT ARG1:7dz24MAz9g ARG2:eo9vXsB55n
+R2 SUPPORT ARG1:qfQfEkoURJ ARG2:eo9vXsB55n
+R3 SUPPORT ARG1:3EbrNxsg2i ARG2:cVZHQVxxf3
+R4 SUPPORT ARG1:99oXFWckk8 ARG2:D12S9q4YbV
+R5 SUPPORT ARG1:1uidVbBqHB ARG2:D12S9q4YbV
+R6 SUPPORT ARG1:_xcB_8HzWz ARG2:D12S9q4YbV
+R7 SUPPORT ARG1:cpJagFKE2v ARG2:D12S9q4YbV
+R8 SUPPORT ARG1:uNkKoqmEfU ARG2:D12S9q4YbV
+R9 SUPPORT ARG1:fJepzfdvzy ARG2:eo9vXsB55n
+R10 SUPPORT ARG1:AXg_jUjS4x ARG2:Ck3Mrm0jau
+R11 SUPPORT ARG1:5ylfBedDjA ARG2:oQfup4PcwC
+R12 SUPPORT ARG1:qUVr1dIIMi ARG2:oQfup4PcwC
+R13 SUPPORT ARG1:F2gCinMC9z ARG2:oQfup4PcwC

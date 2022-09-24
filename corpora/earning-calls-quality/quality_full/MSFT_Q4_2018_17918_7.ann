@@ -1,0 +1,15 @@
+Gw3gDIQXti CLAIM-Fact 615 777 So, let me frame it first as this thing that I and we're are seeing really customers driven, which is, if you started Windows 10 and the value the customers seek.
+9zL_Ll8c9J CLAIM-Fact 778 852 And what we're seeing is accelerating enterprise deployment of Windows 10.
+reoYAtw1yp PREMISE-Fact 853 952 When that happens, it does create demand for new devices and modern devices that improved security.
+6NjWjNNFWk PREMISE-Fact 953 1040 So that then in turn results in a better and stronger overall OEM PC commercial market.
+JWA976UuFF PREMISE-Fact 1041 1309 In addition because of the macroeconomic conditions are actually quite good on this front and with the business optimism creating some wind at our back, I also think people look and say if security and value are important, this is a great time to invest in modern PCs.
+HkdZsHl2Em CLAIM-Opinion(view) 1310 1454 And particular in market where pro mix has been strong, I continue to expect to see all of those things happen, through the course of next year.
+W93GjLS5Bs NON-ARG 1455 1594 Now, what you will see however, if all those things even do remain true which I expect them to, if the economic environment stays the same.
+BlJCCLWdjp PREMISE-Other 1595 1773 H2 where we've had really strong revenue growth and a really strong market will I think moderate growth wise, just because the base it was coming off in '17 was just a lot lower.
+vVewr6reVL CLAIM-Opinion(view) 1774 1959 So, even if I see all the good things and good trends happening that I feel really create a great opportunity for us to sell Microsoft 365, you will see growth rates moderate next year.
+R0 SUPPORT ARG1:reoYAtw1yp ARG2:9zL_Ll8c9J
+R1 SUPPORT ARG1:6NjWjNNFWk ARG2:9zL_Ll8c9J
+R2 SUPPORT ARG1:JWA976UuFF ARG2:9zL_Ll8c9J
+R3 SUPPORT ARG1:BlJCCLWdjp ARG2:vVewr6reVL
+ArgQ0 9zL_Ll8c9J SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 vVewr6reVL SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

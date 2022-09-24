@@ -1,0 +1,31 @@
+7YBMxCf3hD NON-ARG 497 518 Well, Mike, it's Tim.
+cGyITxV5t- PREMISE-Statistic 635 788 And I think the other good news is that because our active installed base is at such a level, that last quarter we said that we had exceeded 1.3 billion.
+X9aoK3CC-h PREMISE-Fact 888 956 And it's growing at a double digit number on a year-over-year basis.
+h9ezH924oi CLAIM-Opinion(view) 957 1181 And so with that kind of change in the installed base and with the services that we have now and others that we are working on, I think this is just a huge opportunity for us and feel very good about the track that we're on.
+Z2pwcxI0oL PREMISE-Fact 519 634 Again, the great thing about services is there are several services that make up the total that are growing nicely.
+yDDhDuqb-w PREMISE-Fact 789 887 This year – we're not going to release this number every quarter, but we've obviously grown again.
+VBgBxxLLoe NON-ARG 1514 1535 It's a good question.
+MfWpuqbecG PREMISE-Fact 1536 1606 iPhone X was the most popular smartphone in all of China last quarter.
+GEiILCa-o3 CLAIM-Fact 1607 1643 And so iPhone X has done well there.
+LPssin5xu4 PREMISE-Fact 1776 1959 And the things that have huge growth rates there are the other products category, which is our wearables business in China and the services business, which you and I just spoke about.
+JXdHBp9UdJ CLAIM-Reformulated 1960 2026 The iPhone obviously had to do extremely well to get a 21% number.
+r-5je9ZYBO PREMISE-Fact 2027 2081 And we gained share in the market for the Mac as well.
+vPhYMLmY2w CLAIM-Fact 2082 2157 And so there's actually several vectors there that are working well for us.
+yiwdXEY1q9 PREMISE-Fact 2158 2249 We also – more broadly on the iPhone, the iPhone was the top three selling phones in China.
+MkQ-CalIbp PREMISE-Fact 2250 2317 And so it's iPhone X was number one, but we had several in the top.
+0rMg-pY6qX CLAIM-Fact 1644 1775 In order to hit a number like 21% on the growth that you see on your data sheet there, there has to be several things working well.
+esRzNkVwgA NON-ARG 2331 2345  Thanks, Mike.
+JXMQGrrkAA NON-ARG 2346 2386 Could we have the next question, please?
+R0 SUPPORT ARG1:Z2pwcxI0oL ARG2:h9ezH924oi
+R1 SUPPORT ARG1:cGyITxV5t- ARG2:h9ezH924oi
+R2 SUPPORT ARG1:yDDhDuqb-w ARG2:h9ezH924oi
+R3 SUPPORT ARG1:X9aoK3CC-h ARG2:h9ezH924oi
+R4 SUPPORT ARG1:MfWpuqbecG ARG2:GEiILCa-o3
+R5 SUPPORT ARG1:LPssin5xu4 ARG2:0rMg-pY6qX
+R6 SUPPORT ARG1:r-5je9ZYBO ARG2:vPhYMLmY2w
+R7 SUPPORT ARG1:yiwdXEY1q9 ARG2:vPhYMLmY2w
+R8 SUPPORT ARG1:MkQ-CalIbp ARG2:vPhYMLmY2w
+ArgQ0 h9ezH924oi SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 GEiILCa-o3 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ2 0rMg-pY6qX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 vPhYMLmY2w SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

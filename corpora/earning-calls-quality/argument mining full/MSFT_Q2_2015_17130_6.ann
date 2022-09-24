@@ -1,0 +1,18 @@
+xxnhx36eOx NON-ARG 450 479 Thanks Rick for the question.
+jiJt_fS5Pw CLAIM-Opinion(view) 480 596 As I said in my remarks, I am very optimistic about what Windows 10 means for our customers, partners and Microsoft.
+5YsO3AiJLW PREMISE-RealExample 597 748 The core idea of Windows 10 is to build a device operating system that spans the gamut from no screens to small screens, to PCs and even large screens.
+MdvhfU9-Sz PREMISE-RealExample 749 935 In fact if you look at our innovation, we're perhaps unique in the large screen innovation that we're doing with Surface Hub, Hollow Lands as well as some of the two-in-one form factors.
+YvlEKjU8i1 CLAIM-Opinion(view) 936 1103 So overall I think the most strategic objective for us is to get developer momentum with Windows 10 and that's where we're focusing on with a lot of different actions.
+-ZkkDJzqdg PREMISE-RealExample 1104 1240 One is the one unified developer platform, which I think is perhaps the most strategic piece of Windows 10 along with the unified store.
+a_yLXTVO3y PREMISE-Fact 1241 1314 And now couple that with the call we've made to provide an upgrade offer.
+otfBD0SUpl PREMISE-RealExample 1315 1559 We're creating great opportunity for every developer to write these universal windows application that will run on the desktop as well as on our phone and tablets, as well as on Surface Hub and in fact Hollow Lands runs universal applications.`
+IbISW6J94T PREMISE-Fact 1560 1828 No one else provides that kind of a unified market place for developers and especially the changes we've made to the desktop user interface means these universal applications are in fact very naturally discoverable right where we have high usage, which is the desktop.
+PUq2Gzoygr CLAIM-Reformulated 1829 2153 So that's the combination of things that we think are going to play out effectively and of course we're in beta right now or previews right now and getting daily feedback across the length and breadth of Windows 10, but overall I am very optimistic of what it means, both as a platform as well as a set of end user features.
+opsWfNCBeL NON-ARG 2164 2177  Thanks Rick.
+nhDRUlDkSR NON-ARG 2178 2224 Operator, we'll take the next question please.
+R0 SUPPORT ARG1:5YsO3AiJLW ARG2:jiJt_fS5Pw
+R1 SUPPORT ARG1:MdvhfU9-Sz ARG2:jiJt_fS5Pw
+R2 SUPPORT ARG1:-ZkkDJzqdg ARG2:YvlEKjU8i1
+R3 SUPPORT ARG1:a_yLXTVO3y ARG2:YvlEKjU8i1
+R4 SUPPORT ARG1:otfBD0SUpl ARG2:YvlEKjU8i1
+R5 SUPPORT ARG1:IbISW6J94T ARG2:YvlEKjU8i1

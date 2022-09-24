@@ -1,0 +1,33 @@
+85i_xpXHUV CLAIM-Opinion(view) 632 693 So, to the first question, video is a big opportunity for us.
+SxJDd95cKz PREMISE-Statistic 694 885 Mark talked about how we have 4 billion video views on Facebook everyday and we've always believed that the format of our ads should follow the format of what consumers are doing on Facebook.
+dGRIaDtEve PREMISE-Fact 962 1080 And so the fact that there's so much consumer video, that gives us the opportunity to do more marketing video as well.
+tPsJHFHiCl CLAIM-Opinion(view) 1306 1458 That said, we're really excited about the opportunity I talked about, increasing the entertainment and media vertical and brand marketers, particularly.
+By7U01FYd6 NON-ARG 1081 1305 It's still early days and we're very focused on quality and it's worth noting that not all of the revenue from video is incremental, because the video ads take the place of other ads that we would have served into News Feed.
+zWyCO2mUas NON-ARG 886 961 So many years ago when the homepage ticker was in vogue, we never did that.
+I4pMS5LgJe PREMISE-RealExample 1459 1621 But I think all marketers have the opportunity to do video, and that's pretty exciting, including SMBs who would never be able to hire a film crew and buy a TV ad
+Gx6KkwGNwj PREMISE-Fact 1623 1656 We're seeing those put videos in.
+oPZffaZhS9 PREMISE-Statistic 1657 1738 Over 1 million SMBs have posted videos and done really small ad buys around them.
+YarkaCbbGB PREMISE-Statistic 1739 1876 And that's pretty cool because I don't think there are probably 1 million advertisers who have bought TV ads in that same period of time.
+ImbDvtzQWP CLAIM-Opinion(view) 1877 2061 When you think about our marketer growth, I think we have an ability to grow both the number of advertisers who use our platform, but also the percentage of their business that we get.
+lmi36MrXVz PREMISE-Statistic 2062 2116 So 30 million small business pages continuing to grow.
+qREW7oUU7I PREMISE-Fact 2283 2334 And we do that by building very simple ad products.
+Ig1ZADh9Av CLAIM-Reformulated 2117 2282 We have an opportunity to turn those businesses into advertisers and marketers, and that's what we've done successfully and we're going to continue to focus on that.
+WePqlyn818 PREMISE-Fact 2335 2541 And then when you think about the percentage of spend we have, what I said before on this call, which is we only have a small percentage of even our large customers, that's true of our small customers, too.
+9Q4hXSD_Jk PREMISE-Fact 2542 2650 Now, there are some who spend a large portion of their budget on Facebook, but that's actually very unusual.
+E1Iv4i0ltp PREMISE-Fact 2651 2745 For most people, even when they start spending with us, we're a small portion of their budget.
+fo-6xTHfMI PREMISE-Fact 2746 2935 And when you look at the consumer time we get, we are not getting the equivalent amount of time or resources from our marketers really of any size, and therein lies our opportunity to grow.
+R0 SUPPORT ARG1:SxJDd95cKz ARG2:85i_xpXHUV
+R1 SUPPORT ARG1:dGRIaDtEve ARG2:85i_xpXHUV
+R2 SUPPORT ARG1:I4pMS5LgJe ARG2:tPsJHFHiCl
+R3 SUPPORT ARG1:Gx6KkwGNwj ARG2:tPsJHFHiCl
+R4 SUPPORT ARG1:oPZffaZhS9 ARG2:tPsJHFHiCl
+R5 SUPPORT ARG1:YarkaCbbGB ARG2:tPsJHFHiCl
+R6 SUPPORT ARG1:lmi36MrXVz ARG2:ImbDvtzQWP
+R7 SUPPORT ARG1:qREW7oUU7I ARG2:ImbDvtzQWP
+R8 SUPPORT ARG1:WePqlyn818 ARG2:ImbDvtzQWP
+R9 SUPPORT ARG1:9Q4hXSD_Jk ARG2:ImbDvtzQWP
+R10 SUPPORT ARG1:E1Iv4i0ltp ARG2:ImbDvtzQWP
+R11 SUPPORT ARG1:fo-6xTHfMI ARG2:ImbDvtzQWP
+ArgQ0 85i_xpXHUV SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 tPsJHFHiCl SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 ImbDvtzQWP SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,16 @@
+OyS53vTnJn NON-ARG 399 404 Yeah.
+X5FJDOrJDV CLAIM-Opinion(view) 405 504 I mean overall, I feel very, very good about the opportunity ahead in business applications for us.
+xtW5c6LNO4 CLAIM-Opinion(view) 505 609 And I think about the combination of both Dynamics 365 as well as what we're doing on the LinkedIn side.
+iBoINVfgzD CLAIM-Fact 610 672 They all represent our participation in business applications.
+NJc2wjKiDw CLAIM-Fact 673 836 And the thing that I – what's happening out there in the marketplace is, as things become more digital, there is in fact more need for business process automation.
+OUK6jKf2mx CLAIM-Fact 837 926 At the same time, there is a need for the application suite to be built very differently.
+uQ1Su02K7U CLAIM-Opinion(view) 927 1011 And that's where I think we have an architectural advantage again with Dynamics 365.
+LEQcRCqp3b PREMISE-Fact 1012 1194 It's much more modular, it's modern, it's extensible with this power platform that gives us the ability to do things for customers and serve them in ways that is very differentiated.
+d8pWBjoT7W CLAIM-Fact 1195 1223 So that's our primary focus.
+kKwYFjt3Q7 CLAIM-Fact 1224 1267 We'll always look at opportunities outside.
+uJ7CKNBiV0 CLAIM-Opinion(view) 1268 1434 But in a time when there is a real fundamental shift in the category when it comes to both business models and technology, we feel we're well positioned to ride that.
+5W_vZbJfvI NON-ARG 1756 1770 Thank you all.
+50CGiYEzJb NON-ARG 1784 1795 Thanks all.
+3f9HH20q-z NON-ARG 1811 1821 Thank you.
+R0 SUPPORT ARG1:LEQcRCqp3b ARG2:uQ1Su02K7U
+ArgQ0 uQ1Su02K7U SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

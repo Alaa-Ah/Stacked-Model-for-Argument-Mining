@@ -1,0 +1,20 @@
+XeL1tQIUzt NON-ARG 846 850 Yes.
+Z_iOZ3DCoF NON-ARG 851 893 So WhatsApp, we don't have ads in Stories.
+bfC3FXm3Tz NON-ARG 894 913 It's not available.
+_SWAiWNr0I NON-ARG 914 975 Ads are something that's more of a future thing for WhatsApp.
+m80oFizlVu CLAIM-Fact 976 1032 We remain very focused on the consumer experience there.
+RNB59KaYtJ PREMISE-Fact 1033 1198 We do have the WhatsApp Business app, which is helping businesses connect with consumers, and that's growing well but that monetization opportunity is not available.
+FMcd2-REt0 NON-ARG 1213 1217 Yes.
+PNnAn8L4OK CLAIM-Fact 1218 1290 And Stories on Facebook, clearly, Stories is a big success on Instagram.
+hxxaJEBylG CLAIM-Opinion(view) 1291 1485 From an impression growth perspective, we're pleased with what we're seeing there, and we're optimistic on our ability to grow Stories on Facebook but it's much earlier on the Facebook platform.
+dVyCHZtDSJ CLAIM-Policy 1486 1555 So we have to just continue to work to build that format on Facebook.
+4JbQNTNUmt NON-ARG 1573 1577 Yes.
+3chbzfwUzR PREMISE-Fact 1578 1650 And just to add quickly, I mean, Stories on Facebook is growing quickly.
+hETYnJ7aJE CLAIM-Opinion(view) 1651 1711 I think we're going to get to where we need to get to there.
+sKcoL_UI5v NON-ARG 1712 1819 We started a little bit later, and some of the early execution, I think, wasn't as good as it needed to be.
+JD6Z6EPISf CLAIM-Reformulated 1820 1895 But I think we're doing good work there now and it's growing quite quickly.
+woeTAH9Ibx CLAIM-Reformulated 1896 1949 So I'm confident about where we're going to be there.
+R0 SUPPORT ARG1:RNB59KaYtJ ARG2:m80oFizlVu
+R1 SUPPORT ARG1:3chbzfwUzR ARG2:hETYnJ7aJE
+ArgQ0 m80oFizlVu SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 hETYnJ7aJE SPECIFIC_2 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

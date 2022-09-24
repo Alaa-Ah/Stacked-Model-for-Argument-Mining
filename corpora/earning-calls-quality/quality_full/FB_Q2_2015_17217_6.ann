@@ -1,0 +1,35 @@
+Mqmsa-HSzG NON-ARG 996 1001 Sure.
+K1u4Ppe1hF NON-ARG 1002 1035 I can take the second part first.
+XYXUoJcuuh NON-ARG 1036 1176 So in terms of – also you had asked about the growth rate in the back half of the year, so I'd kind of reiterate what I said in my comments.
+ZJeoRmANyO CLAIM-Opinion(view) 1177 1464 The business continues to perform very well, driven off the strength of our mobile News Feed apps business, and really consistent with the trend we've seen in the last several quarters, we would expect that year-over-year ads growth rate to decline modestly in Q3 and Q4, and it's really
+NsAPDRcNuI PREMISE-Fact 1465 1640 because we're delivering growth against a much larger scale News Feed business in the prior-year period and also, of course, headwinds are an impact as well, as you mentioned.
+MtMnjlCipo NON-ARG 1665 1715 And I can talk to the messaging strategy question.
+3c9qB81ISi CLAIM-Fact 1716 1873 So the playbook that we're going to run with Messenger and WhatsApp is kind of similar to how we thought about building a business in Facebook and News Feed,
+fCmBGhfdlU PREMISE-Fact 1874 2225 where if you go back to 2006 and 2007, there were a lot of people who were kind of encouraging us to just put banner ads and kind of inorganic content into the experience, and what we decided was that over the long term, the ads and monetization would perform better if there was an organic interaction between people using the product and businesses.
+1H8UVx4St0 PREMISE-Fact 2226 2385 So instead of focusing on ads first, what we did was we built pages, and we made that free, that way as many businesses as possible could get into the network.
+0kh3chfiBA PREMISE-Fact 2538 2692 And then on top of that whole ecosystem, we then had the opportunity to build what has turned into a News Feed business that we're really proud of, right.
+XOhDZvT1hf PREMISE-Fact 2386 2537 And we built insights to make it so that businesses knew how they were driving business when they used pages for free and could post them to News Feed.
+WZ-gHms-yM CLAIM-Opinion(view) 2693 2876 That we think is driving a lot of value and good content for people who are using the platform and helping a lot of businesses find customers and sell their products and grow overall.
+i3Lg0pIhYS CLAIM-Opinion(view) 2877 2934 Messaging, I think, is going to be pretty similar, right?
+C7CC6ro2lr PREMISE-Other 2935 3074 Where right now some people in WhatsApp use the service in order to message businesses, Messenger is, I think, more people-to-people today.
+iyp_mbm04m PREMISE-Fact 3075 3193 We're working on a lot of different things that make it so that people can get value from interacting with businesses.
+qLKDBjyb1U PREMISE-Fact 3194 3225 We launched some of them at F8.
+xQinWvBpvU PREMISE-Fact 3226 3311 We have a number of other things that we're working on across Messenger and WhatsApp.
+ZDS_dHqyKr CLAIM-Opinion(view) 3312 3565 But the long term bet is that by enabling people to have good organic interactions with businesses, that will end up being a massive multiplier on the value of the monetization down the road when we work on that and really focus on that in a bigger way.
+aQmUcaWTQs NON-ARG 3566 3707 So we'd ask for some patience on this to do this correctly, and the game plan will be more similar to what we did in Facebook with News Feed.
+frX8Py6UbR NON-ARG 3725 3834 And, Ross, you also asked about, I think, the impact of Messenger on our user statistics and the daily users.
+_6d4SK-EEG PREMISE-Fact 3835 3922 The vast, vast majority, virtually all of Messenger users, are using News Feed as well.
+EYJWA6NS3L CLAIM-Fact 3923 4006 So Messenger-only usage is not having a material impact on our overall usage stats.
+R1 SUPPORT ARG1:fCmBGhfdlU ARG2:3c9qB81ISi
+R2 SUPPORT ARG1:1H8UVx4St0 ARG2:3c9qB81ISi
+R3 SUPPORT ARG1:XOhDZvT1hf ARG2:3c9qB81ISi
+R5 SUPPORT ARG1:C7CC6ro2lr ARG2:i3Lg0pIhYS
+R6 SUPPORT ARG1:iyp_mbm04m ARG2:i3Lg0pIhYS
+R7 SUPPORT ARG1:qLKDBjyb1U ARG2:i3Lg0pIhYS
+R8 SUPPORT ARG1:xQinWvBpvU ARG2:i3Lg0pIhYS
+R9 SUPPORT ARG1:_6d4SK-EEG ARG2:EYJWA6NS3L
+ArgQ0 ZJeoRmANyO SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 3c9qB81ISi SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ2 WZ-gHms-yM SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 i3Lg0pIhYS SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 EYJWA6NS3L SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

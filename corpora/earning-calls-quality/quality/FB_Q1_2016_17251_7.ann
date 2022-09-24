@@ -1,0 +1,44 @@
+KlQBdjiYqh NON-ARG 590 627 Sure, I'll take the second one first.
+SJ4wQA-s_a CLAIM-Fact 628 724 Our growth was really broad-based, and we grew across all of our marketer segments this quarter.
+LQhWTRJzm5 CLAIM-Fact 837 925 It's very ROI-focused, and we continue to invest and roll out products that help people.
+IkZG7marUC PREMISE-RealExample 926 1084 So for example, Lead Ads, where people can fill out forms on a mobile device, take their contact info from Facebook, we've rolled that out fully this quarter.
+0VxPRk6im8 PREMISE-Fact 1085 1158 And that enables people to use Facebook in a very direct to response way,
+IjRJAHwFbK CLAIM-Reformulated 1159 1194 and we'll continue to invest there.
+Pf3_0yNR2K CLAIM-Opinion(view) 1195 1225 Video ads are really exciting.
+90UO8R1mFW PREMISE-Fact 1226 1350 It's worth noting that video ads take place on another avenue, and receipts are not all of the revenue incrementals (28:55).
+3bVocKUzZy PREMISE-Fact 1351 1471 But as consumer engagement with video has continued to grow, that creates more and more of an opportunity for video ads.
+PUFGIB0F_E CLAIM-Fact 1472 1505 Marketers have always loved video
+QFZDkJZgOl PREMISE-Fact 1506 1559 because it's a really compelling way to reach people.
+BJ-xVO5F-T NON-ARG 1560 1632 And now we can reach them on mobile all day with those kind of messages.
+2E301mIw2C CLAIM-Fact 1633 1681 Importantly, marketers have to adjust sometimes.
+LZgWcBgCud PREMISE-Fact 1682 1809 While the 30-second ad does perform well in News Feed, we also see people understanding that some of the formats are different.
+-CnLJ4Uix6 CLAIM-Fact 1810 1917 Creating shorter ads, creating ads that can work even without sound, more personal ads has really mattered.
+KI6fv9HFOX PREMISE-RealExample 1918 2016 One example is Toyota used Facebook for the launch of the RAV4 Hybrid with Saatchi in Los Angeles.
+eUlmfZ7i2Z PREMISE-Fact 2017 2071 They used a very broad video to drive brand awareness.
+nSFxONmW7I PREMISE-Statistic 2072 2143 They reached over 36 million people in a target demo within three days.
+P6VbJOLSWx PREMISE-Statistic 2144 2329 Then, and this is where it gets even more interesting, they retargeted people who watched the video with over 500 personalized video ads which were optimized for Facebook and Instagram.
+L9jgEiBgPl PREMISE-Fact 2330 2472 So they were creating a direct response campaign to get people to take specific actions like requesting a quote and finding a specific dealer.
+7gtJWGq-YC PREMISE-Statistic 2473 2552 We saw a 14-point lift in ad recall, a seven-point lift in message association.
+rF8QkXQPTC CLAIM-Fact 779 836 Our direct response business continues to be very strong.
+Z3bBrPQXGp PREMISE-Fact 725 778 That's direct response, brands, SMBs, and developers.
+18TESQXkBz PREMISE-RealExample 2553 2692 And right now, we're using the Lift tool to continue to measure their sales for the 30 and 60 days beyond the campaign to see what happens.
+cR7pz1MkNj CLAIM-Reformulated 2693 2831 And we're pretty excited about what that shows in terms of how video can be used in a really broad-based way but also a more personal way.
+R0 SUPPORT ARG1:IkZG7marUC ARG2:LQhWTRJzm5
+R1 SUPPORT ARG1:0VxPRk6im8 ARG2:LQhWTRJzm5
+R2 ATTACK ARG1:90UO8R1mFW ARG2:Pf3_0yNR2K
+R3 SUPPORT ARG1:3bVocKUzZy ARG2:Pf3_0yNR2K
+R4 SUPPORT ARG1:QFZDkJZgOl ARG2:PUFGIB0F_E
+R5 SUPPORT ARG1:LZgWcBgCud ARG2:2E301mIw2C
+R6 SUPPORT ARG1:KI6fv9HFOX ARG2:-CnLJ4Uix6
+R7 SUPPORT ARG1:eUlmfZ7i2Z ARG2:-CnLJ4Uix6
+R8 SUPPORT ARG1:nSFxONmW7I ARG2:-CnLJ4Uix6
+R9 SUPPORT ARG1:P6VbJOLSWx ARG2:-CnLJ4Uix6
+R10 SUPPORT ARG1:L9jgEiBgPl ARG2:-CnLJ4Uix6
+R11 SUPPORT ARG1:7gtJWGq-YC ARG2:-CnLJ4Uix6
+R12 SUPPORT ARG1:Z3bBrPQXGp ARG2:SJ4wQA-s_a
+ArgQ0 LQhWTRJzm5 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ1 Pf3_0yNR2K SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 PUFGIB0F_E SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 2E301mIw2C SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 -CnLJ4Uix6 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 SJ4wQA-s_a SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

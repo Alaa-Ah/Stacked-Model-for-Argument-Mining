@@ -1,0 +1,18 @@
+WOFWVCuPPx NON-ARG 891 896 Sure.
+ueIT7PEtdr CLAIM-Opinion(view) 897 1053 So over time we may not have to ramp it as much, but I don't foresee any time in the near future that AI is going to make it to that if the cost comes down.
+_9cwhTkpAA PREMISE-Fact 1315 1607 And so you build the computer system, in that way they can flag and get rid of some of the worst stuff, and so they can flag for human review, some of the stuff that's borderline and then there's just so much content flowing through the system that we do need a lot of people looking at this.
+8u9jcaTz6H PREMISE-Fact 1054 1214 In general what we have to do is we use computers and AI for what they're good for which is looking at a lot of content very quickly and making quick judgments.
+Qev8qIn1rd PREMISE-Fact 1215 1314 And we have teams of people doing what people are good for which is making nuanced human judgments.
+MtQhLXBVvx CLAIM-Reformulated 1608 1662 And I don't think that's going to change anytime soon.
+KECWhL7ENs CLAIM-Fact 1676 1889 And Heather, I would add that when you're using systems to look at content, when you're using AI machine learning systems, it's a real benefit to have actual people looking and tagging that content, classifying it
+Jx0j6FearE PREMISE-Fact 1890 1982 because it helps those machine learning algorithms be able to learn what they're looking at.
+mq9MpppngV CLAIM-Reformulated 1983 2089 So you actually have -- we do have actually ramped in people who are doing the tagging and classification.
+743NV_b5W4 CLAIM-Fact 2090 2194 So there is actually expense related to AI that's on the human side in the near-and medium-term as well.
+3YPnStcO-n NON-ARG 2195 2236 So very much in line with what Mark said.
+HfcwcwO8j6 CLAIM-Reformulated 2237 2357 Over time it's an opportunity to maybe slow down the growth, but it's not going to change the dynamics in the near term.
+R0 SUPPORT ARG1:8u9jcaTz6H ARG2:ueIT7PEtdr
+R1 SUPPORT ARG1:Qev8qIn1rd ARG2:ueIT7PEtdr
+R2 SUPPORT ARG1:_9cwhTkpAA ARG2:ueIT7PEtdr
+R3 SUPPORT ARG1:Jx0j6FearE ARG2:KECWhL7ENs
+ArgQ0 ueIT7PEtdr SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 KECWhL7ENs SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

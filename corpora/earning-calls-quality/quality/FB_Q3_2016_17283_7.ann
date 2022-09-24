@@ -1,0 +1,16 @@
+nVLSyGiLZM CLAIM-Fact 374 434 So News Feed is an ongoing work that we're always improving.
+uxQ69erlAC PREMISE-Fact 435 647 What we basically are trying to do is work on over time adding more and more signals to the News Feed model to help us fully value what people in the community value about the different content that we show them.
+5O7SFLkwfh PREMISE-Fact 648 806 So what we realized was that the model that we had previously didn't fully capture the nuance in how people preferred certain content from friends and family.
+GQcW6RnEE2 PREMISE-Fact 807 1237 So we ran a bunch of qualitative studies and talked to a bunch of people and incorporated those signals into the model, and that has had the result that the people in our community who gave us that feedback and who we worked with on this, what we had expected in terms of both increasing the quality of the content that people see, and therefore also enabling people to share more with their friends and the people that they want.
+odj5RCl7lM NON-ARG 1238 1399 But one thing that I would clarify is that I think sometimes people – in your framing of your question, you asked if we had tweaked News Feed to do this or that.
+ug5eVicEHH PREMISE-Fact 1400 1437 This is an ongoing iterative process.
+SRWoTh9eMg PREMISE-Fact 1438 1661 We're constantly learning about what our community wants, and we will constantly be trying to incorporate new information and signals into the models to help value all of the content in the system as accurately as possible.
+uvfgjRGRgj CLAIM-Fact 1662 1824 The biggest job that we have is to show people in the community what's going to be meaningful and important to them, and that is our goal in all of these changes.
+gy_V5ix1yu NON-ARG 368 373 Sure.
+R0 SUPPORT ARG1:uxQ69erlAC ARG2:nVLSyGiLZM
+R1 SUPPORT ARG1:5O7SFLkwfh ARG2:nVLSyGiLZM
+R2 SUPPORT ARG1:GQcW6RnEE2 ARG2:nVLSyGiLZM
+R3 SUPPORT ARG1:ug5eVicEHH ARG2:uvfgjRGRgj
+R4 SUPPORT ARG1:SRWoTh9eMg ARG2:uvfgjRGRgj
+ArgQ0 nVLSyGiLZM SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 uvfgjRGRgj SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

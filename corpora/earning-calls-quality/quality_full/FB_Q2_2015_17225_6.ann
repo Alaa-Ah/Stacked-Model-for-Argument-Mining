@@ -1,0 +1,18 @@
+VdSDGHYJr4 CLAIM-Opinion(view) 405 497 We're seeing investment, we're investing in the audience network and we think it's important
+o9Msc47Mij PREMISE-Fact 498 548 because it takes – it makes the ads more relevant.
+ZCJ3zJrp4t PREMISE-Fact 549 646 It's part of our overall ad tech push to bring the effectiveness and relevance of our ads off us.
+QSy37lKN50 PREMISE-Fact 647 767 We're growing the number of advertisers and publishers, and we're continuing to see growth and we'll continue to invest.
+8YeI2N-uTs CLAIM-Fact 768 877 When you think about mobile app install ads, those are an important but relatively small part of our revenue.
+X5_sv8LDiS PREMISE-Fact 878 1005 The important thing to understand here is that they're not only used by developers, they're used by all four marketer segments.
+cKTw7kxF6U PREMISE-RealExample 1006 1182 So for example, HBO used our video retargeting mobile app install ads on Facebook to drive downloads at HBO now, and Facebook is now the number one channel driving subscribers.
+q_opoLy7PG PREMISE-Fact 1183 1436 And I think when people think about our mobile app install ads they often think this only applies to developers and small companies, and really it's them as well but it's also companies like HBO which are using those ads to drive adoption and downloads.
+RKMTHwUJLs NON-ARG 1454 1486  Thank you for joining us today.
+popLUdrAIW NON-ARG 1487 1563 We appreciate your time, and we look forward to speaking with you all again.
+R0 SUPPORT ARG1:o9Msc47Mij ARG2:VdSDGHYJr4
+R1 SUPPORT ARG1:ZCJ3zJrp4t ARG2:VdSDGHYJr4
+R2 SUPPORT ARG1:QSy37lKN50 ARG2:VdSDGHYJr4
+R3 SUPPORT ARG1:X5_sv8LDiS ARG2:8YeI2N-uTs
+R4 SUPPORT ARG1:cKTw7kxF6U ARG2:8YeI2N-uTs
+R5 SUPPORT ARG1:q_opoLy7PG ARG2:8YeI2N-uTs
+ArgQ0 VdSDGHYJr4 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 8YeI2N-uTs SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,21 @@
+DZ7CxuMhJW NON-ARG 680 685 Sure.
+j5H5KFW_U8 NON-ARG 686 777 No, we don't have category specifics to really share with you today on the move to one-day.
+k-f9Wg5CWm NON-ARG 778 857 I did say that generally in Q2 the unit volume was greater than revenue volume.
+fhYdVDnIMO NON-ARG 858 888 So we did see some lower ASPs.
+jdCkzb7N5Y NON-ARG 889 994 But I think what you're saying is just a lot more products enter the consideration set for our customers.
+2nsslSoVHa NON-ARG 995 1133 So things that maybe they can't wait two days on, they can wait one day, and it lights up a whole separate usefulness for the Amazon site.
+hmAHZmTulT NON-ARG 1134 1236 I've noticed that personally myself that just -- with one-day shipments, it's here before you know it.
+T0f1atejNo NON-ARG 1237 1308 So what categories that hits specifically, we'll have to see over time.
+HC4Vfh7nTT CLAIM-Fact 1309 1615 On your comment, I assume you meant vendors not merchants, but on the move from 1P to 3P, but no there shouldn't be -- I can't highlight anything related shifting in channel there, but I would say that we remain in different on whether -- we're focused on price convenience and selection for our customers.
+tOXiL2-zbZ PREMISE-Other 1616 1709 And whether product is a retail offering or third-party offering is not that important to us.
+MMDSV5aHQi PREMISE-Other 1710 1773 As long as it's in stock, as long as it's priced competitively.
+bYPwY9ZYNN PREMISE-Statistic 1774 1920 So, as you know our 3P selection has -- our 3P percent of units has been increasing over time and increased again in this quarter to 54% of units.
+EwVzY_prgg CLAIM-Fact 1921 2208 We continue to invest very heavily in our systems both for retail vendors and also for third-party merchants invest billions of dollars a year on behalf of then making Amazon a better place for customers to buy and increasingly not only vendor sales, but also third-party merchant sales.
+IDZmwzCZ_p PREMISE-Statistic 2209 2389 In particular on Prime Day, I think you'll see that we had -- over in the press release, we had more than $2 billion of products were bought from small and medium-sized businesses.
+Xg_8-jFNh4 CLAIM-Fact 2390 2476 So when we win, we win together with our vendor partners and also our seller partners.
+R0 SUPPORT ARG1:tOXiL2-zbZ ARG2:HC4Vfh7nTT
+R1 SUPPORT ARG1:MMDSV5aHQi ARG2:HC4Vfh7nTT
+R2 SUPPORT ARG1:bYPwY9ZYNN ARG2:HC4Vfh7nTT
+R3 SUPPORT ARG1:IDZmwzCZ_p ARG2:Xg_8-jFNh4
+ArgQ0 HC4Vfh7nTT SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 Xg_8-jFNh4 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

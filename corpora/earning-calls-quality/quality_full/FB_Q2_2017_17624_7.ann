@@ -1,0 +1,25 @@
+74-P_-MMVj NON-ARG 492 532 So it's pretty early for ads in Stories.
+8drp1fWSeA CLAIM-Fact 756 872 So the fully immersive format with the targeting and optimization of Facebook ads is a pretty unmatched opportunity.
+ENOoPcaAei CLAIM-Fact 873 922 We also have a huge opportunity within Instagram.
+GMhPiEkL8F PREMISE-Other 533 755 And I think the way people largely think about this is this is another way of using the Facebook ad system, including our targeting and measurement capabilities, to create ads that are great creative that can reach people.
+Y-Qxqa7tAy CLAIM-Fact 1019 1161 The way we think about this is we're trying to help marketers reach their customers, both their existing and their new customers, effectively.
+lo_HX2wDVo PREMISE-Other 1162 1303 And we think it's a combination of all these offerings that really are the strength of our business and explains why we can continue to grow.
+8ia0QoBcGe PREMISE-Fact 1304 1362 So within one interface, we're working with one sales rep.
+Qdk9djzvQz PREMISE-Fact 1363 1430 If you're a large company or a small company, you can buy Facebook.
+I5SwgbZFP4 PREMISE-Fact 1431 1453 You can buy Instagram.
+60dDcEIKpH PREMISE-Fact 1454 1483 You can buy Audience Network.
+-l7fVWIFaE PREMISE-Fact 1484 1551 You can buy the different ad formats within Facebook and Instagram.
+wisOqqVCNL PREMISE-Fact 1552 1771 And that means that you have multiple targeting opportunities, multiple opportunities, and even opportunities to see who engages in an ad in one place and then reinvest to continue the conversation with those customers.
+8jKtHMhfk9 CLAIM-Reformulated 1819 1930 And these new formats fit in really nicely with the ad system we built, which underlies all of the opportunity.
+6cxZzTuEqB CLAIM-Reformulated 1772 1818 So we think all of these things work together.
+M8kQ_HKkiF NON-ARG 923 1018 And obviously, the use of ads in Instagram is much, much bigger than the use of ads in Stories.
+R0 SUPPORT ARG1:GMhPiEkL8F ARG2:8drp1fWSeA
+R1 SUPPORT ARG1:lo_HX2wDVo ARG2:Y-Qxqa7tAy
+R2 SUPPORT ARG1:8ia0QoBcGe ARG2:Y-Qxqa7tAy
+R3 SUPPORT ARG1:Qdk9djzvQz ARG2:Y-Qxqa7tAy
+R4 SUPPORT ARG1:I5SwgbZFP4 ARG2:Y-Qxqa7tAy
+R5 SUPPORT ARG1:60dDcEIKpH ARG2:Y-Qxqa7tAy
+R6 SUPPORT ARG1:-l7fVWIFaE ARG2:Y-Qxqa7tAy
+R7 SUPPORT ARG1:wisOqqVCNL ARG2:Y-Qxqa7tAy
+ArgQ0 8drp1fWSeA SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Y-Qxqa7tAy SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

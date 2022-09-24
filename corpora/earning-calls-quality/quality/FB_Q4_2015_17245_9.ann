@@ -1,0 +1,20 @@
+PQs1IYqGGX PREMISE-Fact 771 861 In terms of video content, newsfeed is as interesting as the quality of the content in it.
+uiGg5_m0pk CLAIM-Opinion(view) 1012 1225 And we believe that trend will continue because we’re at the very beginning with people really understanding the power of the smartphones and lot of people are walking around with particularly in developed market.
+WvabmG6NAM PREMISE-Fact 862 1011 What we’re seeing is that users are generating a lot of really high quality content, often pretty short form that people are really happy to consume.
+w32py9ff9e PREMISE-RealExample 1322 1511 The best example of that is probably news with Instant Articles where we figured out that, it was the slowest upload experience you could have in newsfeed to link off to an outside article.
+AfidzOkJEn CLAIM-Fact 1226 1321 We are working with publishers to try to make the content experience better inside of newsfeed.
+nhi4iGq9Z8 CLAIM-Reformulated 1512 1636 So, we worked with publishers to upload more news articles natively to Facebook and we’re seeing great engagement from that.
+ezgayKdJY0 PREMISE-RealExample 1637 1844 Similarly, we’ve had conversations with makers of Premium Content, I think they’re excited by the work they already do with us to use Facebook to distribute their content and we’re interested and doing more.
+pZcQ3KimQz NON-ARG 1967 1991 Yes, Anthony, it’s Dave.
+lLA0gBR-e6 CLAIM-Opinion(view) 1992 2116 Instagram, we’re certainly very pleased with the performance of Instagram and it certainly made a contribution this quarter.
+fsSaxoR1rw PREMISE-Fact 2117 2193 But make no mistake, Facebook, core Facebook is really driving the top-line.
+NnX6IeJ2xX CLAIM-Opinion(view) 2194 2293 And we’re very pleased with the strong performance that we had with Facebook itself in the quarter.
+DuO_bHtT0M NON-ARG 1845 1953 It’s probably worth noting that much of the engagement and consumption we have is short form, not long form.
+R0 SUPPORT ARG1:WvabmG6NAM ARG2:uiGg5_m0pk
+R1 SUPPORT ARG1:PQs1IYqGGX ARG2:uiGg5_m0pk
+R2 SUPPORT ARG1:w32py9ff9e ARG2:AfidzOkJEn
+R3 SUPPORT ARG1:ezgayKdJY0 ARG2:AfidzOkJEn
+R4 SUPPORT ARG1:fsSaxoR1rw ARG2:NnX6IeJ2xX
+ArgQ0 uiGg5_m0pk SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 AfidzOkJEn SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 NnX6IeJ2xX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

@@ -1,0 +1,13 @@
+gIkDU7x4_X NON-ARG 652 665 Thanks, Karl.
+X-buttEmz2 CLAIM-Opinion(view) 1018 1128 I do think we saw some benefit of end of support, but I would not say it was the primary benefit this quarter.
+78AkT1VHie PREMISE-Fact 1189 1264 End of support obviously we've got SQL in July and then Windows in January.
+_QNGRxNY3J NON-ARG 666 798 When I think about the on-prem number I really divide it into things that have durable value and things I think of as more one-time.
+XS7nN-_ejj CLAIM-Reformulated 1413 1581 And so even with some of that benefit of the durable trends, plus I think a more temporal one of end of support, I do expect to see a deceleration in that number in Q4.
+0dYWZD6OiQ CLAIM-Fact 1129 1188 The primary benefit was the two things I just talked about.
+k-7VobqZcL NON-ARG 799 947 When I think about the durable trends that I expect to see it's been the hybrid value prop that we really just talked about on Mark’s last question.
+UFqdOMa4TF NON-ARG 948 973 And then the premium mix.
+JwZzlUAFKX NON-ARG 974 1017 Those two we have seen and continue to see.
+mOiRW30-YH CLAIM-Opinion(view) 1265 1365 And so I do think we saw some impact, particularly in SQL and I do expect to see some of that in Q4.
+ewv3cNuG5l CLAIM-Opinion(view) 1366 1412 But the Q4 comparable for on-prem is very big.
+R0 SUPPORT ARG1:78AkT1VHie ARG2:0dYWZD6OiQ
+ArgQ0 0dYWZD6OiQ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2

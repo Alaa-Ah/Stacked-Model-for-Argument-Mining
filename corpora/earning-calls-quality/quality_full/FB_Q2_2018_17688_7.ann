@@ -1,0 +1,16 @@
+WMYW9S9Gwb NON-ARG 50 92 I'll give a little bit more color – sorry.
+doK2UsHx_O PREMISE-Fact 352 410 Europe, we saw the declines that we anticipated from GDPR.
+e7LjmRkDbd NON-ARG 93 204 I wanted to give a little bit more color on some of the different regional trends we're seeing on Facebook DAU.
+vypQ9ozHWA PREMISE-Statistic 205 351 U.S. and Canada, sort of consistent with past quarters, has been flat at about 185 million, and we would expect that to continue to bounce around.
+mmHMSvdHPe CLAIM-Fact 411 520 And I would say there, really, those impacts were purely due to the GDPR impact, not other engagement trends.
+sINPMbBcr9 NON-ARG 521 546 So I would point to that.
+wAs4Fvr1VL CLAIM-Opinion(view) 547 592 Otherwise, I think feeling good about Europe.
+0Lr3M27TTr CLAIM-Fact 593 647 Worldwide, we've got kind of different puts and takes.
+_IkUHG4KvL PREMISE-Fact 648 745 Indonesia had a SIM card registration requirement that caused a little bit of a headwind in APAC.
+4Q6GOVaPyj PREMISE-Fact 746 840 And then rest of world, we saw some countries come back online like Ethiopia came back online.
+GEo92BpITD CLAIM-Reformulated 841 985 So some different puts and takes, but overall, still seeing regional growth across all regions with the exception of the U.S./Canada being flat.
+R0 SUPPORT ARG1:_IkUHG4KvL ARG2:0Lr3M27TTr
+R1 SUPPORT ARG1:4Q6GOVaPyj ARG2:0Lr3M27TTr
+R2 SUPPORT ARG1:vypQ9ozHWA ARG2:0Lr3M27TTr
+R3 SUPPORT ARG1:doK2UsHx_O ARG2:0Lr3M27TTr
+ArgQ0 0Lr3M27TTr SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

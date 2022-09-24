@@ -1,0 +1,30 @@
+6d-U6BGP1P NON-ARG 693 698 Sure.
+IOaKxvf1Bg NON-ARG 699 732 Let me start with transportation.
+HkzqOgKBKO CLAIM-Opinion(view) 733 863 So yeah, we looking forward to a great holiday and that includes working with our shipping partners both in the U.S. and globally.
+RfeKbSVGLV PREMISE-Fact 864 942 We've worked very closely with them to line up capacity, share capacity plans.
+78By--BHLw PREMISE-Fact 943 1003 We certainly have additional delivery capability of our own.
+1946xNyK6R PREMISE-Fact 1004 1099 But with all of our partners, we work well in advance of the holiday to get our plans in place.
+dpau4wpXxB CLAIM-Reformulated 1100 1127 And we feel very confident.
+A3T5llCvtK CLAIM-Reformulated 1128 1213 We're looking forward to a great holiday not only for customers but also for sellers.
+GkZMTDcHDe NON-ARG 1214 1319 On your question on AWS, I didn't listen to the Google call, but you'll have to fill me in on that later.
+A1yfquPhbg CLAIM-Fact 1320 1445 The thing I can tell you about pricing is that our pricing is, price reductions are a core part of our philosophy, of course.
+hKvTM-bnDP PREMISE-Statistic 1446 1530 We had a price decrease in Q3, and that was our 52nd since we started this business.
+inurvZL4kN CLAIM-Reformulated 1531 1574 So we are comfortable with price decreases.
+DYShUcWE6q PREMISE-Fact 1575 1702 Not only did we lower the prices of our products but we also create new services that are cheaper that customers can switch to.
+1x_SM8mruS NON-ARG 1703 1746 So they can also benefit from that as well.
+TBjXys7NW9 NON-ARG 1747 1846 So if you step back and say why do people choose AWS, I'll give you the points I said last quarter.
+bmn6zrVv2S NON-ARG 1847 1947 Basically what we hear are the functionality and pace of innovation is greater than our competition.
+PioWjjZF-9 NON-ARG 1948 2070 We have added more new significant features and services this year already than we had all of last year when we added 722.
+sZgM04-fJL NON-ARG 2071 2112 We have a partner and customer ecosystem.
+7AmA3j3Tv6 NON-ARG 2113 2175 You've read about the VMware deal that we signed this quarter.
+_3qkzKWoO8 NON-ARG 2176 2270 So we continue to extend with partners and build ecosystems that better can support customers.
+11WgtBMVsM NON-ARG 2271 2294 And finally experience.
+wVTMkQ6l6M NON-ARG 2295 2427 We've been in this business a long time, longer than anyone else, and we've used that time to make our products and services better.
+zgdUH0zuXc NON-ARG 2428 2579 So there was going to be a lot of winners in this space as we said, but we are very happy with our position and the customer reception to our products.
+R0 SUPPORT ARG1:RfeKbSVGLV ARG2:HkzqOgKBKO
+R1 SUPPORT ARG1:78By--BHLw ARG2:HkzqOgKBKO
+R2 SUPPORT ARG1:1946xNyK6R ARG2:HkzqOgKBKO
+R3 SUPPORT ARG1:hKvTM-bnDP ARG2:A1yfquPhbg
+R4 SUPPORT ARG1:DYShUcWE6q ARG2:A1yfquPhbg
+ArgQ0 HkzqOgKBKO SPECIFIC_2 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 A1yfquPhbg SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

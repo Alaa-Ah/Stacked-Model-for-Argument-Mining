@@ -1,0 +1,6 @@
+BclQgLYUaO NON-ARG 595 621 No comment on the pricing.
+Bn0ZAHGbRV CLAIM-Fact 622 730 I would say that we have 23 sort centers, which allows us to control a lot more of our shipments for longer.
+xkeWNb5yiq PREMISE-Fact 731 820 But we certainly value our relationships with USPS, FedEx, UPS and other global carriers.
+OPdUDfzgfT NON-ARG 821 878 So – and we're looking forward to a great holiday season.
+R0 ATTACK ARG1:xkeWNb5yiq ARG2:Bn0ZAHGbRV
+ArgQ0 Bn0ZAHGbRV SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

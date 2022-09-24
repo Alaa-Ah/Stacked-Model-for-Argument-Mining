@@ -1,0 +1,48 @@
+ISSpfwTxun PREMISE-Statistic 528 678 Right, I would say actually we've also seen some operating income growth in our PBP segment this quarter, up in constant currency, 7% before LinkedIn.
+w4wzNVA00V CLAIM-Fact 679 759 So I do want to say some of that impact is absolutely landing as well as growth.
+LHEc_OUvXu NON-ARG 760 833 But the heart of your question is really about the MPC transition and IC.
+A9JV1wm_KQ CLAIM-Opinion(view) 834 1064 The way I think about it, we really – Satya and I and the leadership team decided, gosh, about 18 months ago – it's been a little longer than that now, to over-index on investing because of the TAM we saw in the Intelligent Cloud.
+QwfCcH7Bs2 PREMISE-Fact 1065 1137 We increased hiring and we invested in direct customer acquisition cost.
+YOJbF_zEVF PREMISE-Fact 1138 1251 We invested in many of the things Satya just talked about in terms of technical capabilities and our sales force.
+pYEZM1HgcE PREMISE-Statistic 1327 1404 That 12% or 14% in the server product and services KPI is a very good number.
+-YN0hDA2Db CLAIM-Fact 1252 1326 We're starting to see the benefit of that already in our top line numbers.
+MHRTJwLhI0 CLAIM-Opinion(view) 1405 1541 And I continue to expect that we'll see growth in revenue as those resources both get hired, get up to speed, and add value at accounts.
+ynfVIqyblO CLAIM-Opinion(view) 1748 2019 And so some of the confidence I think that we have in the transition of that investment in operating expense into even more revenue growth comes from seeing the consumed revenue trend that we're seeing today as well as the pipeline of projects and customers that we have.
+0FgsfK24KN CLAIM-Reformulated 2020 2096 And so I do think about that being an 18-month investment we've been making.
+Uh07ipYkhj CLAIM-Fact 2097 2132 It's starting to pivot to consumed.
+Bsm13DKdEO PREMISE-Fact 2133 2238 It will then land as billings and ultimately in our P&L as GAAP revenue in-quarter off the balance sheet.
+BmDCnNPXnf NON-ARG 2239 2264 But I think you're right.
+i53PPJ6hvu CLAIM-Fact 2265 2388 We have been working and continuing to reinvest and save through the year as we look to get everything here more efficient.
+3kyq0nVNgk NON-ARG 2764 2890 I think Amy described it well in answering the very specific technical question about segment reporting and the margins in it.
+tS7nC8APlM CLAIM-Opinion(view) 3404 3528 So we are always thinking at least of the technical architecture that makes us unique and differentiated spanning all of it.
+G_E1Hzxt7J CLAIM-Fact 2891 3008 But architecturally, some of the examples I used are about the digital estate that actually doesn't start with Azure.
+NuPy28sTaK PREMISE-Fact 3009 3084 In many cases, it starts with advanced set protection of Windows 10 estate.
+hS-Nx59F9K PREMISE-RealExample 3085 3129 And then how does that relate to Office 365?
+RnMwIi8Dus PREMISE-RealExample 3130 3177 How does that relate to Azure Active Directory?
+HWlqnB9pHH PREMISE-RealExample 3178 3260 And then the workloads that they want to put, which are Tier 1 workloads in Azure.
+lcoo5Mdlmu PREMISE-Fact 3261 3403 It's very similar to what happened even in the client server era, but of course the starting points and how this progresses is very different.
+LR9HNelJzR PREMISE-Fact 1542 1635 A lot of that account value frankly, Walter, today is coming in the form of consumed revenue.
+5Px1_DnOLO PREMISE-Fact 1636 1747 Consumed revenue is actually a great leading indicator for what we expect our Azure growth going forward to be.
+USA5XDNbgi PREMISE-Fact 2389 2439 People often think we focus on cut here, add here.
+EqmBll58JU PREMISE-Fact 2440 2534 It's also about, are we putting every dollar most efficiently to help customers be successful?
+cIzeOhtOcy PREMISE-Fact 2535 2675 And I think that's a lot about what you heard Satya talk about the sales transition we're going through, whether it's how we build products.
+tMrLF6mf4T PREMISE-Fact 2676 2748 And so I actually am confident you'll start to see that transition land.
+dcCKVPhaZw CLAIM-Reformulated 3529 3696 And so I don't think of it as margin shifts across the segments, and that's why we think of all of this as one digital estate at least from a customer-end perspective.
+SvGgjUkwIQ NON-ARG 3739 3758  Thank you, Walter.
+rEvjEsfyWP NON-ARG 3759 3794 We'll go the next question, please.
+R0 SUPPORT ARG1:ISSpfwTxun ARG2:w4wzNVA00V
+R1 SUPPORT ARG1:QwfCcH7Bs2 ARG2:A9JV1wm_KQ
+R2 SUPPORT ARG1:YOJbF_zEVF ARG2:A9JV1wm_KQ
+R3 SUPPORT ARG1:pYEZM1HgcE ARG2:-YN0hDA2Db
+R4 SUPPORT ARG1:LR9HNelJzR ARG2:MHRTJwLhI0
+R5 SUPPORT ARG1:5Px1_DnOLO ARG2:MHRTJwLhI0
+R6 SUPPORT ARG1:Bsm13DKdEO ARG2:Uh07ipYkhj
+R7 ATTACK ARG1:USA5XDNbgi ARG2:i53PPJ6hvu
+R8 SUPPORT ARG1:EqmBll58JU ARG2:i53PPJ6hvu
+R9 SUPPORT ARG1:cIzeOhtOcy ARG2:i53PPJ6hvu
+R10 SUPPORT ARG1:tMrLF6mf4T ARG2:i53PPJ6hvu
+R11 SUPPORT ARG1:NuPy28sTaK ARG2:G_E1Hzxt7J
+R12 SUPPORT ARG1:hS-Nx59F9K ARG2:G_E1Hzxt7J
+R13 SUPPORT ARG1:RnMwIi8Dus ARG2:G_E1Hzxt7J
+R14 SUPPORT ARG1:HWlqnB9pHH ARG2:G_E1Hzxt7J
+R15 SUPPORT ARG1:lcoo5Mdlmu ARG2:G_E1Hzxt7J

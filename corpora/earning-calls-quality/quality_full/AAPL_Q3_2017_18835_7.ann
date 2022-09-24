@@ -1,0 +1,18 @@
+Kp2plVeqns NON-ARG 622 653 Mike, that is a great question.
+ydwnURvqQS CLAIM-Opinion(view) 654 747 And I could not be more excited about AR and what we're seeing with ARKit in the early going.
+-Dd-QjUEez CLAIM-Fact 748 919 And to answer your question about what category it starts in, just take a look at what's already on the web in terms of what people are doing and it is all over the place.
+GBeQqmJRFM CLAIM-Opinion(view) 1071 1193 I think AR is big and profound and this is one of those huge things that we'll look back at and marvel on the start of it.
+kplIHXMKcg CLAIM-Opinion(view) 1194 1261 So I think that customers are going to see it in a variety of ways.
+8MwNpumOav CLAIM-Opinion(view) 1383 1446 And I think we'll start to see some applications there as well.
+OJXBmzRmGm CLAIM-Reformulated 1447 1586 And it feels great to get this thing going at a level that can get all of the developers behind it, so I couldn't be more excited about it.
+rbQc-RPva2 NON-ARG 1630 1643 Thanks, Mike.
+nclSjgCvB3 NON-ARG 1644 1684 Could we have the next question, please?
+U18tIjcvgw PREMISE-Fact 920 1008 From entertainment to gaming, I've seen what I would call more small business solutions.
+BJ6fKUqfq3 PREMISE-Fact 1009 1038 I've seen consumer solutions.
+aDc18L1O_s PREMISE-Fact 1039 1070 I've seen enterprise solutions.
+8iUXlahnhk NON-ARG 1262 1318 Enterprise takes a little longer sometimes to get going.
+rTA30o6tbf NON-ARG 1319 1382 But I can already tell you there's lots of excitement in there.
+R0 SUPPORT ARG1:U18tIjcvgw ARG2:-Dd-QjUEez
+R1 SUPPORT ARG1:BJ6fKUqfq3 ARG2:-Dd-QjUEez
+R2 SUPPORT ARG1:aDc18L1O_s ARG2:-Dd-QjUEez
+ArgQ0 -Dd-QjUEez SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

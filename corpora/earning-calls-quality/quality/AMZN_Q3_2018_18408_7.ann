@@ -1,0 +1,8 @@
+Gd4NSE1FB9 NON-ARG 495 513 Hey, this is Dave.
+aBUnqKnnUn NON-ARG 514 538 I mean nothing specific.
+_yub_sQ9Ux CLAIM-Fact 539 768 I mean I think so much of what we're focused on is making sure that there's a high degree of relevancy and usefulness for customers when you look at advertisements that you see on the site in particular and how we position those.
+G4BuXPqUAl PREMISE-Fact 769 957 And so we spent a lot of time looking at the data to make sure that customer behavior and feedback is telling us that it's useful and helpful and customers making those purchase decisions.
+s8_yFmiSHC PREMISE-Fact 958 1233 And so, we're always testing different levels of that and trying to understand, and the various features, whether it's display or some of the sponsored elements that are out there, what kind of feedback is out there, but certainly keep that in mind as we roll out new things.
+R0 SUPPORT ARG1:G4BuXPqUAl ARG2:_yub_sQ9Ux
+R1 SUPPORT ARG1:s8_yFmiSHC ARG2:_yub_sQ9Ux
+ArgQ0 _yub_sQ9Ux SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

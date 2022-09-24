@@ -1,0 +1,18 @@
+azz8ixuxV- NON-ARG 1020 1077 So there was a lot in there, and I'll address most of it.
+B_-g7I_oA3 NON-ARG 1078 1231 The video-on-demand content is the vast majority of video that is both shared and consumed on Facebook, not live video, but live is growing very quickly.
+zT0EyvIh12 CLAIM-Fact 1232 1476 And part of the reason why we're investing in it is we see that video as a medium is not only in the future going to be about people producing content that looks like traditional content and then consuming it in a static rectangle video screen.
+OzAkKLJ7KE CLAIM-Reformulated 1477 1637 So live video we think represents an example of something new, which is video which is a medium for doing something that's really interacting with other people.
+2iUqoi5g4b PREMISE-Fact 1638 2033 Whether you're a public figure that is using it to hold a town hall or interact with a lot of people at the same time, or you're hanging out with your friends by going live and you have 10 people who are just there with you chatting with you while you're doing something, going about throughout your day, it's not the kind of traditional video experience; it's actually a more social experience.
+XFJEOmInyL CLAIM-Opinion(view) 2034 2224 I think 360 videos in another way are another example of this kind of interactive video experience, and my guess will be that we will see more different kinds of video media as time goes on.
+RrtuZ0fK5S PREMISE-Fact 2225 2268 I think Stories is another example of this.
+sVNCVKZG-4 PREMISE-Fact 2269 2458 We're seeing it with Instagram Stories and with Messenger and the initial test that we have with Messenger Day, where that is another interesting format for how you can put videos together.
+w8i_a0iHuZ CLAIM-Reformulated 2459 2504 And I think that's going to be more and more.
+hkKloqmbPG NON-ARG 2505 2590 But to put that all in context, the majority of consumption today is video on demand.
+n1-h5wBuI8 NON-ARG 1014 1019 Sure.
+an7WW2NPJc NON-ARG 2808 2897 So it's going to be a lot of growth in all of these things across all our family of apps.
+BFns3j7iHq NON-ARG 2591 2807 We are very interested in making sure that the business model that we have works for folks who produce content as their business to make sure they can make money from it, so that their best content comes on Facebook.
+R0 SUPPORT ARG1:2iUqoi5g4b ARG2:zT0EyvIh12
+R1 SUPPORT ARG1:RrtuZ0fK5S ARG2:XFJEOmInyL
+R2 SUPPORT ARG1:sVNCVKZG-4 ARG2:XFJEOmInyL
+ArgQ0 zT0EyvIh12 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 XFJEOmInyL SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

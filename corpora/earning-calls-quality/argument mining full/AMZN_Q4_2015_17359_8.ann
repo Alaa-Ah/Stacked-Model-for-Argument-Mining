@@ -1,0 +1,22 @@
+GAlDyjtBcK NON-ARG 919 924 Sure.
+j9swyBoj5w NON-ARG 925 987 Let me work backwards from your footprint question or comment.
+eqgS6BwqZJ NON-ARG 1137 1173 CapEx, let me start with that first.
+ancpTeSoR- CLAIM-Fact 1174 1256 CapEx, we've seen great efficiencies in capital expenditures, particularly in AWS.
+u3c7SOZY_m CLAIM-Policy 1257 1363 And we continue to work on better purchase efficiencies and driving utilization rates in our data centers.
+7aimiizc4B PREMISE-Statistic 1364 1516 CapEx, as I mentioned, grew quite a bit in 2014 and grew even more to over $9 billion across all of our capital expenditures and capital leases in 2015.
+B5aOMM0je7 CLAIM-Fact 1517 1580 From the new regions, they are not the major driver in any way.
+j_3Qx6Az4v PREMISE-Fact 1581 1708 Most of our capacity and capital and capital leases in AWS is to service existing regions and existing customers demand growth.
+QtWiJEzR5n PREMISE-Fact 1709 1773 But there is certainly expenditures when we open up new regions.
+J7f5QRu4nz PREMISE-Fact 1774 1837 Some of that is not always in the year that we open the region.
+mYke8UIR1t PREMISE-Fact 1838 1898 So we spent a good bit on those new regions already in 2015.
+9vvHlcNMFJ PREMISE-Statistic 1899 2065 But as far as pricing, there's no capacity constraint, and I would a little bit dispute the deceleration comment on, yes, on a percentage basis, 69% is lower than Q3.
+acmCnvHwg4 PREMISE-Statistic 2066 2146 But as I said before, we're approaching a $10 billion run rate in this business.
+UXb3fGdHyd PREMISE-Fact 2147 2389 On a dollar basis, we continue to grow – we saw the greatest growth year-over-year and quarter-over-quarter and, again, we continue to invent, now with our price, we continue to innovate on behalf of customers and see great customer response.
+rVPkmNkXH4 NON-ARG 988 1136 We have - we just announced Korea as a region and we'll be adding five more regions in the next, in the future, in the near future, as we mentioned.
+R0 SUPPORT ARG1:j_3Qx6Az4v ARG2:B5aOMM0je7
+R1 SUPPORT ARG1:QtWiJEzR5n ARG2:B5aOMM0je7
+R2 SUPPORT ARG1:J7f5QRu4nz ARG2:B5aOMM0je7
+R3 SUPPORT ARG1:mYke8UIR1t ARG2:B5aOMM0je7
+R4 SUPPORT ARG1:9vvHlcNMFJ ARG2:B5aOMM0je7
+R5 SUPPORT ARG1:acmCnvHwg4 ARG2:B5aOMM0je7
+R6 SUPPORT ARG1:UXb3fGdHyd ARG2:B5aOMM0je7

@@ -1,0 +1,37 @@
+AbXP5YRTOl NON-ARG 659 691 Youssef, I'll take the question.
+db4QamRZyS CLAIM-Opinion(view) 692 763 I think it was about GDPR and how that's gone relative to expectations.
+5XOVoHySig CLAIM-Reformulated 863 1030 And so I'd say that was largely within the range of expectations that we saw and it is having an impact and the people who are opting out are seeing less relevant ads.
+1PS9XFAGSh CLAIM-Opinion(view) 1031 1169 And obviously that will impact both, I think, the quality of the experience in terms of the ads they get and also the monetization for us.
+fvmhiTPdOp PREMISE-Fact 764 862 We've seen adoptions around people who are opting out of allowing us to use context from the apps.
+YQ5hkYZNDc CLAIM-Opinion(view) 1170 1224 So I think that is kind of playing out as we expected.
+QjR2jjt_2v CLAIM-Opinion(view) 1225 1267 CCPA, I think is still a work in progress.
+nMBRxkQfn2 CLAIM-Fact 1268 1319 So we're watching the developments on that closely.
+bmTnDcH8lm NON-ARG 1595 1633 I think, Mark, question was on Oculus.
+3IcluefS9A NON-ARG 1651 1656 Sure.
+OGbzDviNiX NON-ARG 1657 1701 And then also just add something on privacy.
+fOnwKHcLwH NON-ARG 2337 2364 On VR and AR, you're right.
+3gfFiGgLHz CLAIM-Opinion(view) 1702 1772 I think it's very important that there is federal privacy legislation.
+jKd3LZoqKZ CLAIM-Opinion(view) 2106 2252 But in terms of for the market overall, I just think it would be a lot better if we had a very clear set of rules at the federal level on privacy.
+oqibKyuX69 CLAIM-Fact 2253 2336 So we'll continue to try to work with folks to try to do what we can to help there.
+-yFPEtMdjd PREMISE-Fact 1773 2038 GDPR encodes a lot of important principles and in order for businesses to be able to operate, especially starts to get started and keep the market competitive, you want to make sure that there aren't 50 different regulatory frameworks that companies need to follow.
+drG9IhU4TR CLAIM-Reformulated 1437 1594 We're going to have to watch how that evolves, but we do think that that's a factor that we're watching closely and we'll just have to see how that develops.
+60hdN-DHH4 NON-ARG 1320 1436 That's the California Consumer Privacy Act, and that has many similar provisions to GDPR, but it's a different line.
+owWOfDuuW5 CLAIM-Opinion(view) 2039 2105 I mean, we could handle that if we needed to, we're a big company.
+05p28UPI-s NON-ARG 2365 2409 This is taking a bit longer than we thought.
+b-KvUmGaO- CLAIM-Opinion(view) 2410 2558 And I'm still optimistic, I think that the long-term vision and the reasons why I thought this -- we're going to be important and big are unchanged.
+_f7ZsgSXdy CLAIM-Reformulated 2559 2688 So we're seeing a lot of people use these products and love them and because of that I think that we're still going to get there.
+k3QxDIKi9W NON-ARG 2689 2777 Obviously, the fact that it's taking a little longer than we thought, it cuts both ways.
+bYc-ALZNYl CLAIM-Reformulated 3707 3785 I'm very excited about what we're seeing and very optimistic about the future.
+gteBH9o9FH CLAIM-Fact 3442 3498 You're right that Quest is growing and doing quite well.
+Uaw6mFYuUe PREMISE-Fact 3499 3706 We are selling them as fast as we can make them, the demand has been strong and the content is starting to pick up both on the AAA, really high quality side and some of the  stuff that I think is quite good.
+cn2Zv8a8Bu NON-ARG 2778 2979 On the one hand, that of course means that the future might be a few years further out and that it might be more expensive to develop because we'll be funding this for a bit longer until it gets there.
+4WI1LSGASA PREMISE-Fact 2980 3133 But on the other hand, from our perspective, we're not a company that's traditionally done hardware or built operating systems or these kind of products.
+ZSM_9rbTU9 CLAIM-Opinion(view) 3134 3441 So every year that we get to practice and get better and build our brand around Oculus in terms of building the best products that we can in this space, I just think that we're going to be better off when this is really ready to be a completely mainstream thing with hundreds of millions of people using it.
+R0 SUPPORT ARG1:fvmhiTPdOp ARG2:db4QamRZyS
+R1 SUPPORT ARG1:-yFPEtMdjd ARG2:3gfFiGgLHz
+R2 SUPPORT ARG1:4WI1LSGASA ARG2:ZSM_9rbTU9
+R3 SUPPORT ARG1:Uaw6mFYuUe ARG2:gteBH9o9FH
+ArgQ0 db4QamRZyS SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 3gfFiGgLHz SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 ZSM_9rbTU9 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 gteBH9o9FH SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

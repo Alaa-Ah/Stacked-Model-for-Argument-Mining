@@ -1,0 +1,21 @@
+orCJhhTN8E NON-ARG 684 695 Yes, Peter.
+o-LZySNjDk NON-ARG 696 728 I'll take the second part first.
+ERJDKbT7Ux PREMISE-Fact 729 917 We began to make changes around a number of different quality initiatives in the fourth quarter, so that affected metrics that we've talked about including both the time spent and the DAU.
+BhZcp6Cu_- PREMISE-Fact 918 1044 But we continue to make changes to improve and to optimize around driving meaningful social interactions as Mark talked about.
+K-6Tb8DRHi PREMISE-Fact 1045 1103 That's going to be an ongoing journey throughout the year.
+YuTyms4Ivg CLAIM-Opinion(view) 1196 1255 So I'd expect we would continue to make changes and evolve.
+72pILF-9Gu PREMISE-Fact 1104 1195 So there's no – I don't think we ever are going to declare that we are done making changes.
+UG2JE-Tc-I CLAIM-Fact 1273 1395 On the search opportunity, there's a growing number of searches on Facebook, but we're still a ways off from monetization.
+slXW2n-Z1e PREMISE-Fact 1396 1498 It's worth noting though that because of our ads targeting our ability to reach people multiple times.
+SqBZVFH8fd CLAIM-Opinion(view) 1499 1608 We do believe that some of our ad success is taking people from demand generation through demand fulfillment.
+uEG3wen-on PREMISE-RealExample 1609 2046 So we have multiple clients who will show an ad, a video ad to everyone in the U.S. for example or to a big cohort of people and then they'll follow up with an ad that target on either Instagram or Facebook to people who engage with that first that then they can follow up with the next team and we are seeing as businesses are increasingly measuring your ad spend in terms of their real ROI for sales that even within our own platforms.
+Z-wu_HouL7 CLAIM-Reformulated 2047 2138 We can move people down that marketing funnel from demand generation to demand fulfillment.
+R0 SUPPORT ARG1:ERJDKbT7Ux ARG2:YuTyms4Ivg
+R1 SUPPORT ARG1:BhZcp6Cu_- ARG2:YuTyms4Ivg
+R2 SUPPORT ARG1:K-6Tb8DRHi ARG2:YuTyms4Ivg
+R3 SUPPORT ARG1:72pILF-9Gu ARG2:YuTyms4Ivg
+R4 SUPPORT ARG1:slXW2n-Z1e ARG2:UG2JE-Tc-I
+R5 SUPPORT ARG1:uEG3wen-on ARG2:SqBZVFH8fd
+ArgQ0 YuTyms4Ivg SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ1 UG2JE-Tc-I SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 SqBZVFH8fd SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

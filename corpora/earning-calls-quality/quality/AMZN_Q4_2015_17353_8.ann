@@ -1,0 +1,9 @@
+FXk4mF8gkb NON-ARG 722 727 Sure.
+jtBuGph0hy NON-ARG 728 750 Let me work backwards.
+rvBG9JNI-M NON-ARG 751 785 We don't give guidance by segment.
+hI8hhChx6p NON-ARG 786 840 So we cannot really comment on AWS specifically in Q1.
+SkDCX104tb CLAIM-Fact 841 1146 And the operational improvements, excuse me, the gross margin, operating margin year-over-year that we've seen in the AWS business has been heavily driven by operating efficiencies, both purchase reductions and purchase prices and also efficiency in driving greater utilization of the assets that we have.
+YXl3-STzNB CLAIM-Opinion(view) 1147 1177 So we're very happy with that.
+hVSCVpytWy PREMISE-Statistic 1178 1464 Keep in mind that we did have a - although the year-over-year increase in capital expenditures and capital leases was not as great as we saw in 2013 to 2014, we did spend over $9 billion on those, on capital expenditures and capital lease obligations, up from prior year was, excuse me…
+R0 SUPPORT ARG1:hVSCVpytWy ARG2:YXl3-STzNB
+ArgQ0 YXl3-STzNB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_1

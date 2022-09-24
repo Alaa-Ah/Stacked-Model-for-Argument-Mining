@@ -1,0 +1,48 @@
+O2LbuD8Esj NON-ARG 438 453 Katy, it's Tim.
+2n2UNCvBYO NON-ARG 454 518 As Luca mentioned, the channel inventory did go down by 600,000.
+86dz88HajQ PREMISE-Fact 519 594 We sold more units than we thought we would and so that was a part of that.
+HGkpOga44c PREMISE-Fact 595 694 The other part of it is that we always run with just the amount of inventory that we think we need.
+SweYdplDld PREMISE-Other 695 888 And so to the degree that sales are distributed in the countries with disproportionally with shorter supply chains, or the standard deviation demand is less, we would always choose to have less
+pvOEclxjrl CLAIM-Opinion(view) 890 1042 And so in this particular quarter, we were able to end basically right at the bottom end of our range and we view that as a good thing, not a bad thing.
+CTD7gr-Ijq CLAIM-Fact 1043 1210 Obviously the revenues could have been much higher if we would have expanded the channel, but if you don't need to do that, that's not how we think about the business.
+DzYcxuJd0D PREMISE-Fact 1211 1271 We run the business for the long term, not the 90-day clock.
+kirnYOkEkd PREMISE-Statistic 1272 1361 In terms of what's going on with iPhone, the 35% growth is almost three times the market.
+h-rC1MBOOY PREMISE-Statistic 1362 1489 And if you look at it at a little narrower regional level, Western Europe grew 30% versus a market of 7%, so four times market.
+_J4TJQ1DN1 PREMISE-Statistic 1490 1524 Japan grew over five times market.
+PcyYjK14uN PREMISE-Statistic 1525 1580 We doubled in Korea versus a market that was shrinking.
+GWT7hP0bqe PREMISE-Statistic 1581 1737 And India we grew at 93% and this is on top of the Greater China numbers that we've already covered that grew 87% during the quarter against a market of 5%.
+UO2O6R9Afo CLAIM-Opinion(view) 1738 1810 And so we did exceptionally well I think in any way that you look at it.
+uKHc2HAv_a PREMISE-Statistic 1811 2038 In terms of the percentage of customers that have upgraded to a 6 and 6 Plus versus that have not upgraded, it's 73%, or meaning that 27% of the installed base of customers prior to the launch of 6 and 6 Plus have now upgraded.
+sOm1C2bmgm CLAIM-Opinion(view) 2039 2147 And so we view that as a very bullish sign on the future, that there's a lot of headroom left for upgraders.
+--aC18nkwV CLAIM-Opinion(view) 2148 2238 We also are incredibly happy to see the highest Android switcher rate that we've observed.
+eoYBegfYu1 CLAIM-Reformulated 2239 2302 And so from our point of view, the iPhone is doing outstanding.
+JjZD_kQj7q NON-ARG 2687 2784 Well you know, Katy, we purposely just give guidance for the current quarter and we've done that.
+RSq8lVOdbF CLAIM-Opinion(view) 2785 2917 And obviously the kind of numbers that we have indicated growth in the revenue means that iPhone would have another stellar quarter.
+4nfcGC9mLH CLAIM-Reformulated 2918 2985 And so we're very confident that this quarter is going to be great.
+9mwqrhxQY4 NON-ARG 2986 3044 How the future looks, we'll take it one quarter at a time.
+_CIi3NH2mz PREMISE-Statistic 3045 3328 But as I back up from it and look at it more from a macro point of view, the things that makes me very bullish is the 27% number I just quoted, the fact that we are seeing the highest Android switcher rate, the customer satisfaction that we have on the iPhone versus the competition.
+WE4K3OWITT PREMISE-Fact 3329 3348 It's a huge margin.
+8JrF5-wg5v PREMISE-Fact 3349 3421 The loyalty rate that we have versus competition, an enormous gap there.
+3z6fQRnsb7 PREMISE-RealExample 3422 3614 I also look at the first time iPhone buyers and we're still seeing very, very large numbers in the countries that you would want to see those in, like China and Russia and Brazil and so forth.
+D-xkMZay7h PREMISE-Statistic 3615 3807 I also see a market that over a five-year horizon, if you look at the IDC numbers, is projected to grow from 1.3 million in 2014 to over 1.9 billion – this is billion, rather, billion in 2019.
+kvvPpEH7CM CLAIM-Opinion(view) 3842 3994 I think everybody's going to own a smartphone, and I think we've proven that we can compete for a fair number of those, as you can see from our results.
+hO1FV_yLAu PREMISE-Fact 3808 3841 And so it's an incredible market.
+R0 SUPPORT ARG1:86dz88HajQ ARG2:pvOEclxjrl
+R1 SUPPORT ARG1:HGkpOga44c ARG2:pvOEclxjrl
+R2 SUPPORT ARG1:SweYdplDld ARG2:pvOEclxjrl
+R3 SUPPORT ARG1:DzYcxuJd0D ARG2:CTD7gr-Ijq
+R4 SUPPORT ARG1:kirnYOkEkd ARG2:UO2O6R9Afo
+R5 SUPPORT ARG1:h-rC1MBOOY ARG2:UO2O6R9Afo
+R6 SUPPORT ARG1:PcyYjK14uN ARG2:UO2O6R9Afo
+R7 SUPPORT ARG1:GWT7hP0bqe ARG2:UO2O6R9Afo
+R8 SUPPORT ARG1:uKHc2HAv_a ARG2:sOm1C2bmgm
+R9 SUPPORT ARG1:_CIi3NH2mz ARG2:RSq8lVOdbF
+R10 SUPPORT ARG1:WE4K3OWITT ARG2:RSq8lVOdbF
+R11 SUPPORT ARG1:8JrF5-wg5v ARG2:RSq8lVOdbF
+R12 SUPPORT ARG1:3z6fQRnsb7 ARG2:RSq8lVOdbF
+R13 SUPPORT ARG1:D-xkMZay7h ARG2:RSq8lVOdbF
+ArgQ0 pvOEclxjrl SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 CTD7gr-Ijq SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 UO2O6R9Afo SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 sOm1C2bmgm SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 RSq8lVOdbF SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0

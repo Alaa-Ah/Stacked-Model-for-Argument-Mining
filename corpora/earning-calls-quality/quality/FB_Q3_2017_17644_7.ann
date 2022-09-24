@@ -1,0 +1,22 @@
+qb8m5e12eI NON-ARG 577 603 So on the first part, Ken,
+nbPnaHS4Fq CLAIM-Fact 604 720 you're going to see that show up in a variety of different line items that we don't have it specifically broken out.
+t71b7XR6BN PREMISE-Fact 721 782 We're making substantial product and engineering investments.
+nfjdHnExXL PREMISE-Fact 783 961 So as part of the overall hiring on R&D head count, there's going be a pretty significant allocation of that to some of the product-related security initiatives that we're doing.
+7vPMo4OLFC PREMISE-Fact 962 996 So that's going to show up in R&D.
+LoToUK3zuP PREMISE-Fact 997 1156 You're going to have some of the ads work that we're doing, the ads quality work showing up in the sales and marketing line, so you're going to see some there.
+zfKW351C6y PREMISE-Fact 1157 1280 And then you're going to also just have overall impact on G&A as well for things like policy-related expenses and the like.
+CiDRbXntc8 CLAIM-Reformulated 1281 1358 So I think you're going to see it impacting across the spectrum of our lines,
+xaWXkHTuoe NON-ARG 1359 1442 but overall one of the significant factors driving the acceleration in growth rate.
+hCHQ73hLMb CLAIM-Fact 1465 1554 On GDPR, the Facebook family of apps already applies the core principles in the framework
+L71oGXGIN0 PREMISE-Fact 1555 1690 because we built our services around transparency and control, and we're building on this to ensure that we comply in May of next year.
+sQ80LFV5vB NON-ARG 1691 1907 It's too soon to tell whether this will impact the extent to which EU users opt out of certain services, but we're going to continue to give people personalized experience and be clear about how we're using the data.
+9MAEHU-wyp NON-ARG 1908 2061 We believe that we'll be able to obtain consent for uses of the data across Europe and that people still expect the content and their ads to be relevant.
+_9bkEUV_YV NON-ARG 2062 2174 And so we expect a good result here and we're going to do it very carefully and very seriously, as we always do.
+R0 SUPPORT ARG1:t71b7XR6BN ARG2:nbPnaHS4Fq
+R1 SUPPORT ARG1:nfjdHnExXL ARG2:nbPnaHS4Fq
+R2 SUPPORT ARG1:7vPMo4OLFC ARG2:nbPnaHS4Fq
+R3 SUPPORT ARG1:LoToUK3zuP ARG2:nbPnaHS4Fq
+R4 SUPPORT ARG1:zfKW351C6y ARG2:nbPnaHS4Fq
+R5 SUPPORT ARG1:L71oGXGIN0 ARG2:hCHQ73hLMb
+ArgQ0 nbPnaHS4Fq SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 hCHQ73hLMb SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

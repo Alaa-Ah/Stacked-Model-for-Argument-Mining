@@ -1,0 +1,41 @@
+_7ZBKcqn2O NON-ARG 1235 1264 I can talk to the first part.
+BOLy3cVNtj CLAIM-Opinion(view) 1265 1414 So at some level, I do think that the core mission and promise of helping to connect people with their friends and family is very fundamental, right?
+i4RpLNsVtZ PREMISE-Fact 1415 1649 And everyone has friends and family and wants to stay connected and uses a variety of tools and ways to do that in the world today, which are often very inefficient, and the Internet offers new opportunities to make that a lot better.
+WALIkvAjso PREMISE-RealExample 1852 1993 So for example, going back a few years, News Feed, right, was – it's always been, since we rolled it out, a very central part of the product.
+V1A_fDXqgM PREMISE-Fact 1994 2363 But we're looking at the stuff with increasing rigor now where we organized the company into these product groups, and each product group leader will not just look at the product as one thing, but what are the key three or four or five use cases which often can really be their own product lines on their own, and we go through and we build those out to be world-class.
+7bkjV1PL2Z CLAIM-Opinion(view) 2364 2570 And I think a lot of the success that we've seen has been because of some of the work that we've done a few years back at this point in products like News Feed and I mean that team has executed really well.
+LWvcPg5bBH CLAIM-Opinion(view) 2571 2675 But when I look forward, I'm very excited about doing the same thing for messaging and groups and video.
+9YSnPNXaHC PREMISE-Fact 2676 2709 There's many different use cases.
+YP2Z2Q081G PREMISE-Other 2710 2760 You don't want to just look at these as one thing.
+5SWbMYx9ha PREMISE-Fact 2761 2846 There are a bunch of different use cases, and we want to be the best at each of them.
+Tnq9rtuzjr PREMISE-Other 2847 2940 And if you have good people leading those teams, then I think you can deliver that over time.
+SH02WGgjtc NON-ARG 2941 2987 So I think yes is the answer to your question.
+zaljG5FL3s CLAIM-Reformulated 2988 3140 The mission is fundamentally deeply important to people, but that has to be coupled with good thorough execution of each of the available opportunities.
+pswIL5hJ7- CLAIM-Fact 1650 1851 When you look at the specific products that – and the work that we're doing, there's this process that we've followed that – where basically we'll look at an area of our products that people are using.
+kYxclstfjC NON-ARG 3158 3172 Yeah, Anthony.
+WPNAhFVaTL NON-ARG 3173 3183 It's Dave.
+sL3Xwk-69y CLAIM-Fact 3184 3315 So on CapEx, we are absolutely investing in the infrastructure and 2015 is an investment year, so we are ramping CapEx versus 2014.
+bJBjbIlSlL PREMISE-Statistic 3316 3402 The guidance is $2.5 billion to $3 billion, and that's up from $1.8 billion last year.
+FVM2bu-i0j PREMISE-Fact 3403 3504 We've got a lot of infrastructure investment that we're making across data centers, servers, network.
+_PiH3KN75O PREMISE-Fact 3505 3635 We are clearly investing for the growth of both Facebook at its core and then also the additional services that we're bringing on.
+ElgFpaJns4 CLAIM-Opinion(view) 3636 3689 So we're proud about the efficiencies that we've had.
+qoxAd6QhvC PREMISE-RealExample 3690 3927 The infrastructure team has done an outstanding job in driving good efficiencies through things like the Open Compute Project, which allows us to leverage an open-source strategy to lower our costs on server and other expensive hardware.
+9SHGeuQpDL PREMISE-Fact 3928 3962 It's been a great strategy for us.
+3KorEtBhzi CLAIM-Reformulated 3963 4116 But given the growth we have in the business, given the opportunity we have before us, we're very much in investment mode in terms of the infrastructure.
+R0 SUPPORT ARG1:WALIkvAjso ARG2:pswIL5hJ7-
+R1 SUPPORT ARG1:i4RpLNsVtZ ARG2:BOLy3cVNtj
+R2 SUPPORT ARG1:V1A_fDXqgM ARG2:pswIL5hJ7-
+R3 SUPPORT ARG1:9YSnPNXaHC ARG2:LWvcPg5bBH
+R4 SUPPORT ARG1:Tnq9rtuzjr ARG2:LWvcPg5bBH
+R5 SUPPORT ARG1:5SWbMYx9ha ARG2:LWvcPg5bBH
+R6 SUPPORT ARG1:YP2Z2Q081G ARG2:LWvcPg5bBH
+R7 SUPPORT ARG1:bJBjbIlSlL ARG2:sL3Xwk-69y
+R8 SUPPORT ARG1:FVM2bu-i0j ARG2:sL3Xwk-69y
+R9 SUPPORT ARG1:_PiH3KN75O ARG2:sL3Xwk-69y
+R10 SUPPORT ARG1:qoxAd6QhvC ARG2:ElgFpaJns4
+R11 SUPPORT ARG1:9SHGeuQpDL ARG2:ElgFpaJns4
+ArgQ0 pswIL5hJ7- SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 BOLy3cVNtj SPECIFIC_0 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 LWvcPg5bBH SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 sL3Xwk-69y SPECIFIC_2 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 ElgFpaJns4 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

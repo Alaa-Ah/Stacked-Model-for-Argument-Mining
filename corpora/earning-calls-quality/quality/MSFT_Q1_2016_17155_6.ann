@@ -1,0 +1,34 @@
+FWKM0Ezq2R NON-ARG 1076 1125 Yeah, I'll start, Keith, thanks for the question.
+T_S65O4T4m CLAIM-Opinion(view) 2051 2104 So we don't think of our server as a legacy business.
+P19QvW5Qdq PREMISE-Fact 1126 1346 Overall what we have seen is the public cloud or cloud infrastructure makes it much more possible for businesses of all sizes and developers of all sizes to get at infrastructure with much less friction than ever before.
+MsGOR7k2nT PREMISE-RealExample 1347 1392 I grew up in our server business in the past.
+1rBMHGE4Dm PREMISE-Fact 1393 1483 We were definitely the one to democratize servers by bringing servers to small businesses.
+ib3hpcXxo_ PREMISE-RealExample 1484 1789 But when I think about what's happening for example in Office 365, where we are adding 50,000 small business customers who now get the most sophisticated server technology, but now as a SaaS service, that's what's really happening world over with all application categories and that's where the growth is.
+_u4n3fsR7W PREMISE-Fact 1790 1940 I don't know long-term whether there is a zero-sum equation, but right now and in the intermediate timeframe, we see in our case growth in both sides.
+lKESkYaStI PREMISE-Fact 1941 2050 And in our case the vision also we have for distributed cloud infrastructure is just that, it is distributed.
+UK_1prsxI8 CLAIM-Opinion(view) 2312 2368 Those are the kinds of things that we are excited about.
+UEgWYGTr83 CLAIM-Reformulated 2105 2144 I think of it as the edge of our cloud.
+OcMbbQETH_ PREMISE-RealExample 2145 2311 If you look at what we are doing with SQL, we will have the ability for any customer of SQL to stretch even a single table from between their on-premise to the cloud.
+gU55EYSSlp CLAIM-Opinion(view) 2369 2445 But we clearly are seeing very rapid growth and adoption of our Azure cloud.
+LvwMt11KKc CLAIM-Fact 2446 2491 But in our case there are two unique aspects.
+aAnwiAu0St PREMISE-RealExample 2492 2528 One is this true distributed hybrid.
+vANlGPtK-e PREMISE-RealExample 2529 2580 And second is we don't think of Azure in isolation.
+U6y15EVZNX CLAIM-Opinion(view) 2962 3037 As Satya said, I do expect both to grow, both the on-premise and the cloud.
+9aJFB39g2w CLAIM-Opinion(view) 3038 3192 But I expect the mix to increasingly shift toward the cloud given its sort of robust growth rate, which will impact the gross margin percentage over time.
+Ux8DdC8Q-t PREMISE-Fact 2581 2842 We think about it in the combination of Office 365, Dynamics, EMS, because really it's one cloud infrastructure first of all from a capital perspective that sort of serves all of these and there's a virtuous cycle between all of these for our customers as well.
+ha9zfsX4VS NON-ARG 2856 2961 And Keith, your second question, the place you'll actually see it will be in the gross margin percentage.
+mCXHMMTRvA NON-ARG 3264 3279  Thanks, Keith.
+ExiBXNFOjP NON-ARG 3280 3317 We'll take the next question, please.
+R0 SUPPORT ARG1:P19QvW5Qdq ARG2:T_S65O4T4m
+R1 SUPPORT ARG1:MsGOR7k2nT ARG2:T_S65O4T4m
+R2 SUPPORT ARG1:1rBMHGE4Dm ARG2:T_S65O4T4m
+R3 SUPPORT ARG1:ib3hpcXxo_ ARG2:T_S65O4T4m
+R4 SUPPORT ARG1:_u4n3fsR7W ARG2:T_S65O4T4m
+R5 SUPPORT ARG1:lKESkYaStI ARG2:T_S65O4T4m
+R6 SUPPORT ARG1:OcMbbQETH_ ARG2:UK_1prsxI8
+R7 SUPPORT ARG1:aAnwiAu0St ARG2:LvwMt11KKc
+R8 SUPPORT ARG1:vANlGPtK-e ARG2:LvwMt11KKc
+R9 SUPPORT ARG1:Ux8DdC8Q-t ARG2:LvwMt11KKc
+ArgQ0 T_S65O4T4m SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 UK_1prsxI8 SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 LvwMt11KKc SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

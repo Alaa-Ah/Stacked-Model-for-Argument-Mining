@@ -1,0 +1,39 @@
+r6opGi8qGo NON-ARG 615 698 Eric, why don't I take that and then Sheryl can augment with some additional color?
+OO6S27LBvw CLAIM-Fact 699 785 So when you think about Instagram, we're seeing great growth there with the community.
+2UTmyNT6Q_ PREMISE-Statistic 786 881 So this past quarter, we announced 700 million monthly actives, so that was a big announcement.
+9DWFtK7kF7 PREMISE-Fact 882 929 And that's broad-based growth across the globe,
+lc67EznPFm CLAIM-Opinion(view) 930 957 so we're pleased with that.
+8SC1o0of-l CLAIM-Fact 958 1078 In terms of the development on the advertising side, we're not specifically breaking out Instagram revenue, as you know,
+c8OKvTP9yE PREMISE-Fact 1079 1204 because that's sold through the same Facebook ad interfaces, but we're seeing really good contribution and good growth there.
+R4gGsG7CKZ CLAIM-Fact 1205 1266 And we're developing it across a wide variety of ad products,
+nyeWjtorHt PREMISE-Fact 1267 1376 so VR is becoming a more significant part of the Instagram story, where it was originally more brand-focused.
+gpq1fbouUa CLAIM-Opinion(view) 1531 1600 We're pretty excited about what's happening in the Instagram ad space
+9TkHKjzy_b PREMISE-Fact 1601 1679 because Facebook and Instagram are the two most important mobile ad platforms.
+R4DeFBUTUu PREMISE-Fact 1680 1920 And there's a special property with Instagram, which is that the increasing visualization of ads and the creative canvas it offers with the science behind the Facebook targeting and measurement system is really a pretty unusual combination.
+VMlmd3iawQ PREMISE-Fact 1921 1986 We're also seeing very broad adoption, including small customers.
+wLNbtau-jA PREMISE-Statistic 1987 2097 We are pretty excited to have 1 million advertisers and 8 million Instagram business profiles on the platform.
+IF3N3w2ytd PREMISE-RealExample 2098 2207 To share one example, an online store in Brazil called Loja Nama, they sell decorative items and accessories.
+vHVg2HCZgA PREMISE-Fact 2208 2336 Their business owner, Joanna [Cariello], took photos of her products on her phone and then created ads with our Shop Now button.
+s_74JVFdEh PREMISE-Fact 2337 2444 She targeted young audiences in Brazil who are interested in fashion, decoration, movies, and architecture.
+Av5EM4DQxH PREMISE-Statistic 2445 2525 And during the period of her campaign, Instagram accounted for 79% of her sales.
+hOsKsKVqO2 CLAIM-Opinion(view) 2526 2758 And I think what that shows is the power of the very sophisticated targeting we offer across our platforms along with really the ability to use very simple tools like a phone to create very sophisticated but visually compelling ads.
+BigP1kTX9B PREMISE-Fact 1377 1508 But we've expanded the product offerings on the Direct Response front, and we're continuing to bring more ad products to Instagram.
+R0 SUPPORT ARG1:2UTmyNT6Q_ ARG2:OO6S27LBvw
+R1 SUPPORT ARG1:9DWFtK7kF7 ARG2:lc67EznPFm
+R2 SUPPORT ARG1:c8OKvTP9yE ARG2:8SC1o0of-l
+R3 SUPPORT ARG1:nyeWjtorHt ARG2:R4gGsG7CKZ
+R4 SUPPORT ARG1:9TkHKjzy_b ARG2:gpq1fbouUa
+R5 SUPPORT ARG1:R4DeFBUTUu ARG2:gpq1fbouUa
+R6 SUPPORT ARG1:VMlmd3iawQ ARG2:gpq1fbouUa
+R7 SUPPORT ARG1:wLNbtau-jA ARG2:gpq1fbouUa
+R8 SUPPORT ARG1:IF3N3w2ytd ARG2:hOsKsKVqO2
+R9 SUPPORT ARG1:vHVg2HCZgA ARG2:hOsKsKVqO2
+R10 SUPPORT ARG1:s_74JVFdEh ARG2:hOsKsKVqO2
+R11 SUPPORT ARG1:Av5EM4DQxH ARG2:hOsKsKVqO2
+R12 SUPPORT ARG1:BigP1kTX9B ARG2:R4gGsG7CKZ
+ArgQ0 OO6S27LBvw SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 lc67EznPFm SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_2
+ArgQ2 8SC1o0of-l SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 R4gGsG7CKZ SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 gpq1fbouUa SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 hOsKsKVqO2 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

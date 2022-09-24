@@ -1,0 +1,33 @@
+7pTrz6Oikq NON-ARG 724 729 Sure.
+q_Uc5ARka4 NON-ARG 730 768 Let me start with your first question.
+AWknqJg9Id PREMISE-Fact 959 1117 We can, again, shift order cutoff times out and time is valuable to us because, again, we can avoid split shipments, we can avoid other costs of acceleration.
+DXm33HFQF5 CLAIM-Fact 1118 1247 And so having control later in the process is very valuable to us especially as we're working across multiple nodes in a network.
+sc8dMJRO_q NON-ARG 1248 1335 But I've driven with drivers in Downtown London and it's a very interesting experience.
+yGvIaJgybp CLAIM-Opinion(view) 1336 1380 I think it's a great value to our customers.
+hEHbkTkkHa NON-ARG 1381 1528 It's interesting to see the route density that we see in the high cities – or, excuse me, in some cities and the challenges and the upside of that.
+-XKrf48mVt CLAIM-Fact 1529 1677 But I would say essentially, in a nutshell, our logistics deliveries allow us to have better control of the end delivery in markets where we use it.
+x2456pGjSr NON-ARG 769 958 So as you point out, we've had Amazon Logistics deliveries in the UK for more years than some of our other countries and what we see is it gives us control of the shipment for a lot longer.
+PpEOzTVYKI CLAIM-Fact 1678 1807 The challenge is always going to be cost and as we get better at this and get economies of scale, we lower those costs over time.
+4S-2LFlAQ0 NON-ARG 1808 1862 So that's essentially my overview of Amazon Logistics.
+uogGRzF2Xd NON-ARG 1863 1922 Sorry, your second question was on – oh, the stores, sorry.
+DjLvLgu4Lq NON-ARG 1923 2030 Yes, you probably noticed we launched the – we opened the Amazon Go Store in Seattle in the fourth quarter.
+ssmYfBDUDc PREMISE-Fact 2066 2099 It's only one store at this time.
+tgpnyfj0dC CLAIM-Opinion(view) 2031 2065 We think that is very interesting.
+-qNUjycAXj PREMISE-Fact 2100 2228 But it's using some of the same technologies you would see in self-driving cars; computer vision, sensor, fusion, deep learning.
+kI6xvMUSqi NON-ARG 2229 2273 So it's a great accomplishment by that team.
+-7ZuQz4We8 CLAIM-Reformulated 2274 2329 It's in beta right now and we like the promise of that.
+RS9tGkSqGr NON-ARG 2330 2397 Probably more advanced and further along are the Amazon Bookstores.
+YDUFvi-HQ6 PREMISE-Fact 2398 2472 We have three physical stores; Seattle, San Diego, and Portland right now.
+81x1R0yau3 PREMISE-Other 2473 2507 We see adding five more this year.
+wH4U4INQVM NON-ARG 2508 2612 So we're still in that phase where we're testing and learning and getting better, even on the bookstore.
+evUG69xtkY NON-ARG 2613 2821 I would say there's other things that are physical in nature, the pop-up stores and college pickup points that we learn from as well, and think creates a great value particularly at the college pickup points.
+MrZpG1O-hZ NON-ARG 2822 2930 So not much projection beyond where we are today except for the fact that we will be adding more bookstores.
+X6w6_heUft NON-ARG 2931 3115 But we test, we innovate, we think the bookstores for instance are a really great way for customers to engage with our devices and see them, touch them, play with them and become fans.
+H2RXOl9pmH NON-ARG 3116 3157 So we see a lot of value in that as well.
+R0 SUPPORT ARG1:AWknqJg9Id ARG2:DXm33HFQF5
+R1 SUPPORT ARG1:ssmYfBDUDc ARG2:tgpnyfj0dC
+R2 SUPPORT ARG1:-qNUjycAXj ARG2:tgpnyfj0dC
+R3 SUPPORT ARG1:YDUFvi-HQ6 ARG2:tgpnyfj0dC
+R4 SUPPORT ARG1:81x1R0yau3 ARG2:tgpnyfj0dC
+ArgQ0 DXm33HFQF5 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 tgpnyfj0dC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

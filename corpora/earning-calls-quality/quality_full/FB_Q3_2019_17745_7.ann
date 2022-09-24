@@ -1,0 +1,26 @@
+va_D5DG5wU NON-ARG 576 623 I'm happy to talk about Watch for a little bit.
+qVX7LSAqxx CLAIM-Fact 1214 1369 So we got to there on Watch, it's growing well and that is -- so we're kind of still now focused on continuing to make it better and continuing to grow it.
+9P4-lYLQp0 PREMISE-Fact 1523 1790 There are some good tent pole pieces of content that people really love that they come and they check out the product to experience that and then they stay for a lot of the other valuable content that's in there and that might not be talked about as much in the news.
+u--_2LUnhi CLAIM-Reformulated 1791 1844 So, that's I think the right way to think about that.
+PzkAHODmv5 CLAIM-Opinion(view) 1370 1522 The premium content part of it, yes, I think the right way to think about this is almost as marketing to help people try out the tab for the first time.
+hRRDF-Fotz CLAIM-Opinion(view) 624 848 I don't think we have any new status to share on this, but I mean overall we rolled out the tab for -- almost the first year we were really tuning it just to make sure that it would be retentive and very valuable for people.
+svIGjPLtBy CLAIM-Reformulated 849 1213 So they are in general -- the way we think about this stuff is, we try not to put something in front of a lot of people unless we're confident that they're going to find it useful and want to come back and use it multiple times and we can put a lot of things in front of people not to try it once, but we want to wait until things are kind of retentive and useful.
+v_VgoYsk64 NON-ARG 1858 1881 Hey, Justin, it's Dave.
+WL5kAGA7IH CLAIM-Fact 1882 2026 On the 2020 expense outlook, that includes headcount growth and also other expense growth sort of around infrastructure is a big factor as well.
+LDDa1rGsNx PREMISE-Fact 2027 2140 We're seeing that large CapEx build over the last several years flowing through depreciation and cost of revenue.
+Ms_tsZtnuR NON-ARG 2141 2182 So that's a driver of the growth as well.
+9HkqgS9bjJ CLAIM-Fact 2183 2325 We are planning to reaccelerate or accelerate hiring in 2020 and that's really going to be focused on the important priorities of the Company.
+RGa-TihCDc CLAIM-Fact 2326 2388 So that includes our privacy, safety and security investments.
+KNMTWdkwK1 PREMISE-Fact 2389 2513 So we are investing a lot in privacy related to building the products and also working on complying with the FTC settlement.
+vtOm-Ch2R8 CLAIM-Fact 2514 2588 And then we're continuing to invest heavily in our innovation investments.
+5rV5D5Bxri PREMISE-Fact 2589 2727 That includes building products around Facebook and Instagram and continuing to improve those but also in new developing areas like AR/VR.
+Cjz17pcoGH NON-ARG 2728 2763 So those are big factors in growth.
+J3YnPRSVxl CLAIM-Fact 2764 2941 And then we are planning on growing non-headcount related expenses as well like marketing and ultimately that will depend on how the ROI of those investments play out over time.
+R0 SUPPORT ARG1:9P4-lYLQp0 ARG2:PzkAHODmv5
+R1 SUPPORT ARG1:LDDa1rGsNx ARG2:WL5kAGA7IH
+R2 SUPPORT ARG1:KNMTWdkwK1 ARG2:RGa-TihCDc
+R3 SUPPORT ARG1:5rV5D5Bxri ARG2:vtOm-Ch2R8
+ArgQ0 PzkAHODmv5 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 WL5kAGA7IH SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 RGa-TihCDc SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 vtOm-Ch2R8 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

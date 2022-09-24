@@ -1,0 +1,18 @@
+lmEsWwGXms CLAIM-Opinion(view) 611 723 I think a lot of it is that we're getting better and better at ranking and showing people the content they want.
+mJsa_aLcvg PREMISE-Fact 724 981 And part of it is that there's of course a bigger opportunity when people have their phones with them all the time, but I think that there are plenty of other worlds that we could be living in where we wouldn't have necessarily executed on that opportunity.
+Qn3he3CFtf PREMISE-Fact 982 1015 And the execution is hard, right?
+nkjo6ftOlv PREMISE-Fact 1016 1167 And just kind of having something that's appealing universally to people wanting to stay connected with their friends, that's an important piece of it.
+r-9FnXpLZo PREMISE-Fact 1168 1588 But I mean, the team has just done really good work in terms of ranking the content and making the experience faster and building out better ways to get feedback from our community on what kinds of content they want to see in News Feed and helping people have the tools that they need to share the social content and news and video content that they want so that way it exists in the corpus of content that can be shown.
+EId8PDjvPa CLAIM-Opinion(view) 1589 1689 And I just think the team is doing a really good work on all of these, and I'm really proud of them.
+NdV4r32MZv CLAIM-Fact 1707 1800 And, Paul, there's no doubt that mobile has a beneficial effect on our engagement in the U.S.
+1RQvuYPW2C PREMISE-Statistic 1801 1892 Two out of three smartphone users check their phone as soon as they wake up in the morning.
+K42S3AcVvu PREMISE-Fact 1893 2064 It's just having that experience readily available in your pocket is tremendous, and we just see that being helpful across the business as it relates to mobile engagement.
+R0 SUPPORT ARG1:mJsa_aLcvg ARG2:lmEsWwGXms
+R1 SUPPORT ARG1:Qn3he3CFtf ARG2:lmEsWwGXms
+R2 SUPPORT ARG1:nkjo6ftOlv ARG2:lmEsWwGXms
+R3 SUPPORT ARG1:r-9FnXpLZo ARG2:EId8PDjvPa
+R4 SUPPORT ARG1:1RQvuYPW2C ARG2:NdV4r32MZv
+R5 SUPPORT ARG1:K42S3AcVvu ARG2:NdV4r32MZv
+ArgQ0 lmEsWwGXms SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 EId8PDjvPa SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 NdV4r32MZv SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

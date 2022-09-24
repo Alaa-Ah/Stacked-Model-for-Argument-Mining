@@ -1,0 +1,50 @@
+U-rtXZRDtb CLAIM-Opinion(view) 647 691 So, I think video has been pretty important.
+8fkLyVXxGN PREMISE-Fact 692 840 It’s really followed technological change, if you think back even four years, you can’t really take a video, a lot of videos buffered on your phone.
+YNlzc5qMae NON-ARG 841 885 And now, you think about what people can do.
+8LpC7qPBdR PREMISE-Fact 886 932 They can consume video very easily on a phone.
+ghMKahx0jv PREMISE-Fact 933 975 They can share video, they can take video.
+s-m2PVjEzZ CLAIM-Fact 976 1067 And so we’re seeing very – we’re seeing a lot of interest along a lot of consumer products.
+fm6fqaB5b- CLAIM-Fact 1068 1149 It’s also probably worth mentioning that video is within a bunch of our products.
+PKz0m-RXNv PREMISE-Fact 1150 1245 So, we certainly have video in feed and people can put video into stories and different places.
+2JhwsfvtZt PREMISE-Fact 1246 1329 And we also have the specific Watch place, where we’re looking at original content.
+YUrRDiubSJ NON-ARG 1330 1420 I think to the second part of your question, which is how do we think about video content.
+BI4yb4rkMw NON-ARG 1421 1547 Most of the content, people put up on Facebook video or other is user-generated, that’s also true of the watch content itself.
+sv8xseY6QB CLAIM-Fact 2079 2148 And the best of them actually carry over into the Facebook community,
+8x4LhOB0Jc PREMISE-Fact 2149 2369 because the best of the people creating those shows and starring in those shows are also engaging with Facebook, and I think the vision Mark laid out for this all along is that, we should do video in a pretty social way.
+7eF112bkXy CLAIM-Opinion(view) 2370 2432 When you think about video ads, video ads are pretty exciting,
+Blg9O06YBg PREMISE-Fact 2433 2495 because it’s obviously a firm asset marketers have long loved.
+Xl40BzKZ5h CLAIM-Opinion(view) 2496 2676 I think one of the challenges we’ve had is training the market that you can’t just take your TV ads and put them on video – I’m sorry, put them on mobile or put them into Facebook,
+XLvRwixlmO PREMISE-Fact 2677 2717 because they don’t perform the same way.
+JMXC5U8N1C PREMISE-Statistic 2718 2991 The best TV ad is 30 seconds, it builds slowly to a story, the product reveal is usually at the very end, the best mobile first ad or ad-on Facebook kind of gets to the main point or gets to the product in the first three seconds, captures your attention much more quickly.
+mWDA8bscoc PREMISE-Fact 2992 3088 We sometimes talk about it as some stopping creative, where you actually want to stop and watch.
+MVos6O2nr8 PREMISE-Statistic 3089 3206 I think the good news we have here is that mobile first video on Facebook right now is now over 50% of video revenue.
+xnZapqGseM CLAIM-Fact 3207 3362 So that shows real growth people understanding they need to do it differently, but we’ve still got a pretty long way to go, and we are seeing good results.
+eHjvgHwkah PREMISE-RealExample 3397 3544 McDonalds used mobile app video ads in Facebook and Instagram News Feed and Stories to launch a limited edition called the Big Mac range in the UK.
+N8qfhDae1B PREMISE-RealExample 3545 3665 They had a 16.5% lift in ad recall and then Nielsen’s study showed a nearly 20% incremental reach on Facebook versus TV.
+KdZWortRe7 NON-ARG 1548 1634 We have made some investments there in creating a more dedicated place to watch video.
+VmPUQw_Ht6 CLAIM-Opinion(view) 1635 2078 So, while a lot of the content is still provided by people in a way that we’re not covering costs, we do have a strategy of investing in great content that really starts the flywheel growing – going and we’ve been pretty pleased, I mean it’s not the biggest effort anyone has, but we’ve had some hits from Tom and Time to Tom and Time to Red Table Talk ,sorry for your loss, and we’re seeing some really nice engagement numbers on these shows.
+ynAjfA453z CLAIM-Opinion(view) 3666 3796 So, I think that shows that when video is done well, it can have a really big impact on companies large and small on our platform.
+ftxZGNo_f6 NON-ARG 3363 3396 I’ll share an example, McDonalds.
+deodRBb6y5 NON-ARG 3810 3863 And then Eric, I think you asked about margin impact.
+T5NKuRKXIh NON-ARG 3864 3978 I’d just say that the video content budget is already factored into the guidance that we’re providing on expenses.
+R0 SUPPORT ARG1:8fkLyVXxGN ARG2:U-rtXZRDtb
+R1 SUPPORT ARG1:8LpC7qPBdR ARG2:s-m2PVjEzZ
+R2 SUPPORT ARG1:ghMKahx0jv ARG2:s-m2PVjEzZ
+R3 SUPPORT ARG1:PKz0m-RXNv ARG2:fm6fqaB5b-
+R4 SUPPORT ARG1:2JhwsfvtZt ARG2:fm6fqaB5b-
+R5 SUPPORT ARG1:8x4LhOB0Jc ARG2:sv8xseY6QB
+R6 SUPPORT ARG1:Blg9O06YBg ARG2:7eF112bkXy
+R7 SUPPORT ARG1:XLvRwixlmO ARG2:Xl40BzKZ5h
+R8 SUPPORT ARG1:JMXC5U8N1C ARG2:Xl40BzKZ5h
+R9 SUPPORT ARG1:mWDA8bscoc ARG2:Xl40BzKZ5h
+R10 SUPPORT ARG1:MVos6O2nr8 ARG2:xnZapqGseM
+R11 SUPPORT ARG1:eHjvgHwkah ARG2:ynAjfA453z
+R12 SUPPORT ARG1:N8qfhDae1B ARG2:ynAjfA453z
+ArgQ0 U-rtXZRDtb SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 s-m2PVjEzZ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 fm6fqaB5b- SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 sv8xseY6QB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 7eF112bkXy SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 Xl40BzKZ5h SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ6 xnZapqGseM SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ7 ynAjfA453z SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

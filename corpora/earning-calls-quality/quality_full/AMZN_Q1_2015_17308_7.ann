@@ -1,0 +1,14 @@
+N-Ca-gUSgt NON-ARG 1034 1074 Yes, the – thanks for the question Mark.
+7IgsfryeRD NON-ARG 1075 1174 Just in terms of going forward, we're not giving any specific guidance, beyond the current quarter.
+xPHOkeu8Xs NON-ARG 1175 1220 So I can't predict for you what could happen.
+fLfUTiawx_ NON-ARG 1221 1425 But what you mentioned is, and some of the periods you were describing as you mentioned what our business look like, several years ago when we Prime was nascent and we were early – a bit earlier business.
+hVzpujbdNv CLAIM-Fact 1426 1464 And so we go through different cycles.
+_2Grvd2Mex PREMISE-Fact 1465 1510 We're certainly still investing very heavily.
+F6VXWlqR1T PREMISE-Fact 1511 1622 That being said, we – as I mentioned last quarter, we're spending time on making sure that we get productivity.
+3bl55l2rEk CLAIM-Reformulated 1623 1782 So we're working on both investing heavily in the business, we're working on fixed and variable productivity in other areas, putting a lot more energy into it.
+DDh9iA0snO NON-ARG 1783 2012 That’s what's helping us with the improvement that Prime mentioned in terms of operating margins year-over-year, it’s a number of different aspects, but certainly mix of business and some productivity is certainly impacting that.
+S4ld6jzO8n NON-ARG 2013 2145 But again we think there is opportunities to improve margins over time, you'll have to stay tuned on that to see what it looks like.
+um2moYp3a5 NON-ARG 2146 2479 But we certainly as you can see from not only results, but some of the data points that we've given over the last several quarters we are investing heavily in the business, again, because we like what we see and Prime growing so dramatically globally after being in it for long time and we think that that’s a great platform to feed.
+R0 SUPPORT ARG1:_2Grvd2Mex ARG2:hVzpujbdNv
+R1 SUPPORT ARG1:F6VXWlqR1T ARG2:hVzpujbdNv
+ArgQ0 hVzpujbdNv SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

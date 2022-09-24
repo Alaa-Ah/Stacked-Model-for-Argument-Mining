@@ -1,0 +1,21 @@
+GPCJRrkbfb NON-ARG 439 450 Sure thing.
+GkHe6BuesW NON-ARG 451 483 Thanks for your questions, Gene.
+CcO9nyH8uN CLAIM-Opinion(view) 484 611 On robotics first, we don't have any new numbers to share with you, but we're super excited with the progress of that business.
+eACu1U3tbt PREMISE-Fact 612 795 We had very high expectations for Amazon Robotics and its impact on our warehouse cost structure and we have been very pleasantly surprised by the job being done on that by that team.
+lZbrEpCLjQ CLAIM-Reformulated 796 820 So that's looking great.
+hzVeX2icGb NON-ARG 821 837 Efficiency, yes.
+1mGm7lZgzB NON-ARG 1009 1087 To give you a little more color on that, I would say what does that look like?
+b9v7gLZNat PREMISE-Fact 1088 1303 We have defect reduction and process improvements are probably something we've always done and worked on, both to lower our cost but also to improve the customer experience and also the seller and vendor experience.
+7_8C8qCzgJ PREMISE-Fact 1304 1518 We're using software and algorithms to make decisions rather than people, which we think it's more efficient and scales better and will be more accurate, especially as we insert machine learning into the decisions.
+F-V39gDw8o PREMISE-Fact 1519 1621 As I said earlier we benefit from the efficiency gains of the AWS business on the Amazon site as well.
+EWnIV88G29 PREMISE-Fact 1622 1903 We look to increase the leverage of our fixed assets, particularly our fulfillment centers and the throughput of the fulfillment centers, and just generally getting inventory closer to customers as we add and expand warehouses in the sort centers that we added primarily last year.
+g05beugE89 CLAIM-Fact 1904 2015 All have helped our cost structure, so just a little more color on maybe some specifics on the efficiency area.
+3sDIO2cKGK CLAIM-Fact 838 944 As we've talked about in the last few calls we have even more emphasis on variable and fixed productivity.
+l-DQONp3fM PREMISE-Fact 945 1008 I think that's evident in the Q2 results that you've just seen.
+R0 SUPPORT ARG1:b9v7gLZNat ARG2:g05beugE89
+R1 SUPPORT ARG1:7_8C8qCzgJ ARG2:g05beugE89
+R2 SUPPORT ARG1:F-V39gDw8o ARG2:g05beugE89
+R3 SUPPORT ARG1:EWnIV88G29 ARG2:g05beugE89
+R4 SUPPORT ARG1:eACu1U3tbt ARG2:CcO9nyH8uN
+ArgQ0 g05beugE89 SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 CcO9nyH8uN SPECIFIC_2 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

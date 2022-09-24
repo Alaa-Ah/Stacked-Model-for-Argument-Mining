@@ -1,0 +1,14 @@
+ciA-e8i6GP NON-ARG 323 328 Yeah.
+XjtadE5Ksm NON-ARG 329 340 Hey, Brent.
+yj-tSUdejl NON-ARG 341 351 It's Dave.
+2LrOx7XoBl CLAIM-Opinion(view) 352 467 I think, I guess, if you're talking about DAU and MAU, Europe is stable on that front in terms of Facebook overall.
+-IacO39Utb PREMISE-Fact 468 605 The accounting methodology change did affect how Europe sequential growth rate came in, but really stable if you kind of take that aside.
+WNz6DIizfH CLAIM-Reformulated 667 742 So I think, from that perspective, it is broadly stable for Facebook there.
+Et3V4We14r CLAIM-Opinion(view) 743 813 European growth rate I think was healthy from a revenue point of view.
+nN2fgiRkh8 PREMISE-Fact 814 1125 So I think we're still seeing good growth in Europe on the revenue front, and a lot of the similar dynamics playing out in Europe as in the rest of the world where you see good impression growth opportunity, especially in areas like Instagram and Stories contributing to overall ability to drive revenue growth.
+4hQ_MPWGHX PREMISE-Fact 606 666 And we had some impact from GDPR over the last two quarters.
+R0 SUPPORT ARG1:-IacO39Utb ARG2:2LrOx7XoBl
+R1 ATTACK ARG1:4hQ_MPWGHX ARG2:2LrOx7XoBl
+R2 SUPPORT ARG1:nN2fgiRkh8 ARG2:Et3V4We14r
+ArgQ0 2LrOx7XoBl SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 Et3V4We14r SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

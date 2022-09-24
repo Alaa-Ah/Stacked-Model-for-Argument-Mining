@@ -1,0 +1,7 @@
+DX0Ic4L9Nr NON-ARG 512 522 Hi, Scott.
+t0Ic0mMKHN CLAIM-Fact 523 696 Yeah, what I can tell you is that yes, the unit growth has been reaccelerated in the last two quarters and actually Amazon Fulfilled unit growth is growing at a higher clip.
+hFWwd3zNAk PREMISE-Fact 697 730 So we do attribute it to One Day.
+wze438M3t0 CLAIM-Fact 732 779 We’re seeing broad sales across all categories.
+2iNzwZ0kQR CLAIM-Fact 780 1062 So you know there has been some reduction in the threshold for some lower ASP items that we’ve been doing separately over the last six months that have spurred some sales in lower ASP items, but we think that is again the right decision for customers, especially over the long term.
+R0 SUPPORT ARG1:hFWwd3zNAk ARG2:t0Ic0mMKHN
+ArgQ0 t0Ic0mMKHN SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

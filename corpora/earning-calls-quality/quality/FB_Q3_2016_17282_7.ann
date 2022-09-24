@@ -1,0 +1,19 @@
+WjimWR0qSR NON-ARG 533 645 Justin, just on investment year, I'm not giving specific commentary around revenue growth versus expense growth.
+ELh-XUsd6H NON-ARG 646 744 What I wanted to provide was just some color around our thinking about investment going into 2017.
+k0O25DKs2X CLAIM-Fact 745 840 Obviously, on the CapEx side, we've got a number of projects underway on the data center front.
+MA6hmgt2WU PREMISE-Fact 841 988 So clearly on that front, we've got a lot of projects that are going to need ongoing funding going into 2017, so that we've got good visibility on.
+1tJUlPoFKI NON-ARG 989 1102 In addition, while it's too early to give specifics, I want to give some directional color around expense growth.
+eucFdXAdMv CLAIM-Fact 1103 1196 We've already invested in accelerating our recruiting efforts, so I wanted to highlight that.
+8IiWC99t1X PREMISE-Fact 1197 1374 That's primarily around technology, technical recruiting, software engineering, and we have a lot of opportunities that we see to invest in the long-term growth of the business.
+ZL6mgRrcxY PREMISE-Statistic 1415 1545 On ad blocking, in terms of the impact, I would just point out that this quarter we had 18% year-over-year desktop revenue growth.
+uRI_K-qoDm PREMISE-Fact 1546 1642 If you look at recent quarters, it was about half of that growth rate on a year-over-year basis.
+dnt_vNcoTW CLAIM-Fact 1643 1774 So that increment, that acceleration in desktop revenue growth is largely due to our efforts on reducing the impact of ad blocking.
+I8w6tjDg6X CLAIM-Reformulated 1775 1840 So that's what led to the acceleration of desktop revenue growth.
+P8jzTEFRE0 CLAIM-Reformulated 1375 1414 And so that's our plan going into 2017.
+R0 SUPPORT ARG1:MA6hmgt2WU ARG2:k0O25DKs2X
+R1 SUPPORT ARG1:8IiWC99t1X ARG2:eucFdXAdMv
+R2 SUPPORT ARG1:ZL6mgRrcxY ARG2:dnt_vNcoTW
+R3 SUPPORT ARG1:uRI_K-qoDm ARG2:dnt_vNcoTW
+ArgQ0 k0O25DKs2X SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 eucFdXAdMv SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 dnt_vNcoTW SPECIFIC_2 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

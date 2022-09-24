@@ -1,0 +1,26 @@
+Er44YtZWmg CLAIM-Fact 938 1059 The core focus, Keith, for us to start with is to ensure that the innovation roadmap we have is all driving member value.
+VI1XuX4sU6 PREMISE-RealExample 1060 1115 The core ethos of LinkedIn needs be about member-first.
+-shctRX8jQ NON-ARG 1116 1251 How do we increase the engagement on the mobile flagship application as well as the revamped desktop experience that's now rolling out?
+6gn121M8PQ CLAIM-Opinion(view) 1252 1415 We think that's at the core of being able to in fact then have all of the revenue – have revenue growth in their business solutions with across higher market sell.
+rFao_EP8WS CLAIM-Opinion(view) 1416 1439 So that's how I see it.
+feTkkOyLKr PREMISE-Fact 1440 1537 It's a two-sided market which starts with the health (35:02) of membership and member engagement.
+Y6unLcaQDP CLAIM-Opinion(view) 1671 1717 We expect to see that roll out pretty rapidly.
+XuE6x6Q1kN CLAIM-Fact 1538 1670 And that is where the product roadmap, whether it's the integration with Office 365 or Dynamics 365, we'll be staying focused on it.
+cFt_TSDsWm CLAIM-Reformulated 1718 1873 And as far as the guidance we have given at close in terms of what to expect, for example around EPS impact, those are things that we'll stay committed to.
+qe7c2ixWSJ NON-ARG 1874 1906 And I'll let Amy add more to it.
+QXdk92KuMs NON-ARG 1920 1951 Yeah, I think Satya is correct.
+ItXwlXNSnw NON-ARG 2617 2739 We'll take care to give you insight into those so that you can continue to hold us against the goals we set for ourselves.
+95AKvylRoU CLAIM-Fact 2466 2616 So the in-quarter revenue and the guidance will look a bit lower due to that, as well as the amortization of intangible expenses, which will also hit.
+43PyWA87_r PREMISE-Fact 2359 2465 As a reminder, the two biggest impacts of purchase accounting, one is it does impact the deferred revenue.
+VLOiJqD7du NON-ARG 838 843 Yeah.
+wE4FGGSS7S NON-ARG 844 937 Let me start, and then I'll turn it over to Amy to talk about the specifics of the synergies.
+Yrh16MwI3I PREMISE-Fact 1952 2358 The guidance we gave at the time of the announcement in terms of EPS dilution on – excluding the impact of purchase accounting, being minimally dilutive, 1% plus or minus, stands, including the goal to achieve synergies where they make sense as we continue to focus on growing the core business and keeping it incredibly healthy and realizing the revenue synergies that we know exist across the businesses.
+VpzHyjrBHj NON-ARG 2750 2768  Thank you, Keith.
+ySbccnaDYv NON-ARG 2769 2819 We'll move to the next question, please, operator.
+R0 SUPPORT ARG1:VI1XuX4sU6 ARG2:Er44YtZWmg
+R1 SUPPORT ARG1:feTkkOyLKr ARG2:XuE6x6Q1kN
+R2 SUPPORT ARG1:Yrh16MwI3I ARG2:95AKvylRoU
+R3 SUPPORT ARG1:43PyWA87_r ARG2:95AKvylRoU
+ArgQ0 Er44YtZWmg SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 XuE6x6Q1kN SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 95AKvylRoU SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,18 @@
+knkfe_-37A PREMISE-Statistic 484 609 Katy, sequentially from 38.5% that we just reported, typically we have product transition costs during the September quarter.
+yzmqq5vZPP CLAIM-Fact 610 636 That's the primary driver.
+Tb4MR7NNFY NON-ARG 637 674 This happens fairly regularly for us.
+Hzm7d8ci9Z PREMISE-Fact 675 758 We also have a more difficult memory pricing environment this year than a year ago.
+Fj8PCfVr9A CLAIM-Opinion(view) 759 852 And we think that we're going to be able to partially offset this with the positive leverage.
+0sQIlKN3Ak CLAIM-Fact 853 906 As you've seen, we guided up sequentially in revenue.
+uEjFk-HAHK NON-ARG 907 945 So those are the major puts and takes.
+i5YostCiiE PREMISE-Fact 946 1137 In terms of the range that we use for gross margins, we have a fairly good understanding on where we are with our hedging program, and that allows us to mitigate some of the volatility there.
+Z0GJW4vfQa CLAIM-Opinion(view) 1138 1236 So we felt we could guide to a slightly narrower range, which we've done occasionally in the past.
+ila0fnnXTy NON-ARG 1905 2026 Katy, as Luca mentioned, we did assume some transitional costs in our guidance for the quarter, as is typically the case.
+bd3rOgtfbe NON-ARG 2027 2087 And we're looking very much forward to the product rollouts.
+3D9htge38U NON-ARG 2102 2118 Thank you, Katy.
+7YBW9rAviI NON-ARG 2119 2159 Could we have the next question, please?
+R0 SUPPORT ARG1:Hzm7d8ci9Z ARG2:Z0GJW4vfQa
+R1 SUPPORT ARG1:i5YostCiiE ARG2:Z0GJW4vfQa
+R2 SUPPORT ARG1:knkfe_-37A ARG2:yzmqq5vZPP
+ArgQ0 Z0GJW4vfQa SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 yzmqq5vZPP SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

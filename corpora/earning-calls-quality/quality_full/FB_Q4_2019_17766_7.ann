@@ -1,0 +1,20 @@
+12NRTMPJBh NON-ARG 424 428 Yes.
+SCNhWX4Kv9 CLAIM-Fact 429 481 The video strategy is -- has been pretty consistent.
+s_MegCG87g CLAIM-Reformulated 482 607 We -- and it's consistent with the rest of what we're trying to do on creating these other tabs and social utilities as well.
+_ATxodGLA4 PREMISE-Fact 658 879 But what we also found was that just straight consuming a lot of video on News Feed was displacing some of the social interactions and connecting with people that was the real core of what people came to our services for.
+4JjBikyITC CLAIM-Fact 881 1046 So basically, in order for -- to fully meet the needs that people have for video, we started creating a separate tab, Watch, and that's been growing quickly as well.
+Szw1St7ukE NON-ARG 608 657 People watch a lot of video as part of News Feed.
+WK1K3cHyjK PREMISE-Fact 1047 1195 You can think about the content acquisition that we do there as more along the lines of either marketing or bringing new people into the experience.
+0j8xlvFIf6 NON-ARG 1196 1284 It's -- we're not building out a subscription service or anything like that around this.
+0aviIIHvT3 NON-ARG 1285 1419 So that's more just some good examples of content and anchor content to help create the community and get people into that experience.
+79T7TLwgcZ NON-ARG 1437 1492 I can share a little bit about the Explore opportunity.
+cVprLqN_43 PREMISE-Statistic 1493 1565 So more than 50% of accounts on Instagram are using Explore every month.
+p87cFBwdhA PREMISE-Statistic 1566 1622 And as of Q3, ads were available to 100% of advertisers.
+-Qhr3NL4l0 CLAIM-Opinion(view) 1623 1715 We think it's a great opportunity to reach customers who are already in a discovery mindset.
+WrhU4uC6JJ NON-ARG 1716 1842 And the way it works is after you click on a post in the Explore grid, you enter a Feed-like experience where the ads show up.
+R0 SUPPORT ARG1:_ATxodGLA4 ARG2:4JjBikyITC
+R1 SUPPORT ARG1:WK1K3cHyjK ARG2:4JjBikyITC
+R2 SUPPORT ARG1:cVprLqN_43 ARG2:-Qhr3NL4l0
+R3 SUPPORT ARG1:p87cFBwdhA ARG2:-Qhr3NL4l0
+ArgQ0 4JjBikyITC SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 -Qhr3NL4l0 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2

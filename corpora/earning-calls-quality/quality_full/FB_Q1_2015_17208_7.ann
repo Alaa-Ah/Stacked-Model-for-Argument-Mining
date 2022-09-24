@@ -1,0 +1,6 @@
+BaLK1vrvSY PREMISE-Fact 771 862 So we have not announced any specific plans for shipment volumes in 2015 related to Oculus.
+em3bRvCRmc CLAIM-Fact 863 1054 I just know that Oculus is very much in the development stage so it's early to be talking about large shipment volumes, and our expense guidance reflects any volumes that we might do in 2015.
+pMcxdPJGfQ NON-ARG 1075 1140 And no plans to work with our marketers in the way you described.
+LmEGI76LI7 NON-ARG 726 770 Ben, let me take the OpEx guidance question.
+R0 SUPPORT ARG1:BaLK1vrvSY ARG2:em3bRvCRmc
+ArgQ0 em3bRvCRmc SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

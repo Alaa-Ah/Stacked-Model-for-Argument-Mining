@@ -1,0 +1,28 @@
+xz9GuiKya0 NON-ARG 427 468 So I'd say we're pretty early in Phase 2.
+XTxry2-Y2M CLAIM-Fact 469 564 Just to recap the framework that we have here, the strategy is there are three phases for that.
+xCLlWHFDNE PREMISE-Fact 565 618 We build and then build businesses around these apps.
+G0v5Ng9gF5 PREMISE-Statistic 619 759 The first is build an experience and get it to scale, to build a community that can get to hundreds of millions or 1 billion people or more.
+aPPZsdC5Du PREMISE-Fact 760 922 The second phase is help people not only interact with the people they care about, but also the businesses and other public entities that they care about as well.
+YHJdRN6pjx PREMISE-Fact 923 1128 And then the third phase is once there's good organic interaction between people and those businesses, give those businesses tools that they can pay for to reach more people and amplify those interactions.
+hkRAQ1mvX_ PREMISE-Statistic 1129 1388 So I mentioned this stat earlier that we have about 33,000 bots that are live in Messenger, including experiences across a range of verticals, from news to e-commerce to local businesses and all kinds of different things, and we're seeing some early progress.
+sSzWbuEwB0 CLAIM-Fact 1389 1465 I'd say we're still pretty early on in getting this to be widely rolled out.
+wP-EJYHBcL PREMISE-Fact 1466 1516 I think we're going to need many more than 33,000.
+Wlz-dem6Be PREMISE-Fact 1517 1700 And the number of people using them, I think it's still pretty early in terms of there are more than 1 billion people using Messenger, so we need to get that rolled out pretty widely.
+XkojPvruPK NON-ARG 1701 1811 So I'm not sure that I have an answer for you just yet on exactly when we're going to move to the third phase.
+aPLmZh9P68 PREMISE-Fact 1812 2122 The one thing that I would say in terms of making money through Messenger is we're already driving results for businesses by letting them advertise in News Feed to open up threads in Messenger, which is different from the long-term vision that we have here around creating interactions that start in Messenger.
+H-UNrSVBjl CLAIM-Opinion(view) 2123 2194 I think that that will ultimately be most of the value that's generated
+lJeH6biCWQ PREMISE-Fact 2196 2367 But in the near term, what we've found is that a lot of businesses are creating ads in News Feed that then they can follow up and do transactions with people in Messenger,
+ggc6WTwHjx CLAIM-Opinion(view) 2368 2441 and I think that's going to be pretty meaningful over the next few years.
+R0 SUPPORT ARG1:xCLlWHFDNE ARG2:XTxry2-Y2M
+R1 SUPPORT ARG1:G0v5Ng9gF5 ARG2:XTxry2-Y2M
+R2 SUPPORT ARG1:aPPZsdC5Du ARG2:XTxry2-Y2M
+R3 SUPPORT ARG1:YHJdRN6pjx ARG2:XTxry2-Y2M
+R4 SUPPORT ARG1:hkRAQ1mvX_ ARG2:sSzWbuEwB0
+R5 SUPPORT ARG1:wP-EJYHBcL ARG2:sSzWbuEwB0
+R6 SUPPORT ARG1:Wlz-dem6Be ARG2:sSzWbuEwB0
+R7 SUPPORT ARG1:aPLmZh9P68 ARG2:H-UNrSVBjl
+R8 SUPPORT ARG1:lJeH6biCWQ ARG2:ggc6WTwHjx
+ArgQ0 XTxry2-Y2M SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 sSzWbuEwB0 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 H-UNrSVBjl SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 ggc6WTwHjx SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

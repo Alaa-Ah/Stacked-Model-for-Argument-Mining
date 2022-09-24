@@ -1,0 +1,36 @@
+ZsQcCGxKJv NON-ARG 1005 1016 Sure, Mark.
+NaoKWimwBM NON-ARG 1017 1085 I can start with the detailed ones, the tax rate and the OpEx guide.
+aaTo7sLhNv PREMISE-Fact 1086 1234 So on the tax rate, the rate came in better than guidance in terms of the tax rate, but it's consistent with the long-term trend that I'd indicated.
+-3eg7vFAb4 CLAIM-Fact 1235 1338 We do expect that that rate will be approximately the rate that will continue for the rest of the year.
+LjOZS3CFfG CLAIM-Fact 1339 1397 So for purposes of 2016 modeling, I would use the Q1 rate.
+3_wU1VaBvx PREMISE-Fact 1398 1601 On the OpEx guide, Q1 came in slightly below our annual expense growth guidance, but we do expect that investments in areas like video and Oculus will impact the remainder of the year more substantially,
+-n6bg1S3qb CLAIM-Reformulated 1602 1679 so that's why we're maintaining the annual OpEx growth guidance that we have.
+K2Vj8p3m9R NON-ARG 1680 1743 And then, Sheryl, did you want to speak about Audience Network?
+mKWjDdzT-I CLAIM-Opinion(view) 1764 1804 Yes, Audience Network is important to us
+RKHypuyDiy PREMISE-Fact 1805 1930 because we're making a strategic investment in ad tech, helping advertisers and publishers grow, so it's on and off Facebook.
+ZJwzAB-McX CLAIM-Opinion(view) 1931 2094 We think we're uniquely placed to bring people-based marketing to scale and solve the measurement problem, and the Audience Network is a place we're really focused
+-RhDXzbzeJ PREMISE-Fact 2095 2219 because we feel like we're delivering value for advertisers and publishers, so we're investing behind the growth we've seen.
+flcDj69QBb CLAIM-Fact 2220 2254 We've seen a growth of native ads.
+-15yAxgVcV PREMISE-Statistic 2255 2385 Eighty-three percent of the overall inventory on the platform is native, and over 50% of our publishers are only using native ads.
+Fee-6C6CS0 CLAIM-Fact 2386 2469 We have some great examples of Audience Networks really improving people's results.
+uFzvumv4GJ PREMISE-RealExample 2470 2583 A recent one is eBay Vivanuncios, which is an online real estate destination working in Latin America and Mexico.
+3sYXgYtLz7 PREMISE-Statistic 2584 2823 When they were using a combination of Facebook, Instagram, and the Audience Network, they saw 57% lower cost per install with placement optimization and 59% more volume versus running on Facebook alone, which led to 6% incremental revenue.
+lKW6CjbLZX PREMISE-Statistic 2824 2914 So compared to November a year before, the number of their app installs increased by 115%.
+j9ZqJ30eYB PREMISE-Fact 2915 3042 So what we're seeing is the results we're able to deliver on Facebook and Instagram, a lot of our marketing partners want more.
+qkCHq5HMdW CLAIM-Fact 3043 3117 And our ability to do that is why we're investing in the Audience Network.
+R0 SUPPORT ARG1:aaTo7sLhNv ARG2:-3eg7vFAb4
+R1 SUPPORT ARG1:3_wU1VaBvx ARG2:LjOZS3CFfG
+R2 SUPPORT ARG1:RKHypuyDiy ARG2:mKWjDdzT-I
+R3 SUPPORT ARG1:-RhDXzbzeJ ARG2:ZJwzAB-McX
+R4 SUPPORT ARG1:-15yAxgVcV ARG2:flcDj69QBb
+R5 SUPPORT ARG1:uFzvumv4GJ ARG2:Fee-6C6CS0
+R6 SUPPORT ARG1:3sYXgYtLz7 ARG2:Fee-6C6CS0
+R7 SUPPORT ARG1:lKW6CjbLZX ARG2:Fee-6C6CS0
+R8 SUPPORT ARG1:j9ZqJ30eYB ARG2:qkCHq5HMdW
+ArgQ0 -3eg7vFAb4 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ1 LjOZS3CFfG SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ2 mKWjDdzT-I SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 ZJwzAB-McX SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 flcDj69QBb SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 Fee-6C6CS0 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ6 qkCHq5HMdW SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,43 @@
+JD3inEX5ek NON-ARG 1177 1302 This is up to investors as to what things they would like to focus on, so I don’t want to put myself in the position of that.
+PmBP9MMIwt NON-ARG 1303 1391 The way that I look at this and the numbers you’ve quoted have a different view of them.
+kxDPjR_pHC CLAIM-Opinion(view) 1392 1472 But generally what we see with iPhone is the reliability of iPhone is fantastic.
+A8Rd4Xpjlf PREMISE-Fact 1473 1552 The second or the previously owned market has expanded in units over the years.
+UbZ496rggu PREMISE-Fact 1553 1660 And you see in many cases, carriers and retailers having very vibrant programs around trading an iPhone in.
+q9AVuL0vOJ PREMISE-Fact 1661 1883 And because iPhone has the largest residual rate on it, it acts as a buffer for the customer to buy new one and it lines up with another customer somewhere else that is perfectly fine with having a previously owned iPhone.
+tq_e_Ukvp8 CLAIM-Reformulated 1884 1936 And so I view all of that to be incredibly positive.
+p5ipYeUgHp NON-ARG 1937 1976 It’s more people on iPhones the better.
+A7Tg1c2eRO NON-ARG 2343 2447 On the battery, Toni, we did not consider in any way, shape, or form, what it would do to upgrade rates.
+E2yTzWpqCN NON-ARG 2448 2524 We did it because we thought it was the right thing to do for our customers.
+qeOmsvHdDz NON-ARG 2525 2587 And sitting here today, I don't know what effect it will have.
+j9h0olf-01 NON-ARG 2588 2676 And again, it’s not -- was not in our thought process of deciding to do what we've done.
+inlK7rEg__ NON-ARG 2301 2342 And this quarter is no different on that.
+JLbotuZKmQ PREMISE-Fact 1977 2074 I would like to point out that the ever year major product hit a high on the active install base.
+QGalM04SxZ PREMISE-Fact 2075 2139 And so that’s iPad, it’s Mac and those are huge numbers as well.
+QnkLJQea3m CLAIM-Fact 2140 2300 And so as we’ve always said, there is a large part of the -- or the vast majority of the services are mapped to the install base instead of the quarterly sales.
+f6ZFoz9Nsa NON-ARG 4232 4325 I think on the replacement cycle, Toni, the answer is, probably looks different by geography.
+ZnNXd5dQRw NON-ARG 4326 4484 In those geographies that had, in the early days of the smartphone market, had very traditional subsidies where you paid $199 out the door or $99 or whatever.
+CFPoOLnbwr CLAIM-Opinion(view) 4485 4537 I think it's accurate to save those type of markets.
+sYHpzwO6A4 PREMISE-Fact 4538 4577 The replacement cycle is likely longer.
+xWe-ZFPQAG NON-ARG 4578 4637 Where that isn't the case, I am not nearly as sure on that.
+tUWbKuHGlj NON-ARG 4638 4928 I would point out that that happened some time ago and so it's very difficult currently to ever get a real time handle on replacement rate, because you obviously not -- you don't know the replacement rate for the products you're currently selling, you only know that in an historical sense.
+aNfzGTMCAs NON-ARG 4929 4980 So it's not something that we are overly fixate on.
+mToXbL9jUp NON-ARG 3301 3349 Toni, on the tax rate, I will make two comments.
+Bq52hRW3eK PREMISE-Fact 3350 3412 First of all, the new tax law in the United States is complex.
+R9fkHTsDgr CLAIM-Opinion(view) 3413 3502 And I think we, as many other companies, are really trying to absorb what this all means.
+kmaJeO2hxH CLAIM-Policy 3595 3754 So we've taken some provisional estimates in coming up with our tax entries for the quarter, and we will have to do that as we go forward here during the year.
+MB7aAB57tH NON-ARG 3755 3871 So it may be a bit bumpy in the short-term as we understand the law in full, and it actually gets explained in full.
+Z9TGbsXRpE NON-ARG 3872 4009 But I would say that for the current fiscal year, the guidance that we provided for Q2 should be approximately what you should be seeing.
+yPLGF-t9cz CLAIM-Reformulated 4010 4148 As we get into new fiscal year, so many things change and we need to take that into account, the geographic mix of our products and so on.
+IucF1raTqS NON-ARG 4149 4221 But I would say for the remainder of the year, it's what we’re guide to.
+ac9nOwAkXO CLAIM-Opinion(view) 3503 3594 And I think we're going to be receiving, over the next few months, implementation guidance.
+R0 SUPPORT ARG1:A8Rd4Xpjlf ARG2:kxDPjR_pHC
+R1 SUPPORT ARG1:UbZ496rggu ARG2:kxDPjR_pHC
+R2 SUPPORT ARG1:q9AVuL0vOJ ARG2:kxDPjR_pHC
+R3 SUPPORT ARG1:JLbotuZKmQ ARG2:QnkLJQea3m
+R4 SUPPORT ARG1:QGalM04SxZ ARG2:QnkLJQea3m
+R5 SUPPORT ARG1:sYHpzwO6A4 ARG2:CFPoOLnbwr
+R6 SUPPORT ARG1:Bq52hRW3eK ARG2:R9fkHTsDgr
+ArgQ0 kxDPjR_pHC SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 QnkLJQea3m SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 CFPoOLnbwr SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 R9fkHTsDgr SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,17 @@
+xkFcseaVX_ NON-ARG 1135 1154 So thank you, Ross.
+zURXinKBgF NON-ARG 1155 1169 This is Darin.
+Kuar_sPMxh PREMISE-Fact 1170 1438 Let me take that first question on Prime Air in the UK, we've been working with and developing Prime Air for some time to develop a rapid delivery system that is safe, environmentally sound and it really enhances the services that we provide for millions of customers.
+LpsgbgI-os CLAIM-Opinion(view) 1439 1559 And we're extremely happy to partner with the UK government to advance the safe use of drones for small parcel delivery.
+SoYqKPrhVE PREMISE-Fact 1560 1757 This is providing us with permission to trial new methods in the space, including beyond line-of-sight operation, sense-and-avoid technologies and flights where one person operates multiple drones.
+0AmUNsF6EQ CLAIM-Reformulated 1758 1962 So we definitely appreciate the pragmatic and forward-looking approach on this topic with the UK and we're going to continue to work with regulators and policy makers in many countries, including the U.S.
+RP-UauRgT0 CLAIM-Reformulated 1963 1992 So we're excited about there.
+sWecIBT1rp NON-ARG 1993 2059 As for the ocean-going licenses, we have no comment on that today.
+HFaBZq4Sz6 NON-ARG 2079 2137 As far as AWS, essentially penetration question you asked.
+RykHiBedRf NON-ARG 2138 2164 We think still very early.
+Q_G65UQDFO CLAIM-Opinion(view) 2165 2351 Again, we like our position, our industry leading position in the cloud space, and we're working on things that would incent more and more customers to accelerate their cloud conversion.
+1YI5f7kB3d PREMISE-Fact 2352 2561 The lower prices and services that we offer, and as I said, we'll work on things that will make it easier and easier for customers to work with us with their hybrid data centers or transfer their volume to us.
+R0 SUPPORT ARG1:Kuar_sPMxh ARG2:LpsgbgI-os
+R1 SUPPORT ARG1:SoYqKPrhVE ARG2:LpsgbgI-os
+R2 SUPPORT ARG1:1YI5f7kB3d ARG2:Q_G65UQDFO
+ArgQ0 LpsgbgI-os SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 Q_G65UQDFO SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

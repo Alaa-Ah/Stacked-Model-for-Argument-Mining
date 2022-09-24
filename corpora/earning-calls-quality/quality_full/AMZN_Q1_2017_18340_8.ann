@@ -1,0 +1,19 @@
+IW_2IGYJyH NON-ARG 439 444 Sure.
+wXNmXDhynj CLAIM-Fact 445 545 Yes, we haven't updated that number, but suffice to say the innovation pace continues to accelerate.
+sujgPdtDUF CLAIM-Opinion(view) 546 586 We are very proud of the launches in Q4.
+ZUWLT29dC2 PREMISE-RealExample 587 746 The Amazon Connect, which we think will provide customer service capability to customers, and Amazon Chime, which we also believe will resonate with customers.
+081riQYRHN PREMISE-Fact 747 795 We've had a lot of adoption of our new services.
+ZGI4-K15Xe PREMISE-Fact 796 926 We've had – customers migrated more than 23,000 data basis using the AWS Database Migration Service since that launched last year.
+IcIY-wHHMa PREMISE-Fact 927 983 And just generally we continue to expand geographically.
+DPodUobj1r PREMISE-Fact 984 1054 We have announced additional availability zones and regions worldwide.
+IA2JxnaOgG PREMISE-Fact 1100 1254 I guess I would point out in the quarter, Liberty Mutual, Snap and Live Nation all starting relationships with us or expanding their current relationship.
+wHROI88pYE PREMISE-Statistic 1255 1293 We're now over a $14 billion run rate.
+MkaUhD70nE CLAIM-Reformulated 1294 1405 We're happy with the business and the team, and again, for us innovation is going to be key as we move forward.
+12RA_JuhIf PREMISE-Fact 1055 1099 So, again, signed a number of big customers.
+R0 SUPPORT ARG1:081riQYRHN ARG2:wXNmXDhynj
+R1 SUPPORT ARG1:ZGI4-K15Xe ARG2:wXNmXDhynj
+R2 SUPPORT ARG1:ZUWLT29dC2 ARG2:wXNmXDhynj
+R3 SUPPORT ARG1:IcIY-wHHMa ARG2:wXNmXDhynj
+R4 SUPPORT ARG1:IA2JxnaOgG ARG2:wXNmXDhynj
+R5 SUPPORT ARG1:12RA_JuhIf ARG2:wXNmXDhynj
+ArgQ0 wXNmXDhynj SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

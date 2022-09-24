@@ -1,0 +1,41 @@
+U8DC2tOsGK NON-ARG 1034 1039 Sure.
+AcaziiFg9H NON-ARG 1040 1062 Let me wax eloquently.
+FpYVe_MVlD NON-ARG 1063 1077 Try to anyway.
+2IyVDpSBw5 CLAIM-Fact 1078 1216 So let's start with the $239 million; that is essentially where attributable to warrants that we have in companies that we partnered with.
+4zLyfpqMKO PREMISE-Fact 1217 1304 We have transportation companies that we partnered with and other technology companies.
+8ADcs64d3V PREMISE-Fact 1305 1380 As the stock market increased in Q1, a lot of these companies also went up.
+ccDfwb0R0f NON-ARG 1640 1681 On advertising, so let's step back a bit.
+K1drHZvNyL CLAIM-Fact 1682 1746 It's now a multibillion-dollar program and growing very quickly.
+geFrip0HZv CLAIM-Fact 1747 1820 Our main goal here is to help customers discover new brands and products.
+OeVH8_cUdy PREMISE-Fact 1821 1966 So we show the sponsored products, we're trying to show people things they had maybe wouldn't have seen otherwise in their normal search results.
+qHjiXS3o4r CLAIM-Fact 1967 2020 So we're looking for a good balance here, as we said.
+nAzADJTnhe PREMISE-Other 2021 2194 We want customers to get the benefit of the new brand and product discovery, and then we want to let sellers for both emerging and established brands, reach those customers.
+7QnxrK55PK CLAIM-Reformulated 2373 2518 So, we take the responsibility for that very seriously and are always balancing helpfulness of the advertising and try not to make it disruptive.
+AXu5t0uIpn CLAIM-Reformulated 2195 2372 Those advertisers are of all shapes and sizes with the main goal of, again, trying to reach our customers whether it's to drive brand awareness, discovery or hopefully purchase.
+WjbazQVLiJ PREMISE-Fact 2519 2572 But you're right, there are always pressures in that.
+hD-_iXZcek CLAIM-Fact 2573 2619 We will come down on the side of the customer.
+WkzbytQeEi PREMISE-Fact 1381 1461 So that's where we book the gain on warrants that we have with – on investments.
+p7OmTvsTdX PREMISE-Fact 1462 1567 It's also – there was a good bit of FX gain due to the shift in currency and the weakening of the dollar.
+n-iPN0nQzz PREMISE-Fact 1568 1639 That showed up on a lot of lines on the P&L, but that one was positive.
+xqzD9Qdngc CLAIM-Fact 2620 2779 On your question on video advertising, yes, there may be opportunities over time to have more advertising in our Video, but we choose not to do that right now.
+iTiMlcKCq_ CLAIM-Fact 3013 3194 So we'll have 11 games in 2018 and 2019, be able to deliver that to over 100 million Prime members globally, which is a great continuation of the partnership we've had with the NFL.
+HPvZsCgD84 PREMISE-RealExample 3195 3330 We've done some things like the Prime Original Series All or Nothing; the third season's coming up soon, focused on the Dallas Cowboys.
+cZqhfgv4SD PREMISE-RealExample 2793 3012 Yeah, I think the only thing I'd add to on that just related to Prime Video, as you may have seen in the announcement earlier today about the renewed agreement for the streaming partnership with Thursday Night Football.
+i81O29vpBS CLAIM-Fact 3331 3552 So that was one of our first forays in the live format that – one of the first forays in the live format where we had live ads and kind of, we're not only learning the technology, but learning to – learning that business.
+mJTsxSrmCe CLAIM-Opinion(view) 3553 3676 And I think we've been pleased with what we've seen so far obviously and look forward to the next few seasons with the NFL.
+R0 SUPPORT ARG1:4zLyfpqMKO ARG2:2IyVDpSBw5
+R1 SUPPORT ARG1:8ADcs64d3V ARG2:2IyVDpSBw5
+R2 SUPPORT ARG1:WkzbytQeEi ARG2:2IyVDpSBw5
+R3 SUPPORT ARG1:p7OmTvsTdX ARG2:2IyVDpSBw5
+R4 SUPPORT ARG1:n-iPN0nQzz ARG2:2IyVDpSBw5
+R5 SUPPORT ARG1:OeVH8_cUdy ARG2:geFrip0HZv
+R6 SUPPORT ARG1:nAzADJTnhe ARG2:qHjiXS3o4r
+R7 SUPPORT ARG1:WjbazQVLiJ ARG2:hD-_iXZcek
+R8 SUPPORT ARG1:cZqhfgv4SD ARG2:iTiMlcKCq_
+R9 SUPPORT ARG1:HPvZsCgD84 ARG2:i81O29vpBS
+ArgQ0 2IyVDpSBw5 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 geFrip0HZv SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 qHjiXS3o4r SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 hD-_iXZcek SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 iTiMlcKCq_ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 i81O29vpBS SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

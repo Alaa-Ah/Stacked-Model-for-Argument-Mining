@@ -1,0 +1,22 @@
+omgtFR5joH NON-ARG 656 661 Sure.
+Eev-E4Gmho CLAIM-Opinion(view) 662 793 Across the – commerce and payments are an area that I'm quite focused on and optimistic about across all of our different services.
+Z7I5nQ5PZw PREMISE-Fact 794 1045 So in Instagram and Facebook, you have shopping, and you have Marketplace and you have all the tens of millions of small businesses that use pages and a lot that use Instagram for sharing their inventory and being able to help people discover and pay.
+Afn5UhMFKL CLAIM-Opinion(view) 1046 1149 Through messaging specifically, I'm more optimistic because of the private nature of this space, right?
+zLtacWxOTc PREMISE-Fact 1150 1363 It feels – when you're using a messaging service, that everything there is very intimate and private so it feels like a more natural space to be interacting with a business in a private way for doing transactions.
+I6mNpHrtXH CLAIM-Opinion(view) 1364 1731 So I think what we're going to end up seeing is building out Payments, which is going to end up being something that we do country-by-country – we have a test that is running in India for WhatsApp now, we're hoping to launch in several other countries at some point, but I don't want to put a timeframe on that here, but it's something that we're actively working on.
+JbSIdrzS5l PREMISE-Fact 1732 1872 And the goal would be to have something where you can do discovery through the broader town square-like platforms in Instagram and Facebook.
+TA4Ed_OcNj PREMISE-Fact 1873 2023 And then you can complete the transactions and follow up with businesses individually and have an ongoing relationship through Messenger and WhatsApp.
+9wUvUtgcL8 CLAIM-Opinion(view) 2024 2156 And it's – this is one of the things that I think will create a lot of value for people discovering and interacting with businesses.
+w3iCgBkVhj CLAIM-Opinion(view) 2246 2332 I think being able to handle that through messaging is going to be a great experience.
+qAKzXrJvib PREMISE-Other 2157 2245 I don't know many people who like calling businesses to deal with issues that they have.
+gzhcGhDhjP CLAIM-Opinion(view) 2333 2517 For businesses I think that this is going to help complete the loop and help them to actually sell more things which ultimately is what they care about when they're using the platform.
+MOFTTv3P0o CLAIM-Reformulated 2518 2603 So this is just a big opportunity, and one of the areas that I'm quite excited about.
+R0 SUPPORT ARG1:Z7I5nQ5PZw ARG2:Eev-E4Gmho
+R1 SUPPORT ARG1:zLtacWxOTc ARG2:Afn5UhMFKL
+R2 SUPPORT ARG1:JbSIdrzS5l ARG2:9wUvUtgcL8
+R3 SUPPORT ARG1:TA4Ed_OcNj ARG2:9wUvUtgcL8
+R4 SUPPORT ARG1:qAKzXrJvib ARG2:w3iCgBkVhj
+ArgQ0 Eev-E4Gmho SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Afn5UhMFKL SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 9wUvUtgcL8 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 w3iCgBkVhj SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

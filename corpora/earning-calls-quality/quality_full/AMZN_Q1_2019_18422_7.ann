@@ -1,0 +1,9 @@
+3ZMfNlPbCr NON-ARG 520 525 Yeah.
+dey6CADk9X NON-ARG 526 531 Sure.
+s9tG6R9zz4 PREMISE-Fact 532 665 Justin, I would say, as I said, I believe, on the last call, we had more people sign up for Prime in 2018 than any other year before.
+RaK4LN1RGB CLAIM-Opinion(view) 666 784 So we are very happy with the - not only the absolute membership levels of the Prime program, but also the engagement.
+7nifcttn-G CLAIM-Fact 998 1159 So while I can't share - I wouldn't share with you today the Prime - any Prime - specific Prime statistics about churn, it does remain a very compelling program.
+PqFd-LtGij CLAIM-Opinion(view) 1160 1304 I think, the announcement I just made about morphing to a one-day free shipping offer will make it even more the best deal in retail, as we say.
+_V22oLDy1i CLAIM-Fact 785 997 Our engagement in video benefit - excuse me, Prime benefits, shipping, hours watched on video, hours listened to on music, all of them are trending in the right direction and continue to get more and more sticky.
+R0 SUPPORT ARG1:s9tG6R9zz4 ARG2:RaK4LN1RGB
+ArgQ0 RaK4LN1RGB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

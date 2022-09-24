@@ -1,0 +1,21 @@
+cgz_EtIYJ8 PREMISE-Fact 1983 2234 On the social security information, social security is not an input people put into Facebook and posts containing information like social security numbers or credit cards are not allowed on our site and we remove them as soon as we become aware of it.
+34TmyJPADQ CLAIM-Fact 2235 2423 So we're continually working to improve these efforts and we encourage our community to report anything like this that they see, but that's not data that Facebook is collecting in any way.
+IEeReStpqJ NON-ARG 885 895 Hey, Mark.
+smEuNoDilr NON-ARG 896 906 It's Dave.
+08imB-efm0 CLAIM-Opinion(view) 907 1058 So on GDPR, I think fundamentally we believe we can continue to build a great ads business while protecting the privacy of the people who use Facebook.
+DyHEnz-bca PREMISE-Fact 1059 1253 As part of the rollout of GDPR, we're providing a lot of control to people around their ad settings and we're committed, as Sheryl and Mark mentioned, to providing those same controls worldwide.
+e-yKXTJNmO CLAIM-Fact 1254 1385 And while we don't expect these changes will significantly impact advertising revenue, there's certainly potential for some impact.
+UmKNmPNMLm PREMISE-Fact 1386 1579 Any change of the ability for us and our advertisers to use data can impact our optimization potential at the margin, which could impact our ability to drive price improvements in the long run.
+4wekgZ0t-r CLAIM-Fact 1580 1637 So we'll just have to watch how that plays out over time.
+4MiuISRKia PREMISE-Fact 1638 1731 I think it's important to note that GDPR is affecting the entire online advertising industry.
+VEMdOA8Mn0 PREMISE-Fact 1732 1865 And so what's really most important in winning budgets is our relative performance versus other opportunities presented to marketers.
+87JjxhGkoR CLAIM-Reformulated 1866 1960 And that's why it will be important to watch kind of how this plays out at the industry level.
+R0 SUPPORT ARG1:cgz_EtIYJ8 ARG2:34TmyJPADQ
+R1 SUPPORT ARG1:DyHEnz-bca ARG2:08imB-efm0
+R2 SUPPORT ARG1:UmKNmPNMLm ARG2:e-yKXTJNmO
+R3 SUPPORT ARG1:4MiuISRKia ARG2:4wekgZ0t-r
+R4 SUPPORT ARG1:VEMdOA8Mn0 ARG2:4wekgZ0t-r
+ArgQ0 34TmyJPADQ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 08imB-efm0 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 e-yKXTJNmO SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 4wekgZ0t-r SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

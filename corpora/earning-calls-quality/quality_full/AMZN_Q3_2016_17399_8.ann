@@ -1,0 +1,37 @@
+k7QFc-YTVb NON-ARG 629 633 Yes.
+USEEURQduj NON-ARG 634 647 Thanks, Gene.
+o3uQkhJEx0 NON-ARG 747 807 And the things I'm about to mention fall into that category.
+1L0jzpXpU_ NON-ARG 808 1039 But the largest individual reasons for the ramp-up in investment between first half and second half of this year and also second half of this year versus second half of last year are the things I mentioned on the call last quarter.
+iriQvT3C5x PREMISE-Fact 1040 1161 First, video content and marketing associated with that is nearly doubling year-over-year in the second half of the year.
+uP7bTL2a9_ PREMISE-Fact 1162 1217 And it continues to be a large increase both Q3 and Q4.
+6mle38jzBm PREMISE-Statistic 1218 1309 In the quarter, in Q3 we added 18 fulfillment centers and we've added five more in October.
+4WTodVT7aT PREMISE-Statistic 1310 1336 For the year we'll add 26.
+fdtcsi8OB1 PREMISE-Statistic 1337 1553 Most of those are in North America but that compares to 14 last year and I would look, looking back the last time we had double-digit increase in fulfillment centers was in 2012 when we added 11 in the third quarter.
+znYKUTY1Gx CLAIM-Fact 1554 1662 So it was a rare aggregation of startups in Q3 and into Q4 that's helping us position better for Q4 volumes.
+FntI9i3trU PREMISE-Fact 1663 1826 Because paid unit growth continues to be strong and Amazon fulfilled unit growth which includes what we ship, includes FBA, is significantly higher than even that.
+XjKfyYfWQW CLAIM-Fact 1827 1931 So we continue to build for high AFN, or Amazon Fulfilled Network demand, including both retail and FBA.
+mH8IbXBDsJ CLAIM-Policy 648 746 Well we will continue to invest in the business where we are seeing significant customer traction.
+fIoOi9vEpn PREMISE-Statistic 1932 2030 The number of warehouses that we added represents a 30% increase in square footage year-over-year.
+k9JWP3cfcY PREMISE-Statistic 2031 2087 Last year we increased square footage by just under 20%.
+uxYyxLYBJe NON-ARG 2088 2199 The definition of square footage in this case is all of our warehouses plus our sortation and delivery centers.
+eOK3D3eidR NON-ARG 2200 2249 So it's pretty much our customer service centers.
+_FA6Pj3Kn2 NON-ARG 2250 2318 So it's pretty much our full square footage that supports operation.
+D7i93ZYW-2 NON-ARG 2319 2362 So those will dissipate as as they burn in.
+GXOpjo1n7w PREMISE-Fact 2363 2528 We've talked about fulfillment centers' initial startup costs include increase in fixed costs but also variable cost as we train workers and also bring in inventory.
+cmG9N3w6dT PREMISE-Fact 2529 2657 And there's a number of transportation costs also related to the startup of a new fulfillment center, both inbound and outbound.
+8ou59Mx9i_ PREMISE-Fact 2658 2881 And they're inherently less efficient than more established mature buildings, so there will be a cycle where those will be more productive next year than they are this year and more productive in 2018 than they are in 2017.
+-NdyCeR4uc CLAIM-Fact 2882 3238 So what you're seeing essentially in the second half of this year is a step-up investment primarily around digital content and also the fulfillment center investment, but also things like Echo and Alexa which we're adding a lot of resources to, India and AWS as we add people there to support additional service, think (7:54) rapid growth in that business.
+R0 SUPPORT ARG1:iriQvT3C5x ARG2:znYKUTY1Gx
+R1 SUPPORT ARG1:uP7bTL2a9_ ARG2:znYKUTY1Gx
+R2 SUPPORT ARG1:6mle38jzBm ARG2:znYKUTY1Gx
+R3 SUPPORT ARG1:4WTodVT7aT ARG2:znYKUTY1Gx
+R4 SUPPORT ARG1:fdtcsi8OB1 ARG2:znYKUTY1Gx
+R5 SUPPORT ARG1:FntI9i3trU ARG2:XjKfyYfWQW
+R6 SUPPORT ARG1:fIoOi9vEpn ARG2:XjKfyYfWQW
+R7 SUPPORT ARG1:k9JWP3cfcY ARG2:XjKfyYfWQW
+R8 SUPPORT ARG1:GXOpjo1n7w ARG2:-NdyCeR4uc
+R9 SUPPORT ARG1:cmG9N3w6dT ARG2:-NdyCeR4uc
+R10 SUPPORT ARG1:8ou59Mx9i_ ARG2:-NdyCeR4uc
+ArgQ0 znYKUTY1Gx SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 XjKfyYfWQW SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 -NdyCeR4uc SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

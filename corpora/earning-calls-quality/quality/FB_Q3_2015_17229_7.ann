@@ -1,0 +1,54 @@
+djWLk1lcLd CLAIM-Opinion(view) 871 921 So we view the social space as almost this matrix.
+SsYm0EIhXC PREMISE-Fact 922 1129 You can think about it as a two-dimensional grid where one axis is the richness of the content that people want to share, then other axis is the size of the audience, or intimacy of how people want to share.
+5-6rZAbj8l CLAIM-Opinion(view) 1495 1562 And what we believe is that you can intersect at any point on that.
+-x6wlDdWUG PREMISE-Fact 1130 1294 So on the first axis, you get everything ranging from text to links, to photos, to videos, to immersive 360 videos and virtual reality content and this progression.
+qN5j2URXXM PREMISE-Fact 1295 1494 And on the other axis, you get everything ranging from one-to-one messaging to small group communication, to communicating with all your friends at once, to big interest groups, to completely public.
+Q6zgpV_zrj CLAIM-Fact 1563 1612 And there will be something interesting to build.
+7xPYh5oaDP PREMISE-Fact 1613 1684 So a small group product for sharing video, that's going to be a thing.
+2oaGiNM1sH PREMISE-Fact 1685 1758 A one-on-one product for sharing text or calling, that's clearly a thing.
+oe1t4Li_Br PREMISE-Fact 1759 1826 A public sharing and consumption product for video, that's a thing.
+ZFGEOwjTBF CLAIM-Opinion(view) 2028 2326 So one of the big opportunities that I'm really excited about right now is I think that there's a pretty big opening between very private messaging, the one-on-one messaging products like Messenger and WhatsApp, and products like Facebook where you share with all your friends at once or Instagram.
+mb08v4nBOx CLAIM-Reformulated 2586 2658 It's a huge thing and it's a big area that we can develop going forward.
+qXLVVpKLCS CLAIM-Opinion(view) 3295 3378 On SMBs, I think it's one of the most compelling opportunities we have for Facebook
+wKqFPv5oBd PREMISE-Fact 3379 3493 and that's because I think we solve a really big problem for SMBs, which is how are they going to reach customers.
+0z5CjqmTnZ CLAIM-Value 3494 3611 In the United States, which is usually the most advanced market, 35% of small businesses have no web presence at all.
+ae3g7oh3Af CLAIM-Fact 3612 3677 And building a mobile presence is even harder than a web presence
+2zW1hCjQS4 PREMISE-Fact 3678 3831 because most people don't use the mobile web and mobile apps are expensive to build and hard to get people to use, especially if you're a small business.
+UlaxJoo_dp PREMISE-Statistic 3832 3886 That's why there are 45 million SMB pages on Facebook.
+TQfKpl7pZ1 CLAIM-Fact 4309 4452 And what you see is that it's as easy for them to use it as profile and we can give them opportunities to do things they otherwise couldn't do.
+5KzmfbLbbZ PREMISE-Statistic 4548 4766 1.5 million SMBs have not posted or created video on any other platform, but with us it's cheap, it's very easy to use and that gives us a way to continue to work with SMBs and increasingly grow our business with them.
+iNOkY-_DLC PREMISE-Statistic 4125 4240 We have 2.5 million advertisers and over 80% of them started on Pages and then started with simplified ad products.
+09pNkoEy2_ CLAIM-Fact 2659 2849 So we experiment with all these things in terms of some of them make sense to naturally have inside the Facebook app because you're using the same set of friends and network and connections.
+tlbei5zDiv PREMISE-Fact 3887 4004 These are people who are using Facebook and this free product to create an online and increasingly a mobile presence.
+FzJJoC2r_n NON-ARG 4005 4124 And then our job is to make sure that free product works for them and then over time bring them into our paid products.
+9T5NRW6toU NON-ARG 4241 4308 And that's what we've done over time and we'll continue to do that.
+JFqm50zZAt PREMISE-Statistic 4453 4547 So to what I said in my transcript before, 1.5 million SMBs posting videos in one month alone.
+twlkhhkdr4 CLAIM-Fact 3054 3103 But overall, there's a lot of stuff in the space.
+dwpgf-44s5 CLAIM-Fact 1827 2027 And what we've tried to do is basically figure out the areas that we think are open and are not currently served by the set of products that the industry has built and figure out a way to offer those.
+UNXAXfUUQz CLAIM-Fact 2327 2491 And in between there, what we're seeing is this huge growth of private groups, right, and Groups remains one of the I think least talked about products on Facebook.
+dYChAIyfmr PREMISE-Statistic 2492 2585 But I just said earlier that we have more than 900 million people are using that every month.
+YKt9dHOuvF CLAIM-Reformulated 3104 3274 And the amount that people want to share and communicate is boundless and that's I think partially why we're seeing the growth that we are with so many of these products.
+FmMv9P1EiQ CLAIM-Fact 2850 3053 Some of them get clear value by being separate, like Messenger, for example, where we can make sure that everyone has their push notifications turned on, which is extremely important for a messaging app.
+KLmAbOA7mD NON-ARG 818 823 Sure.
+_-zjwsxW9U NON-ARG 824 870 So I can talk to the multi-app question first.
+R0 SUPPORT ARG1:SsYm0EIhXC ARG2:djWLk1lcLd
+R1 SUPPORT ARG1:-x6wlDdWUG ARG2:5-6rZAbj8l
+R2 SUPPORT ARG1:qN5j2URXXM ARG2:5-6rZAbj8l
+R3 SUPPORT ARG1:7xPYh5oaDP ARG2:Q6zgpV_zrj
+R4 SUPPORT ARG1:2oaGiNM1sH ARG2:Q6zgpV_zrj
+R5 SUPPORT ARG1:oe1t4Li_Br ARG2:Q6zgpV_zrj
+R6 SUPPORT ARG1:wKqFPv5oBd ARG2:qXLVVpKLCS
+R7 SUPPORT ARG1:2zW1hCjQS4 ARG2:ae3g7oh3Af
+R8 SUPPORT ARG1:UlaxJoo_dp ARG2:ae3g7oh3Af
+R9 SUPPORT ARG1:tlbei5zDiv ARG2:ae3g7oh3Af
+R10 SUPPORT ARG1:iNOkY-_DLC ARG2:ae3g7oh3Af
+R11 SUPPORT ARG1:JFqm50zZAt ARG2:TQfKpl7pZ1
+R12 SUPPORT ARG1:5KzmfbLbbZ ARG2:TQfKpl7pZ1
+R13 SUPPORT ARG1:dYChAIyfmr ARG2:UNXAXfUUQz
+ArgQ0 djWLk1lcLd SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 5-6rZAbj8l SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Q6zgpV_zrj SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 qXLVVpKLCS SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 ae3g7oh3Af SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 TQfKpl7pZ1 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ6 UNXAXfUUQz SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

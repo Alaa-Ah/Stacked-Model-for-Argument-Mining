@@ -1,0 +1,36 @@
+8xrgLA1lJA NON-ARG 684 704 Yes, I'll take that.
+YJ4izdGktH CLAIM-Opinion(view) 705 779 Overall, we are very excited about the growth we are seeing in Office 365.
+S86NS0Sxd- PREMISE-RealExample 780 890 On the consumer side, as you noted, we are growing 1 million subs a month, and that's fantastic growth for us.
+rtJRHu9XTP PREMISE-Fact 891 1144 The consumer value, especially now that we have even all the endpoints covered with Office, the definition of Office and where all it's present is also changed, and that all accrues to consumers being willing to have a subscription relationship with us.
+cOo5i7LmQp CLAIM-Opinion(view) 1145 1249 On the enterprise side, the growth remains very exciting for us, and the growth comes in multiple forms.
+qZLJhRCOv5 PREMISE-RealExample 1250 1315 It comes in the form of just the EAs renewing more to Office 365.
+3MbSsKIjLR PREMISE-Statistic 1316 1406 It also comes in the form of some of the more comprehensive suites, the E3 and the new E5.
+Mg8erug6Pr CLAIM-Reformulated 1407 1442 That's the commitment we are seeing
+nDaE1NJhJY CLAIM-Fact 2018 2111 One thing I would add, Phil, to that is an important dynamic that we're seeing in Office 365.
+1GBVYlULui NON-ARG 2786 2858 Philip Alan Winslow - Credit Suisse Securities (USA) LLC (Broker) Great.
+1aIKud-aoB CLAIM-Opinion(view) 2622 2785 So when you can both add to your install base and add overall market opportunity, we do feel good about our line of sight in that business for our long-term goals.
+eTFqtTC8vF PREMISE-Fact 2519 2621 They have the capability of upgrading on a more consistent basis using more of these premium services.
+vgO161k17c PREMISE-Other 2350 2517 And when you think about why that's so critical long term, it's our ability to sell some of the workloads Satya actually referenced that will be in E5 when it launches
+XJ8yYTv29x CLAIM-Fact 1444 1477 And we also see small businesses.
+nT1JKZEfSs PREMISE-Fact 1478 1587 I talked about the 50,000 businesses, small and medium-sized businesses each month signing up for Office 365.
+Rsxm5ON8Bs PREMISE-Fact 1588 1616 That's pretty unprecedented.
+Q7E8AxumMe PREMISE-Fact 1617 1811 Having been in the server business all my life, I've never seen a lot of the small business customers adopt some of the rich capabilities like it's possible now, and that's great growth as well.
+3z2VV--utV PREMISE-Statistic 1812 1923 And that cloud revenue number that is the 88% is all up cloud revenues inclusive of Office 365, EMS, and Azure.
+dgMtJQ9ath PREMISE-Statistic 1924 2007 And it's good to see that kind of growth at that kind of scale now with $8 billion.
+0VeMcPl-N8 PREMISE-Fact 2112 2266 As we are having this momentum build, in fact we talked about some of the new customers we're adding, and the way we see that is the install base growing.
+FczXLodyYS PREMISE-Fact 2267 2349 And we were able to see that this quarter across all the core workloads in Office.
+slbhatQ41A NON-ARG 2859 2892 Thanks, guys, and congrats again.
+dJUgnVsUZU NON-ARG 2903 2926  Okay, thank you, Phil.
+jKtSyUpKNd NON-ARG 2927 2968 We'll take the next question now, please.
+R0 SUPPORT ARG1:S86NS0Sxd- ARG2:YJ4izdGktH
+R1 SUPPORT ARG1:rtJRHu9XTP ARG2:YJ4izdGktH
+R2 SUPPORT ARG1:qZLJhRCOv5 ARG2:cOo5i7LmQp
+R3 SUPPORT ARG1:3MbSsKIjLR ARG2:cOo5i7LmQp
+R4 SUPPORT ARG1:nT1JKZEfSs ARG2:XJ8yYTv29x
+R5 SUPPORT ARG1:Rsxm5ON8Bs ARG2:XJ8yYTv29x
+R6 SUPPORT ARG1:Q7E8AxumMe ARG2:XJ8yYTv29x
+R7 SUPPORT ARG1:3z2VV--utV ARG2:XJ8yYTv29x
+R8 SUPPORT ARG1:0VeMcPl-N8 ARG2:nDaE1NJhJY
+R9 SUPPORT ARG1:FczXLodyYS ARG2:nDaE1NJhJY
+R10 SUPPORT ARG1:vgO161k17c ARG2:nDaE1NJhJY
+R11 SUPPORT ARG1:eTFqtTC8vF ARG2:nDaE1NJhJY

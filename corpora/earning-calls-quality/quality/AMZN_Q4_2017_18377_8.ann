@@ -1,0 +1,20 @@
+UFXNK-YTmW NON-ARG 797 850 Yes, let me just back it to a more general statement.
+kGSlTbhQj7 PREMISE-Fact 1000 1219 We've made no changes post acquisition that would have impacted anything related to in stock, except perhaps the fact that the price decreases have brought up demand and there's an amount of rebalancing related to that.
+_mKSaCCJnN CLAIM-Opinion(view) 1220 1394 So I think the out-of-stock issue is that -- may be getting press or tied more to the increased demand that we're seeing and also selective weather-related restocking issues.
+7w2TVwocch PREMISE-Fact 1530 1579 That's what the Whole Foods team is committed to.
+C87Ezn683h PREMISE-Fact 1580 1726 That's what the Amazon team, with them, is committed to, and also across any delivery channel that we have, AmazonFresh, Prime Now or Whole Foods.
+B-F_HSMo2W PREMISE-Other 1727 1773 So where there's issues, they'll be corrected.
+qa0EmZLm1d PREMISE-Other 1774 1863 Where there's areas we can improve our selection and delivery for customers, we'll do so.
+h47lxRiRwC NON-ARG 1864 1901 But it be something we're working on.
+GW_6Cod_Tc PREMISE-Other 1902 2071 So the immediacy, the perishability are all challenges everyone has in this area, but we're confident that we will have a good service and continue to delight customers.
+WdztQso2HH CLAIM-Fact 1395 1529 But stepping beyond any short-term issues, the commitment is -- remains to have healthy, high-quality selection in stock for products.
+BnOuYn4jxH PREMISE-Fact 851 999 I'd say Whole Foods is not less in their commitment to providing the best selection of high-quality products and having them in stock for customers.
+R0 SUPPORT ARG1:BnOuYn4jxH ARG2:_mKSaCCJnN
+R1 SUPPORT ARG1:kGSlTbhQj7 ARG2:_mKSaCCJnN
+R2 SUPPORT ARG1:7w2TVwocch ARG2:WdztQso2HH
+R3 SUPPORT ARG1:C87Ezn683h ARG2:WdztQso2HH
+R4 SUPPORT ARG1:B-F_HSMo2W ARG2:WdztQso2HH
+R5 SUPPORT ARG1:qa0EmZLm1d ARG2:WdztQso2HH
+R6 SUPPORT ARG1:GW_6Cod_Tc ARG2:WdztQso2HH
+ArgQ0 _mKSaCCJnN SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 WdztQso2HH SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

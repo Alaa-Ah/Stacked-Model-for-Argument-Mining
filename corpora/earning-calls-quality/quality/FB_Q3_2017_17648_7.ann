@@ -1,0 +1,23 @@
+Ba-7_nM1sq PREMISE-Fact 317 507 I think – look, today we're talking about the additional investments we're making in terms of the lighthouse content on the Watch tab, so we are putting a substantial investment behind that.
+jBO5FQK0pw CLAIM-Fact 508 628 That clearly is going to have implications for margins along with the other big investments that we're making next year.
+z5wwhd9_3F PREMISE-Fact 629 798 And then even after we establish a flywheel here and get content being produced for ad revenue share, that's going have a different margin structure than core News Feed.
+T9xpM_1AWn CLAIM-Reformulated 799 953 So even going forward, there's going be revenue share back to the content creator, so it's going have a different margin structure than the core business.
+TqnCWAuxBs CLAIM-Opinion(view) 976 1132 I think it's worth adding that the ad inventory itself is really valuable for marketers and our clients and also works very well with our other ad products,
+v1VYs07ITE NON-ARG 1133 1160 so I'll share a recent one.
+i8YJug0eDd PREMISE-RealExample 1161 1274 Visa with SocialCode and BBDO created 10-second videos with text overlays showing people making digital payments.
+Wzv67sIruT PREMISE-Fact 1275 1329 And they targeted millennials and early tech adopters.
+LLzznq3jvW PREMISE-Fact 1330 1469 And they ran ads – one group for Facebook News Feed only, one group for Ad Breaks only, and one group for News Feed and Ad Breaks combined.
+urB_6ejnc0 PREMISE-Fact 1470 1532 And the best results combined the Ad Breaks and the News Feed.
+8vDCjGRZU1 PREMISE-Statistic 1533 1610 They had a seven times lower cost per video view compared to News Feed alone.
+akusDrHL6R NON-ARG 1882 2114 The ability to show something in News Feed and then show a video in Watch and then show something on Instagram and measure results across the full funnel we think are very worthy investments for the long-term health of the business.
+AIB8nv6gg3 NON-ARG 1823 1881 And it's also the case that our ad products work together.
+KtV_tlmbxW CLAIM-Reformulated 1611 1822 And so one of the opportunities we have here is increasing inventory, and it's particularly good inventory for marketers because we're seeing nice adoption of video views and really nice impact from those sales.
+R0 SUPPORT ARG1:Ba-7_nM1sq ARG2:jBO5FQK0pw
+R1 SUPPORT ARG1:z5wwhd9_3F ARG2:jBO5FQK0pw
+R2 SUPPORT ARG1:i8YJug0eDd ARG2:TqnCWAuxBs
+R3 SUPPORT ARG1:Wzv67sIruT ARG2:TqnCWAuxBs
+R4 SUPPORT ARG1:LLzznq3jvW ARG2:TqnCWAuxBs
+R5 SUPPORT ARG1:urB_6ejnc0 ARG2:TqnCWAuxBs
+R6 SUPPORT ARG1:8vDCjGRZU1 ARG2:TqnCWAuxBs
+ArgQ0 jBO5FQK0pw SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 TqnCWAuxBs SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

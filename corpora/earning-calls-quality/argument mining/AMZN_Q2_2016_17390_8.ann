@@ -1,0 +1,14 @@
+E8K4OW8wpA NON-ARG 650 655 Sure.
+EoPg5bBqjI NON-ARG 656 702 Yeah, I have the same buzzwords for you, Mark.
+zbWF9G0iaQ CLAIM-Fact 703 759 It's really the flywheel of Prime is definitely working.
+5VV8Lhx6kG NON-ARG 760 780 It's simple as that.
+vC_4qdR3_b CLAIM-Fact 781 864 The low prices, vast selection and convenience continue to resonate with customers.
+laanxJY4ke PREMISE-Fact 865 944 Prime membership increases and selection through FBA makes Prime more valuable.
+8zxdGJ9rKD PREMISE-Fact 945 1106 So it's a bit as simple as that in the consumer business in North America and international, we are seeing great acceptance of Prime and usage of Prime benefits.
+cKSJhvyKA8 PREMISE-Fact 1107 1304 We continue to expand the list of Prime benefits for customers to make it more valuable, and none is more valuable than FBA, which we've talked a lot about the value of Prime to FBA and vice-versa.
+T9tw6QbCSR PREMISE-Fact 1305 1502 FBA is bringing more Prime-eligible selection to Prime and then the growth of Prime and the type of customers that utilize Prime and their buying behavior is a great traction for other FBA sellers.
+IaY1J0AgrY CLAIM-Opinion(view) 1503 1624 So that is essentially what we're seeing, and we're certainly pleased with the customer response to those offers globally
+R0 SUPPORT ARG1:laanxJY4ke ARG2:vC_4qdR3_b
+R1 SUPPORT ARG1:8zxdGJ9rKD ARG2:vC_4qdR3_b
+R2 SUPPORT ARG1:cKSJhvyKA8 ARG2:IaY1J0AgrY
+R3 SUPPORT ARG1:T9tw6QbCSR ARG2:IaY1J0AgrY

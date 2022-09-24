@@ -1,0 +1,27 @@
+hZG8jjbEsc NON-ARG 361 365 Yes.
+4iCD2av-1J NON-ARG 366 491 I've been talking a lot about how we're trying to build out our private messaging apps into richer, private social platforms.
+QYgoK7SQ-r CLAIM-Fact 492 569 And the idea there is that people want to interact in lots of different ways.
+MvPU0DHZp1 CLAIM-Reformulated 570 716 And in Facebook and Instagram, you can interact with a lot of people you know or interested in connecting with them in a number of different ways.
+eBYGeBw5Gc PREMISE-Fact 718 773 But our texting apps today are primarily still texting.
+_aM02tSNaq CLAIM-Fact 774 988 So a lot of what we've been trying to do is make it so that we build out the infrastructure, so that way WhatsApp and Messenger and Instagram direct can evolve rather than being just places where you message folks.
+o74HOsAwry PREMISE-Fact 989 1181 They can be places where you can hang out and feel more present with people, where you can connect to different groups in different ways, interact with businesses and do payments and commerce.
+PGwlNhi4pL CLAIM-Fact 1483 1531 Not all of it, some of the stuff is longer term.
+wZeTFfXx-R PREMISE-RealExample 1532 1644 For example, the work that we're doing on full end-to-end encryption, that's just -- that's a long-term project.
+v_bSUt8GM5 CLAIM-Opinion(view) 1404 1482 So I guess what I'm saying is I just expect some of this to land in this year.
+5Og_BsacMs PREMISE-Fact 1645 1711 We want to make sure we get the safety implications of that right.
+YqLZhGBxYW PREMISE-Fact 1754 1897 We're really committed to making sure that we nail the safety parts of that before fully rolling it out across Messenger and Instagram as well.
+318vvpK8-i CLAIM-Reformulated 1898 2060 So some parts of this will not land this year, but I expect a lot of this will start to land this year around this vision of building the private social platform.
+lI1EhGbs8C PREMISE-Fact 1183 1314 And when we kicked off this big initiative, a lot of the stuff was long-term infrastructure that we needed to get started building.
+QV1r3V2ZWq PREMISE-Fact 1315 1403 So we've now been -- we're now a year or so into -- starting to build out a lot of that.
+r8Dcb7RgId PREMISE-Fact 1712 1753 Already fully rolled out around WhatsApp.
+R0 SUPPORT ARG1:o74HOsAwry ARG2:_aM02tSNaq
+R1 SUPPORT ARG1:lI1EhGbs8C ARG2:v_bSUt8GM5
+R2 SUPPORT ARG1:QV1r3V2ZWq ARG2:v_bSUt8GM5
+R3 SUPPORT ARG1:wZeTFfXx-R ARG2:PGwlNhi4pL
+R4 SUPPORT ARG1:5Og_BsacMs ARG2:PGwlNhi4pL
+R5 ATTACK ARG1:r8Dcb7RgId ARG2:PGwlNhi4pL
+R6 SUPPORT ARG1:YqLZhGBxYW ARG2:PGwlNhi4pL
+R7 SUPPORT ARG1:eBYGeBw5Gc ARG2:_aM02tSNaq
+ArgQ0 _aM02tSNaq SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 v_bSUt8GM5 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 PGwlNhi4pL SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

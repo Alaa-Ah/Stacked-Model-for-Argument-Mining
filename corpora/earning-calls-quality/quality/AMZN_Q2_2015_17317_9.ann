@@ -1,0 +1,25 @@
+BG6RDflyL3 NON-ARG 697 742 Sure, let me start with that second question.
+GVKqNEBL2Y NON-ARG 1268 1312 I'm sorry the first party your question was?
+T6jtbbBK9E PREMISE-Fact 743 847 So, as Phil mentioned, we are seeing continued increases in usage, both sequentially and year-over-year.
+xElv2ZdabR PREMISE-Fact 848 918 We are also seeing a great efficiency in the business on a cost basis.
+0Tyc_qCgCy CLAIM-Opinion(view) 1072 1156 While pricing is certainly a factor we don't believe it's always the primary factor;
+xe28re_aD7 PREMISE-Fact 1157 1267 in fact what we hear from our customers is that the ability to move faster and more agiley is what they value.
+GnvsOhq4_6 NON-ARG 1598 1607 Yes sure.
+Jb6h3CVuoi NON-ARG 1608 1641 Well here's how I think about it.
+zJPPr_GoGM CLAIM-Policy 2209 2362 So we will continue to invest in the businesses we think fit that profile and we're always looking for a fourth or fifth business that fits that profile.
+CuaCDJjv4a CLAIM-Reformulated 2363 2474 So as far as lumpiness, admittedly it is lumpy and we will continue to work on both those tracks going forward.
+6HcxIqxzdK PREMISE-Fact 1894 1977 If you saw our shareholder letter this year, I think Jeff Bezos put it really well.
+GrIQSFHret PREMISE-Fact 1978 2208 He said we're going to look for things that are important to customers, customers love them, businesses that can grow to be a large size that can generate a high return on invested capital and are durable and can last for decades.
+6t3-s6NYNH NON-ARG 1642 1691 We have two things, at least two things going on.
+y2dLnwlpl9 CLAIM-Fact 1692 1893 We are continuing to drive operational improvement in every business that we are in, but we are also investing in large opportunities that are in front of us, particularly in Marketplace Prime and AWS.
+VpxDf7lsIB CLAIM-Fact 919 964 Innovation is accelerating, not decelerating.
+lqPu1NrNpB PREMISE-Statistic 965 1071 We had over 350 significant new features and services and we believe that's what resonates with customers.
+R0 SUPPORT ARG1:xe28re_aD7 ARG2:0Tyc_qCgCy
+R1 SUPPORT ARG1:6HcxIqxzdK ARG2:y2dLnwlpl9
+R2 SUPPORT ARG1:GrIQSFHret ARG2:y2dLnwlpl9
+R3 SUPPORT ARG1:T6jtbbBK9E ARG2:VpxDf7lsIB
+R4 SUPPORT ARG1:xElv2ZdabR ARG2:VpxDf7lsIB
+R5 SUPPORT ARG1:lqPu1NrNpB ARG2:VpxDf7lsIB
+ArgQ0 0Tyc_qCgCy SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 y2dLnwlpl9 SPECIFIC_2 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_1
+ArgQ2 VpxDf7lsIB SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

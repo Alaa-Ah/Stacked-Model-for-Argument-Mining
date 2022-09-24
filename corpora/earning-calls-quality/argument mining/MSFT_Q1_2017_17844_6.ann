@@ -1,0 +1,10 @@
+p6Cw492_2z CLAIM-Opinion(view) 694 860 I do really focused and I think it's important if you're trying to understand the buildup of our commercial business to focus only on the unearned commercial balance.
+uRNoLBUDMF CLAIM-Reformulated 1037 1147 That being said, our commercial under balance is seeing good growth I'm proud of our performance this quarter.
+JIavxhrmtK CLAIM-Reformulated 1148 1185 Both sequentially and year-over-year.
+02HXRHkDH8 NON-ARG 637 693 Let me break report that long term earned balance a bit.
+SswOlkcFmC NON-ARG 1186 1287 If you think about any change we're making or not, in our partner agreements our customer agreements.
+84cv_Puolb NON-ARG 1288 1588 We still do generally rely the vast majority on three year agreements so whether or not the term were to change, given how we recognize revenue, I will you know if it's going to be material and I do not expect the change are talking about to be material in any way on the commercial unearned balance.
+f-Q_knStPL PREMISE-Fact 861 958 Our overall long term under imbalance has been impacted by the Windows 10 deferral over the past.
+z_rWaKNPYi PREMISE-Fact 959 1036 And so it can make a bit of a distraction towards seen the underlying trends.
+R0 SUPPORT ARG1:f-Q_knStPL ARG2:p6Cw492_2z
+R1 SUPPORT ARG1:z_rWaKNPYi ARG2:p6Cw492_2z

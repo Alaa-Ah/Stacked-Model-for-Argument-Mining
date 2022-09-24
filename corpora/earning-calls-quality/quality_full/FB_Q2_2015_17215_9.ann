@@ -1,0 +1,12 @@
+D_qoWEOXKP CLAIM-Fact 552 739 Yeah, I mean, on the options on video monetization, it's going to be, still our focus is going to be on continuing to grow autoplay and continuing to leverage the video unit in News Feed.
+ZtwCx4naGA PREMISE-Fact 740 801 That's going to be the primary driver of video growth for us.
+lAINFxQG1T CLAIM-Reformulated 802 834 So that's really the main focus.
+ORmmwZZhZZ PREMISE-Fact 835 1025 We've got other areas that we're experimenting with like suggested videos, which are going to be very much like those ads in a feed of suggested videos, which are also an opportunity for us.
+4yzWOJm83s CLAIM-Fact 1026 1109 But essentially, the focus is going to be on monetizing through feed ads for video.
+p9dUV-OqL3 NON-ARG 1127 1148 I think you got them.
+-fgec71Xh3 NON-ARG 458 492 Well, I can talk – oh, you want...
+aZg1muyrfb NON-ARG 510 527 You can go first.
+R0 SUPPORT ARG1:ZtwCx4naGA ARG2:D_qoWEOXKP
+R1 ATTACK ARG1:ORmmwZZhZZ ARG2:4yzWOJm83s
+ArgQ0 D_qoWEOXKP SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 4yzWOJm83s SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

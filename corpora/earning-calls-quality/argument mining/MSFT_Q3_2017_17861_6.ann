@@ -1,0 +1,28 @@
+GDaLVpByzI NON-ARG 906 943 Sure, thanks for the question, Keith.
+MpEXwoWPqb NON-ARG 944 997 Let me start and then, Amy, if you want, you can add.
+O0-aXGfneo CLAIM-Fact 998 1145 Again, Keith, when we look at either the capital expense or the technical architecture, and the general approach we take is about all of our cloud.
+ZouUV3zQ4v PREMISE-RealExample 1146 1421 When you look at what we're trying to get done between Azure, we don't really see these themes across Azure or 365, Dynamics 365, and also the things that we're doing with Xbox Live, for example, all billed as one cloud infrastructure and a set of rich services in the cloud.
+I8sZrWuFZ1 PREMISE-Fact 1422 1603 So for example, some of the cognitive capabilities that are there in Azure first come because of our first-party AI investments, whether it's been speech or vision or anything else.
+g6ZhWqhIrt PREMISE-RealExample 1604 1742 Even the infrastructure that is there in Azure came out of some of our first-party investments in Office 365 or again Bing in other areas.
+eGfpyLlywE PREMISE-RealExample 1743 1811 So we have an approach which takes all of our cloud pieces together.
+mvOR8vVhCQ CLAIM-Opinion(view) 2225 2339 So to me, those high-level services will over time attach in Azure, but also in Dynamics as well as in Office 365.
+JnZU0SLfW- CLAIM-Opinion(view) 2340 2525 So to me, that's why Azure is pretty strategic for us, not just for the attachment of high-level services in what is defined as Azure, but the all-up digital transformation opportunity.
+i0Ja5BZQ49 NON-ARG 2526 2585 That's how Amy and I even think about our margin structure.
+IcWwIf6_9L CLAIM-Opinion(view) 2586 2744 We need to improve in each one of the elements, but all-up we need to improve because we think that increased opportunity is what's unique about our approach.
+eIcYBfPuyi NON-ARG 1812 1875 And that same thing is reflected even in the customer journeys.
+M8fwRzDj7D CLAIM-Opinion(view) 3287 3429 And so I think while I do understand that people will ask a lot about that price competition at the lower level, I think what you're seeing is
+eZSSm19be0 CLAIM-Fact 2992 3286 The fact that you may see competition where there may be less differentiation, the real differentiation is where you've always been able to achieve margin and margin expansion, which is in the completeness of the solution or its delivery, the completeness of the business process change or not.
+w7d4_t6W3P PREMISE-Fact 2758 2991 And I think what you're hearing in that answer from Satya, Keith, is really about whether the premium services exist as you heard at the Azure layer, or whether they show themselves in our Productivity and Business Processes segment.
+JdByUhtyzn PREMISE-Fact 3430 3645 because we're able to continue to move people up the stack, including all the way up to the business process layer, I think you'll continue to see us be confident in our ability to move and create margin and growth.
+THFUyqemWM PREMISE-RealExample 1876 2132 I think the Maersk example I walked you through is probably a good one, where it may start with some commodity workload on Azure or it may start with Office 365, but then it will end up with HoloLens and someone using Dynamics 365 for increased automation.
+5UYO66XujN PREMISE-Fact 2133 2224 In the case of Maersk, they were using field service and operations inside of Dynamics 365.
+EJIKDdYvQJ NON-ARG 3708 3723  Thanks, Keith.
+nPRWzSqTIb NON-ARG 3724 3762 We'll go to the next question, please.
+R0 SUPPORT ARG1:ZouUV3zQ4v ARG2:O0-aXGfneo
+R1 SUPPORT ARG1:I8sZrWuFZ1 ARG2:O0-aXGfneo
+R2 SUPPORT ARG1:g6ZhWqhIrt ARG2:O0-aXGfneo
+R3 SUPPORT ARG1:eGfpyLlywE ARG2:O0-aXGfneo
+R4 SUPPORT ARG1:w7d4_t6W3P ARG2:eZSSm19be0
+R5 SUPPORT ARG1:JdByUhtyzn ARG2:M8fwRzDj7D
+R6 SUPPORT ARG1:THFUyqemWM ARG2:O0-aXGfneo
+R7 SUPPORT ARG1:5UYO66XujN ARG2:O0-aXGfneo

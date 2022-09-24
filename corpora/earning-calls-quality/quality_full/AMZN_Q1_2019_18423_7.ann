@@ -1,0 +1,26 @@
+A26q8d7H1L NON-ARG 751 756 Sure.
+q45Ue_q3gx CLAIM-Fact 757 905 Yeah, we are seeing - as you can see in the operating margin, we're seeing a good advertising growth both in North America and also internationally.
+Egkpm3J3hc CLAIM-Fact 906 1110 While I can't get into some of the questions about ad loads and inventory, I would say really what we're focused on right now is driving relevancy, ensuring that we service the most useful ad as possible.
+rA3_d3hC1z CLAIM-Opinion(view) 1111 1197 I think that's going to be the best experience for customers and also for advertisers.
+N0bT4YCm8- PREMISE-Fact 1198 1446 So most of our focus has been on again adding more functionality, adding more products and adding - reporting for businesses and advertisers, so they can understand the incremental customers they're seeing on Amazon through advertising with Amazon.
+gz57PusC6f PREMISE-Fact 1447 1617 So it's more right now about tools and making better recommendations, making it easier to use our Amazon demand-side platform, things like that, operational improvements.
+093XWTVjDG CLAIM-Opinion(view) 1618 1682 And then, I guess, we're very focused on serving brands as well.
+H4u8TH-18D PREMISE-Fact 1956 2028 It builds better customer loyalty both to that brand and also to Amazon.
+ZemnIQrSRe PREMISE-Fact 1683 1717 That's another theme that we have.
+L2Wqq9cumw PREMISE-Fact 1891 1955 So it builds a better engagement for the brand and the customer.
+nOBttvNEFb PREMISE-Fact 1718 1890 These brand stores that we have are easy to create, customize, and we've had great pickup on that from brands, but they can show shoppers who they are and tell their story.
+-QMxflbvIb CLAIM-Fact 2029 2195 And then on the brand side itself, we have new reporting - excuse me, where we're again looking to measure the new to the brand shoppers and what lift they're seeing.
+HjoOSYpSNz CLAIM-Fact 2196 2302 So I would say right now, it's more about efficiency and also performance of the advertisement themselves.
+-ZqJaI15p5 PREMISE-Fact 2303 2390 The other revenue growth that you see does include some non-advertising things as well.
+czxgv5GlEo PREMISE-Statistic 2391 2499 So while other revenue grew 36%, and it is principally advertising, advertising grew a bit higher than that.
+R0 SUPPORT ARG1:N0bT4YCm8- ARG2:rA3_d3hC1z
+R1 SUPPORT ARG1:gz57PusC6f ARG2:rA3_d3hC1z
+R2 SUPPORT ARG1:ZemnIQrSRe ARG2:093XWTVjDG
+R3 SUPPORT ARG1:nOBttvNEFb ARG2:093XWTVjDG
+R4 SUPPORT ARG1:L2Wqq9cumw ARG2:093XWTVjDG
+R5 SUPPORT ARG1:H4u8TH-18D ARG2:093XWTVjDG
+R6 SUPPORT ARG1:-ZqJaI15p5 ARG2:HjoOSYpSNz
+R7 SUPPORT ARG1:czxgv5GlEo ARG2:HjoOSYpSNz
+ArgQ0 rA3_d3hC1z SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 093XWTVjDG SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 HjoOSYpSNz SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

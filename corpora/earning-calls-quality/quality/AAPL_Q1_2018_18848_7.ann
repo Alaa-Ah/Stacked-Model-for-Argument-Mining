@@ -1,0 +1,22 @@
+me_nLwebit NON-ARG 653 705 Mike, you did a good job of answering your question.
+h3KeCDUfDl PREMISE-Other 1529 1556 I see AR as being profound.
+-R4uBmsWXS PREMISE-Hypothesis 1557 1642 I think, AR has the ability to amplify human performance instead of isolating humans.
+R8jaDsSrYq CLAIM-Opinion(view) 1643 1683 And so I am a huge, huge believer in AR.
+nnekDfU6Zx CLAIM-Fact 1684 1732 We put a lot of energy on AR removing very fast.
+nciafczHCS PREMISE-RealExample 1733 1793 We've gone from ARkit 1.0 to 1.5 in just a matter of months.
+J23bthVCTc CLAIM-Opinion(view) 1794 1902 I couldn't be happier with the rate and face of the developer community, how faster developing these things.
+rPw2rzDHp8 NON-ARG 1903 1942 And I don’t want to say what we may do.
+JVw9d2cpP3 CLAIM-Reformulated 1943 2006 But I could not be happier with how things are going right now.
+peA8Wh4vEi NON-ARG 706 775 I think at the beginning, we don’t really comment on future products.
+NSM6lr8G3K CLAIM-Opinion(view) 776 848 But I would tell you that we’re thrilled with the reception of iPhone X.
+jYZKSc4-Tb PREMISE-Fact 849 920 And as we said when we launched it, we were setting up the next decade.
+lIJbpxoiUf NON-ARG 921 951 And that is how we look at it.
+Ppa1uRHiwC CLAIM-Fact 952 1017 And so that's the reason it's chockfull of incredible innovation.
+ahajiQfHJi CLAIM-Other 1018 1068 And so you can bet that we're pulling that string.
+R0 SUPPORT ARG1:h3KeCDUfDl ARG2:R8jaDsSrYq
+R1 SUPPORT ARG1:-R4uBmsWXS ARG2:R8jaDsSrYq
+R2 SUPPORT ARG1:nciafczHCS ARG2:nnekDfU6Zx
+R3 SUPPORT ARG1:jYZKSc4-Tb ARG2:Ppa1uRHiwC
+ArgQ0 R8jaDsSrYq SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 nnekDfU6Zx SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 Ppa1uRHiwC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

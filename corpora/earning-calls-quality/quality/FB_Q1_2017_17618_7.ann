@@ -1,0 +1,30 @@
+s_jOq3OoPL NON-ARG 2200 2258 And, Ross, on the costs related to the video ad rev share,
+AT-JvYNT4- CLAIM-Fact 2259 2308 yes, our guidance on total cost is all-inclusive,
+aXXLnbQcgJ PREMISE-Fact 2309 2361 so it includes all the R&D investments we're making.
+MXiiRm2tlB PREMISE-Fact 2362 2386 It includes the content.
+EuTbmNR46O PREMISE-Fact 2387 2495 It includes things like the Community Operations investments that we talked about today in the announcement.
+gz3i-6e6ZG PREMISE-Fact 2496 2630 But I would say that the nature of the types of video content deals that we're doing will make them more likely to show up after 2017.
+HMEHAeTpSk PREMISE-Fact 2631 2677 So there will be some content expense in 2017,
+wNGChxqOdk CLAIM-Opinion(view) 2678 2743 but I think it will be something you will see step up after 2017.
+fBnltkfzIc NON-ARG 666 738 I don't know if we have any public stats on the video tab, probably not.
+wKSYYHUcAj NON-ARG 739 799 But in terms of the strategy, I can talk about that quickly.
+7zPOsxu5Co NON-ARG 800 901 There were two basic use cases for checking in with Facebook and seeing what's going on in the world.
+2wQvmjRUjA NON-ARG 902 1081 What people do with News Feed a lot of the time is they have a few free minutes, or you want to sit down for maybe a longer session to see everything that's going on in the world.
+9TvSdLRSpw NON-ARG 1082 1154 You don't have a specific intention to watch a specific type of content.
+3cwGFW95BN NON-ARG 1155 1218 You just want to check in and see what's going on in the world.
+QJLbEnooHo PREMISE-Fact 1219 1405 There's this whole other use case around content, which is going to the app or sitting down at a TV because there's some content that you want to watch and you want to go directly to it.
+2vQmw4yXK- CLAIM-Fact 1406 1724 And that's what we're trying to do with the video tab, to make it so that all the different folks, whether they're pages that you follow or creators that you like, who you want to subscribe to and get the updates to what they're doing, that you have a place that you can go to with more intent to consume that content.
+FTbmdy-MCC PREMISE-Fact 1725 1871 The reason why it needs to be a different tab or at least a different service from News Feed is because people come to it with a different intent.
+5q5Fr8l4GJ NON-ARG 1872 2074 I think you're going to start in the future getting people coming to Facebook for the News Feed use case of checking in and people coming with an intent to go to the video tab to watch a specific video.
+ztSZZrk7bd NON-ARG 2075 2108 So that's what we're doing there.
+9hWfZq5PDk NON-ARG 2109 2182 That's the strategy, and I guess we'll update on stats when we have them.
+R0 SUPPORT ARG1:aXXLnbQcgJ ARG2:AT-JvYNT4-
+R1 SUPPORT ARG1:MXiiRm2tlB ARG2:AT-JvYNT4-
+R2 SUPPORT ARG1:EuTbmNR46O ARG2:AT-JvYNT4-
+R3 SUPPORT ARG1:gz3i-6e6ZG ARG2:wNGChxqOdk
+R4 ATTACK ARG1:HMEHAeTpSk ARG2:wNGChxqOdk
+R5 SUPPORT ARG1:QJLbEnooHo ARG2:2vQmw4yXK-
+R6 SUPPORT ARG1:FTbmdy-MCC ARG2:2vQmw4yXK-
+ArgQ0 AT-JvYNT4- SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 wNGChxqOdk SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 2vQmw4yXK- SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

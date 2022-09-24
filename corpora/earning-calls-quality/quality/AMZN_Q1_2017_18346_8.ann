@@ -1,0 +1,14 @@
+Yw0AOLgXmh NON-ARG 468 480 Sure, Colin.
+eN7dQu7K_L PREMISE-Fact 481 538 As you point out, we're – we have expanded our own fleet.
+c7PwfAdMp9 PREMISE-Statistic 539 638 We now have 18 planes in service for Amazon, and we have announced rights to lease up to 40 planes.
+U_EoSfcPuN CLAIM-Fact 639 662 So it's gone very well.
+zqDzVo1LVc CLAIM-Opinion(view) 663 763 The ability to control shipments within our network has gone up, and we think the cost is very good.
+N3hGXFxwGz PREMISE-Fact 764 876 So on that front, it's better control, better capacity control, especially search capacity, and also good costs.
+KoW2rn_lN_ PREMISE-Fact 877 934 So we have great relationships with third party carriers.
+ZVKYOWtJ2Z PREMISE-Fact 935 1061 We will continue to and we value all our partner relationships as we develop our own capability particularly in intra-network.
+FLa-7fplw6 NON-ARG 1062 1149 We're putting it to good use, as I mentioned before, with the sortation center example.
+R0 SUPPORT ARG1:eN7dQu7K_L ARG2:U_EoSfcPuN
+R1 SUPPORT ARG1:c7PwfAdMp9 ARG2:U_EoSfcPuN
+R2 SUPPORT ARG1:N3hGXFxwGz ARG2:U_EoSfcPuN
+R3 SUPPORT ARG1:ZVKYOWtJ2Z ARG2:U_EoSfcPuN
+ArgQ0 U_EoSfcPuN SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,9 @@
+I2FhX32bHy NON-ARG 926 996 Yeah, I guess you've got a couple of different factors going on there.
+E_m5hQOn6F CLAIM-Opinion(view) 997 1225 You've got the opportunity, I think, for ARPU growth in those regions, and that's going to depend on the mix of countries in those regions and the GDP per capita in those countries as well as the relative size of the ad markets.
+2Vn-9CGR7U CLAIM-Fact 1226 1302 And that correlates very strongly to our opportunity and our potential ARPU.
+GzR3t08ZqB PREMISE-Fact 1303 1383 And I think you've got upside growth potential in the long run in those markets.
+SjFTtjNWOu PREMISE-Fact 1384 1589 As it relates to margin profile, you also just have the factor that you're increasing growth – the increasing mix of the business is shifting towards Asia and towards what are currently lower ARPU markets.
+pltCjMyCb2 CLAIM-Opinion(view) 1590 1869 And so, while those are very attractive, we believe, to serve both in the near and in the long run, they're going to have a different impact on margin because the cost to support those users relative to the revenue they bring in does have an impact on margins in the medium-term.
+R0 SUPPORT ARG1:GzR3t08ZqB ARG2:2Vn-9CGR7U
+R1 SUPPORT ARG1:SjFTtjNWOu ARG2:2Vn-9CGR7U
+ArgQ0 2Vn-9CGR7U SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

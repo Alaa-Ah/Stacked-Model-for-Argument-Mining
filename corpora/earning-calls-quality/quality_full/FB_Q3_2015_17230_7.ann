@@ -1,0 +1,42 @@
+rShjbHlJgh NON-ARG 544 555 Yeah, sure.
+SqcDqgiXjc NON-ARG 556 596 I'll start with the question on ad load.
+zgklHTXmwv NON-ARG 597 663 It's Dave and then Sheryl can follow up on the political question.
+5epKBMNnt7 CLAIM-Fact 664 762 So, yeah, so, Justin, over time ad load has been one of the factors driving year-over-year growth.
+FnT4KbU3lg PREMISE-Fact 763 847 It's just worth noting that it is up significantly from where we were two years ago.
+Ss7YtBs1fC CLAIM-Opinion(view) 848 940 Looking forward, we continue to feel like there are good opportunities to grow the business.
+P-gvNzWCBC PREMISE-Fact 941 1059 I talked about the three factors that contributed to growth this quarter: ad demand, users and engagement and ad load.
+pb7PndGvBW PREMISE-Fact 1060 1134 And we see all of those continuing to be factors for growth going forward.
+oTDMfwyD01 NON-ARG 1135 1204 And then, Sheryl, did you want to take the question on the political?
+dBkiUClBBd NON-ARG 1225 1230 Yeah.
+AyHIwdPHef NON-ARG 1231 1257 And I'll take Events, too.
+nrf0J3DHfS PREMISE-Fact 1258 1328 Just as Mark said with Groups, Events are growing quickly on Facebook.
+khZVjIkQUk PREMISE-Fact 1329 1359 We don't break out by product,
+VNwPjTZZAw CLAIM-Opinion(view) 1360 1394 but we're pleased with the growth.
+_E_Aq1Erz0 CLAIM-Opinion(view) 1395 1495 On the elections and political activity and political advertising, we're excited about the elections
+-eDBXjKOFO PREMISE-Fact 1496 1580 because we think we give politicians and people a really compelling way to interact.
+XFoa2jVlwb PREMISE-Fact 1581 1706 If you wanted to feel like you were interacting with someone running for office before, you had to go to a town hall meeting.
+1aNhq44vSn CLAIM-Fact 1707 1754 And increasingly, that's happening on Facebook.
+hvwXbVe_RX PREMISE-Statistic 1755 1978 So between January 1 and October 7 of this year, over 68 million people on Facebook in the U.S. made over 1 billion interactions about the campaign alone, and every candidate and every member of Congress is on Facebook now.
+yF8oRD3bxI CLAIM-Fact 1979 2047 In terms of the revenue impact, no one vertical drives our business.
+v-Val7bcex PREMISE-Fact 2048 2094 We have a very large and diversified business.
+P8KA5vpJ93 CLAIM-Opinion(view) 2095 2204 But we think we offer something pretty compelling, which is the reach of Facebook with very unique targeting.
+-2EYU8FXfP PREMISE-Fact 2205 2267 So on Facebook, you can target an ad by district, by interest.
+hNoV9qTf9P PREMISE-RealExample 2268 2433 Ben Carson ran 240 different ads targeted at different audiences, and so we're starting to see candidates use our platform to communicate, to advertise and to share.
+R0 SUPPORT ARG1:FnT4KbU3lg ARG2:5epKBMNnt7
+R1 SUPPORT ARG1:P-gvNzWCBC ARG2:Ss7YtBs1fC
+R2 SUPPORT ARG1:pb7PndGvBW ARG2:Ss7YtBs1fC
+R3 SUPPORT ARG1:nrf0J3DHfS ARG2:VNwPjTZZAw
+R4 ATTACK ARG1:khZVjIkQUk ARG2:VNwPjTZZAw
+R5 SUPPORT ARG1:-eDBXjKOFO ARG2:_E_Aq1Erz0
+R6 SUPPORT ARG1:XFoa2jVlwb ARG2:1aNhq44vSn
+R7 SUPPORT ARG1:hvwXbVe_RX ARG2:1aNhq44vSn
+R8 SUPPORT ARG1:v-Val7bcex ARG2:yF8oRD3bxI
+R9 SUPPORT ARG1:-2EYU8FXfP ARG2:P8KA5vpJ93
+R10 SUPPORT ARG1:hNoV9qTf9P ARG2:P8KA5vpJ93
+ArgQ0 5epKBMNnt7 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 Ss7YtBs1fC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ2 VNwPjTZZAw SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 _E_Aq1Erz0 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 1aNhq44vSn SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ5 yF8oRD3bxI SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ6 P8KA5vpJ93 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

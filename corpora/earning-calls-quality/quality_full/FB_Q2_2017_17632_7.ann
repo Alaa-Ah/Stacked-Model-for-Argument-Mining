@@ -1,0 +1,41 @@
+kq_E4FeDUt CLAIM-Fact 2371 2476 So on the OpEx guide, clearly the biggest driver there is going to be the accelerating head count growth.
+HI9vK_7hfN PREMISE-Fact 2477 2534 In addition, I mentioned video content as being a driver.
+NZaXlqu_w_ PREMISE-Fact 2535 2606 And then also, we're just supporting the global growth of the platform.
+SYXw6CrPAW PREMISE-Fact 2607 2642 We continue to see growth in users.
+o91I-he7sl PREMISE-Fact 2643 2817 We continue to see growth in time spent per DAU across the Facebook family of apps and Facebook, and we're bringing more data centers online and the like towards that growth.
+KoDMgnCeD3 CLAIM-Fact 2881 2946 So there's going to be a variety of contributions to that growth.
+xyxEBVKsWB NON-ARG 2818 2880 So those will start hitting cost of revenue with depreciation.
+iZG2E7MsmT NON-ARG 2947 3025 But like you mentioned, I would point to both head count, specifically in R&D.
+LwotFsBb6p PREMISE-Fact 3026 3150 R&D head count grew 48% year over year in Q2, and that's what's going to be a key driver along with the content layering in.
+DcdVb0MNW1 NON-ARG 849 922 On the Messenger ads, I think the way we think about it is, as Mark said,
+XHeRoaKrIt CLAIM-Policy 923 981 we have a lot of work to do to work on the format of that.
+9buqvLfvwO PREMISE-Fact 982 1048 This is not a feed-based product, and this is a messaging product.
+geiWyvpHnY PREMISE-Fact 1049 1207 So it's a different consumer format, and we believe that the ad format should follow the consumer format, so it's really integrated as part of the experience.
+0L3XDl7p-W CLAIM-Reformulated 1208 1253 And that's where we have a lot of work to do.
+Oh5mugiOVu CLAIM-Opinion(view) 1254 1406 We do think that the advertiser base and the targeting and the measurement we offer once we figure out the format will be a very considerable advantage.
+4-MDW7xsVr PREMISE-Statistic 1407 1493 We already have 5 million advertisers on Facebook, 1 million advertisers on Instagram.
+p8w4Y4HfXH PREMISE-Fact 1494 1635 And one of the reasons we were able to scale into Instagram ads more quickly is because we were building off of the Facebook advertiser base.
+zMNC5-nyQ6 PREMISE-Fact 1636 1751 And similarly, the work we've done in Facebook and Instagram and Audience Network will help us expand to Messenger.
+XSG1G0rrkh CLAIM-Fact 1752 1913 But we really want to emphasize, especially since there are so many questions on Messenger monetization on this call, that we're going to be slow and deliberate.
+Cf0JEHxnC0 PREMISE-Fact 1914 1952 We are always looking at the long run.
+DIe0uAfejj PREMISE-Fact 1953 2002 We do not manage this company quarter to quarter.
+ZZY1bwdcZr PREMISE-Fact 2003 2063 We protect the consumer product and the consumer engagement.
+peJPk48_tM PREMISE-Fact 2064 2266 Messaging is really strategically important for the company and the long-term engagement with our users, and the organic feel of the engagement with businesses and consumers is where we will be focused.
+u_tDJRGoDl NON-ARG 2267 2353 So it's early days this year, and it's going to continue to be early days for a while.
+R0 SUPPORT ARG1:HI9vK_7hfN ARG2:KoDMgnCeD3
+R1 SUPPORT ARG1:NZaXlqu_w_ ARG2:KoDMgnCeD3
+R2 SUPPORT ARG1:SYXw6CrPAW ARG2:KoDMgnCeD3
+R3 SUPPORT ARG1:o91I-he7sl ARG2:KoDMgnCeD3
+R4 SUPPORT ARG1:LwotFsBb6p ARG2:kq_E4FeDUt
+R5 SUPPORT ARG1:9buqvLfvwO ARG2:XHeRoaKrIt
+R6 SUPPORT ARG1:geiWyvpHnY ARG2:XHeRoaKrIt
+R7 SUPPORT ARG1:4-MDW7xsVr ARG2:Oh5mugiOVu
+R8 SUPPORT ARG1:p8w4Y4HfXH ARG2:Oh5mugiOVu
+R9 SUPPORT ARG1:zMNC5-nyQ6 ARG2:Oh5mugiOVu
+R12 SUPPORT ARG1:ZZY1bwdcZr ARG2:XSG1G0rrkh
+R13 SUPPORT ARG1:peJPk48_tM ARG2:XSG1G0rrkh
+ArgQ0 KoDMgnCeD3 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 kq_E4FeDUt SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 XHeRoaKrIt SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 Oh5mugiOVu SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 XSG1G0rrkh SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

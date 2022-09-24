@@ -1,0 +1,52 @@
+LZnwAa78om NON-ARG 383 396 Hi, it's Tim.
+S7YuoeduHj CLAIM-Fact 397 432 In retail, it was quite successful.
+hKV5MofF7B PREMISE-Fact 433 540 We got going in a larger way during that quarter, we were pretty much just ramping in the previous quarter.
+749ZiBAKuH CLAIM-Fact 541 643 And trade-in as a percentage of their total sales is significant and financing is a key element of it.
+HKXZSO0vVD CLAIM-Fact 797 952 We are obviously taking those programs and advocating those more widely and that is at different levels of implementation throughout different geographies.
+uI52fZrMN_ PREMISE-Fact 953 1030 Because we're working with our carrier partners on those and retail partners.
+gSnYqwOt_9 CLAIM-Fact 644 796 Those two things in the aggregate led the combination of retail and online, just short form that is retail Apple Store let to growth in June trajectory.
+lLAkAgyFGo CLAIM-Fact 1522 1604 Well, there are elements today that are not necessarily tethered to iPhone, right?
+IHa7KXc-y1 PREMISE-Fact 1605 1695 We have other products where people are both purchasing things, they're watching Apple TV.
+aj5aJfAqWt PREMISE-Fact 1696 1788 We offer Apple Music on Android, and so there's a series of things that are outside of that.
+7MgsSxozkF NON-ARG 1789 1831 And so we'll see what we do in the future.
+CNgjkfLIwN NON-ARG 1832 1869 I don't want to really get into that.
+WM4J2bsRGa CLAIM-Opinion(view) 1869 2128 But, more broadly, to answer your question about growth as we go forward, the way I see it is, we have the strongest hardware portfolio ever, we've got new products on the way, the pipeline is full of great new stuff both on the product and the services side.
+68B07qlmzf CLAIM-Fact 2129 2254 We're very fortunate and work very hard to have loyal customers and to continue attracting an impressive number of switchers.
+fPo3c0IYis CLAIM-Fact 2255 2326 The installed base is growing, hit a new record, that's obviously good.
+4Gxhr3skGG CLAIM-Reformulated 2327 2400 And it hit a new record across all geographies and across all categories.
+l0f8g_m4-m CLAIM-Reformulated 2401 2437 And so, this is a really good thing.
+MtAkoCleTu CLAIM-Fact 2437 2499 And we've got the Wearables area that is doing extremely well.
+8kkGdTlzEf PREMISE-Fact 2500 2680 We stuck with that when others perhaps didn't and really put a lot of energy into this and a lot of R&D and are in a very good position today to keep playing out what's next there.
+U0eliSGBjF CLAIM-Fact 2680 2773 At the same time, on the market side, we have emerging markets where we have low penetration.
+wJihrjkB89 CLAIM-Fact 2774 2852 And during the quarter tactically the emerging markets had a bit of a rebound.
+ixGEdq91Y3 PREMISE-Fact 2853 2942 And in fact, on a constant currency basis, we actually grew slightly in emerging markets.
+QXE2X1gImM PREMISE-Fact 3002 3050 During the quarter, we returned to growth there.
+CXSJ5t8xEL CLAIM-Opinion(view) 3051 3078 We're very happy with that.
+7dS3uPfuuf PREMISE-RealExample 3079 3105 We grew in Brazil as well.
+heIQtsia7O CLAIM-Fact 3105 3161 We're also continuing to focus on the enterprise market.
+UHZfluaizJ CLAIM-Opinion(view) 3162 3265 Luca mentioned some of this in his comments and we think that continues to be a big opportunity for us.
+tf4LMzW2mJ CLAIM-Fact 3266 3505 And then, we've got lots of what I would call core technology kinds of things like augmented reality, where we're placing big bets and bet that we have a big future, in addition to the health kinds of things that may fall out of the watch.
+itl2NxXOIF NON-ARG 3506 3568 And so hopefully that kind of gives you a view over the total.
+l8qGVJxVUv CLAIM-Fact 3568 3835 And so, we're focusing on products and services and there will be some services that aren't hooked and some that are hooked not on current period sales mostly, very much services are rarely connected on that today or at least not a high percentage by any means there.
+ZvVXc_Exy8 PREMISE-Fact 3836 4025 They're more correlated to the active installed base and also the level of transacting customers that are there and the amount per customer, which relates also to the offering that we have.
+VN05_hEGS1 PREMISE-Fact 2943 2981 We still declined on a reported basis.
+YQ6HHV6Qrc PREMISE-RealExample 2982 3001 India bounced back.
+Faux_5J6ho NON-ARG 4040 4057 Thank you, Krish.
+ZnHtpLR2DF NON-ARG 4058 4098 Could we have the next question, please?
+R0 SUPPORT ARG1:hKV5MofF7B ARG2:S7YuoeduHj
+R1 SUPPORT ARG1:uI52fZrMN_ ARG2:HKXZSO0vVD
+R2 SUPPORT ARG1:IHa7KXc-y1 ARG2:lLAkAgyFGo
+R3 SUPPORT ARG1:aj5aJfAqWt ARG2:lLAkAgyFGo
+R4 SUPPORT ARG1:8kkGdTlzEf ARG2:MtAkoCleTu
+R5 SUPPORT ARG1:ixGEdq91Y3 ARG2:wJihrjkB89
+R6 ATTACK ARG1:VN05_hEGS1 ARG2:wJihrjkB89
+R7 SUPPORT ARG1:YQ6HHV6Qrc ARG2:wJihrjkB89
+R8 SUPPORT ARG1:QXE2X1gImM ARG2:wJihrjkB89
+R9 SUPPORT ARG1:7dS3uPfuuf ARG2:wJihrjkB89
+R10 SUPPORT ARG1:ZvVXc_Exy8 ARG2:l8qGVJxVUv
+ArgQ0 S7YuoeduHj SPECIFIC_2 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 HKXZSO0vVD SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 lLAkAgyFGo SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 MtAkoCleTu SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 wJihrjkB89 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ5 l8qGVJxVUv SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

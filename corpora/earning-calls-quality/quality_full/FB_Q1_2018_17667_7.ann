@@ -1,0 +1,40 @@
+P9PyxE3M-P CLAIM-Opinion(view) 2577 2716 On Messenger, we continue to be primarily focused on consumer growth and engagement, and we're being slow and deliberate with monetization.
+usmixUOKd4 CLAIM-Opinion(view) 2800 2854 But I think the potential is real and big and growing.
+DlvVMtVHUY PREMISE-Fact 2855 3072 We see a lot of organic connections between businesses and consumers, and our experience is that where are those – where we have those organic connections, that's very promising to turn that into monetization as well.
+nexb0IOPi4 PREMISE-Statistic 3073 3165 We have over 18 million businesses now communicating with their customers through Messenger.
+J_JCPdM-Gb PREMISE-Statistic 3166 3271 We have 2 billion messages sent between people and businesses a month, which includes automated messages.
+7fdN1uTh9E CLAIM-Fact 3272 3348 And we're focused on launching new tools that help businesses use Messenger.
+SrMKkF61pn PREMISE-Fact 2717 2799 It's worth noting this isn't a feed product, so there are some more unknowns here.
+Cd5P3B_yj0 PREMISE-Fact 3349 3411 For this quarter, we launched new quick replies for customers.
+4ZIkj3rYEX PREMISE-Fact 3412 3482 We're seeing ads in inbox, which are now available to all advertisers.
+-j2t2ZpmoT CLAIM-Fact 3483 3539 It's really early, but nice pick up and nice buzz there.
+dBgOmuIcO8 PREMISE-Fact 3540 3681 And click to Messenger ads on Facebook are actually very promising as well because advertisers want to see a return for the money they spend.
+wkJFJ3mPSa PREMISE-Fact 3682 3828 And when they have an ad and they can get a direct contact one to one with a customer, that's been something that people are really excited about.
+tXU240tdLF CLAIM-Opinion(view) 3829 3880 So early days, but I think a lot of potential here.
+rW9RCMoo0Q NON-ARG 936 967 I can speak to the first point.
+kpOcr1Z47L CLAIM-Fact 968 1117 So we made a number of changes and are still making changes to prioritize meaningful interactions between people over passive consumption of content.
+HNHi7rkc7e PREMISE-Fact 1118 1283 And that follows a lot of feedback directly from our community that people want Facebook to be more about friends and family and less about just content consumption.
+olDbWr59yy PREMISE-Fact 1284 1704 And it also follows the well-being research that we've done that suggests that when people use the Internet for interacting with people and building relationships, that is correlated with all of the positive measures of well-being that you just expect like longer term health and happiness, feeling more connected and less lonely, whereas just passively consuming content is not necessarily positive on those dimensions.
+HbZFIW-zZD CLAIM-Reformulated 1705 1799 So we've been rolling out a number of changes, both product changes and ranking the News Feed.
+9jIAs-986W PREMISE-Fact 1800 1950 As I said in my opening remarks, that has increased or we've observed increases in some types of sharing and interaction between people based on that.
+QbPzl6ZpMI PREMISE-Fact 1951 2068 We've also observed some continued declines as we've done this and in the passive consumption of video, specifically.
+pQeUOYtzHO CLAIM-Fact 2069 2224 Overall, I'd say that these changes are doing what we expected that they would do and helping people to connect more and have more meaningful interactions.
+q5Du_YEUhN NON-ARG 2225 2378 I think that that's the thing that people can uniquely do on Facebook that they can't do on other services that may be more about just consuming content.
+s6emAJxLbu CLAIM-Reformulated 2379 2554 So we think that this is going in the direction of building a stronger community and a stronger business over the long term, and we're optimistic about what we're seeing here.
+R0 ATTACK ARG1:SrMKkF61pn ARG2:usmixUOKd4
+R1 SUPPORT ARG1:DlvVMtVHUY ARG2:usmixUOKd4
+R2 SUPPORT ARG1:nexb0IOPi4 ARG2:usmixUOKd4
+R3 SUPPORT ARG1:J_JCPdM-Gb ARG2:usmixUOKd4
+R4 SUPPORT ARG1:Cd5P3B_yj0 ARG2:7fdN1uTh9E
+R5 SUPPORT ARG1:4ZIkj3rYEX ARG2:7fdN1uTh9E
+R6 SUPPORT ARG1:dBgOmuIcO8 ARG2:-j2t2ZpmoT
+R7 SUPPORT ARG1:wkJFJ3mPSa ARG2:-j2t2ZpmoT
+R8 SUPPORT ARG1:HNHi7rkc7e ARG2:kpOcr1Z47L
+R9 SUPPORT ARG1:olDbWr59yy ARG2:kpOcr1Z47L
+R10 SUPPORT ARG1:9jIAs-986W ARG2:pQeUOYtzHO
+R11 SUPPORT ARG1:QbPzl6ZpMI ARG2:pQeUOYtzHO
+ArgQ0 usmixUOKd4 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 7fdN1uTh9E SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 -j2t2ZpmoT SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 kpOcr1Z47L SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 pQeUOYtzHO SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

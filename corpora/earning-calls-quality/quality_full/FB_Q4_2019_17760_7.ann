@@ -1,0 +1,26 @@
+h3YRm2cVVP NON-ARG 834 839 Sure.
+lqXkYSWfc7 NON-ARG 840 895 So on integration, overall here's how I think about it.
+JNod_JUR1J CLAIM-Fact 896 953 We're going to keep the brands, right, from all the apps.
+t0fsT3qyW8 PREMISE-Fact 954 1067 Of course, right, I mean these are large communities that people love and strongly associate with a specific app.
+ylZJd0Xqwt CLAIM-Reformulated 1068 1100 So that's clearly going to stay.
+amrOBPOKPX CLAIM-Opinion(view) 1102 1174 In terms of integration, all the apps are already very integrated today.
+bKaiFZxygk PREMISE-Fact 1175 1215 We all run off of common infrastructure.
+qt9_qYl7qT PREMISE-Fact 1216 1337 We've tried to run the company in a way where we have -- we set up the infrastructure, and we set up the business models.
+Rp1hVDpdF3 PREMISE-Fact 1338 1428 That way, an engineer improving the efficiency of one system makes all of the apps better.
+uE0xvFwgmp CLAIM-Opinion(view) 1568 1766 But I think that the push for the next few years is we think that in running a company, I want to make it so it's not just the back end engineers when they improve something, it improves everything.
+L7CrD04j-Q CLAIM-Reformulated 1429 1567 And that's -- everything is already very tightly integrated kind of below the surface, in a way that people using these apps may not feel.
+5Diic6cBlM CLAIM-Fact 1768 1974 We want to make it so that features that get built across Instagram or Facebook or WhatsApp and when people engage on those, it can also make your experience better across the other apps in the family, too.
+6kFcnyek2g NON-ARG 1975 2050 So that's kind of the philosophy behind why we're doing a number of things.
+Q3G6fe_3uU NON-ARG 2051 2149 Some of it is just we built up multiple technical stacks in some places that didn't need to exist.
+6vQfL56b68 NON-ARG 2150 2258 The voice calling stack on WhatsApp and Messenger, there's not a real reason why those need to be different.
+8zzpcJSI2w NON-ARG 2259 2390 But we didn't standardize that layer historically, and that means that now we have to put twice as much work into making that good.
+OdKcSsJGhX NON-ARG 2391 2518 If we got that to be integrated, then the same engineering effort could just make it better across everything at a faster rate.
+_rlj967LFW NON-ARG 2520 2563 So there's going to be more work like that.
+6cpTgb5KO0 CLAIM-Opinion(view) 2564 2629 I think some of it will start to be more visible across the apps.
+yGDjInK0TG CLAIM-Fact 2630 2792 The apps will always continue to have their own identity and brand now because they -- people use them for somewhat different things, and that's really important.
+R0 SUPPORT ARG1:t0fsT3qyW8 ARG2:JNod_JUR1J
+R1 SUPPORT ARG1:bKaiFZxygk ARG2:amrOBPOKPX
+R2 SUPPORT ARG1:qt9_qYl7qT ARG2:amrOBPOKPX
+R3 SUPPORT ARG1:Rp1hVDpdF3 ARG2:amrOBPOKPX
+ArgQ0 JNod_JUR1J SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 amrOBPOKPX SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

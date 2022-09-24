@@ -1,0 +1,33 @@
+8kZytcfSPd CLAIM-Fact 430 534 We price for the value that we're delivering, and iPhone X is the most innovative product on the market.
+YQfugAmBud PREMISE-Fact 535 667 And I've said a few times, we have there sort of jam-packed with technologies that really set up the smartphone for the next decade.
+bO4vQW2A7x CLAIM-Reformulated 668 699 And so that's how we priced it.
+6CxpGWFJzR PREMISE-Fact 700 872 We were surprised somewhat that through all of this period of time that the iPhone X winds up at the most selling, most popular for every week of the time since the launch.
+d5ro8CTEys CLAIM-Opinion(view) 873 912 And so that's I think a powerful point.
+aBZlKAyZpM CLAIM-Fact 913 975 And it's number one in China, which is another powerful point.
+_RsoM1gQra CLAIM-Reformulated 1100 1226 But the way we think about it is trying to price a reasonable price for the value that we deliver and I feel that we did that.
+M4lkq-lO-v PREMISE-Hypothesis 976 1099 And so obviously at some point if those technologies move to lower price points and that there's probably more unit demand.
+bL5YXoEknp NON-ARG 1752 1815 Well, Wamsi, I think, let me start with where we are right now.
+WYlVlvqJrD NON-ARG 1816 1837 I think you're right.
+jlW9qAlIRz CLAIM-Opinion(view) 1838 1958 I think we've been able to navigate a difficult foreign exchange environment for a number of years and now, as you know,
+dIetHt5JiQ PREMISE-Fact 1959 2179 because we have this hedging program as the dollar has weakened a bit in recent months, although during the last week it's actually started to turn the other way again, we've got the hedging program that works both ways.
+e4y_XPRG2a CLAIM-Opinion(view) 2418 2572 As I said earlier this year, I think we are experiencing in total a more difficult cost environment and so hopefully that can turn into a positive for us.
+K8vNMfpHmk NON-ARG 2573 2795 At the same time, it's very difficult for me to give you an indication of what is going to happen in the future because every product cycle is different, and as you know, we don't provide guidance past the current quarter.
+V5bAg9LqE2 CLAIM-Fact 2796 2906 There are some elements that we understand quite well and we tend to manage well over the course of the cycle.
+ss3mxQdoHQ PREMISE-RealExample 2907 2987 For example, our cost structures that we are able to manage throughout the year.
+Sxx1ASlluK CLAIM-Opinion(view) 2180 2280 And also on the memory front, we feel that for NAND, we're going to be turning the corner very soon.
+TtoBP6bWKi CLAIM-Opinion(view) 2281 2365 For DRAM, we also think that we are near the peak, possibly at the end of this year.
+QlZrcTotK8 NON-ARG 2366 2417 And so that should provide some level of stability.
+Kpb8ey6mVr CLAIM-Fact 2988 3078 But there are also elements that are not entirely under our control like foreign exchange.
+V5BhLOidAB NON-ARG 3079 3193 And the mix of products and services that we sell to our customers also has an impact on the overall gross margin.
+iNkA1USvfo CLAIM-Fact 3194 3345 Our primary consideration is always around maximizing gross margin dollars, and that is the approach that we take around for example pricing decisions.
+lOsXMpJS7K NON-ARG 3360 3377 Thank you, Wamsi.
+EyqMykF5BS NON-ARG 3378 3418 Could we have the next question, please?
+R0 SUPPORT ARG1:YQfugAmBud ARG2:8kZytcfSPd
+R1 SUPPORT ARG1:6CxpGWFJzR ARG2:d5ro8CTEys
+R2 ATTACK ARG1:M4lkq-lO-v ARG2:8kZytcfSPd
+R3 SUPPORT ARG1:dIetHt5JiQ ARG2:jlW9qAlIRz
+R4 SUPPORT ARG1:ss3mxQdoHQ ARG2:V5bAg9LqE2
+ArgQ0 8kZytcfSPd SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 d5ro8CTEys SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 jlW9qAlIRz SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ3 V5bAg9LqE2 SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

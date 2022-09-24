@@ -1,0 +1,18 @@
+aD4f4iKkD8 NON-ARG 788 793 Sure.
+-J_Crd_iWb NON-ARG 794 867 On the fulfillment center capacity, I don't have a number for you, today.
+TI7lZqGKNF NON-ARG 1352 1395 But I'll – we'll clarify that next quarter.
+WZJ8fOaamq CLAIM-Fact 1396 1452 On PillPack, yes, the deal of course hasn't closed, yet.
+-jDvLmOWcC CLAIM-Reformulated 1453 1543 We expect to close it in the second half of the year, so I'll limit my comments right now.
+ATWPLH4DsK CLAIM-Opinion(view) 1544 1562 But we're excited.
+qqQ8AgwCiT PREMISE-Other 1563 1720 I think the company has a really highly differentiated customer experience, and they've done a great job getting to the size and scale that they're at today.
+Ecl5qBEEYi PREMISE-Other 1721 1799 We think that, working together with them we can expand on that in the future.
+IUdpa4FU2n NON-ARG 1800 1856 They're like a lot of the other acquisitions we've done.
+KupQXviw3p PREMISE-Fact 1857 2009 Recently, we're looking for well-run companies with highly-differentiated customer experience, and a real sense of customer obsession that matches ours.
+nxqI69Su8r CLAIM-Reformulated 2010 2119 So we think PillPack has got all those traits, and we look forward to the deal closing and working with them.
+8EsjymiZ3K PREMISE-Statistic 868 1067 I'll probably clarify that at the end of next quarter as we head into holiday, but if you think back, the last two years, we've added square footage that's exceeded 30% growth, both in 2016 and 2017.
+ptFPSDvbUX CLAIM-Opinion(view) 1068 1229 We anticipate it's going to be lower this year as we get some efficiencies off what we've built over the last few years, but I don't have a number for you today.
+epCsB2iisZ CLAIM-Opinion(view) 1230 1351 I will say that, the majority of it is being put in service in the back-end of the year, just like in the last two years.
+R0 SUPPORT ARG1:qqQ8AgwCiT ARG2:ATWPLH4DsK
+R1 SUPPORT ARG1:Ecl5qBEEYi ARG2:ATWPLH4DsK
+R2 SUPPORT ARG1:KupQXviw3p ARG2:ATWPLH4DsK
+ArgQ0 ATWPLH4DsK SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1

@@ -1,0 +1,16 @@
+NnyqHPROKB NON-ARG 698 703 Sure.
+Hs68d-yCrZ CLAIM-Fact 704 831 We always evaluate the price of Prime in all the countries we're in, and we're looking for creative ways to reach the customer.
+bmtO3VpCSZ PREMISE-Fact 832 921 As I mentioned earlier, creation – or excuse me, monthly plans, student plans, et cetera.
+GEqF4P5D8f CLAIM-Fact 922 1026 So it's really nothing more than looking at the state of the program, the high benefits it's delivering.
+w2SWh9R5f- PREMISE-Statistic 1153 1284 Today you could get over 100 million products within two days, and many, many, many products within one day, same day or two hours.
+q95jE58ciO PREMISE-Statistic 1027 1152 I mentioned that four years ago when we last increased the price of Prime, you could get 20 million products within two days.
+KutzNw1hMz PREMISE-Fact 1285 1372 So there's all kinds of new features that we've continually added to the Prime program.
+lPDzHzygCO PREMISE-Fact 1373 1413 It's much different than it was in 2014.
+yV_Q_RMDCN CLAIM-Reformulated 1414 1504 This is a reflection of that, that's a better reflection of the cost value of the program.
+R0 SUPPORT ARG1:bmtO3VpCSZ ARG2:Hs68d-yCrZ
+R1 SUPPORT ARG1:q95jE58ciO ARG2:GEqF4P5D8f
+R2 SUPPORT ARG1:w2SWh9R5f- ARG2:GEqF4P5D8f
+R3 SUPPORT ARG1:KutzNw1hMz ARG2:GEqF4P5D8f
+R4 SUPPORT ARG1:lPDzHzygCO ARG2:GEqF4P5D8f
+ArgQ0 Hs68d-yCrZ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 GEqF4P5D8f SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0

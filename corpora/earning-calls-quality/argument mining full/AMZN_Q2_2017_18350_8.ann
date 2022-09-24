@@ -1,0 +1,22 @@
+E7iEucjHDf NON-ARG 691 696 Sure.
+AcmOUbJtpe NON-ARG 697 736 Let me see what I can tell you on that.
+g8HXwtaROm CLAIM-Fact 737 869 First of all, I want to remind you that Q3 is typically a lower operating income quarter as we're preparing for the Q4 holiday peak.
+j6OpzCUsom PREMISE-Fact 870 1039 The other dynamic is that, similar to last year, a large percentage of our new fulfillment centers are coming online in the second half of the year, a lot of them in Q3.
+4SDJGumxmY PREMISE-Statistic 1040 1201 So, to give that some perspective, the Amazon-fulfilled network, or the combination of retail and FBA shipments coming out of our warehouses has been nearly 40%.
+4Y9PU8-hKH NON-ARG 1202 1262 It was that last year, and it's continued through this year.
+hpwGIvURBF PREMISE-Statistic 1263 1424 Last year we added 30% additional square footage to handle that additional shipping volume, and about 80% of that went into service in the back end of last year.
+xmWth8bAdf NON-ARG 1425 1479 And that's what I mentioned about this time last year.
+pYwUwmPw1e PREMISE-Statistic 1480 1675 The similar dynamic this year, we are going to have about 80% of our increase in square footage for fulfillment and shipping coming online in the back end of the year, so that's a major increase.
+0LEnj2xgox NON-ARG 1676 1731 The other comment I would make is on the video content.
+SATFYv2TyW NON-ARG 1732 1882 Video content last year, I highlighted the fact that it was going to be a significant step up between second half of 2016 and the second half of 2015.
+AzRo81RL9g NON-ARG 1883 2072 We are still – we lapped that most of the first half this year and we'll also be increasing video spend on a sequential and year-over-year basis in Q3, and that's included in this guidance.
+rzShuQTGXW NON-ARG 2073 2259 Other than that, can't give much more specifics except to say that the large investment areas remain the increasing fulfillment capacity to service the strong growth of the FBA business.
+VCkxCtdtET NON-ARG 2260 2432 I will also point out that the strong usage growth in AWS has led us to a step up in infrastructure in capital leases to build the capital leases in the trailing 12 months.
+bbpksdzD7A PREMISE-Statistic 2433 2494 They've increased 71% through the end of Q2 versus last year.
+_LwQMUvlXp CLAIM-Fact 2495 2594 That is servicing – accelerating usage in our largest AWS services as well as geographic expansion.
+a2vSrtp0Hg NON-ARG 2595 2666 So that's additional factor sequentially in the quarter year-over-year.
+R0 SUPPORT ARG1:bbpksdzD7A ARG2:_LwQMUvlXp
+R1 SUPPORT ARG1:j6OpzCUsom ARG2:g8HXwtaROm
+R2 SUPPORT ARG1:4SDJGumxmY ARG2:g8HXwtaROm
+R3 SUPPORT ARG1:hpwGIvURBF ARG2:g8HXwtaROm
+R4 SUPPORT ARG1:pYwUwmPw1e ARG2:g8HXwtaROm

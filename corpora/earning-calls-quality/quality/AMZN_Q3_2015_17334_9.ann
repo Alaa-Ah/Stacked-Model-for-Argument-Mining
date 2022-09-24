@@ -1,0 +1,35 @@
+lS1ZeXza_h NON-ARG 741 746 Sure.
+ydJmo-1-gv CLAIM-Fact 747 1074 On EGM growth, I won't call out any particular categories, but it is a direct reflection of our efforts to grow selection, both our retail selection and also our third party, particularly FBA which is also Prime eligible and then just the responsiveness of our customers, especially our Prime customers to the EGM product line.
+jijBYgznwc CLAIM-Opinion(view) 1075 1117 So, we're very encouraged with EGM growth.
+RtC5wGL9DK NON-ARG 1118 1251 And on India, I will not – excuse me – I won't give specific dollar numbers around investment, but I can give you an update on India.
+h4ICzly1ok CLAIM-Opinion(view) 1252 1347 We're really encouraged with what we are seeing, both on the customer side and the seller side.
+BoANdG4HjK PREMISE-Statistic 1348 1434 On the customer side – excuse me, active customer accounts are up 230% year-over-year.
+RZZavfgLeN PREMISE-Fact 1435 1503 We are in the middle of the Diwali season that is going really well.
+x9FPBrhnl2 PREMISE-Statistic 1504 1542 Sales are 4x what they were last year.
+gqTTRmS3nG PREMISE-Fact 1543 1589 So customers are responding greatly this year.
+AK54-HnOv0 PREMISE-Fact 1590 1612 We continue to invest.
+WON8pN-EB4 PREMISE-Statistic 1613 1694 We've been adding products at a rate of 40,000 products per day so far this year.
+bWzbDbohsQ PREMISE-Statistic 1695 1881 And just as big as the number of sellers, the sellers, the number of sellers has grown more than 250% year-over-year, 90% of those sellers are using our logistics and warehouse services.
+CA5qar1tKM PREMISE-Statistic 1882 1953 And as a result, we've tripled our fulfillment capacity year-over-year.
+LQWMXMJNyL CLAIM-Reformulated 1954 2056 So we are very encouraged, as I said last quarter in India, and continue to invest there very heavily.
+AqatZOgGtd NON-ARG 2070 2128 Mark, I think you asked about China as well, this is Phil.
+HJ3WPjloFr CLAIM-Fact 2129 2232 So we're continuing to work on some of the items we've been talking about for a couple of quarters now.
+c_VF9c-r12 PREMISE-Fact 2233 2434 So the team had some interesting ideas, really focused on making Amazon a trusted conduit for Chinese customers to access, authentic international branded products, and things that customers can't get.
+fc7AQsbLe6 CLAIM-Opinion(view) 2435 2503 I think Amazon Global Store continues to expand the selection there.
+-gMmrW05sS PREMISE-Statistic 2504 2675 We added about another 400,000 items to that store this quarter and continue to focus on using our global network of vendors to be able to get those products to customers.
+EKk3hmZoJz PREMISE-Fact 2676 2719 We continue to test store on Tmall as well.
+xiliNyyX0K NON-ARG 2720 2794 The team has some other ideas, but that's what we're talking about so far.
+R0 SUPPORT ARG1:BoANdG4HjK ARG2:h4ICzly1ok
+R1 SUPPORT ARG1:RZZavfgLeN ARG2:h4ICzly1ok
+R2 SUPPORT ARG1:x9FPBrhnl2 ARG2:h4ICzly1ok
+R3 SUPPORT ARG1:gqTTRmS3nG ARG2:h4ICzly1ok
+R4 SUPPORT ARG1:AK54-HnOv0 ARG2:h4ICzly1ok
+R5 SUPPORT ARG1:WON8pN-EB4 ARG2:h4ICzly1ok
+R6 SUPPORT ARG1:bWzbDbohsQ ARG2:h4ICzly1ok
+R7 SUPPORT ARG1:CA5qar1tKM ARG2:h4ICzly1ok
+R8 SUPPORT ARG1:c_VF9c-r12 ARG2:HJ3WPjloFr
+R9 SUPPORT ARG1:-gMmrW05sS ARG2:fc7AQsbLe6
+R10 SUPPORT ARG1:EKk3hmZoJz ARG2:fc7AQsbLe6
+ArgQ0 h4ICzly1ok SPECIFIC_2 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 HJ3WPjloFr SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 fc7AQsbLe6 SPECIFIC_1 PERSUASIVE_1 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,31 @@
+Lcfqyf4MRJ NON-ARG 1198 1298 I’m thrilled with it, Tony, so I don’t want you to read anything I’m saying any way other than that.
+lHNUdT2qcD NON-ARG 1299 1353 So I’m not sure how to say that any clearer than that.
+lpkvJDkjmf NON-ARG 1584 1626 We make forecasts for the current quarter.
+7KcqbwfEtC NON-ARG 1627 1695 And so I don’t want to make any comment about the consensus numbers.
+omLTrqGiVM NON-ARG 1696 1735 Honestly, I haven’t even studied those.
+XtpvMQig_Y NON-ARG 1736 1773 We’ve got enough to think about here.
+9r-XHWOC9n CLAIM-Opinion(view) 1774 1803 I feel really great about it.
+kJSlG9Lb6f PREMISE-Fact 1804 1885 The customer response, literally, from what I’ve seen, is close to 100% positive.
+UFbZFUHUnW CLAIM-Reformulated 1886 1930 And so it’s hard to imagine it being better.
+DnoN3Pz7Gn NON-ARG 1521 1583 And so as you know, we don’t make long term forecasts on here.
+sKx3hpE1zp NON-ARG 2576 2677 Tony, we’re not going to guide to or give projections of gross margin outside of the current quarter.
+qyKWVi1nON PREMISE-Fact 2678 2950 And so what we have right now, which is a situation, it’s not surprising to us, we knew we would be here, is that the watch gross margins for the current quarter that we’ve included in the guidance that Luca’s provided in the aggregate, are lower than the company average.
+4QKHJx-jOW CLAIM-Opinion(view) 2951 3001 And so that to us is intuitive that they would be.
+JHkIXfNrZm NON-ARG 3002 3085 And so I think we must be just looking at it through a different lens than you are.
+IgwZciUbEX CLAIM-Fact 3239 3347 In the first quarter with any new kind of product, you would always have learning and these sorts of things.
+EWvM6Df6i3 PREMISE-Fact 3348 3398 We’ve had this with every product we’ve ever done.
+IF82bg6Trf NON-ARG 3461 3496 We’re talking about what it is now.
+6bfiD_4gSG CLAIM-Opinion(view) 3497 3630 But you know, I would keep in mind that the functionality of the product that we’re making is absolutely incredible, the power of it.
+8Nn8qik1G- CLAIM-Fact 3631 3775 And I haven’t even seen this, but generally, there’s cost breakdowns that come out around our products that are much different than the reality.
+xjDDXfBNJ- PREMISE-Fact 3776 3837 I’ve never seen one that is anywhere close to being accurate.
+nN-htJj053 CLAIM-Opinion(view) 3838 3924 And so if that’s the basis for your comment, I’d really dig on the data if I were you.
+c3kVY6RqG8 NON-ARG 3399 3460 And so again, we’re not guiding to what it will be over time.
+sXz7FcEDEm CLAIM-Fact 1354 1520 And in any situation, whether it’s the watch or in the past on iPad or on iPhone, when demand is much greater than supply, it’s difficult to gauge exactly what it is.
+R0 SUPPORT ARG1:kJSlG9Lb6f ARG2:9r-XHWOC9n
+R1 SUPPORT ARG1:qyKWVi1nON ARG2:4QKHJx-jOW
+R2 SUPPORT ARG1:xjDDXfBNJ- ARG2:8Nn8qik1G-
+R3 SUPPORT ARG1:EWvM6Df6i3 ARG2:IgwZciUbEX
+ArgQ0 9r-XHWOC9n SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 4QKHJx-jOW SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ2 8Nn8qik1G- SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 IgwZciUbEX SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

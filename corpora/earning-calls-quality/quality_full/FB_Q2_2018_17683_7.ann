@@ -1,0 +1,23 @@
+lb3KefBzEk NON-ARG 492 497 Sure.
+An3LL6TRfq PREMISE-Fact 498 657 So, we've launched a number of changes that are focused towards trying to encourage more interaction at the expense of some passive consumption on the network.
+WGmpY1w92a PREMISE-Fact 658 738 And we found that these have generally encouraged more interaction or positives,
+SVP1u5i6LB CLAIM-Fact 739 790 so we're going to keep on moving in this direction.
+lNpmtq8Xuq CLAIM-Fact 791 832 We're doing this for a number of reasons.
+46HNzK5eDW PREMISE-Fact 833 1106 One is that we just started getting a lot of feedback from people in the community that they wanted Facebook to be more about connecting with people, which is really the core of what it's always been, less so about viral videos or news content and just passive consumption.
+scSEHBiCOW NON-ARG 1107 1121 So that's one.
+de6geOUcsG PREMISE-Fact 1122 1257 Another big driver is we've focused on trying to make sure that we understand the effects of using our services on people's well-being.
+FUAwAG9rAf PREMISE-Fact 1258 1293 That's important for all companies.
+QZxWVI8w3b PREMISE-Fact 1294 1754 And the research there is very clear that when people are using the Internet, and including our services, to interact with other people, that's associated with all the positive elements of well-being that you'd expect: feeling more connected, feeling less lonely, feeling happier, and long-term measures of health but when you're simply using the Internet to passively consume content that isn't necessarily associated with positive improvements to well-being.
+kPZpduX3uh CLAIM-Reformulated 1755 1885 So, both because of the feedback that we were getting and the research, we felt like this was really the right direction to go in.
+p1gCfXuFHN PREMISE-Fact 1886 1971 We're seeing positive signs in terms of how it's encouraging people to interact more.
+ogy2MyiRji CLAIM-Reformulated 1972 2097 Of the usage on the platform, we do think that that is the most valuable usage, but that's why we're going in that direction.
+QIy470Jf7W NON-ARG 2098 2205 And everything that we've seen so far suggests to us that we should continue moving in that direction more.
+R0 SUPPORT ARG1:An3LL6TRfq ARG2:SVP1u5i6LB
+R1 SUPPORT ARG1:WGmpY1w92a ARG2:SVP1u5i6LB
+R2 SUPPORT ARG1:46HNzK5eDW ARG2:lNpmtq8Xuq
+R3 SUPPORT ARG1:de6geOUcsG ARG2:lNpmtq8Xuq
+R4 SUPPORT ARG1:FUAwAG9rAf ARG2:lNpmtq8Xuq
+R5 SUPPORT ARG1:QZxWVI8w3b ARG2:lNpmtq8Xuq
+R6 SUPPORT ARG1:p1gCfXuFHN ARG2:lNpmtq8Xuq
+ArgQ0 SVP1u5i6LB SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 lNpmtq8Xuq SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

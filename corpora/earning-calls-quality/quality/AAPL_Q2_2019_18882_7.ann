@@ -1,0 +1,51 @@
+JpylobTUVp CLAIM-Opinion(view) 2129 2187 I think India is a very important market in the long-term.
+e2iHbtSEtO CLAIM-Fact 2233 2258 But we're learning a lot.
+zzTY27IPnx CLAIM-Fact 2527 2591 And so, we plan on going in there with sort of all of our might.
+LXud097XLx PREMISE-Fact 2592 2704 We've opened a developer, accelerator there, which we're very happy with some of the things coming out of there.
+e5yxYT9r-P CLAIM-Reformulated 2705 2727 It's a long-term play.
+ADeQrvvCR- CLAIM-Fact 2188 2232 It's a challenging market in the short-term.
+BILF3qHRxH CLAIM-Reformulated 2728 2793 It's not something that's going to be on overnight huge business.
+7nXN7bnB0I CLAIM-Opinion(view) 2794 2841 But I think the growth potential is phenomenal.
+vXyHbt3u-B CLAIM-Opinion(view) 2842 2973 It doesn't bother me that it's primarily Android business at the moment because that just means there's a lot of opportunity there.
+SXC7Gozdw3 NON-ARG 2988 3003 Thank you, Lou.
+xFtT2oWLpJ NON-ARG 3004 3132 A replay of today's call will be available for two weeks on Apple Podcasts as a webcast on Apple.com/investor and via telephone.
+Qtqo5YjQdU NON-ARG 3133 3206 And the numbers to the telephone replay are 888-203-1112 or 719-457-0820.
+o5j7XSYAnl NON-ARG 3207 3246 Please enter confirmation code 7060604.
+L7mHBQGaLl NON-ARG 3247 3327 And these replays will be available by approximately 5:00 PM Pacific Time today.
+YBxTF5qAvW NON-ARG 3328 3418 Members of the press with additional questions can contact Kristin Huguet at 408-974-2414.
+hwXvDrQN-5 NON-ARG 3419 3497 And financial analysts can contact Matt Blake or me with additional questions.
+58Gt-qUcyb NON-ARG 3498 3547 Matt is at 408-974-7406, and I'm at 408-974-5420.
+Yrx0-SDJ9u NON-ARG 3548 3580 And thanks again for joining us.
+u4MwlxuL-B CLAIM-Fact 2259 2370 We have started manufacturing there which is very important to be able to serve the market in a reasonable way.
+FHtxrkjyk7 CLAIM-Reformulated 2371 2411 And we're growing that capability there.
+i1Ch-v-QjT CLAIM-Opinion(view) 2412 2459 And we would like to place retail stores there.
+8_bfngbzmC PREMISE-Fact 2460 2526 And we're working with the government to seek approval to do that.
+oKjBkIiAHm NON-ARG 484 534 We're going to wait until we get these things out.
+-P29N36W0E CLAIM-Opinion(view) 535 716 And what I can tell you right now is that the -- we're taking sort of consumer interest on the Apple Card and there's been a significant level of interest on that and we're excited.
+h9sOTwr6XN PREMISE-Fact 717 780 As you know the -- gaming is the top category on the App Store.
+kfPo6m0AHO CLAIM-Fact 781 836 And so the Apple Arcade will serve some of that market.
+hoSKDn33qm CLAIM-Fact 837 949 And it serves it with a different kind of game, which we think will be great for developers and great for users.
+YIESTd4gxU PREMISE-Fact 950 1056 The TV+ product plays in a market where it's -- there's a huge move from the cable bundle to over the top.
+uK49lzusN1 CLAIM-Opinion(view) 1057 1130 We think that most users are going to get multiple over-the-top products.
+sBmoPTf-T9 CLAIM-Fact 1131 1228 And we're going to do our best to convince them that the Apple TV+ product should be one of them.
+HrrazJGjoA CLAIM-Fact 1229 1306 And then, we're working very hard to get everyone to give Apple News+ a look.
+V7QolZq4bs PREMISE-Other 1307 1351 Because we think it's a very unique product.
+p5hdDEIbui PREMISE-Other 1352 1373 And I love magazines.
+U2BLF-02rE PREMISE-Other 1374 1426 And we have really wanted to support the publishers.
+7RcLGNyv8G CLAIM-Reformulated 1427 1519 And so, we're working very hard to -- at the -- but at the very beginning of the ramp there.
+WeAxKUEwA9 NON-ARG 1520 1545 We wouldn't do a service…
+oVM3EYuT3G NON-ARG 1705 1732 Yeah, these aren't hobbies.
+Q8nNeDq5xT NON-ARG 1587 1629 …that we didn't think could be meaningful.
+m4YomcRbtL NON-ARG 1630 1669 So that's sort of the way I look at it.
+R0 SUPPORT ARG1:LXud097XLx ARG2:zzTY27IPnx
+R1 SUPPORT ARG1:8_bfngbzmC ARG2:i1Ch-v-QjT
+R2 SUPPORT ARG1:h9sOTwr6XN ARG2:kfPo6m0AHO
+R3 SUPPORT ARG1:YIESTd4gxU ARG2:uK49lzusN1
+R4 SUPPORT ARG1:V7QolZq4bs ARG2:HrrazJGjoA
+R5 SUPPORT ARG1:p5hdDEIbui ARG2:HrrazJGjoA
+R6 SUPPORT ARG1:U2BLF-02rE ARG2:HrrazJGjoA
+ArgQ0 zzTY27IPnx SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 i1Ch-v-QjT SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 kfPo6m0AHO SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 uK49lzusN1 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 HrrazJGjoA SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

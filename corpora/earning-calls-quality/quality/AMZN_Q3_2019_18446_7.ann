@@ -1,0 +1,11 @@
+S0i-RdX6S3 NON-ARG 610 621 Yeah, sure.
+XBWYtWKGV2 CLAIM-Fact 622 897 I would say the margins – our margins expectations are that we will price competitively and continue to pass along pricing reductions to customers both in the form of absolute price reductions and also in the form of new products that will in effect cannibalize the old ones.
+xa3XDF-R0K CLAIM-Fact 899 1077 And we also see a point out that you know increasingly what we’re doing is renegotiating or negotiating incremental price decreases for customers who then commit to us long term.
+NRgh1s1guL PREMISE-Statistic 1078 1242 And if you look at our disclosure on our 10-Q, it shows that we have $27 billion in future commitments for AWS, from AWS customers and that’s up 54% year-over-year.
+8_zDJrEPkc CLAIM-Reformulated 1243 1364 So that’s another thing to watch, it’s not only the short-term commitment, but also the long-term commitment that we see.
+JUjhpmQSAh CLAIM-Opinion(view) 1365 1475 On the rest of the P&L, there again we have, I believe some of the best infrastructure people in the industry.
+aIncf_J20l CLAIM-Fact 1476 1588 If not the best, we are continually driving up efficiency and lowering costs and we see that in our bottom line.
+qhXDcHdEXO CLAIM-Fact 1590 1810 The sales and marketing investment, we’re chasing a large opportunity here and that will be, you know as we say bumpy as we go along, but we are fully confident that that will be a very leveraged cost as we get to scale.
+KLk_UXbNiQ CLAIM-Fact 1812 2064 And then on the technology side, as you said, yes we will continue and invest in SDEs and software engineers to build these you know products that customers love, continue to respond to their demands, and that will push or inform our product portfolio.
+R0 SUPPORT ARG1:NRgh1s1guL ARG2:xa3XDF-R0K
+ArgQ0 xa3XDF-R0K SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

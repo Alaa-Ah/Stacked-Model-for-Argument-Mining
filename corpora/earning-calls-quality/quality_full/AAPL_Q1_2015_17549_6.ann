@@ -1,0 +1,25 @@
+aHw2WECwxG NON-ARG 527 532 Gene,
+QLz0uPtU2_ CLAIM-Fact 533 591 on Apple TV, we had a solid quarter with existing product.
+KYUqziBAKm PREMISE-Statistic 592 802 We’ve sold 25 million Apple TVs now which at the sake of repeating myself, it’s something that we continue to look at and work on and find a way that we can make even greater contribution than what we’re doing.
+802NKFfslx CLAIM-Opinion(view) 803 880 On Apple Pay, both the contactless payment and the in app are both important.
+DNWRTpiDZ2 CLAIM-Reformulated 881 922 I think they are both huge opportunities.
+ZF6iLMkHfk CLAIM-Opinion(view) 923 1155 I think they’ll play out differently in different geographic regions as to which one is larger than the other and well likely -- the mix of those things will change over time as more and more commerce flows across apps and so forth.
+lp9IKg_pJA CLAIM-Opinion(view) 1156 1224 In terms of how it evolves, I think we're in the first inning on it.
+sjDK12ogg_ CLAIM-Reformulated 1225 1283 I'm not -- we haven’t even completed the first inning yet.
+74caZuFBRD PREMISE-Fact 1284 1352 There's tons of things on our roadmap of adding functionality to it.
+Icct-btvuV PREMISE-Fact 1353 1582 We’re obviously -- we're just in the U.S. right now and so there's tons of countries to go to and there is not a day that goes by that I don’t get notes from many businesses outside U.S. running Apple Pay and banks and merchants.
+4s80p8F-ot PREMISE-Fact 1583 1646 And of course we still have a lot of merchants left in the U.S.
+pDGt3iDvBB CLAIM-Opinion(view) 1647 1859 But I have to tell you that given that we’ve launched in October, I'm actually unbelievably shocked, positively shocked at how many merchants were able to implement Apple Pay in the heart of their holiday season,
+B0Kjrei7EJ PREMISE-Fact 1860 1931 because generally most people sort of lock down and don’t do very much.
+O8a68w8MCw CLAIM-Reformulated 1932 2034 But we were able to get this in a lot of different merchants and I give them a lot of credit for that.
+6nxmnCVx8p CLAIM-Opinion(view) 2035 2075 But I think we’re just on the front end.
+I9Wo07y9kD CLAIM-Opinion(view) 2076 2123 And I think that this is the year of Apple Pay.
+7IL0cMRpjO CLAIM-Opinion(view) 2124 2271 And some of the things you mentioned and others are all things that we’re looking at and in many cases working on in terms of where it can take us.
+R0 SUPPORT ARG1:KYUqziBAKm ARG2:QLz0uPtU2_
+R1 SUPPORT ARG1:74caZuFBRD ARG2:lp9IKg_pJA
+R2 SUPPORT ARG1:Icct-btvuV ARG2:lp9IKg_pJA
+R3 SUPPORT ARG1:4s80p8F-ot ARG2:lp9IKg_pJA
+R4 SUPPORT ARG1:B0Kjrei7EJ ARG2:pDGt3iDvBB
+ArgQ0 QLz0uPtU2_ SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 lp9IKg_pJA SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 pDGt3iDvBB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

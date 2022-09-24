@@ -1,0 +1,18 @@
+CuVMlitYJz NON-ARG 840 857 Okay, I'll start.
+8HTWlSFCZa NON-ARG 858 1016 I mean, the first thing is to -- we need to have product truth and product competitiveness and capability to, first of all, play, and that's where I'll start.
+oqcQ0JETVF CLAIM-Fact 1017 1091 We have a very, very good compelling platform across our commercial cloud.
+BOGIVajIcz CLAIM-Fact 1092 1189 That's what's really leading us to be able to do these types of partnerships that you referenced.
+DCSyPGTCg1 CLAIM-Fact 1190 1298 It's clear that we also have a fantastic alignment of our business model with the interest of our customers.
+0cQXdJgE5P CLAIM-Opinion(view) 1991 2064 That's definitely something that I'm sure our customers pay attention to.
+c9zhaDAcYu CLAIM-Fact 2065 2291 But we are very focused on making sure that we have the right product that's competitive in the marketplace and then our business model that's long-term aligned with the interest of our customers, and we'll stay focused on it.
+XHo-FdJs39 PREMISE-Fact 2302 2532 And to your second question, most of these larger contracts are showing up in that commercial bookings number, and we referenced that on these -- when we say the longer -- larger, longer-term contracts, that is where they show up.
+WYBpKbZNHR PREMISE-Fact 2533 2654 Very little shows up in unearned, and that's the distinction that we're starting to see in many of these Azure contracts.
+LsRgZfkZUV CLAIM-Fact 2655 2740 It will, as it gets used, go straight to that Azure revenue growth number on the P&L.
+8C-XLDkSdL PREMISE-Other 1299 1720 In other words, we want to make sure that we are, in fact, making our customers fully capable digital companies in their own right, whether they're in retail, whether they're in oil and gas, whether they're in health care because that's really what's in our long-term interest, which is to ensure that they have full digital capability, and then they'd use the subscriptions and the consumption capabilities of our cloud.
+KtbYGeWwb5 PREMISE-Other 1721 1990 And of course, that means we have a trusted relationship, which is a competitive advantage in a world where some of our competitors have more complex business models, where in some cases they give them platforms, in other cases where they compete with them or tax them.
+R0 SUPPORT ARG1:XHo-FdJs39 ARG2:LsRgZfkZUV
+R1 SUPPORT ARG1:WYBpKbZNHR ARG2:LsRgZfkZUV
+R2 SUPPORT ARG1:8C-XLDkSdL ARG2:DCSyPGTCg1
+R3 SUPPORT ARG1:KtbYGeWwb5 ARG2:DCSyPGTCg1
+ArgQ0 LsRgZfkZUV SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 DCSyPGTCg1 SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

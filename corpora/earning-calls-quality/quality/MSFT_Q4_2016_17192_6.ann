@@ -1,0 +1,35 @@
+DLwWzhsCyV PREMISE-Fact 1097 1198 The growth in quarter versus our expectations was really two things that are transactionally focused.
+f0_btYK-Yh PREMISE-Fact 1199 1258 One, the PC market was a little bit better than we thought.
+GQg3fwWO2A PREMISE-Fact 1664 1709 The other thing was Japan was a little better
+18DtYlxXtw PREMISE-Fact 1259 1339 And particularly in developed markets, the PC growth was better than we thought.
+4oPce2HyZ7 PREMISE-RealExample 1340 1456 And developed markets are where we see the most transactional business with Consumer Office that impacts in quarter.
+wrtL1bLJo8 PREMISE-Fact 1457 1614 So the strength from that outperformance or better market in consumer PCs in developed markets is a direct correlation to our performance in Office Consumer.
+VswUs6waCV PREMISE-Other 1615 1663 And so that's how to think about that big delta.
+dDAJv1TMuq PREMISE-Fact 1711 1809 And when Japan is better, it's why you also see the interesting relationship in constant currency.
+Svlq_jq3yC PREMISE-Fact 1810 1907 We have a lot of yen exposure in that segment, so the Japan performance being better also helped.
+XTeadKVQrp NON-ARG 1993 2103 So you're right, Raimo, in terms of what impacted that number in quarter versus the underlying market dynamic.
+YmnGvU99P3 PREMISE-Fact 2104 2184 On commercial seats, listen, we're very proud of that big number, growth number.
+EoSbh9-_-7 PREMISE-Fact 2185 2238 But you're right, we're also getting a very big base.
+FLwV06iv2N PREMISE-Fact 2239 2458 And so while we feel great about continuing to add seats at that type of rate, converting and adding net new into our install base, you will see that growth rate come down just because the business is getting quite big.
+YUV-v57nMg PREMISE-Fact 1908 1992 And that is a purely – it's more transactional than even our rest-of-world business.
+aniiJwWpBD NON-ARG 761 775 Thanks, Raimo.
+7eQ3n_FsjS NON-ARG 776 823 Let me start with the Office Consumer question.
+KwEgwbjn6P NON-ARG 824 865 We haven't had a chance to touch on that.
+dCRsfOgKW5 NON-ARG 866 915 And then we'll talk about Commercial seat growth.
+coHSu8vGEN CLAIM-Fact 916 1096 You're right, the Office Consumer growth still has quite a bit of transactional business to it, even though we have moved, and you saw that growth, the subscriber base, materially.
+kkpLcfkQIy NON-ARG 2508 2523  Thanks, Raimo.
+HVGfdMiuni NON-ARG 2524 2561 We'll take the next question, please.
+R0 SUPPORT ARG1:DLwWzhsCyV ARG2:coHSu8vGEN
+R1 SUPPORT ARG1:f0_btYK-Yh ARG2:coHSu8vGEN
+R2 SUPPORT ARG1:18DtYlxXtw ARG2:coHSu8vGEN
+R3 SUPPORT ARG1:4oPce2HyZ7 ARG2:coHSu8vGEN
+R4 SUPPORT ARG1:wrtL1bLJo8 ARG2:coHSu8vGEN
+R5 SUPPORT ARG1:VswUs6waCV ARG2:coHSu8vGEN
+R6 SUPPORT ARG1:GQg3fwWO2A ARG2:coHSu8vGEN
+R7 SUPPORT ARG1:dDAJv1TMuq ARG2:coHSu8vGEN
+R8 SUPPORT ARG1:Svlq_jq3yC ARG2:coHSu8vGEN
+R9 SUPPORT ARG1:YUV-v57nMg ARG2:coHSu8vGEN
+R10 SUPPORT ARG1:YmnGvU99P3 ARG2:coHSu8vGEN
+R11 SUPPORT ARG1:EoSbh9-_-7 ARG2:coHSu8vGEN
+R12 SUPPORT ARG1:FLwV06iv2N ARG2:coHSu8vGEN
+ArgQ0 coHSu8vGEN SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

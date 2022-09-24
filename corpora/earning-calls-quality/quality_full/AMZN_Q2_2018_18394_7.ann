@@ -1,0 +1,31 @@
+zVNDDagK0L NON-ARG 920 1021 Yeah, let me give Dave a chance afterwards to talk about that piece, but I'll start with advertising.
+L1xUwpMs2E CLAIM-Fact 1022 1101 So conceptually stepping back, it's now a multi-billion dollar business for us.
+F2qZQ01YME PREMISE-Fact 1158 1261 Amazon vendors, sellers, authors as well as third-party advertisers who want to reach Amazon customers.
+18ZHCBIlJl PREMISE-Fact 1262 1335 So we have hundreds of thousands of emerging and established advertisers.
+8y7tb89YM_ PREMISE-Fact 1336 1505 And they're using our services to achieve their marketing goals to – whether that's to drive new brand awareness, discovery or ultimately purchase decisions on our site.
+ubmSRuZW69 CLAIM-Fact 1102 1157 We're seeing strong adoption across a number of fronts.
+m1OiOxx5vh CLAIM-Fact 1506 1677 Pain points and improvements, I would say, our priorities include improving the usability of our tools for advertisers, helping make smarter recommendations for customers.
+DkjVA5bmKu PREMISE-Fact 1678 1836 Automating, we're doing a lot of work on automating the activities that the advertisers need to do, and continue to invent new products for those advertisers.
+e9bOVNs8Wm PREMISE-Other 1837 2012 We also think measurement is going to be important so we're focused on our measurement capabilities, so advertisers understand what outcomes they're driving on our properties.
+5eIIjPKK8e CLAIM-Opinion(view) 2013 2110 And we think that we're uniquely positioned to show them the direct benefit of their advertising.
+ir7mj2xEvJ NON-ARG 2124 2129 Yeah.
+vCYSOXI7s8 NON-ARG 2130 2154 And Brian, this is Dave.
+jQFUut1TTT PREMISE-Statistic 2155 2439 Just on the accounting piece, specifically to Q2, the impact of the Accounting Standards Update, revenue recognition changes we did starting in the first part of year, it's a $640 million increase to other revenue, specifically related to how we treat some of the advertising service.
+QhN_ogjTzw PREMISE-Fact 2440 2587 So you remember as part of the adoption beginning in 2018, certainly the advertising services were classified as revenue rather than cost of sales.
+fl-cnQZpyR PREMISE-Fact 2588 2649 So $640 million more is in other revenue this second quarter.
+TldgPtrIhM PREMISE-Fact 2740 2986 In addition to that, some of the other factors I talked about last quarter, some of the treatment of gross to net changes in some sales of apps and app content, digital media costs, some of that shift created a headwind for online stores revenue.
+DAYhs1_ZQ3 PREMISE-Statistic 2650 2739 You'd see that in that line item, which is about $2.2 billion here in the second quarter.
+lyyFsa8zLF CLAIM-Fact 2987 3085 So that year-over-year growth rate for that line item would have been higher, but for that change.
+R0 SUPPORT ARG1:F2qZQ01YME ARG2:ubmSRuZW69
+R1 SUPPORT ARG1:18ZHCBIlJl ARG2:ubmSRuZW69
+R2 SUPPORT ARG1:8y7tb89YM_ ARG2:ubmSRuZW69
+R3 SUPPORT ARG1:DkjVA5bmKu ARG2:m1OiOxx5vh
+R4 SUPPORT ARG1:e9bOVNs8Wm ARG2:m1OiOxx5vh
+R5 SUPPORT ARG1:jQFUut1TTT ARG2:lyyFsa8zLF
+R6 SUPPORT ARG1:QhN_ogjTzw ARG2:lyyFsa8zLF
+R7 SUPPORT ARG1:fl-cnQZpyR ARG2:lyyFsa8zLF
+R8 SUPPORT ARG1:DAYhs1_ZQ3 ARG2:lyyFsa8zLF
+R9 SUPPORT ARG1:TldgPtrIhM ARG2:lyyFsa8zLF
+ArgQ0 ubmSRuZW69 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 m1OiOxx5vh SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 lyyFsa8zLF SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

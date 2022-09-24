@@ -1,0 +1,27 @@
+Sj6i3x5MMQ NON-ARG 746 791 Let me start with that second question first.
+UT-Lq83FnB PREMISE-Statistic 792 834 Yes, head count was up 38% year-over-year.
+0CWy_YlxNF NON-ARG 1106 1177 If you look at Prime Day, we're thrilled with the results of Prime Day.
+gEGoOMkGk_ PREMISE-Statistic 1554 1641 a bigger day than Black Friday, as we've said and orders increased 266% year-over-year.
+v3ASPmmuz1 PREMISE-Statistic 1642 1709 I'll also point out that worldwide FBA unit growth approached 300%,
+1t0XRUYlYM NON-ARG 1809 1909 So while not breaking out the impact of Prime Day specifically, it's incorporated into our guidance.
+RvssIm-lG5 NON-ARG 1710 1808 so not only was it a great day for Amazon, it was also a great day for our sellers which is great.
+_kzLkxFeAr NON-ARG 1437 1553 My hats off to operations team and all the people who worked on that because it was Christmas in July quite frankly,
+TyP6T_Rsbm NON-ARG 1035 1105 but this particular quarter is colored a bit by the operations growth.
+0XYpTgPoO- PREMISE-Fact 835 938 The vast majority of that is in operations where we are adding people for our new FCs and call centers.
+krmbcnwD5g CLAIM-Fact 939 1032 We continue to look for smart, innovative people who want to build on behalf of customers and
+z8t0uAoC_w NON-ARG 1033 1034 –
+wmdqSzMDst CLAIM-Fact 1178 1215 It surpassed all of our expectations.
+AKOZFbxjYw PREMISE-Fact 1216 1269 Any metric we look at, everything was a huge success.
+UxWjbyGJqi PREMISE-Fact 1270 1293 Customers save millions
+3TW0F-WZ7f PREMISE-Fact 1295 1359 New Prime members signed up in higher rates than we've ever seen
+20nv9s3JZF PREMISE-Fact 1361 1410 People bought more devices than on any other day.
+VMQ6VJ3lUB CLAIM-Reformulated 1411 1436 So, it's a great success.
+R1 SUPPORT ARG1:UT-Lq83FnB ARG2:krmbcnwD5g
+R2 SUPPORT ARG1:gEGoOMkGk_ ARG2:wmdqSzMDst
+R3 SUPPORT ARG1:v3ASPmmuz1 ARG2:wmdqSzMDst
+R4 SUPPORT ARG1:AKOZFbxjYw ARG2:wmdqSzMDst
+R5 SUPPORT ARG1:UxWjbyGJqi ARG2:wmdqSzMDst
+R6 SUPPORT ARG1:3TW0F-WZ7f ARG2:wmdqSzMDst
+R7 SUPPORT ARG1:20nv9s3JZF ARG2:wmdqSzMDst
+ArgQ0 krmbcnwD5g SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ1 wmdqSzMDst SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0

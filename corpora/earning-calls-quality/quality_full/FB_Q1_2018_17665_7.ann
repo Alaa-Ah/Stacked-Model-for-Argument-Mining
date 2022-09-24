@@ -1,0 +1,26 @@
+ClKlKL-Pgl NON-ARG 764 796 I could take the first question.
+dSuXuTV6zj CLAIM-Opinion(view) 797 877 So we think that ads is a great business model that is aligned with our mission.
+R_aKSx1urx CLAIM-Fact 878 1082 We want to build a service that can help connect everyone around the world, so we want to offer that service for free and have it be affordable, and that's completely aligned with what we're trying to do.
+aUqA4WwPP5 PREMISE-Fact 1083 1434 So even when we do other things, like we're running tests of payments, we have Marketplace which is growing and doing well, there may be other ways that we could think about making money from those, but in general our strategy is to offer those services at cost and make it so that businesses can bid what it is worth to them to run ads in the system.
+wGTlLlfWzp PREMISE-Fact 1435 1657 We think that that is both the most efficient way to run the business, it offers every business in the world the lowest prices that we can potentially offer, and it provides a great free service to people around the world.
+vN5A23umHH NON-ARG 1920 1930 Hey, Doug.
+bxBU65_44d NON-ARG 1931 1941 It's Dave.
+Zixz4wPs7W CLAIM-Fact 1942 2122 So if you recall, it's very consistent with what we've been talking about the last couple of quarters which is the acceleration of expense growth is really driven by three factors.
+6fe5gXctBI PREMISE-Fact 2123 2359 So it's the investments that we're making in safety and security, it's the content investments we're making to support Watch, and then finally it's the innovation initiatives around our longer term bets like AI, AR, VR and connectivity.
+z6iOKhA9qF CLAIM-Reformulated 2360 2388 So it's those three factors.
+RZ5PJDhQjm CLAIM-Fact 2389 2530 If I had to point to what's really leading us to tighten the range, it's really the first factor which is the safety and security investments
+4UJvhvwESH PREMISE-Fact 2532 2662 Specifically, we're putting more behind that more quickly than we anticipated, and so that's where you're going to see it come up.
+r42DHSiMs2 PREMISE-Statistic 2663 2819 If you look at the current results from this quarter, you'll see that our sales and marketing expense grew 51% in the quarter – one of the – year-over-year.
+TsFa_KMCpY PREMISE-Fact 2820 3014 One of the factors driving that is that's where we're categorizing our community operations investment and other operations teams that support the quality initiatives and the safety initiatives.
+7KSJyEyx-B CLAIM-Reformulated 3015 3132 So you're already seeing some of that getting picked up in the quarter and you'll see that carry through in the year.
+9Hr4dVGLxI NON-ARG 1658 1804 I know that a lot of people have had questions about the business model, and this is something that I just think we at Facebook are very proud of.
+jYppyALm4k CLAIM-Reformulated 1805 1902 And we think that it is the right way to build a service that connects everyone around the world.
+R0 SUPPORT ARG1:6fe5gXctBI ARG2:Zixz4wPs7W
+R1 SUPPORT ARG1:4UJvhvwESH ARG2:RZ5PJDhQjm
+R2 SUPPORT ARG1:r42DHSiMs2 ARG2:RZ5PJDhQjm
+R3 SUPPORT ARG1:TsFa_KMCpY ARG2:RZ5PJDhQjm
+R4 SUPPORT ARG1:aUqA4WwPP5 ARG2:R_aKSx1urx
+R5 SUPPORT ARG1:wGTlLlfWzp ARG2:R_aKSx1urx
+ArgQ0 Zixz4wPs7W SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ1 RZ5PJDhQjm SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_3
+ArgQ2 R_aKSx1urx SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

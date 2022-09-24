@@ -1,0 +1,32 @@
+CmXgfIkVvX NON-ARG 948 968 Hey Doug, it’s Dave.
+dy-SI-vt2O NON-ARG 969 1014 I'll start off on the impact on the business.
+dBnjZsjwDS CLAIM-Fact 1015 1223 The biggest focus – the biggest impact of the focus on meaningful interactions as Mark mentioned will be in areas like passive video, where from a business perspective, we monetize less on a time spent basis.
+fQWqZwgR6n PREMISE-Fact 1224 1498 So if you think about it in terms of things like post views in News Feed, which drives impression growth that we think this will have less of an impact, and so that's sort of built in to what I had said about the business commentary when I commented on 2018 revenue outlook.
+fF6dhyvigb CLAIM-Opinion(view) 1499 1612 We still believe we have an opportunity to grow impressions at a modest space year-over-year across the platform.
+2LcDJsZXgx CLAIM-Opinion(view) 1630 1771 When I think about the MSI changes, obviously any change that's beneficial for our community is good for the long run health of our business,
+tywylhAvlA PREMISE-Fact 1772 1861 because as Mark said, we care not just about time spent on Facebook, but time well spent.
+rAhZIDM6dO CLAIM-Fact 1862 1931 But even in the shorter-term all time spent on Facebook is not equal,
+sWyBYwIwJ- PREMISE-Fact 1932 2074 because when people spend time viewing more posts because they're interacting with family and friends and they're not involved in longer post.
+_n39OysXqx CLAIM-Fact 2075 2124 We have actually more monetization opportunities.
+2ITEZ5vOn5 CLAIM-Fact 2125 2185 We're not doing this to be positive or negative for revenue.
+-TPJNAeC_m PREMISE-Fact 2186 2248 We're doing this because is the right thing for our community.
+A_QVM2RdR5 NON-ARG 2249 2323 But the impact that has on monetization is certainly not clearly negative.
+06ODbt3IZm CLAIM-Fact 2324 2536 When you think about GDPR, the Facebook family of apps already applies the core principles in GDPR frame, which are transparency and control and we are building on this to make we’re ready to fully comply by May.
+zY3gAcmd2P PREMISE-Fact 2537 2749 We're going to continue to give people are personalized experience to be clear about how are using the data and give choices and we realize that this means that some users might opt out of our ads targeting tool.
+12N_O1vU9e PREMISE-Fact 2750 2829 We also know that there may be a DAU impact for implications on European usage.
+aDIK7FTSNK PREMISE-Fact 2830 2894 But from the targeting, we're not forecasting a big impact here.
+zQTCcTUq69 PREMISE-Fact 2895 2939 There's some risk and more watching closely.
+RI3BvKnHi0 CLAIM-Opinion(view) 2940 3032 Over the long run, we feel confident that we're very well placed to navigate the transition.
+R0 SUPPORT ARG1:fQWqZwgR6n ARG2:dBnjZsjwDS
+R1 SUPPORT ARG1:zY3gAcmd2P ARG2:06ODbt3IZm
+R2 SUPPORT ARG1:12N_O1vU9e ARG2:06ODbt3IZm
+R3 SUPPORT ARG1:aDIK7FTSNK ARG2:06ODbt3IZm
+R4 SUPPORT ARG1:zQTCcTUq69 ARG2:06ODbt3IZm
+R5 SUPPORT ARG1:tywylhAvlA ARG2:2LcDJsZXgx
+R6 SUPPORT ARG1:sWyBYwIwJ- ARG2:rAhZIDM6dO
+R7 SUPPORT ARG1:-TPJNAeC_m ARG2:2ITEZ5vOn5
+ArgQ0 dBnjZsjwDS SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 06ODbt3IZm SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 2LcDJsZXgx SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 rAhZIDM6dO SPECIFIC_0 PERSUASIVE_1 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 2ITEZ5vOn5 SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

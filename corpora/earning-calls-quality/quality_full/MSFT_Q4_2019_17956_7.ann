@@ -1,0 +1,23 @@
+jCFRYTGmYY NON-ARG 805 818 Thanks, Karl.
+wxxVIjUZBQ CLAIM-Fact 819 979 And I will actually combine these, because really those are fundamental driver that sits underneath this and then we can get to the specifics of end of support.
+arisnVIo72 CLAIM-Opinion(view) 980 1114 There's, I think a recognized momentum with Windows 10 if deployment inside of enterprises for its security and management value prop.
+BUJPnzLR1z CLAIM-Fact 1115 1244 We worked hard and I think Satya mentioned some of the new features as we continue to invest on security for all of our products.
+71U4idE24Z CLAIM-Opinion(view) 1245 1340 One of the places I think it often resonates the most is with Windows 10 and inside that value.
+VyL9dT067F CLAIM-Fact 1341 1620 The OEM Pro number as I talked about was impacted by a number of factors, but what we’ve seen is over the past three or four quarters, a pretty consistent sort of high single-digit performance once you take out various impacts and chip supply and inventory levels on the tariffs.
+alrlcI5YU4 CLAIM-Fact 1621 1714 That performance certainly has some end of support impact to it as we've talked about before.
+i-myjw49HH CLAIM-Opinion(view) 1715 2069 I think, in general, what we've seen in prior releases is, it does extend a bit past the deadline, especially in our small and mid-sized business customers, and it's really important for us to continue to work hard to have the small and medium businesses find a path forward to make sure they can experience the most secure computing environment we have.
+mNIY9UAMU_ CLAIM-Fact 2070 2218 And so, we will see some extension pass the line, we certainly have seen three or four quarters of that and we certainly expect H1 to remain strong.
+1k6JHHVh5W CLAIM-Fact 2386 2516 The Microsoft 365 value prop to customers, especially in the second half of the year and particularly in Q4, has three components.
+K56rYQ8LwR PREMISE-Fact 2517 2595 It has Office 365, it has EMS, and it has its Windows 10 commercial component.
+DCBbDiomv2 CLAIM-Fact 2596 2743 The Windows 10 commercial component will look far more like our success and our motion and overall being able to sell the Microsoft 360 value prop.
+TWIEVSonQM CLAIM-Fact 2744 2775 It was a good quarter for that.
+tMWdsn2vh9 CLAIM-Opinion(view) 2859 3054 I expect that to continue, although you will have volatility because what's interesting about that specific metric is, it has a little bit more 606 impact than we’ve felt it's an on-prem product.
+14MkAV45W0 CLAIM-Reformulated 3055 3244 And so there will be volatility in this number, but the consistent theme of being double-digit billings that really match our strength in Office 365, I think -- and I do expect to continue.
+qNjSlZ57vk NON-ARG 3307 3320 Thanks, Karl.
+8RxFLM-IZ9 NON-ARG 3321 3373 Operator, we will move to the next question, please.
+-eDrAUeMqr CLAIM-Fact 2219 2385 The more important part around the security management value prop is in fact I'm going to pivot back again a little bit, because it's the same thing we saw in Office.
+c7QiVVfWD2 PREMISE-Fact 2776 2858 We’ve seen consistent double-digit billings in this segment and it speaks to that.
+R0 SUPPORT ARG1:c7QiVVfWD2 ARG2:TWIEVSonQM
+R1 SUPPORT ARG1:K56rYQ8LwR ARG2:1k6JHHVh5W
+ArgQ0 TWIEVSonQM SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 1k6JHHVh5W SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

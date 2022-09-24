@@ -1,0 +1,31 @@
+f6qIwjUUFz NON-ARG 536 698 Let me sort of speak to it in generic terms because I don't think we have sort of quantified it as narrowly perhaps, just to address those specific moves we made.
+5zpQDRE4Lc CLAIM-Opinion(view) 699 887 But overall, the way we have thought about it is, we want to make sure the Office subscription, both to consumers as well as to enterprise subscribers, is valuable across all their devices
+WrlUgcrvJ0 PREMISE-Other 888 1044 because it speaks to the vision that we have, which is the cloud is what enables the mobility of the human experience across all of the devices in your life
+zUkaqoH99F PREMISE-Other 1046 1253 Because increasingly, there will be more devices and we want to make sure that we're adding value and if we add value in that context, you will be more inclined to retain or purchase the Office subscription.
+832SZk8LQw CLAIM-Reformulated 1254 1347 So that's been our goal and that's working well and it sort of shows up in our all-up growth.
+1jqN67sJYx PREMISE-Fact 1609 1719 So Azure is a complete open platform where of course you can run all the Windows workloads, the .NET workloads
+QHxnatOSPN PREMISE-Fact 1721 1848 But we're increasingly seeing the open source workloads, the Linux workloads, the Oracle workloads, the SAPs and what have you.
+u-fOYSl0GO CLAIM-Fact 1348 1517 And similarly with Azure, we're making sure that as people are tapping into the cloud and moving to the cloud, we can get all workloads to be as first class as on Azure.
+aKqE-cRgeU PREMISE-RealExample 1518 1566 So that's why we've done the deals with Red Hat.
+5iJPnuVvHs PREMISE-RealExample 1567 1608 We even did previously deals with Oracle.
+oM67yYafWG PREMISE-Fact 1849 1935 And more interestingly the mix of all of them because the enterprise is heterogeneous.
+_8S9HhV6pN PREMISE-Fact 1936 1962 It has been heterogeneous.
+iqpCAQwItu PREMISE-Fact 1963 2070 We participated only in a portion of it, whereas with Azure, we can participate as the total open platform.
+R7vkGjB4h_ CLAIM-Reformulated 2071 2141 And that's how we thought about it and that's what we're executing on.
+NIrzkbazWL NON-ARG 2154 2188  Thanks, Ed, and thanks everybody.
+nZuFizzQZL NON-ARG 2199 2212  Yes, thanks.
+biZaseQrDL NON-ARG 2227 2248  Thank you very much.
+BIJjLGfhyt NON-ARG 2259 2266  Great.
+hmHLdMrDGF NON-ARG 2267 2316 So that wraps up the Q&A portion of today's call.
+mgcNYbEZcJ NON-ARG 2317 2408 We look forward to seeing many of you at the coming months at various investor conferences.
+mvdlRloSSk NON-ARG 2409 2534 For those unable to attend in person, these events will be webcast and you can follow the comments at microsoft.com/investor.
+srUkGGiYpF NON-ARG 2535 2626 Please contact us if you need additional details, and thank you again for joining us today.
+R0 SUPPORT ARG1:WrlUgcrvJ0 ARG2:5zpQDRE4Lc
+R1 SUPPORT ARG1:zUkaqoH99F ARG2:5zpQDRE4Lc
+R2 SUPPORT ARG1:aKqE-cRgeU ARG2:u-fOYSl0GO
+R3 SUPPORT ARG1:5iJPnuVvHs ARG2:u-fOYSl0GO
+R4 SUPPORT ARG1:1jqN67sJYx ARG2:u-fOYSl0GO
+R5 SUPPORT ARG1:QHxnatOSPN ARG2:u-fOYSl0GO
+R6 SUPPORT ARG1:oM67yYafWG ARG2:u-fOYSl0GO
+R7 SUPPORT ARG1:_8S9HhV6pN ARG2:u-fOYSl0GO
+R8 SUPPORT ARG1:iqpCAQwItu ARG2:u-fOYSl0GO

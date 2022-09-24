@@ -1,0 +1,14 @@
+x3jPGW1e3W CLAIM-Fact 507 555 So we deliver, really quickly, a couple of ways.
+GYMLJUIY8D PREMISE-Fact 556 640 One is the same-day that you've seen us rollout in number of markets here in the US.
+qsrw0D7xgC PREMISE-Statistic 641 723 There is Prime Now and we're now in more than 25 metropolitan areas for Prime Now.
+qDDg4gZKXt PREMISE-Fact 724 811 And delivering for free in two hours is difficult and expensive, but customers love it.
+6z1OrDrW1i CLAIM-Opinion(view) 812 916 So we feel like this is the natural evolution of our delivery and we're happy to invest in that service.
+6PV695295F CLAIM-Reformulated 917 966 You know, we like what it does for Prime members.
+2cz2YTjnV5 CLAIM-Reformulated 967 998 We like the convenience factor.
+yfvxGm2dmS PREMISE-Fact 999 1147 And so we're taking a long-term approach and doing what we normally do, which is really focus on continuing to drive greater and greater efficiency.
+R0 SUPPORT ARG1:yfvxGm2dmS ARG2:6z1OrDrW1i
+R1 SUPPORT ARG1:GYMLJUIY8D ARG2:x3jPGW1e3W
+R2 SUPPORT ARG1:qsrw0D7xgC ARG2:x3jPGW1e3W
+R3 SUPPORT ARG1:qDDg4gZKXt ARG2:x3jPGW1e3W
+ArgQ0 6z1OrDrW1i SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 x3jPGW1e3W SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

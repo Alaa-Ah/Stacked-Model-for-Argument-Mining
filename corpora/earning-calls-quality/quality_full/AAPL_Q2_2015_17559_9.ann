@@ -1,0 +1,22 @@
+HHCnXzhOfo NON-ARG 709 759 I missed the second part of your question totally.
+lqdBVYLNdK NON-ARG 760 802 Can you get a little closer to your phone?
+I6fqqL74Ir NON-ARG 1050 1143 don’t have the comparisons in front of me, about the answers to either one of your questions.
+h5AQ8BId5a NON-ARG 1144 1305 My understanding of what you asked was is the 20% number that I’d mentioned in the question from Gene, how does it compare year over year, is it a lot different?
+c8VrviVN5_ NON-ARG 1306 1361 I don’t know the answer to that off the top of my head.
+qLG-zPpgmf CLAIM-Opinion(view) 1489 1569 And so as I look at that, it screams that there’s significant opportunity there.
+chaYlrz8hV NON-ARG 1570 1635 And that’s before thinking about switchers and first time buyers.
+ieXOIB-8GI PREMISE-Fact 1362 1488 As I look at the number, my point from bringing it up is that there’s a lot of people that haven’t upgraded to a 6 and 6 plus.
+iJQOx0hthj NON-ARG 1982 2112 Let me tell you, there are a number of reasons why our guidance for gross margins is lower than the actual for the second quarter.
+TyxMLQ2o2P PREMISE-Fact 2113 2197 The first one is the loss of leverage, because of the sequential decline in revenue.
+xHyJYciQ7I PREMISE-Fact 2198 2266 We got the foreign exchange, we got as you said, a lower iPhone mix.
+6e9VRFA-Nd PREMISE-Fact 2267 2294 And we got the Apple Watch.
+MUQ7-QYN81 NON-ARG 2297 2371 think we’ll leave it at that, and we’re not gonna get into more specifics.
+VzQ1zCmzKn CLAIM-Fact 2372 2437 But those are the four reasons that drive the sequential decline.
+qvxvpdixFf NON-ARG 1047 1050  I 
+aXubyutYlL NON-ARG 2294 2297  I 
+R0 SUPPORT ARG1:ieXOIB-8GI ARG2:qLG-zPpgmf
+R1 SUPPORT ARG1:TyxMLQ2o2P ARG2:VzQ1zCmzKn
+R2 SUPPORT ARG1:xHyJYciQ7I ARG2:VzQ1zCmzKn
+R3 SUPPORT ARG1:6e9VRFA-Nd ARG2:VzQ1zCmzKn
+ArgQ0 qLG-zPpgmf SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 VzQ1zCmzKn SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

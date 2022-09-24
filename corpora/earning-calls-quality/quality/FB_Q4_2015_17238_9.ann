@@ -1,0 +1,31 @@
+mhcZMz7_y- NON-ARG 872 916 I can start with the ad load question, Doug.
+Q8oQuJBwHi PREMISE-Fact 1079 1302 Really one thing to kind of think about here is that improving the quality and the relevance of the ads has enabled us to show more of them and without harming the experience, and our focus really remains on the experience.
+bFTWMGnnVj CLAIM-Fact 1303 1373 So, we’ll continue to monitor engagement and sentiment very carefully.
+r2Qlp8x47K PREMISE-Fact 1374 1493 I mentioned that we expect the factors that drove the performance in 2015 to continue to drive the performance in 2016.
+0mGxRN-1QW CLAIM-Opinion(view) 1494 1546 So, I think that’s the color I can give on ad loads.
+f5cQgAM5Lo CLAIM-Fact 1564 1629 On Messenger, the platform efforts in 2015 focused on two things.
+ps6PtCJObF PREMISE-Fact 1630 1716 One was expanding the different types of content that people could share in Messenger.
+OAV21LRd7Q CLAIM-Fact 1717 1757 And that diversity is going really well.
+qPxlQ2CbE5 PREMISE-Fact 1758 1947 And we see continued increase in video sharing and photos and stickers, and a lot of stuff that you would just call fun but that people really enjoy as different ways to express themselves.
+-K111Rk7ym CLAIM-Fact 1948 2064 But in terms of the business, the more important piece is how people can interact with businesses through Messenger.
+6lDZoZwZgf PREMISE-Fact 2065 2283 And we started some early small tests around f8 last year where with some ecommerce services made it so that people who were buying things could follow up with the business and get customer support and buy more things.
+anssMnXX8d PREMISE-Fact 2284 2401 And we went through this process of integrating that and making sure that it’s integrated with all these system well.
+sOeWGAcoYm CLAIM-Opinion(view) 2402 2456 And I think everyone is really happy with that so far.
+K8f2FGG-Zl CLAIM-Reformulated 2457 2590 So we started off pretty slowly, but that’s going to be some of the basis for how we look to make Messenger a business going forward.
+32n-W4UY4s CLAIM-Reformulated 2591 2632 And we’re happy with the initial results.
+WST8IQful4 NON-ARG 2633 2743 There is obviously a lot more there that we need to do and we’ll have more to talk about this year and beyond.
+k5UnBKbm0P PREMISE-Fact 917 1001 So, ad load is definitely up significantly from where we were a couple of years ago.
+l_sdUaxEsE PREMISE-Fact 1002 1078 And as I mentioned, it’s one of the factors driving an increasing inventory.
+R0 SUPPORT ARG1:Q8oQuJBwHi ARG2:bFTWMGnnVj
+R1 SUPPORT ARG1:r2Qlp8x47K ARG2:0mGxRN-1QW
+R2 SUPPORT ARG1:ps6PtCJObF ARG2:f5cQgAM5Lo
+R3 SUPPORT ARG1:qPxlQ2CbE5 ARG2:OAV21LRd7Q
+R4 SUPPORT ARG1:6lDZoZwZgf ARG2:-K111Rk7ym
+R5 SUPPORT ARG1:anssMnXX8d ARG2:-K111Rk7ym
+R6 SUPPORT ARG1:k5UnBKbm0P ARG2:bFTWMGnnVj
+R7 SUPPORT ARG1:l_sdUaxEsE ARG2:bFTWMGnnVj
+ArgQ0 bFTWMGnnVj SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 0mGxRN-1QW SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 f5cQgAM5Lo SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 OAV21LRd7Q SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 -K111Rk7ym SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0

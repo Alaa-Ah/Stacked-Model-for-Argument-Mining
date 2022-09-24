@@ -1,0 +1,16 @@
+9WGdIDS0La PREMISE-Statistic 1047 1149 And if you look at this last quarter, our annuity grew double digits and our cloud grew triple digits.
+rYXXluIocW CLAIM-Fact 928 1046 And the way we track progress is to see how is our annuity growth of our server business, and how is our cloud growth.
+uJTW-0LEM0 CLAIM-Fact 1426 1474 The Transactional business is much more volatile
+iW4YaxC20- PREMISE-Fact 1475 1561 because of the macro environment, IT budgets, and also the secular shift to the cloud.
+hIkz_Mpouv CLAIM-Opinion(view) 1562 1626 The question again that gets asked is about the cannibalization.
+m_n9KjMiHD PREMISE-RealExample 1627 1810 But if you look at Boeing or you look at any of the other examples that I talk about when it comes to the cloud, our servers never did what these customers are now doing in our cloud.
+wwBRunxiKx CLAIM-Fact 761 927 Overall, Karl, the focus for us is in what I describe as this hyperscale-plus-hybrid approach when you think about the current approach, which is pretty unique to us.
+_o6utTd8KX CLAIM-Reformulated 1811 2034 So at a fundamental long-term secular basis, we have new growth, new workloads, and that's what we are focused on, and that's a much bigger addressable market than anything our Transactional Server business had in the past.
+5uF4nycZLB PREMISE-Fact 1150 1425 And that's a pretty healthy growth rate, and that's something that by design both in terms of the technical architecture as well as the traction we have in the marketplace and our sales efforts and so on are playing out well, and we are very bullish about that going forward.
+LBSJbB4Gbr NON-ARG 713 760 Let me start, and then, Amy, you can add to it.
+VmBImsEETk NON-ARG 2045 2062  Thank you, Karl.
+XYEuOaDfpy NON-ARG 2063 2100 We'll take the next question, please.
+R0 SUPPORT ARG1:9WGdIDS0La ARG2:rYXXluIocW
+R1 SUPPORT ARG1:iW4YaxC20- ARG2:uJTW-0LEM0
+R2 ATTACK ARG1:m_n9KjMiHD ARG2:hIkz_Mpouv
+R3 SUPPORT ARG1:5uF4nycZLB ARG2:rYXXluIocW

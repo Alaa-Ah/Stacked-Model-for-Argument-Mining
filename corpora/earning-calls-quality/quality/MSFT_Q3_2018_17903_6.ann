@@ -1,0 +1,39 @@
+zem2rd40dh NON-ARG 948 1025 So maybe I'll start and then I'll have you, Amy, go into sort of the numbers.
+1g6WH_RPnN CLAIM-Fact 1026 1125 One of the things, Heather, that's happening is there is growth in Azure across each of the layers.
+Ie1zoQh-g6 CLAIM-Opinion(view) 1126 1160 And I think I've said this before.
+kJBw05EAqy PREMISE-Fact 1161 1421 Sometimes, when you have new workloads and new customers onboard, they start with in some sense the IaaS and the data more at Blob storage, but then scale to higher layer services like our Cosmos DB or even some of our compute higher-level services like in AI.
+Cf4Nyv_sTu CLAIM-Opinion(view) 1422 1452 So that I think will continue,
+4jj4F0eeCZ PREMISE-Fact 1453 1518 because we're still in the early innings of the cloud transition.
+z45recya8V PREMISE-Fact 1519 1659 We're investing aggressively, whether it's on the field side or on the CapEx side to attract more customers and more workloads per customer.
+lO0S9Zwx5n PREMISE-Fact 1660 1768 So they will have that same profile, which is lower-margin services first, higher-margin services over time.
+V6dnKnMATP PREMISE-Fact 1769 1797 That's just inside of Azure.
+qQ099ySzjJ PREMISE-Fact 1798 1844 And of course, you combine that with the rest.
+ofO2VI1Ajp CLAIM-Opinion(view) 1845 2019 One of the things that I think should be fairly clear is the high correlation between our services in Office 365 as well as Dynamics 365 around data in particular with Azure.
+FKS_lOwCJd CLAIM-Reformulated 2020 2141 So that's why we think of this as one cloud play but that should give you a feel for how the customers are looking at it.
+beD2iQAyIw NON-ARG 2155 2233 And I think to your specific questions, there were a couple in there, Heather.
+eN978pVr2A CLAIM-Fact 2234 2373 If you think about the portion of our commercial cloud gross margins that come from depreciation, it's best to think of it as roughly half.
+2JGdXI_9cU PREMISE-Fact 2374 2473 And actually it's been going up as we began to get scale through these services over time actually.
+-xnxHIotJe PREMISE-Fact 2474 2566 Some of the fixed costs, frankly, even in COGS, tend to come down as a percentage over time.
+3fET4Tk9vR CLAIM-Reformulated 2567 2654 So that should help you roughly to think about how much depreciation is at that number.
+hdhzMhVGdo CLAIM-Value 2655 3052 Now, if you think about some of the dynamics that we've been going through in the intelligent cloud segment, in particular the way I tend to think about that, as you've seen, we're now 20% growth this quarter in that server and product services KPI, 17% on a constant currency basis, and are sort of confident that you should continue to see that, as I said, into Q4 and then into FY 2019 as well.
+of9NJP0dkk PREMISE-Fact 3053 3137 I tend to think about that as we'll have significant revenue growth in that segment.
+diC2HvOBKi PREMISE-Fact 3138 3362 We'll have significant gross margin dollar growth in that segment, and you'll actually continue to see operating margin dollar growth that's significant in that segment even as we reinvest into it, given the top line signal.
+hfJYjiC4qT PREMISE-Fact 3363 3502 If you think about gross margins in particular, what you'll see is Azure continuing to be a growing percentage of the total revenue growth.
+k6RRPvOX6E CLAIM-Reformulated 3503 3780 So even with significant improvement again in, what Satya was talking about, some of the lower level IaaS and PaaS services within Azure, on the gross margin side you'll see some gross margin percentage pressure in that segment through 2019, but with significant dollar growth.
+yiWxNrQmnK NON-ARG 3832 3849  Thanks, Heather.
+qZYbObMSCV NON-ARG 3850 3887 We'll take next question now, please.
+R0 SUPPORT ARG1:kJBw05EAqy ARG2:1g6WH_RPnN
+R1 SUPPORT ARG1:4jj4F0eeCZ ARG2:Cf4Nyv_sTu
+R2 SUPPORT ARG1:z45recya8V ARG2:Cf4Nyv_sTu
+R3 SUPPORT ARG1:lO0S9Zwx5n ARG2:Cf4Nyv_sTu
+R4 SUPPORT ARG1:V6dnKnMATP ARG2:Cf4Nyv_sTu
+R5 SUPPORT ARG1:qQ099ySzjJ ARG2:Cf4Nyv_sTu
+R6 SUPPORT ARG1:2JGdXI_9cU ARG2:eN978pVr2A
+R7 SUPPORT ARG1:-xnxHIotJe ARG2:eN978pVr2A
+R8 SUPPORT ARG1:of9NJP0dkk ARG2:hdhzMhVGdo
+R9 SUPPORT ARG1:diC2HvOBKi ARG2:hdhzMhVGdo
+R10 SUPPORT ARG1:hfJYjiC4qT ARG2:hdhzMhVGdo
+ArgQ0 1g6WH_RPnN SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 Cf4Nyv_sTu SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 eN978pVr2A SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 hdhzMhVGdo SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_1

@@ -1,0 +1,34 @@
+S-P0PnhfS_ NON-ARG 570 575 Sure.
+f-IrS78WDE CLAIM-Opinion(view) 576 729 So I mean across the whole family of apps, I mean all of this engagement is growing quickly and we're very happy with how we're enabling people to share.
+EUkWCo58o2 PREMISE-Fact 730 869 As I said, the vast majority or the majority of the growth that we're seeing in sharing is coming from private messaging and story sharing.
+qq4Uqvz9L6 CLAIM-Fact 870 902 So that's kind of the big thing.
+oquefVcsdv PREMISE-Fact 1161 1240 But it was coming at the expense of people interacting with each other as much.
+RBEUXryC1Y PREMISE-Fact 1241 1267 So interactions were down.
+AKmAfzDknS PREMISE-Fact 1268 1344 And we got a lot of feedback from people saying that's not what they wanted.
+SykLc9SOL_ PREMISE-Other 1345 1403 We don't think that that's what we're uniquely here to do.
+2QXoHf3wZA PREMISE-Fact 1404 1440 It's not the mission of the company.
+H5lfqPgGgw PREMISE-Fact 1441 1482 So we felt like that was not sustainable.
+-kar2Y5_rW CLAIM-Fact 1483 1637 So we've made a lot of shift this year, which I've talked a lot about on a bunch of these calls, to encourage more meaningful social interactions instead.
+hCgd0lzTtH CLAIM-Fact 1638 1733 And we have seen that those changes have improved the trajectory of how people are interacting.
+8OT1sR2Bgt PREMISE-Fact 903 1160 The basic story that we've seen within the Facebook app is, over the last few years, the amount of time that people were spending in the app was increasing primarily because people were consuming more public content, like passive video consumption and news.
+5hiTAQUdqX NON-ARG 1734 2030 Now, at the same time that we have intentionally reduced time spent on certain things, like lower-quality viral videos, some news, some passive content, but that's what I was talking about before when I said that now the trend – and you can kind of look at it in developed markets and developing.
+YqP9Y_t03_ PREMISE-Fact 2153 2275 And in developing countries, where a lot of people are still getting on the Internet, it continues to grow at a fast rate.
+HCCPExV44m CLAIM-Fact 2276 2360 And we think that there's a lot more connecting in community that people want there.
+shjIFctImR NON-ARG 2361 2405 So that's kind of what we're seeing overall.
+6DLXqmJHWL CLAIM-Opinion(view) 2406 2462 Across the whole family, I would say it's very positive.
+mhdmvsvloD NON-ARG 2463 2665 On Facebook overall, I feel like we have a handle on what the drivers of this are and we're kind of driving it to be what people tell us they want and what we think is going to be sustainable over time.
+BLwPClzlOO NON-ARG 2666 2698 That's the picture that we have.
+iEzPXdheyr PREMISE-RealExample 2031 2152 In developed markets, it is stable and we feel like we're pretty close to saturation in a lot of countries, like the U.S.
+R0 SUPPORT ARG1:EUkWCo58o2 ARG2:f-IrS78WDE
+R1 SUPPORT ARG1:8OT1sR2Bgt ARG2:-kar2Y5_rW
+R2 SUPPORT ARG1:oquefVcsdv ARG2:-kar2Y5_rW
+R3 SUPPORT ARG1:RBEUXryC1Y ARG2:-kar2Y5_rW
+R4 SUPPORT ARG1:AKmAfzDknS ARG2:-kar2Y5_rW
+R5 SUPPORT ARG1:SykLc9SOL_ ARG2:-kar2Y5_rW
+R6 SUPPORT ARG1:2QXoHf3wZA ARG2:-kar2Y5_rW
+R7 SUPPORT ARG1:H5lfqPgGgw ARG2:-kar2Y5_rW
+R8 SUPPORT ARG1:iEzPXdheyr ARG2:HCCPExV44m
+R9 SUPPORT ARG1:YqP9Y_t03_ ARG2:HCCPExV44m
+ArgQ0 f-IrS78WDE SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 -kar2Y5_rW SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 HCCPExV44m SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,22 @@
+6NFSL_rwEj NON-ARG 745 783 Yes, I can start on the expense front.
+jYIqMRPRx3 CLAIM-Value 784 877 We continue to have an outlook for expense growth in 2019 of 40% to 50% total expense growth.
+2011hbekOr PREMISE-Statistic 878 946 We did see headcount growth come down modestly in Q4 from Q3 to 42%.
+LegTlHJzlg CLAIM-Reformulated 947 1074 As we look out, we do expect that beyond 2018 - sorry, beyond 2019, we'll have expense growth more in line with revenue growth.
+b95yqX_XiA PREMISE-Fact 1356 1427 And you already saw that pick up with the cost of revenue growth in Q4.
+eyPvxxALG9 CLAIM-Reformulated 1428 1491 And so we'll expect to see more of that flow through over time.
+GFNgHPt6wC CLAIM-Reformulated 1492 1655 So I would say, we do plan to continue to invest aggressively in the business going forward, and we are going to see, obviously, a margin impact from that in 2019.
+jSZrnsSaAH CLAIM-Fact 1075 1282 But we do plan to continue to invest aggressively in the priority areas, including on the innovation side with AR/VR and AI and continuing to invest in the safety and security programs that we're undergoing.
+m-AFA4gC01 CLAIM-Opinion(view) 1283 1355 And then CapEx, we'll see continue to flow in through the P&L over time.
+D_BQLjx5MA NON-ARG 1673 1792 And I can talk a bit about meaningful social interactions, although I don't have any specific metrics to share on this.
+P4ZRPe7pyC CLAIM-Opinion(view) 1793 1928 I mean, my own take of this, I think this has gone pretty well and has done what we had hoped, although we've made a number of changes.
+ckCBoI5llQ PREMISE-Fact 1929 2230 This is a long-term direction that we're going to continue making more ranking changes and building more products around, but I think that this is kind of reflected broadly in the numbers that you see on engagement and the growth in daily actives and how people are engaging across the family of apps.
+T4XdJ6MU7V PREMISE-Fact 2231 2412 At the time, what I basically said was, that even though this might decrease time spent and we expected that it would, is we took out especially a bunch of watching of viral videos.
+dlQ_o-Hofj PREMISE-Fact 2413 2596 We thought that helping people interact more was the unique thing that people come to our services for and that it would be good for the community and the business over the long term.
+AzPPu1JOHm PREMISE-Fact 2597 2679 And certainly, everything that we've seen since then suggests that, that is right.
+R0 SUPPORT ARG1:b95yqX_XiA ARG2:m-AFA4gC01
+R1 SUPPORT ARG1:ckCBoI5llQ ARG2:P4ZRPe7pyC
+R2 SUPPORT ARG1:T4XdJ6MU7V ARG2:P4ZRPe7pyC
+R3 SUPPORT ARG1:dlQ_o-Hofj ARG2:P4ZRPe7pyC
+R4 SUPPORT ARG1:AzPPu1JOHm ARG2:P4ZRPe7pyC
+ArgQ0 m-AFA4gC01 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 P4ZRPe7pyC SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

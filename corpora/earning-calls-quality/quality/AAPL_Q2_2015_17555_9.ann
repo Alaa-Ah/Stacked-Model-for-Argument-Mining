@@ -1,0 +1,31 @@
+Tb6qFhrQ4o PREMISE-Statistic 449 512 Gene, if you look at the overall worldwide, we grew iPhone 40%.
+UgraFl6qA0 PREMISE-Statistic 513 605 And IDC’s estimate of the market for last quarter is a 16%, so we grew two and a half times.
+x-FCqiYWif PREMISE-Fact 606 727 And if you kind of look through at the different countries, in almost every country, we grew at a multiple of the market.
+iwdWpfIzdU PREMISE-Fact 728 798 And as I mentioned before, in emerging markets, we did extremely well.
+ecKYLfMMGb CLAIM-Opinion(view) 799 970 And so I feel really good about where we are, and you can hopefully tell with the strong guidance that we provided, that we’re very bullish on the current quarter as well.
+ViAZqq5_Ha CLAIM-Reformulated 971 1014 And so I think things look very, very good.
+6rkKXFCuBC CLAIM-Opinion(view) 1015 1158 We’re also pleased, in addition to the switcher number, that we’re doing fairly well with first time buyers, which is also a key metric for us.
+TG9UBCJJGf CLAIM-Reformulated 1159 1222 And so it’s tough to find something in the numbers not to like.
+vKNuGXQzMC NON-ARG 1237 1284 And Gene, let me take your question on margins.
+PKuZJN6bxV NON-ARG 1285 1371 I’ll talk about Q3, because you know, this is the period that we provide guidance for.
+EBV3vmnAti CLAIM-Value 1372 1457 And we guided to 38.5% to 39.5%, which is slightly down versus our performance in Q2.
+DRk9h7KWnp NON-ARG 1458 1499 And this is driven by a number of things.
+ZbU9Ahbymv PREMISE-Fact 1500 1579 First of all, it’s the loss of leverage from the sequential decline in revenue.
+l22h7kXaWi PREMISE-Fact 1580 1615 This is typical of our seasonality.
+Ut4yFmrafu PREMISE-Statistic 1616 1739 There’s a foreign exchange element, and I mentioned before the negative impact on a sequential basis about 40 basis points.
+3puDiorSVr PREMISE-Fact 1740 1782 And also, we’re launching the Apple Watch.
+6HDvHxEZGv PREMISE-Other 1919 1978 And Apple Watch margins will be lower than company average.
+ipTa0Cpvvv PREMISE-Fact 1783 1918 Apple Watch is not only a new product, but it’s a brand new category with a lot of new features, a lot of new, innovative technologies.
+bNdKY78k7A NON-ARG 2175 2186 Yeah, sure.
+VMQUW7BKJ4 PREMISE-Statistic 2187 2285 Our current estimate is that about 20% of the active installed base has upgraded to a 6 or 6 plus.
+pMnsStRfOi CLAIM-Opinion(view) 2286 2441 And so as I look at that number, that suggests there’s plenty of upgrade headroom in addition to we want to keep inviting over as many switchers as we can.
+pURQd5DgJW CLAIM-Opinion(view) 2442 2541 So between both of those and the first time buyers as well, it seems really, really good right now.
+R0 SUPPORT ARG1:ZbU9Ahbymv ARG2:EBV3vmnAti
+R1 SUPPORT ARG1:Ut4yFmrafu ARG2:EBV3vmnAti
+R2 SUPPORT ARG1:l22h7kXaWi ARG2:EBV3vmnAti
+R3 SUPPORT ARG1:3puDiorSVr ARG2:EBV3vmnAti
+R4 SUPPORT ARG1:ipTa0Cpvvv ARG2:EBV3vmnAti
+R5 SUPPORT ARG1:6HDvHxEZGv ARG2:EBV3vmnAti
+R6 SUPPORT ARG1:VMQUW7BKJ4 ARG2:pMnsStRfOi
+ArgQ0 EBV3vmnAti SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 pMnsStRfOi SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

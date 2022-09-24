@@ -1,0 +1,29 @@
+k2aZekZyug NON-ARG 828 833 Sure.
+Q_-bbwd78B NON-ARG 834 982 So first, with the – you've mentioned North America revenue growth, and you can calculate that with and without the impact of Whole Foods, I'm sure.
+UiRCsTSo9p CLAIM-Fact 983 1052 But the general drivers continues to be Prime and the Prime flywheel.
+8uKhnFzTdv PREMISE-RealExample 1289 1408 We're also selling more subscriptions, Amazon Music Unlimited, multiple Kindle Unlimited, there's a number of services.
+Vf3PMWOPhG PREMISE-Fact 1053 1288 So we see strong customer demand, not only for the benefits that we associate with Prime, we're seeing better engagement with Prime benefits, especially digital benefits, and that is always good news for eventual sales of other things.
+NsIcd3ulaB CLAIM-Fact 1409 1458 So there's different revenue streams that we see.
+U28-FTmnAC NON-ARG 1459 1520 So, not much more I can add by product line to North America.
+gJAeUF6viH CLAIM-Fact 1521 1586 And I talk about AWS revenue, again, we're – we are accelerating.
+K8te6zYe_Y PREMISE-Statistic 1632 1719 The FX-neutral growth was 48% in Q1, up from 44% on the same basis in Q4 and 42% in Q3.
+dGlqXOMpkx PREMISE-Statistic 1720 1758 And now nearly a $22 billion run rate.
+j5vu9gyzW- PREMISE-Fact 1587 1631 We've accelerated for the last two quarters.
+SmB_0x0V-3 CLAIM-Opinion(view) 2173 2299 So stepping back, I would say, what is driving the growth, we believe, again, it's the value that we create for AWS customers.
+3B2urex1eC CLAIM-Fact 2300 2367 We have the functionality and pace of innovation that others don't.
+ooplLLBFpj CLAIM-Fact 2368 2416 We have partner and ecosystem that others don't.
+xVmtB5oYvS CLAIM-Fact 2417 2528 And we have proven operational capability and security expertise that's highly valued to the AWS customer base.
+86eQl8EIRM CLAIM-Fact 1759 1992 So what we're saying is just continued strong usage both by existing customers and signing new customers for – see increased pace of enterprise migrations as customers are having success with AWS and increasingly trying new services.
+xNgZt_qgrg PREMISE-Fact 1993 2080 We are seeing people move more and more of their workflows to AWS and at a faster pace.
+y6aXh3q4se PREMISE-Fact 2081 2172 And customers are moving databases to AWS as Aurora continues to grow at a very rapid clip.
+R0 SUPPORT ARG1:Vf3PMWOPhG ARG2:UiRCsTSo9p
+R1 SUPPORT ARG1:8uKhnFzTdv ARG2:NsIcd3ulaB
+R2 SUPPORT ARG1:j5vu9gyzW- ARG2:gJAeUF6viH
+R3 SUPPORT ARG1:K8te6zYe_Y ARG2:gJAeUF6viH
+R4 SUPPORT ARG1:dGlqXOMpkx ARG2:gJAeUF6viH
+R5 SUPPORT ARG1:xNgZt_qgrg ARG2:86eQl8EIRM
+R6 SUPPORT ARG1:y6aXh3q4se ARG2:86eQl8EIRM
+ArgQ0 UiRCsTSo9p SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 NsIcd3ulaB SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 gJAeUF6viH SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_2
+ArgQ3 86eQl8EIRM SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

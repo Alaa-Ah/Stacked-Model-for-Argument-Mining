@@ -1,0 +1,11 @@
+KNpq1fAWbN CLAIM-Opinion(view) 695 756 I think you're not going to see the same thing going forward.
+cRIQKCfB6c CLAIM-Reformulated 934 1009 And again, I don't think you're going to see the same impact going forward.
+E0usCZmQ9Y NON-ARG 485 532 Steve, you mentioned by far the largest driver.
+_kYqWVvctr PREMISE-RealExample 757 933 And then we tend to defer some revenue on some other categories, like for example gift cards or some AppleCare, but in general by far the largest element is the change in ESPs.
+dbqhM2ycjz NON-ARG 642 694 So we are lapping the year where you see the effect.
+Em9rSrzH7b NON-ARG 1879 1936 But as usual, we're not going to talk about what's ahead.
+9-j6_kIoM5 CLAIM-Fact 1777 1878 We have the strongest pipeline that we've ever had and we're really confident about the things in it.
+Np3qiIh7sl CLAIM-Fact 2286 2372 We have a strong sense of where things go and we're very agile to shift as we need to.
+gpiy9mfh3P NON-ARG 533 641 The largest driver is the fact that we made the change, an accounting change to our ESPs exactly a year ago.
+R0 SUPPORT ARG1:_kYqWVvctr ARG2:KNpq1fAWbN
+ArgQ0 KNpq1fAWbN SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

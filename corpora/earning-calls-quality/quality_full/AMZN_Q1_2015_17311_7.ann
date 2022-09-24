@@ -1,0 +1,13 @@
+QF5V4LXOlx NON-ARG 530 554 Yes, I'll take that one.
+hNA-kbz_q6 PREMISE-Fact 733 795 It allows us and locks for a same day and next-day deliveries.
+CLmyW8Y3IS CLAIM-Opinion(view) 555 670 We certainly as I said earlier, we see this as a natural extension of our existing infrastructure investments we've
+GPCHr5x_sr PREMISE-Statistic 671 732 – the 109 fulfillment centers, again very close to customers.
+2Dxnnx79mH PREMISE-Fact 796 878 And to its extreme one hour and two hour deliveries as you've seen with Prime now.
+1ALwVYp5mJ NON-ARG 879 1020 So we're not forecasting or giving much more on that, but we definitely see it as a valuable customer’s proposition, customers and braced it.
+Om82T4Elmk NON-ARG 1021 1215 Again, smaller number of azans [ph] ten to thousands of azans are available for one, two hour delivery and generally in the category, essential products that you would need in short time period.
+hgGi-PLVnf NON-ARG 1232 1364 And one thing I would add to that as Brian mentioned, earlier as well, we are in seven cities today and there would be more to come.
+DV1b_lXBhM NON-ARG 1365 1472 We haven’t said how many, but you should be definitely expecting more to come and we're excited to do that.
+R0 SUPPORT ARG1:GPCHr5x_sr ARG2:CLmyW8Y3IS
+R1 SUPPORT ARG1:hNA-kbz_q6 ARG2:CLmyW8Y3IS
+R2 SUPPORT ARG1:2Dxnnx79mH ARG2:CLmyW8Y3IS
+ArgQ0 CLmyW8Y3IS SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

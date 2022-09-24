@@ -1,0 +1,30 @@
+4y5WrYLmvG NON-ARG 954 959 Yeah.
+QCD-HB8McO NON-ARG 960 987 So I'm glad you asked that.
+wsUvrxerOH NON-ARG 988 1044 So, Mark, it's - let me start with that second question.
+okHbXooOV5 CLAIM-Fact 1045 1072 The program will be global.
+gsGfEJI_pG PREMISE-Fact 1073 1145 Most of the spend that we are seeing in Q2 is starting in North America.
+4nI9R2J-EV PREMISE-Fact 1146 1229 But this is intended to be a global improvement in speed tied to our Prime program.
+-ElcPsIpMv CLAIM-Fact 1230 1265 So you will see more going forward.
+2cRzsBSbUQ NON-ARG 1266 1383 I can't give you exact percentages of selection and all that, mainly because we are still again working through that.
+Wqv1e3TFrG NON-ARG 1384 1473 And while we have ratcheted up a significant - we turned the dial significantly in April.
+EcUz98V9pt NON-ARG 1474 1541 And so we'll see the cost impact almost immediately in the quarter.
+174dxmG5ST NON-ARG 1542 1719 We're really going to have to see how it goes this quarter, both on our pace of selection addition and expansion of one-day, and let you know probably at the end of the quarter.
+q9X9kYvTVT CLAIM-Fact 1720 1830 I would say in the short run, it's also expanding and increasing our speed on all of our orders quite frankly.
+1E0Ro7usIf PREMISE-Statistic 1831 1968 On AWS revenue, let me just remind you that quarterly growth last year on an FX-neutral basis, so Q1 was 48%, then 49%, then 46% and 46%.
+N6hNK0Au4R CLAIM-Fact 1969 2097 So in the first half of the year, we have a tougher comp, if you will, versus some strong growth in the first-half of last year.
+y8t0IBnMrn CLAIM-Fact 2098 2142 This is always going to be a lumpy business.
+HP3kp2hKkl CLAIM-Opinion(view) 2471 2601 So we're happy with the growth, 42% on an FX-neutral basis and again a $30 billion - greater than $30 billion annualized run rate.
+pe1TFlTdWk PREMISE-Fact 2143 2270 It's not only dependent on us, it's also dependent on the companies that are adopting Amazon, so there's a - or excuse me, AWS.
+x4ccc98wb3 PREMISE-Fact 2271 2312 So there are differences in sales cycles.
+ve2jC89tsU PREMISE-Fact 2313 2360 There are differences in adoption of the cloud.
+Dv7ZaBo23s PREMISE-Fact 2361 2470 There are differences in migration patterns that will make any quarter-to-quarter movements lumpy, as I said.
+R0 SUPPORT ARG1:gsGfEJI_pG ARG2:-ElcPsIpMv
+R1 SUPPORT ARG1:4nI9R2J-EV ARG2:-ElcPsIpMv
+R2 SUPPORT ARG1:1E0Ro7usIf ARG2:N6hNK0Au4R
+R3 SUPPORT ARG1:pe1TFlTdWk ARG2:y8t0IBnMrn
+R4 SUPPORT ARG1:x4ccc98wb3 ARG2:y8t0IBnMrn
+R5 SUPPORT ARG1:ve2jC89tsU ARG2:y8t0IBnMrn
+R6 SUPPORT ARG1:Dv7ZaBo23s ARG2:y8t0IBnMrn
+ArgQ0 -ElcPsIpMv SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 N6hNK0Au4R SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 y8t0IBnMrn SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

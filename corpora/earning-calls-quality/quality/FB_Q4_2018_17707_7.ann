@@ -1,0 +1,52 @@
+mFHS8BIJT5 NON-ARG 859 890 I'll take the Stories question.
+7uW-Uct2-e CLAIM-Opinion(view) 968 1168 If you think about our history, people made the shift to mobile before marketers did, and I think one of the successes we've had is we made it easier for advertisers to move into a mobile environment.
+BNuHHg7atZ CLAIM-Reformulated 1374 1514 So I think the fact that we've already gotten 2 million advertisers to move into Stories is because we've gotten better at making it easier.
+5SJ1rjrgNw PREMISE-Fact 1515 1689 We launched our automatic placements and expanded it, which converts feed ads into a format that works for Stories and delivers the ads wherever they'll get the best results.
+vGUyL44BA8 CLAIM-Fact 1690 1871 So our goal is to make it as easy as possible for marketers to get to the format of Stories and then deliver the ads where they're going to get the best experience and the best ROI.
+EnDiRFhhHA CLAIM-Opinion(view) 2016 2189 And so we think the mix shift to Stories is a big opportunity for us and it's going to take time to continue to get advertisers in, but we're very happy with demand to date.
+a-QpxwJiEB CLAIM-Fact 1169 1373 And just as we did that in mobile, now we're very focused on doing that in the new things that people are doing, and Stories is a big part of that, Messaging will be further out, but as important as well.
+khvjfX8uUO CLAIM-Fact 1872 1978 Now right now, one of the interesting things about Stories is there's a benefit to being an early adopter.
+WuQ6D4B2iR PREMISE-Fact 1979 2015 So the pricing is really attractive.
+Xqt2Xdu2xq PREMISE-Fact 891 967 One of the challenges that marketers have is keeping up where consumers are.
+0-uniRGVzl NON-ARG 2204 2282 I would just - before we turn to Mark, I'd just layer in on the Stories front.
+ANl8UouJyI CLAIM-Opinion(view) 2283 2380 When we look into 2019, we do expect to see a deceleration of revenue growth throughout the year.
+hmV2baCH_m PREMISE-Fact 2381 2590 And while we have opportunities to grow impressions on Facebook and Instagram, that's less so in feed, where we already have healthy ad loads in - on both surfaces and more in Stories where we have lower CPMs.
+eo5CS8JOfP PREMISE-Fact 2591 2695 So - whereas in 2018, we benefited from strong impressions growth on Instagram in both feed and Stories.
+vq-cBBuFYI CLAIM-Opinion(view) 2696 2755 We'll be more reliant on Stories impression growth in 2019.
+E9WL1uLLbl CLAIM-Reformulated 2756 2973 And from a pricing perspective, there's - we've got to improve our ability to grow the number of advertisers using Stories and improve price there, but it's going to be more reliant on that in terms of revenue growth.
+b6QUyPpQJn NON-ARG 2991 3001 All right.
+sa9cdsJD83 NON-ARG 3002 3131 I can talk about messaging and the integration that we're thinking about, but first, we're really early in thinking through this.
+KLJ5Wh3qFx NON-ARG 3132 3210 So there's a lot more that we need to figure out before we finalize the plans.
+X8N6teBL4m NON-ARG 3211 3368 And then, of course, this is going to be a long-term project that I think will probably be to whatever extent we end up doing it in - a 2020 thing or beyond.
+H_j30SFDwv CLAIM-Opinion(view) 3369 3513 There are a few big reasons why I'm excited about this and think it'll be good for the user experience, which is the reason that we're doing it.
+JGIpXzRGMy NON-ARG 3514 3616 I mean, part of the question was about a commercial benefit, but that really isn't the big focus here.
+ZXtaXh1LYd PREMISE-Fact 3617 3737 The first reason that I'm excited about this is moving more to end-to-end encryption by default in more of our products.
+c6qcOdrUjW PREMISE-Fact 3738 3774 People really like this in WhatsApp.
+PDliTpw-qj CLAIM-Opinion(view) 3775 3860 I think it's the direction that we should be going in with more things in the future.
+oztwQnePAO CLAIM-Opinion(view) 3861 4147 And I think if there's an opportunity to use the work that we've done with WhatsApp there, rather than doing it in different ways in the different messaging experiences, to have that really just - to have encryption work in a consistent way across the different things that we're doing.
+LL0nxZnQlw PREMISE-RealExample 4282 4494 So one example is a lot of people, hundreds of millions of people, are using Marketplace on Facebook now, and a lot of people are using that in countries where WhatsApp is the primary messaging app that they use.
+VwDTYAwdfA PREMISE-RealExample 4962 5168 Another example is there are tens of millions of people, maybe more, but I'll go with that, who, on Android, use Messenger as not only their app for Facebook messaging but also for SMS, as their SMS client.
+0_4ajaNHSx CLAIM-Reformulated 5936 6097 And I wouldn't expect anything here to launch soon, but this is definitely something that we're thinking about and that I think will improve the user experience.
+DXLdPzFOPM PREMISE-Fact 4148 4281 There are also a number of cases that we see where people tell us that they want to be able to message across the different services.
+H2pghUTuLW CLAIM-Reformulated 5169 5459 And going back to the encryption point from before, we think that there's an opportunity to, when you're going to go message someone over a phone number network, have that primarily go over WhatsApp and be end-to-end encrypted rather than go over SMS where it's unencrypted and less secure.
+2pjvz8_p-x NON-ARG 5820 5882 There's a lot of questions there that we need to work through.
+LUHh8U9XKo NON-ARG 5883 5935 So we're working through this in a deliberative way.
+RSXZ5sp4aG CLAIM-Reformulated 5708 5819 I think moving more towards end-to-end encryption and improving security there is the right direction to go in.
+Eqg93T9Y1Z NON-ARG 5460 5707 So I can give you a few more examples like that, but I guess the way that I'm thinking about this is that there's a handful of cases that people are telling us that they want to be able to integrate and communicate more easily across the networks.
+v2GHEnPNb3 NON-ARG 4495 4610 So we have these experiences today where we're building Marketplace and you go to message someone to buy something.
+0pTWMTHUvE CLAIM-Reformulated 4611 4961 And the link to basically do the messaging is over Messenger, but in that country, where people really want to be using it, is WhatsApp and we need to make it so that people can communicate across the different networks and graphs that they have or be able to do that integration better in order to facilitate more transactions and connections there.
+R0 SUPPORT ARG1:5SJ1rjrgNw ARG2:vGUyL44BA8
+R1 SUPPORT ARG1:WuQ6D4B2iR ARG2:khvjfX8uUO
+R2 SUPPORT ARG1:Xqt2Xdu2xq ARG2:7uW-Uct2-e
+R3 SUPPORT ARG1:hmV2baCH_m ARG2:vq-cBBuFYI
+R4 ATTACK ARG1:eo5CS8JOfP ARG2:vq-cBBuFYI
+R5 SUPPORT ARG1:ZXtaXh1LYd ARG2:H_j30SFDwv
+R6 SUPPORT ARG1:c6qcOdrUjW ARG2:H_j30SFDwv
+R7 SUPPORT ARG1:DXLdPzFOPM ARG2:H_j30SFDwv
+R8 SUPPORT ARG1:LL0nxZnQlw ARG2:H_j30SFDwv
+R9 SUPPORT ARG1:VwDTYAwdfA ARG2:H_j30SFDwv
+ArgQ0 vGUyL44BA8 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 khvjfX8uUO SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 7uW-Uct2-e SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 vq-cBBuFYI SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ4 H_j30SFDwv SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1

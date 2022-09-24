@@ -1,0 +1,41 @@
+kAi7zqPHkK CLAIM-Opinion(view) 985 1150 As we look forward, and we look into particularly the March quarter, the foreign exchange headwinds will be stronger in Q2 than they were in Q1 for two main reasons.
+9dI-9dt4uI CLAIM-Opinion(view) 2597 2698 Having said all that, we have provided what we believe is very strong guidance for the March quarter.
+stmARXIgVG CLAIM-Opinion(view) 2699 2897 We remain very, very confident about the portfolio of products and services that we have in the market today and we remain very, very confident in the pipeline of products and services that we have.
+elH8wBLw_o CLAIM-Opinion(view) 3261 3352 I think as you know, we prefer to adjust local pricing at the time of new product launches.
+M29nW6d-xS NON-ARG 3392 3426 That’s what we do in normal times.
+PBZ8HxJt3o PREMISE-RealExample 3427 3571 When currencies move as much as they have been in places like Russia for example, sometimes we need to take mid-cycle action to realign pricing.
+40uzQgzO-Y PREMISE-Fact 3599 3652 As you know currency markets tend to be very volatile
+QkYyql37S8 CLAIM-Opinion(view) 763 867 Our revenue growth during Q1 would have been four percentage points higher on a constant currency basis.
+nCGQA5KJaK PREMISE-RealExample 596 762 I would say during the course of the quarter the biggest impact came from the Japanese yen, the Russian rubel, but also from euro, Australian dollar, Canadian dollar.
+imM-KnsgMP CLAIM-Fact 868 984 On a profitability standpoint, our hedging program partially mitigated the impact from the volatility in currencies.
+RrOC79KM7H CLAIM-Reformulated 1492 1710 What that means to us going forward for the March quarter is that revenue growth on a year-over-year basis in constant currency would be five point higher than what we are guiding to, if it wasn’t for the FX movements.
+ZP3sv9Rr1W CLAIM-Opinion(view) 1711 1936 In terms of gross margins, and you know that we look our gross margins on a sequential basis, the gross margin percentage after the offset that we're getting from the hedging program will be impacted by over 100 basis points.
+xbOd0feA3L PREMISE-Fact 2504 2596 It goes without saying strong U.S. dollar has negative impact on our international business.
+vqp4jI0Oqu CLAIM-Opinion(view) 2425 2503 so -- and there is the impact that we would see during the course of the year.
+ULEA_Ob4pI PREMISE-Other 2086 2424 Of course, as you look further out, you know we do not provide guidance past the March quarter, but it goes without saying that at current levels, again those headwinds will continue to become stronger for the reason I explained earlier, that our hedges continue to expire, they get replaced by new hedging contracts at current levels and
+qehyej1KGI PREMISE-Fact 1151 1279 The first one is the fact that the U.S. dollar has continued to appreciate against foreign currencies during the last few weeks.
+MlQ6ZiSqCy PREMISE-Fact 1280 1342 And the other one is the fact that our existing hedges expire.
+Cef3Vf4n90 PREMISE-Fact 1343 1491 They get replace by new contracts at current levels and therefore the protection that is provided to us by our hedging program diminishes over time.
+ai1Bi1PQL6 NON-ARG 3572 3598 So we’ll see what happens.
+L84VGZftKN NON-ARG 3654 3715 So we just want to understand a bit better what is happening.
+6itExCJo7Q PREMISE-Fact 511 595 Obviously, what we’ve seen during Q1 has been unprecedented movements in currencies.
+x6s27YT1NW NON-ARG 1937 2051 Now having said that, we have factored the impact that I just described into the guidance that we provided to you.
+agiXqAVmpa NON-ARG 2052 2085 So that’s where we are right now.
+AtbB7VSgYH NON-ARG 390 420 Yes, Shannon I’ll do that now.
+Zxp9LsUjFb NON-ARG 421 440 I’ll talk about Q1.
+VmCQtNI3Sl NON-ARG 441 510 I’ll talk about what we are looking for Q2 and possibly even further.
+pDG37zSy02 NON-ARG 390 420 Yes, Shannon I’ll do that now.
+TgTiKjQxy- CLAIM-Reformulated 3353 3391 That will be obviously our preference.
+R0 SUPPORT ARG1:6itExCJo7Q ARG2:QkYyql37S8
+R1 SUPPORT ARG1:nCGQA5KJaK ARG2:QkYyql37S8
+R2 SUPPORT ARG1:qehyej1KGI ARG2:kAi7zqPHkK
+R3 SUPPORT ARG1:MlQ6ZiSqCy ARG2:kAi7zqPHkK
+R4 SUPPORT ARG1:Cef3Vf4n90 ARG2:kAi7zqPHkK
+R5 SUPPORT ARG1:PBZ8HxJt3o ARG2:elH8wBLw_o
+R6 SUPPORT ARG1:40uzQgzO-Y ARG2:elH8wBLw_o
+R7 SUPPORT ARG1:ULEA_Ob4pI ARG2:vqp4jI0Oqu
+R8 SUPPORT ARG1:xbOd0feA3L ARG2:vqp4jI0Oqu
+ArgQ0 QkYyql37S8 SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 kAi7zqPHkK SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 elH8wBLw_o SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 vqp4jI0Oqu SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1

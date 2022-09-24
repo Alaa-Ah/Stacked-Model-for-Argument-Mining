@@ -1,0 +1,24 @@
+dqD1oZIzzv NON-ARG 673 677 Yes.
+8dg2saX92T CLAIM-Fact 956 1039 Third party units continue to grow, advertising dollars continue to grow very well.
+RkqVezGmuV PREMISE-Fact 1040 1239 Some of the headwinds, I would say, were outbound shipping cost, including the free shipping that we did, but mostly, it was the higher Amazon fulfilled units and the greater use of Amazon logistics.
+B3As-FlxXQ CLAIM-Fact 1240 1284 And I would also say retail was very strong.
+U-MnQ0exmB PREMISE-Fact 1285 1422 We had a, as I think Dave mentioned, the Echo Dot was the highest selling unit globally, so devices had very strong sales in the quarter.
+jtEZjgoRpz CLAIM-Fact 1478 1545 We usually will expand our content, expanding our device and usage.
+36R0TMZ4Dr PREMISE-Fact 1546 1699 There are a group of customers who use our devices and then we monetize that in different ways to commitment to Amazon and the video and everything else.
+HSMuhhX7yq CLAIM-Reformulated 1700 1841 So a bit of it was mix, but I would say this retail, which has a lower gross margin more because of the revenue treatment was stronger in Q4.
+83cK6t_JJ3 PREMISE-Statistic 854 955 I would say the positive tailwinds still remain, AWS has strong growth of 46% on an FX neutral basis.
+BYkPr_FpdX CLAIM-Fact 1423 1477 We discussed how we don't price devices to make money.
+OjaYODRkF3 NON-ARG 1855 1860 Yeah.
+HfgzySwYuu NON-ARG 1861 1945 And just on the other revenue piece, Brian, just to get back to the accounting side.
+t3I1rO7zJs PREMISE-Fact 1946 2016 We did adopt that revenue recognition standard in 2018 as I mentioned.
+s6Ivv8eVI3 PREMISE-Fact 2017 2139 As part of the adoption, certain advertising services were classified as revenue rather than a reduction of cost of sales.
+UpX6hARRqH CLAIM-Fact 2140 2298 So specific to Q4, the impact of that change was an increase of approximately $1 billion to other revenue, so you will see that in the other revenue in total.
+cVR-EGm-Q3 NON-ARG 678 683 Sure.
+v5m8qLKrdc PREMISE-Statistic 684 853 I’m sorry I skipped over that gross margin question earlier, but yeah, gross margins were well up 180 basis points year-over-year, were not up as much as prior quarters.
+R0 SUPPORT ARG1:U-MnQ0exmB ARG2:B3As-FlxXQ
+R1 SUPPORT ARG1:36R0TMZ4Dr ARG2:jtEZjgoRpz
+R2 SUPPORT ARG1:t3I1rO7zJs ARG2:UpX6hARRqH
+R3 SUPPORT ARG1:s6Ivv8eVI3 ARG2:UpX6hARRqH
+ArgQ0 B3As-FlxXQ SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3
+ArgQ1 jtEZjgoRpz SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 UpX6hARRqH SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

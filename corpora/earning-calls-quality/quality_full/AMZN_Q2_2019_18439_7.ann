@@ -1,0 +1,21 @@
+0gkWRP-37e NON-ARG 774 778 Yes.
+3y4raJFwCw NON-ARG 779 951 So, I would say the first time we started discussing the rollout of one-day our first thoughts went to Q4 this year and our capability for holiday and as much as Q2 and Q3.
+skF1XsS-As CLAIM-Opinion(view) 952 1028 So we are confident that we will have the ability to handle seasonal demand.
+Ky4kD4KzE4 PREMISE-Fact 1333 1376 It was the two biggest days we've ever had.
+3uLrbrlkzN CLAIM-Fact 1238 1332 It's a little early to discuss that now, but we certainly had a really good test on Prime Day.
+cLvjAz34R- PREMISE-Other 1377 1529 A lot of good work went into Prime Day, a lot of benefit for customers, a lot of benefit for our selling partners, the small business merchants as well.
+anay0FvBjz CLAIM-Reformulated 1530 1559 So it was a good test for us.
+4f0coBXtjc PREMISE-Other 1029 1205 We are working very hard to expand our one-day capacity, add carriers, add delivery partners at our own AMZL capability and have our partners expand their capabilities as well.
+COm7IOt88E CLAIM-Reformulated 1206 1237 So we're feeling good about Q4.
+LiNFICZHV1 NON-ARG 1560 1642 And, sorry, your question on low ASP, I think we're still figuring that out a bit.
+kQY0F5WnMo CLAIM-Fact 1643 1767 I mean they -- what I'm reacting to is the high unit growth relative to good growth in revenue, but unit growth grew faster.
+xU_4uoKp9l PREMISE-Fact 1838 2147 As I've talked in other quarters, it's a number that's excludes AWS subscription services, advertising and Whole Foods, which are some of the fastest growing areas and we also have – are actively selling subscription services like Kindle Unlimited and Amazon Music Unlimited, which can cannibalize unit sales.
+FelrJAMkXh CLAIM-Opinion(view) 1768 1837 I'm always a little vary to put too much into the unit growth number.
+3F-SXPuQDS CLAIM-Opinion(view) 2148 2306 So there's a lot of moving parts, usually our headwinds to our unit growth number, but again happy with the 800 basis point quarter-over-quarter jump in that.
+R0 SUPPORT ARG1:4f0coBXtjc ARG2:skF1XsS-As
+R1 SUPPORT ARG1:Ky4kD4KzE4 ARG2:3uLrbrlkzN
+R2 SUPPORT ARG1:cLvjAz34R- ARG2:3uLrbrlkzN
+R3 SUPPORT ARG1:xU_4uoKp9l ARG2:FelrJAMkXh
+ArgQ0 skF1XsS-As SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 3uLrbrlkzN SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 FelrJAMkXh SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,18 @@
+fHLpupKo5o NON-ARG 1062 1067 Sure.
+T3rAZf-ASv CLAIM-Fact 1068 1189 In terms of overall reach of Office 365, we continue to see significant opportunity going forward on multiple dimensions.
+Z-jthzcxF6 PREMISE-RealExample 1190 1342 So for example, we never participated as much in I'd call it non-developed markets, medium and small businesses with all of the sophisticated workloads.
+29GISgIt83 PREMISE-Fact 1587 1802 So this is whether it's in healthcare, whether it's in manufacturing, whether it's in retail, just not knowledge workers, but where you now have messaging solutions, as well as business process workflows integrated.
+pWrZtpqoFX CLAIM-Opinion(view) 1803 2025 So it's that combination of things going from knowledge workers to first-line going and the ability to reach all sizes of businesses is what's going to continue to help us I think have overall seat growth or socket growth.
+cRy5FUss9y CLAIM-Fact 2026 2151 And then of course, there is the other dimension, which is the levels of Office 365 all the way to E5 with significant value.
+dC9ymcwXLY CLAIM-Opinion(view) 2152 2500 And the one thing I’d mention is the having compliance security that spans all of these tools, is also proving out to be a very big architectural advantage in a customer value proposition because I think, our customers look to use more SaaS applications, they don't want an exponential increase in their security exposure or more compliance burden.
+5eE_HpNvKJ CLAIM-Reformulated 2501 2562 And so therefore, Office 365’s approach resonates even there.
+vplSHjp_Oo CLAIM-Fact 1343 1473 So, now that with a SaaS approach, you can reach a much broader base of business customers all over the world, is one opportunity.
+5VsAFCNArw CLAIM-Fact 1474 1586 The second opportunity is, if you look at Teams, as an example, we are now reaching a lot of first-line workers.
+1MSMmPnO1t NON-ARG 2573 2730 And Jen maybe a little to your question, which is fundamentally about seat growth and ARPU as the drivers of that all up Office 365 Commercial growth number.
+KVv-5izQZQ CLAIM-Reformulated 3251 3450 But it does tend to mask a little some of the ARPU improvement that we've seen, it's still E3 and E5, there’s opportunity on both, although we are starting to see the impact of E5 in net ARPU number.
+xpY4OWr4JD CLAIM-Fact 2731 2862 This quarter and a little bit last I actually think some of the ARPU increase has been masked by some of the trends in seat growth.
+ZK0cPdOupD CLAIM-Fact 2863 3250 What I mean that is that 27% seat growth is starting to include some lower ARPU seats that Satya just mentioned whether that's in academic, in edu, in front-line workers and that's really important for us to keep having that seat growth even if it’s not at the same ARPU level those are not seats that we ever could reach before at any level and that's absolutely new opportunity for us.
+R0 SUPPORT ARG1:Z-jthzcxF6 ARG2:vplSHjp_Oo
+R1 SUPPORT ARG1:29GISgIt83 ARG2:5VsAFCNArw
+ArgQ0 vplSHjp_Oo SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 5VsAFCNArw SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

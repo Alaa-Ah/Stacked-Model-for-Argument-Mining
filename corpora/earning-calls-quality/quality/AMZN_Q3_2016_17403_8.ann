@@ -1,0 +1,19 @@
+CYfqAdtvnL NON-ARG 1101 1147 Let me start with your second question on FBA.
+a_2fO83m8K PREMISE-Fact 1148 1228 So yes, we did make some changes to the pricing formula for this holiday season.
+OqlivmZXed NON-ARG 1229 1313 They're essentially meant to incent the right behavior among sellers around holiday.
+I6K9vJvng1 PREMISE-Fact 1314 1536 And the biggest issue you're trying to get at is having the most valuable products for holiday in the warehouse in the Prime space and not having the warehouse filled with things that may not sell until after the New Year.
+lOX4vAluh4 CLAIM-Fact 1537 1583 So we are trying to incentivize that behavior.
+4wWTQkh1g2 CLAIM-Fact 1584 1662 We're also trying to incentivize getting inventory into the warehouse quicker.
+q8jPGhxEYq PREMISE-Fact 1663 1819 So yes, the formulas were, or excuse me, the changing to the pricing formulas were really with that in mind to help the flow and the base utilization in Q4.
+Oipxz8rOjc NON-ARG 1834 1848 Yeah, hi Mark.
+TLifjV7nnZ NON-ARG 1849 1863 This is Darin.
+BQN9jerCSC CLAIM-Fact 1864 1994 On the capitalization point, I'd say the things we capitalized are the core buildings and leasehold improvements in the buildings.
+wQ_G7nHOKP PREMISE-Fact 1995 2237 But the things that we're seeing hit the P&L are the fixed and variable expenses that it takes to run the building and I think that's what Brian's pointing out most pointedly in terms of what is impacting the profitability of the second half.
+H80eGPhrhW CLAIM-Reformulated 2238 2332 So yeah, the capitalization's relatively small in terms of, other than in the building itself.
+R0 SUPPORT ARG1:I6K9vJvng1 ARG2:lOX4vAluh4
+R1 SUPPORT ARG1:a_2fO83m8K ARG2:lOX4vAluh4
+R2 SUPPORT ARG1:q8jPGhxEYq ARG2:4wWTQkh1g2
+R3 SUPPORT ARG1:wQ_G7nHOKP ARG2:BQN9jerCSC
+ArgQ0 lOX4vAluh4 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 4wWTQkh1g2 SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 BQN9jerCSC SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

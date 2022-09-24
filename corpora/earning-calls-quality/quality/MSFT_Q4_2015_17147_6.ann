@@ -1,0 +1,64 @@
+5Urbo107Gb NON-ARG 469 535 Why don't I take that one, and we'll see what Mark's follow-up is?
+Lft3gp3dMW PREMISE-Fact 536 668 At 9% growth and continuing to take share, I feel like our performance in this continues to be a positive outlier to the peer group.
+f30YNDm2KH PREMISE-RealExample 669 767 And for me, that type of performance in double digits for the year, I still feel quite good about.
+4TKgZ4_rF5 CLAIM-Opinion(view) 1216 1311 So I don't think of it as reflecting a bigger shift than we've seen in particular this quarter.
+Q06xBimGR6 PREMISE-Statistic 1312 1436 Also, if you'll remember, a year ago we had a very big base of expirations in Q4 and had very strong performance a year ago.
+jL7KN_ZEGB CLAIM-Opinion(view) 1437 1482 So I don't look at it as a direct trend line.
+_B0naQHF4H CLAIM-Opinion(view) 1498 1712 The only thing I'll add is when I look at the total growth of Azure, the growth that's coming now from some of the premium services, these are businesses that we actually did not ever participate on premise at all.
+eytyy64CQd PREMISE-RealExample 1713 1807 Even EMS, when I think about our management, our management was just about Windows management.
+q_IHn0i3Eb PREMISE-Fact 1808 1982 But we now have management data protection and identity systems that cross all devices in the enterprise, including the Internet of Things, and that makes it pretty exciting.
+Nc3G01MQlj CLAIM-Opinion(view) 1983 2015 And that growth is great to see.
+jr2mnYodm9 CLAIM-Opinion(view) 2327 2546 So I'm excited about built new workloads that in many cases are born in the cloud workloads where we are expanding our market opportunity and continuing to outperform our peers and grab share when it comes to on-premise
+wTLd-B9cki NON-ARG 2906 2949 I'll take that and, Amy, you can add to it.
+E5cK9VYMxw CLAIM-Fact 2950 3012 The way the Windows ecosystem works is there are phases to it.
+4EoyIHY92M CLAIM-Reformulated 3342 3389 But that said, there are three distinct phases.
+3bxca3FYDe CLAIM-Fact 3013 3158 And in fact, if anything, this release of Windows 10, just the way we have built it with the Insider program, everything is of course speeding up
+yd9g9R2_2K PREMISE-Fact 3159 3341 because in some sense we've taken a very different approach with this Windows-as-a-service even when it comes to OEM relations and how they're able to co-create the products with us.
+VZcwRROpOt PREMISE-Fact 3633 3784 And then the enterprise upgrades; in fact, we have a release of enterprise features, which I mentioned in my script, which will ship in that timeframe.
+FjHuVhuYYl CLAIM-Opinion(view) 3785 3879 And I expect piloting to start and deployments to start in the second half of the fiscal year.
+qe5DmEAq2t NON-ARG 4063 4165 It will build starting in a week's time in retail and in the upgrades, but I see this in three phases.
+hCVUZCyq-D PREMISE-Fact 4446 4523 It is pretty standard in fact, as Satya talked about, in terms of the dynamic
+yJBwlLEUGn CLAIM-Opinion(view) 768 908 In general, what's interesting I think is you're getting to the crux of it is do we have incremental workloads that are unique to the cloud.
+vjokdGUgWR CLAIM-Reformulated 909 933 We continue to see that.
+eJX4rsqqrF PREMISE-RealExample 934 1068 The very best example, frankly, as Satya mentioned in his comments, which is our EMS performance, Enterprise Mobility Suite offerings.
+B5SBYDxX4p PREMISE-Fact 1069 1215 It's taking something that's very unique, builds off of our core in the server business, and allows us to both grow and add new perspective there.
+2LfoNcAxLC PREMISE-Fact 2016 2174 Same thing on server management, we have a new suite called the Operations Management Suite, which also spans all the cloud units as well as on-premise units.
+sUk_Ws8NfV PREMISE-Fact 2175 2326 Cortana Analytics, we never participated in any of the advanced analytics workloads at all in spite of all the success we had in the database business.
+WYxnhlFEJx PREMISE-Fact 3390 3451 The first phase is what I will describe as the upgrade phase.
+PbvHmkz5gR PREMISE-Fact 3452 3537 That's what starts in a week's time, and that is a more retail execution and upgrade.
+wl8lCnquFZ PREMISE-Fact 3538 3632 Then come the fall, you will see the devices from all the OEMs going into the holiday quarter.
+NIUUSVHkAU NON-ARG 3880 3953 So that's how I would think about the OEM as well as enterprise adoption.
+0W4wi8fRF8 CLAIM-Reformulated 3954 4062 So my bullishness for Windows 10 is more in the second half of the fiscal year, and of course it will build.
+vts_M7cX4R CLAIM-Fact 4176 4317 And to your specific question, Mark, before every launch we tend to have a tightening in the channel as they prepare and run reasonably lean.
+PDwcGjo1Dd PREMISE-Fact 4318 4342 This is a healthy state.
+-ds5W8QkRD PREMISE-Fact 4343 4375 It's within the range of normal.
+tKsAgnXtey PREMISE-Other 4376 4445 So I don't think of it as a delay in the way you're talking about it.
+E5saiMhpnV CLAIM-Opinion(view) 4525 4670 And he mentioned we are feeling I think a lot of excitement from the ecosystem about what's possible with some of the new devices that will come.
+DkbOALQNCj CLAIM-Opinion(view) 4671 4717 And so I don't really think of it in that way.
+sU46sotolD CLAIM-Opinion(view) 4718 4856 I think about it as an encouragement that they want to fill the channel as quickly as they can over the coming quarters with new machines.
+FDaaAGoVhT NON-ARG 4913 4927  Thanks, Mark.
+rFhqVFZtMS NON-ARG 4928 4965 We'll take the next question, please.
+R0 SUPPORT ARG1:Lft3gp3dMW ARG2:yJBwlLEUGn
+R1 SUPPORT ARG1:f30YNDm2KH ARG2:yJBwlLEUGn
+R2 SUPPORT ARG1:eJX4rsqqrF ARG2:yJBwlLEUGn
+R3 SUPPORT ARG1:B5SBYDxX4p ARG2:yJBwlLEUGn
+R4 SUPPORT ARG1:Q06xBimGR6 ARG2:jL7KN_ZEGB
+R5 SUPPORT ARG1:eytyy64CQd ARG2:_B0naQHF4H
+R6 SUPPORT ARG1:q_IHn0i3Eb ARG2:_B0naQHF4H
+R7 SUPPORT ARG1:2LfoNcAxLC ARG2:_B0naQHF4H
+R8 SUPPORT ARG1:sUk_Ws8NfV ARG2:_B0naQHF4H
+R9 SUPPORT ARG1:yd9g9R2_2K ARG2:3bxca3FYDe
+R10 SUPPORT ARG1:WYxnhlFEJx ARG2:E5cK9VYMxw
+R11 SUPPORT ARG1:PbvHmkz5gR ARG2:E5cK9VYMxw
+R12 SUPPORT ARG1:wl8lCnquFZ ARG2:E5cK9VYMxw
+R13 SUPPORT ARG1:VZcwRROpOt ARG2:E5cK9VYMxw
+R14 SUPPORT ARG1:PDwcGjo1Dd ARG2:vts_M7cX4R
+R15 SUPPORT ARG1:-ds5W8QkRD ARG2:vts_M7cX4R
+R16 SUPPORT ARG1:tKsAgnXtey ARG2:vts_M7cX4R
+R17 SUPPORT ARG1:hCVUZCyq-D ARG2:vts_M7cX4R
+ArgQ0 yJBwlLEUGn SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 jL7KN_ZEGB SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 _B0naQHF4H SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 3bxca3FYDe SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ4 E5cK9VYMxw SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ5 vts_M7cX4R SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

@@ -1,0 +1,17 @@
+OZMtsCEEoo NON-ARG 433 447 Thanks, Brent.
+TjyByvcDob NON-ARG 448 495 Let me split your question into two components.
+hsiZdovr0k CLAIM-Fact 496 682 The first thing really that I think Satya and I both focus on every quarter, every month, is how much of our business are we continuing to shift to annuity and specifically to the cloud.
+yNxprsEaRn PREMISE-Fact 683 925 We structure all of our motions at this company, from how we engineer to how we do our go-to-markets to how we think about sales engagement to how we do our investments, fundamentally toward that long-term structural transition in the market.
+8elbKXU70Q CLAIM-Fact 1149 1236 But at the same time, we still will focus on those deals moving to the cloud over time.
+QTjnE0g56b NON-ARG 1797 1801 Yes.
+3quwuEixtf NON-ARG 1817 1828 Absolutely.
+vOCMcUNIX4 CLAIM-Opinion(view) 926 1148 And so to your question on Transactional performance, there were some deals that didn't get done in Q3 that got done in Q4, and there were some deals done in Q4 on the Office side with large companies that I'm thrilled by.
+sFWa5OsuZn PREMISE-Fact 1237 1469 And so this volatility that we are going to see because of macro and because of budget constraints, especially on Transactional, we will focus on because we expect excellent execution and have accountability to do that in the field.
+T60jTAiG93 PREMISE-Fact 1470 1637 But our first priority, every time, is to make sure we are focused on annuity growth and digital transformation at our company, which is best done through that motion.
+SXWMdTMdzo NON-ARG 1863 1878  Thanks, Brent.
+pIKPOrcSlL NON-ARG 1879 1919 We'll move to the next question, please.
+R0 SUPPORT ARG1:yNxprsEaRn ARG2:hsiZdovr0k
+R1 SUPPORT ARG1:sFWa5OsuZn ARG2:8elbKXU70Q
+R2 SUPPORT ARG1:T60jTAiG93 ARG2:8elbKXU70Q
+ArgQ0 hsiZdovr0k SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 8elbKXU70Q SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

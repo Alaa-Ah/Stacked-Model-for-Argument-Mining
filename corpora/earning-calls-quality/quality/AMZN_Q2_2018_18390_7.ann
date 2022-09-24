@@ -1,0 +1,38 @@
+gGpEJB_tnq NON-ARG 689 694 Sure.
+mqbZgdKptg NON-ARG 695 724 Let's start with unit growth.
+jldX8PMakS CLAIM-Fact 725 836 So I will note, we did a very strong unit growth rate last year in Q2, with 27%, so we're comping against that.
+GO8LfSQBIG CLAIM-Fact 837 891 As we look back on that, there were number of factors.
+Z-cVa3uL2R PREMISE-Fact 892 1142 I mean, in any quarter there can be product mix or ASP differentials which shift the unit growth figure, but if you also remember, we dropped our Super Saver Shipping threshold twice, the early part of last year from $49 to $35; and then down to $25.
+EtezvEQv6J CLAIM-Reformulated 1239 1261 So we're comping that.
+s4QpBVtF49 CLAIM-Reformulated 1143 1238 So there was a bit of growth, particularly in lower ASP items from that, that we saw last year.
+wqHd-JpEVn CLAIM-Fact 1262 1323 Another factor is digital content that moves to subscription.
+VdY07s_d9X PREMISE-Fact 1324 1480 So Amazon Music and Kindle Unlimited, while they're very successful and it's a good transition, they just – the units do not count in this unit calculation.
+BtjzFczcIr CLAIM-Opinion(view) 1481 1603 So there's some things like that, that maybe obfuscate the numbers a bit, but we're really pleased with the retail growth.
+jFffd_xxv_ PREMISE-Other 1604 1765 We think it's driven by again Prime, the Prime program, the engagement of Prime customers as well as increased selection, and particularly third-party selection.
+-OdeIEfNwd PREMISE-Fact 1766 1966 On operations, if you look at probably the last 18 months, you're going to see a lot of different pace of increase in both infrastructure costs and capital costs, and the addition of fixed cost heads.
+gJTMoTHfzu PREMISE-Statistic 1967 2188 So one thing that you'll notice is that, we've grown – we've stepped down our rate of growth of fixed head count, excluding the acquisitions we've grown 26% year-over-year at the end of June, on a trailing 12 month basis.
+fRG86ojHfX PREMISE-Statistic 2189 2241 But 23% of that was in the second half of last year.
+262DRCEuha CLAIM-Fact 2308 2407 We're seeing a lot of our growth areas being fueled by head count that's moving within the company.
+H29c0NtOg- CLAIM-Fact 2408 2453 There's a lot of movement of tech head count.
+saKiwlJN6e PREMISE-Fact 2454 2523 And so there was less external hiring in the first half of this year.
+LsHTJOXYzU CLAIM-Opinion(view) 2524 2710 We don't think that, that's necessarily the long-term trend, but it certainly created a lot of operating efficiencies, and now we'll reset and evaluate where we need to still add people.
+l68Cm3Ioeg CLAIM-Opinion(view) 2711 2860 So I think the first half of the year could be a good test of where our cost structure is, coming off of the investment that leads up to the holiday.
+1VvfPEi7mv PREMISE-Fact 2861 2913 Last year, there was a lot of first half investment.
+TqiCxhSwXX PREMISE-Fact 2914 3008 If you look back on infrastructure and fixed head count that may be made that less pronounced.
+zGnuCyHu9v CLAIM-Reformulated 3009 3051 But this year it's a little more apparent.
+zKsyV5CoIR CLAIM-Fact 2242 2307 So we are continuing to look at where we're investing head count.
+R0 SUPPORT ARG1:Z-cVa3uL2R ARG2:GO8LfSQBIG
+R1 SUPPORT ARG1:VdY07s_d9X ARG2:wqHd-JpEVn
+R2 SUPPORT ARG1:jFffd_xxv_ ARG2:BtjzFczcIr
+R3 SUPPORT ARG1:-OdeIEfNwd ARG2:zKsyV5CoIR
+R4 SUPPORT ARG1:gJTMoTHfzu ARG2:zKsyV5CoIR
+R5 SUPPORT ARG1:fRG86ojHfX ARG2:zKsyV5CoIR
+R6 SUPPORT ARG1:saKiwlJN6e ARG2:H29c0NtOg-
+R7 SUPPORT ARG1:1VvfPEi7mv ARG2:l68Cm3Ioeg
+R8 SUPPORT ARG1:TqiCxhSwXX ARG2:l68Cm3Ioeg
+ArgQ0 GO8LfSQBIG SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 wqHd-JpEVn SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 BtjzFczcIr SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 zKsyV5CoIR SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ4 H29c0NtOg- SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ5 l68Cm3Ioeg SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1

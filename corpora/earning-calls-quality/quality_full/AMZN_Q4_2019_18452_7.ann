@@ -1,0 +1,9 @@
+K5XF7eTLSS CLAIM-Fact 412 535 On seller services, I would say it was just a very strong quarter if that's what you're referring to 31% growth in revenue.
+xwjXPQsYVo PREMISE-Fact 536 566 It was strong on a unit basis.
+wrniiwVni- PREMISE-Fact 567 667 And as you said, there's probably additional strength in FBA which has higher fee set than MFN does.
+tWJBazE9R8 PREMISE-Fact 668 849 So -- but in general, if you step away, I think what you're seeing is more and more participation of third-party sellers in our one-day delivery program as we move through the year.
+KxE-h9aInD CLAIM-Opinion(view) 850 940 That was particularly strong in Q4, and I think you'll see that more as we move into 2020.
+R0 SUPPORT ARG1:xwjXPQsYVo ARG2:K5XF7eTLSS
+R1 SUPPORT ARG1:wrniiwVni- ARG2:K5XF7eTLSS
+R2 SUPPORT ARG1:tWJBazE9R8 ARG2:K5XF7eTLSS
+ArgQ0 K5XF7eTLSS SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_3

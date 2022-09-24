@@ -1,0 +1,17 @@
+u_qJN_qWHy NON-ARG 861 872 Sure, Mark.
+EuTEUyjL06 NON-ARG 873 1080 So on the acceleration of the growth rate in expenses from 2017 to 2018, I would really look at the growth rate that we grew at in 2017, apply that to the total expense base, and look at that growth in 2018.
+a3R9D25ukY CLAIM-Fact 1081 1204 And then I would say the additional expense that leads to the acceleration is driven by three factors, not just one factor.
+mMztKb3krN PREMISE-Fact 1205 1578 And those three factors are the ones that I outlined in my commentary: number one, the substantial investment that Mark highlighted that we're making to just improve the security on our platform; two, the video content investments we're making for Watch tab; and then three, additional investments we're making in the long term initiatives like AR/VR, AI, and connectivity.
+3F1gfoEOXO CLAIM-Reformulated 1579 1715 And each of those are significant, so it's really the combination of those three factors that's driving the expense growth acceleration.
+pcDGU2w9DE CLAIM-Fact 1716 1811 And then on the 35% increases in ad prices, this is really being driven off of a couple things.
+Si05HjmQ68 PREMISE-Fact 1812 1973 One is just the auction dynamic, which as supply growth has slowed, then there's more competition, and you're seeing prices increase as demand continues to grow.
+hdisstT4Q4 PREMISE-Fact 1974 2239 But I think what is important here is we've been getting better and better at targeting as we optimize for real business results for advertisers, and we're better at converting the signals that we get from those advertisers into finding the right ad spots for them.
+HHY8o-tHVW PREMISE-Fact 2240 2423 And I think that's really what's allowing us to improve yield and effectively driving higher effective CPMs for us while still delivering business outcomes to them at attractive ROIs.
+7qa7gp-F09 CLAIM-Reformulated 2424 2505 So that's really what's driving it, not a shift to a different format like video.
+0eN3itjeYw CLAIM-Reformulated 2506 2661 It's really about us getting better at targeting and working with especially people where we get those downstream signals like direct response advertisers.
+R0 SUPPORT ARG1:mMztKb3krN ARG2:a3R9D25ukY
+R1 SUPPORT ARG1:Si05HjmQ68 ARG2:pcDGU2w9DE
+R2 SUPPORT ARG1:hdisstT4Q4 ARG2:pcDGU2w9DE
+R3 SUPPORT ARG1:HHY8o-tHVW ARG2:pcDGU2w9DE
+ArgQ0 a3R9D25ukY SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 pcDGU2w9DE SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1

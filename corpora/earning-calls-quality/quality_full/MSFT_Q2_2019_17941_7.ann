@@ -1,0 +1,17 @@
+f5t68KmyPU CLAIM-Fact 408 517 Yes, a good example of the first-line opportunity was something that you could have seen at NRF this January.
+0DFIoMNK6F PREMISE-RealExample 518 640 We launched, for example, Teams for first-line workers, which had things like shift worker capabilities, secure messaging.
+Chgy8cb3w4 CLAIM-Fact 641 934 One of the challenges in retail and in many other industries is what's that messaging tool that has actually got the security framework that they expect of any other enterprise tool as opposed to using one of these consumer messaging tools, which then all the liability is with the enterprise.
+Fx_2xjh5fU CLAIM-Reformulated 1088 1116 So that's the TAM expansion.
+coQC5OD8Ii CLAIM-Fact 935 1087 So that's the opportunity we see, whether it's -- for all front line, whether it's in manufacturing, whether it's in retail, whether it's in healthcare.
+7_GUedgs5F PREMISE-RealExample 1117 1166 So in other words, it can be -- start with Teams.
+zxzvSAjVmg PREMISE-RealExample 1167 1230 It can start with some of our devices in the first-line worker.
+brmUUYfrNC PREMISE-RealExample 1231 1332 For example, one of the things that we see the most traction for HoloLens is with first-line workers.
+A7Y-57YUGg PREMISE-RealExample 1333 1563 People in manufacturing and other in field service, where they were never issued a standard laptop or even a phone are being issued a HoloLens as their first computing device, and that's just because of the productivity it drives.
+qtZr8NWy_a CLAIM-Reformulated 1564 1632 So those are the kinds of TAM expansion we see across Microsoft 365.
+R0 SUPPORT ARG1:7_GUedgs5F ARG2:coQC5OD8Ii
+R1 SUPPORT ARG1:zxzvSAjVmg ARG2:coQC5OD8Ii
+R2 SUPPORT ARG1:brmUUYfrNC ARG2:coQC5OD8Ii
+R3 SUPPORT ARG1:A7Y-57YUGg ARG2:coQC5OD8Ii
+R4 SUPPORT ARG1:0DFIoMNK6F ARG2:f5t68KmyPU
+ArgQ0 coQC5OD8Ii SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 f5t68KmyPU SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

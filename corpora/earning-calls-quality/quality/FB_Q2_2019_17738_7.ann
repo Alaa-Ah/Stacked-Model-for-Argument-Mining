@@ -1,0 +1,32 @@
+ROkkQvYaXd NON-ARG 565 569 Yes.
+T1yiTGa7JX NON-ARG 570 583 Thanks, Mark.
+QTKC_ogJxT NON-ARG 584 640 So in terms of, in terms of our overall expense outlook.
+BZBVdf9tDO CLAIM-Fact 641 739 Our current outlook for 2019 does suggests that we’ll see margins come down this year versus 2018.
+C0ydGEkAwp PREMISE-Fact 740 797 Even if you were to set aside the $5 billion FTC accrual.
+GSLU393u1S NON-ARG 798 855 We’re not providing specific guidance for 2020 or beyond.
+6CKiTnN12D NON-ARG 856 898 The investment priorities remain the same.
+DCWvUk8cxC NON-ARG 1115 1187 So we’re not at this point providing any more specific guidance on 2020.
+4zfpDzBkB5 NON-ARG 1205 1246 On WhatsApp Status ads are not available.
+ySuw6AOo9O CLAIM-Opinion(view) 2058 2222 But I think one of the successes you are seeing we’re having right now is that we are helping people move to Stories more quickly because of the lessons we learned.
+h-TLlrrl0h PREMISE-RealExample 2223 2394 So for example, automatic placements, what automatic placements do is they convert Feed ads into a Stories format and deliver the ads wherever they get their best results.
+E2ItZEsQ4Q NON-ARG 899 1114 In addition to the privacy investment priorities that we outlined today will continue to invest in key areas like core product infrastructure, innovation, video and content and safety and security over the long run.
+9ttou0ZNvM NON-ARG 2492 2587 So rather than across the three properties we have available Facebook, Instagram and Messenger.
+Ty8zOuk6D6 PREMISE-Fact 3009 3108 And so there is a real benefit right now to being an early adopter, the pricing is very attractive.
+NtHL_XegTC CLAIM-Opinion(view) 3109 3206 And so we think the mix shift to Stories is the big opportunity for us and advertisers over time.
+jO129mGiV5 NON-ARG 3207 3309 I’ll say one more thing, which is that Stories don’t monetize right now at the same rate as News Feed.
+r1D0A9NM_g CLAIM-Opinion(view) 3310 3436 We’re optimistic about the growth over the long run, but we are as always very prudent and careful on the consumer experience.
+6VCYSGziHc PREMISE-Fact 2953 3008 It’s also a case of we have a lot of inventory on this.
+2hdLjtjU49 PREMISE-Fact 2588 2952 So rather than go to every advertiser both through our sales force and through our online tools where we sell and say we have a new format, you need to create the new format, you need to figure out the placement being able to just take what they are already doing like Feed ads, converted into Stories and place at anywhere helps us move people into these formats.
+sv_u9bOkzj NON-ARG 2395 2491 And I think it’s product innovations like that that have gotten us to three million advertisers.
+1ZNa9i2VND NON-ARG 1307 1564 But I will take a minute to talk about Stories ads in general, because I think eventually depending on our ability to use data across platform that applies to WhatsApp it’s probably pretty important part of the story that’s going on with Facebook right now.
+hQ_x_ePyjX CLAIM-Fact 1565 1935 So we do have Stories ads available across Facebook, Instagram and Messenger, and I think one of the most important things we learned as we were doing it transition to mobile is if we made it easy for our advertisers to place the ads, make sure they understood the measurement they were having and also make sure the ad format worked, businesses would move more quickly.
+POubFzyKJI NON-ARG 1936 2057 Usually people move before businesses people move to mobile before businesses and we certainly saw the same with Stories.
+PHgEvoOW9o NON-ARG 1247 1306 We’re very focused for WhatsApp on the consumer experience.
+R0 SUPPORT ARG1:C0ydGEkAwp ARG2:BZBVdf9tDO
+R1 SUPPORT ARG1:2hdLjtjU49 ARG2:NtHL_XegTC
+R2 SUPPORT ARG1:6VCYSGziHc ARG2:NtHL_XegTC
+R3 SUPPORT ARG1:Ty8zOuk6D6 ARG2:NtHL_XegTC
+R4 SUPPORT ARG1:h-TLlrrl0h ARG2:ySuw6AOo9O
+ArgQ0 BZBVdf9tDO SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ1 NtHL_XegTC SPECIFIC_0 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 ySuw6AOo9O SPECIFIC_0 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

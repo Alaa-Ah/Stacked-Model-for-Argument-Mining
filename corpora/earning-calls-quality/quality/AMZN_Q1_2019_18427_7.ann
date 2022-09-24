@@ -1,0 +1,19 @@
+JkI8_JXYGm NON-ARG 1564 1593 And then, this is Dave again.
+V0GYwNpeAX CLAIM-Fact 1594 1783 Just on the grocery side of it, as you mentioned, Brian talked a bit about the Whole Foods Market growth over 500 stores, 75 metros with delivery capability, so continuing to grow that out.
+WxY9GyQxS0 CLAIM-Fact 1784 1850 We are also continuing to invest in our other grocery initiatives.
+61TtlRgN88 PREMISE-RealExample 1851 2001 Amazon Fresh, Prime Now, which offers grocery as one of the components of the selection there for the two-hour or even one-hour delivery capabilities.
+VnOyUAdtIm CLAIM-Opinion(view) 2002 2054 And so I think, we'll keep investing in those areas.
+onvECnNz09 PREMISE-RealExample 2055 2177 I mean– and in other initiatives as well, where we can get food through Pantry, Go, there's a number of initiatives there.
+kW8uSxcwHJ CLAIM-Opinion(view) 2178 2262 So excited about what we'll be able to continue to bring to customers on that space.
+nfptO3ifCm NON-ARG 684 689 Sure.
+beX5hjj9-J CLAIM-Fact 690 888 So, yes, on the one-day free shipping versus the two-day free shipping, our goal is to evolve the two-day free shipping program into a one-day free shipping program and we're making strides on that.
+IxR0lWnmMr NON-ARG 889 1024 It got into a little bit about the capacity we have to add and changes we have to make to our supply chain in order to deliver on that.
+iaNNTp9SQ_ CLAIM-Opinion(view) 1025 1088 We expect to make steady progress quickly and through the year.
+C7fJB8HzCD NON-ARG 1089 1140 We'll have more for you at the end of Q2 obviously.
+aTySRFQYuV NON-ARG 1141 1220 There's a lot of error bars around this program, especially from the cost side.
+FOKIc_U4gR CLAIM-Opinion(view) 1221 1283 We feel we're doing something very important for the customer.
+Tjq8-c1yOi CLAIM-Fact 1284 1435 And we have - again trying to take advantage of the fulfillment capacity and transportation capacity especially with third-party partners that we have.
+7pemeptqKx NON-ARG 1436 1550 And we'll just have to see what changes have to be made to get more and more selection into that one-day category.
+R0 SUPPORT ARG1:61TtlRgN88 ARG2:WxY9GyQxS0
+R1 SUPPORT ARG1:onvECnNz09 ARG2:WxY9GyQxS0
+ArgQ0 WxY9GyQxS0 SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

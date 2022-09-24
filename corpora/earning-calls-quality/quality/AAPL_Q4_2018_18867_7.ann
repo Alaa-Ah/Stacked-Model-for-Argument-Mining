@@ -1,0 +1,43 @@
+Rkf1c_WjTe NON-ARG 532 565 Yes, Shannon, I'll take this one.
+GldDHwIipN CLAIM-Opinion(view) 566 731 At the revenue level, we started from the fact that we are very, very excited about the lineup of products and services that we have getting into the holiday season.
+uC1pjfRnDy PREMISE-Fact 732 778 It's the strongest lineup that we've ever had.
+o1tRkiiQ2s PREMISE-Fact 779 866 And our guidance range, by the way, represents a new all-time quarterly revenue record.
+l9fSv_WXba CLAIM-Fact 994 1185 The first one is the fact that the launch timing of the new iPhones this year is essentially in reverse order versus last year, and that has had an effect on Q4 and will have an effect on Q1.
+sSBPNlwO_4 PREMISE-Fact 1186 1336 Last year, we launched the top end of our iPhone lineup, which was iPhone X, during Q1 and placed the entirety of the channel fill for iPhone X in Q1.
+cH4GgXh96y PREMISE-Fact 1337 1428 This year, we launched the top end of the lineup, which is the XS and the XS Max during Q4.
+Rjbdln-ehx PREMISE-Fact 1429 1537 Obviously, this resulted in more pronounced ASP growth in Q4 of 2018 and obviously a tougher compare for Q1.
+_8CrXbXbo9 NON-ARG 1538 1638 So I think it's important to keep that in mind as you look at the revenue guidance that we provided.
+VITxlKXp0o CLAIM-Fact 1639 1912 The second point that needs to be kept in mind, it is a fact of life and we dealt with it for a number of years now, is the fact that when I look at currencies around the world, virtually every foreign currency has depreciated against the U.S. dollar in the last 12 months.
+4B-K4ZZ2Pb PREMISE-Statistic 1913 2154 And when we look at the impact of foreign exchange on our revenue for the December quarter, we're looking at 200 basis points of headwinds which translates, given our the size of our business, to almost $2 billion of headwind to our revenue.
+SlU1HCXqXv CLAIM-Fact 2155 2343 The third point that I think it's important to keep in mind, and Tim has talked about this, we are launching, in the last six weeks, we've launched an unprecedented number of new products.
+1k0C4i5BhE CLAIM-Fact 2504 2757 And then finally, the last point that we've taken into account is what Tim's talked about in terms of some level of uncertainty at the macroeconomic level in some emerging markets where clearly consumer confidence is not as high as it was 12 months ago.
+bldVD56Qbw NON-ARG 2758 2819 So take that into account and that's how we got to the range.
+jtgG5Niw-y NON-ARG 4878 5137 Looking at one additional point there just for clarity is, Shannon, our intention is to continue to give revenue guidance at the company level and gross margin guidance in the other categories that we've been providing and so that our guidance isn't changing.
+_Bx-G82kRx NON-ARG 5138 5174 It's the actual report that changes.
+bIQJR30796 NON-ARG 5189 5208 Thank you, Shannon.
+NF9570XDJN NON-ARG 5209 5248 Could we have the next question please?
+iUaCOmZ63G NON-ARG 867 993 As I explained in my prepared remarks, there are a number of things that need to be considered as part of this guidance range.
+eFHngEY7Aj NON-ARG 2344 2374 They're all ramping right now.
+j7OSC_Zlh5 NON-ARG 2375 2503 The ramps are going fairly well, but obviously we have some uncertainty around supply/demand balance for some of these products.
+GcqKbA6k1b NON-ARG 3420 3424 Yes.
+IBd1d64wvd NON-ARG 3425 3557 Let me walk you through the rationale that we've used and then I'll talk about this qualitative commentary that you were mentioning.
+GoeJmvZ37j CLAIM-Fact 3558 3722 As I said, right, our objective is to make great products, provide the best customer experience, and get our customer satisfied, engaged and loyal to our ecosystem.
+4-V-OSJsvw CLAIM-Fact 3723 3950 When you look at our financial performance in recent years, take the last three years, for example, the number of units sold during any quarter has not been necessarily representative of the underlying strength of our business.
+-ZrBkanvT9 PREMISE-Fact 3951 4188 If you look at our revenue, given the last three years, if you look at our net income during the last three years, if you look at our stock price here in the last three years, there's no correlation to the units sold in any given period.
+SEZ9YlJJKR PREMISE-Fact 4189 4499 As you know very well, in addition, our product ranges for all the major product categories have become wider over time and therefore, a unit of sale is less relevant for us at this point compared to the past, because we got this much wider sales price dispersion, so unit of sale per se becomes less relevant.
+XX5vu-T1t3 CLAIM-Opinion(view) 4654 4856 But of course we understand that this is something of interest and when we believe that providing qualitative commentary on unit sales offers additional relevant information to investors, we will do so.
+E7XsT51_-w PREMISE-Fact 4500 4653 As I know you're aware, by the way, our top competitors in smartphones, in tablets, in computers, do not provide quarterly unit sales information either.
+R0 SUPPORT ARG1:uC1pjfRnDy ARG2:GldDHwIipN
+R1 SUPPORT ARG1:o1tRkiiQ2s ARG2:GldDHwIipN
+R2 SUPPORT ARG1:sSBPNlwO_4 ARG2:l9fSv_WXba
+R3 SUPPORT ARG1:cH4GgXh96y ARG2:l9fSv_WXba
+R4 SUPPORT ARG1:Rjbdln-ehx ARG2:l9fSv_WXba
+R5 SUPPORT ARG1:4B-K4ZZ2Pb ARG2:VITxlKXp0o
+R6 SUPPORT ARG1:-ZrBkanvT9 ARG2:4-V-OSJsvw
+R7 SUPPORT ARG1:SEZ9YlJJKR ARG2:4-V-OSJsvw
+R8 ATTACK ARG1:E7XsT51_-w ARG2:XX5vu-T1t3
+ArgQ0 GldDHwIipN SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 l9fSv_WXba SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 VITxlKXp0o SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ3 4-V-OSJsvw SPECIFIC_0 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_0
+ArgQ4 XX5vu-T1t3 SPECIFIC_2 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

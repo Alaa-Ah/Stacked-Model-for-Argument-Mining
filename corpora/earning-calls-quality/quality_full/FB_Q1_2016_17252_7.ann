@@ -1,0 +1,23 @@
+vYNozHL6tr NON-ARG 663 668 Sure.
+EYtjtHOXlB CLAIM-Fact 669 784 So part of our playbook for building out these ecosystems at scale is we start with the person-to-person user base.
+bQK9yRtFY- PREMISE-Fact 785 877 So whether that's in messaging, it's people messaging their friends or groups and News Feed.
+WaRyXZwaKN NON-ARG 878 1005 Before that, it was people posting updates and seeing what was going on with their friends and the people that they care about.
+htrt5GjP69 CLAIM-Fact 1006 1367 And then the next step is to create organic activity around public entities, so whether that's businesses, public figures like athletes and celebrities and types of folks that people want to interact with on these different platforms, and we did that on Facebook in News Feed group pages, and we're working on a number of different ways to do that in Messenger.
+MXybx7jTLP PREMISE-Fact 1368 1389 One of those is bots.
+HXtiWw7R4S CLAIM-Fact 1390 1569 And one of the good things about bots that we've seen is that it can decrease the amount of time that you have to wait before you get a reply back from interacting with a message.
+S16NNLbd1c PREMISE-Fact 1570 1624 So what we've seen – we've done some research on this.
+y1sDkpEraV PREMISE-Fact 1625 1749 A lot of people every day in Facebook today are already messaging pages and businesses directly, and the businesses respond.
+ipT9xu7v-B PREMISE-Fact 1750 1958 But what we've actually also found is that through some of our AI research, we can look at the responses that businesses give to common questions and can confidently provide the right reply a lot of the time.
+CUvU391m-A CLAIM-Reformulated 1959 2016 And when we can do that, then that decreases the latency.
+MBD4TsIpQf PREMISE-Fact 2017 2074 And predictably, people want to do more of that activity.
+w_L4v2BYu7 NON-ARG 2075 2467 So that's one way that I think you're going to see bots work, between people who are actually driving the businesses directly will need to in some way train or answer questions for people, but we can build artificial intelligence that can learn from people how to automate a lot of that and make that experience a lot faster for people who want to interact with businesses and public figures.
+O8aB6dVLlL NON-ARG 2468 2702 And of course then, after you start building out that segment of businesses and then public figures on the platform, then on top of that you have just a good amount of intent on these platforms to build a good business on top of that.
+IShx8pt0Ox NON-ARG 2703 2722 That's stage three.
+R0 SUPPORT ARG1:bQK9yRtFY- ARG2:EYtjtHOXlB
+R1 SUPPORT ARG1:MXybx7jTLP ARG2:htrt5GjP69
+R2 SUPPORT ARG1:S16NNLbd1c ARG2:HXtiWw7R4S
+R3 SUPPORT ARG1:y1sDkpEraV ARG2:HXtiWw7R4S
+R4 SUPPORT ARG1:ipT9xu7v-B ARG2:HXtiWw7R4S
+ArgQ0 EYtjtHOXlB SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 htrt5GjP69 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 HXtiWw7R4S SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

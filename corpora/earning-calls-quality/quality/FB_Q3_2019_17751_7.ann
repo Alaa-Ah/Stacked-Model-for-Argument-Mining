@@ -1,0 +1,18 @@
+X-ou28bW87 NON-ARG 911 927 Yes, sure, Ross.
+MZ6NBJMtU- CLAIM-Opinion(view) 1150 1331 So in terms of the deceleration, we continue to expect deceleration into 2020, but it would be, we believe, more moderated and the reasons for that, that we expect the deceleration.
+ziQ9XxGywZ PREMISE-Fact 1332 1466 We do continue to see these ad targeting related headwinds, which have been playing out slowly, but we think are still in front of us.
+PUa6bDukoM PREMISE-Fact 1467 1542 The majority of potential signal loss on targeting is still in front of us.
+ZCWbt1-LGl PREMISE-Fact 1543 1722 And that's the three factors that I cited, the regulatory landscape, potential platform changes and then the adoption of our own products like OFA that we're just rolling out now.
+W9KQVMc6Ck CLAIM-Reformulated 1723 1807 So all of those will play into the potential deceleration of revenue growth in 2020.
+ktvL-mJTmm CLAIM-Opinion(view) 1947 2013 So I think we are experiencing deceleration from that perspective.
+-N7OmmWYlE PREMISE-Fact 1808 1946 Obviously, we're lapping what's been good performance in 2019 where we've made a lot of product improvements and growing off a large base.
+C65YefdkDg PREMISE-Fact 2014 2172 The specific sort of high level of deceleration going into Q4, we're signing the specific optimizations that we're lapping in Q4, which were more significant.
+KFmeclAWXH NON-ARG 928 1051 It's a reported number that we're giving that on, on a mid to high-single digit deceleration from the reported growth rate.
+h6P1eTU0A9 NON-ARG 1052 1149 I don't think there should be a huge difference in them, but we're giving it on a reported basis.
+R0 SUPPORT ARG1:ziQ9XxGywZ ARG2:MZ6NBJMtU-
+R1 SUPPORT ARG1:PUa6bDukoM ARG2:MZ6NBJMtU-
+R2 SUPPORT ARG1:ZCWbt1-LGl ARG2:MZ6NBJMtU-
+R3 SUPPORT ARG1:-N7OmmWYlE ARG2:ktvL-mJTmm
+R4 SUPPORT ARG1:C65YefdkDg ARG2:ktvL-mJTmm
+ArgQ0 MZ6NBJMtU- SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 ktvL-mJTmm SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

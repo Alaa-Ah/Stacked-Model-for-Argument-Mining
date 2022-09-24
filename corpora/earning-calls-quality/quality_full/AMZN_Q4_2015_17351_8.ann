@@ -1,0 +1,18 @@
+UszSCRVLCD NON-ARG 566 577 Sure, Aram.
+MFBGFGZTBG NON-ARG 578 603 Thanks for your question.
+ZwpmPwVfI7 CLAIM-Fact 604 693 I would say what we've found is in order to serve – properly serve our customers at peak.
+a65TuxmrYn NON-ARG 1072 1093 You mentioned trucks.
+yI5iPiALk- PREMISE-Fact 1154 1236 We use those primarily for movement between our warehouses and our source centers.
+vJfh64ORnu PREMISE-Fact 1094 1153 The Amazon trucks, we did invest in those - this past year.
+IttdlI7p7d NON-ARG 912 961 They have been and continue to be great partners.
+aOCl7LHVTf PREMISE-Fact 694 776 We've needed to add more of our own logistics to supplement our existing partners.
+s_GHlB6tBP NON-ARG 777 810 That's not meant to replace them.
+dtOh7sLmZb PREMISE-Fact 811 911 And those carriers are just not - no longer able to handle all of our capacity that we need at peak.
+ZnZtBpI1DB CLAIM-Opinion(view) 962 1017 And we look forward to working with them in the future.
+sAC3S8sdLL PREMISE-Fact 1018 1071 It's just we've had to add some resources on our own.
+R0 SUPPORT ARG1:aOCl7LHVTf ARG2:ZwpmPwVfI7
+R1 SUPPORT ARG1:dtOh7sLmZb ARG2:ZwpmPwVfI7
+R2 SUPPORT ARG1:sAC3S8sdLL ARG2:ZwpmPwVfI7
+R3 SUPPORT ARG1:yI5iPiALk- ARG2:ZwpmPwVfI7
+R4 SUPPORT ARG1:vJfh64ORnu ARG2:ZwpmPwVfI7
+ArgQ0 ZwpmPwVfI7 SPECIFIC_0 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_1

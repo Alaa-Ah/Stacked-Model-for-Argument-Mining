@@ -1,0 +1,23 @@
+U23OB3cn5k NON-ARG 567 593 I’ll talk about checkouts.
+gPRPs7ovIy NON-ARG 594 692 So checkout is in, we talk a lot on this call about early stage things, this is earlier than that.
+25D0Y_Yo_S CLAIM-Fact 1055 1320 I think the way to think about checkout is kind of in a larger picture of what we’re trying to do in terms of commerce and shopping on our services and apps across the board, which is, we obviously have a lot of consumer engagement in our products and that’s great.
+YS2mac3015 NON-ARG 913 955 We’re not in a rush to scale this quickly.
+M23jxd86PJ PREMISE-Hypothesis 1435 1564 If we can help people close the loop a little more, so they are looking more directly products, that makes our ads more valuable.
+LgRcydlnvm PREMISE-Hypothesis 1565 1689 If we can help people check out and pay for the products and even buy the products, it makes the consumer experience better.
+iUqfqpHGq5 PREMISE-Fact 1321 1434 We obviously have felt some good and robust ad tools that are helping us grow our business quarter-after-quarter.
+IdoyRBjSel CLAIM-Opinion(view) 1778 1849 So, we’re excited about these efforts for doing a lot across the board.
+JWSNaIQKei NON-ARG 1850 2029 All of them are in their early stages and we think about this primarily from a consumer and closing the loop point of view more than a monetization in and of itself point of view.
+pZ2tjpUN_E NON-ARG 956 1054 We’re always focused on the consumer experience and we want to make sure we really get this right.
+JxQUruAZVt NON-ARG 1690 1777 It also closes the loop on the data and measurement, we’re going to need going forward.
+VME4dSBpLV NON-ARG 2043 2126 And then Lloyd, you were asking about the step-up on the cost side in Q2 versus Q1.
+Qt4SLn58jv CLAIM-Fact 2127 2394 A couple of things that I’d point to the cost of revenue was up 49% in Q2, and that’s really the flow-through of depreciation that you’re seeing from the big CapEx build cycle that we’ve been in and that’s starting to flow through in the cost profile of the business.
+ScpBsC_rIC CLAIM-Fact 2566 2648 So, you had some G&A expenses that were higher in the quarter as a result of that.
+bbBi5zOuVF PREMISE-Fact 2395 2565 And then if you look at the G&A line, obviously that was impacted by the accrual for the FTC settlement as well as some other legal expenses including the SEC settlement.
+45rDkb55J_ NON-ARG 693 800 We are in a very small closed beta with 23 brands, which for Facebook is about small as something could be.
+CDhn11uYxg NON-ARG 801 912 On – obviously, as I said, small, but there is working with the brands, we’re pretty excited by their feedback.
+R0 SUPPORT ARG1:iUqfqpHGq5 ARG2:IdoyRBjSel
+R1 SUPPORT ARG1:M23jxd86PJ ARG2:IdoyRBjSel
+R2 SUPPORT ARG1:LgRcydlnvm ARG2:IdoyRBjSel
+R3 SUPPORT ARG1:bbBi5zOuVF ARG2:ScpBsC_rIC
+ArgQ0 IdoyRBjSel SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 ScpBsC_rIC SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

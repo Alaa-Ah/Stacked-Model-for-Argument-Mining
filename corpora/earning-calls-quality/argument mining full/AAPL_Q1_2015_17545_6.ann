@@ -1,0 +1,25 @@
+nlgeAMlIpg NON-ARG 324 339 Steve, its Tim.
+MpCcjOMILa NON-ARG 340 376 We don’t report out the precise mix.
+iYSi-89bEP CLAIM-Opinion(view) 377 529 But what I can tell you is that iPhone 6 was the most popular iPhone last quarter, but I just believe to sell 74.5 million they were really all popular.
+x5jHhO6wCg PREMISE-Fact 548 681 There is clearly a geographic difference where some geos would skew much higher on their preference to iPhone 6 Plus than other geos.
+MivEeMkBrX CLAIM-Reformulated 530 547 And all did well.
+zWuzLIdRd_ CLAIM-Reformulated 745 881 But both did incredibly well, and we’re really proud of them, along with the iPhone 5S and 5C as well, which continues to in the lineup.
+6GUMdQrptu CLAIM-Fact 1685 1723 Obviously, that inventory was required
+De2ma7Bt6q PREMISE-RealExample 1724 1866 because of all the new products that we announced on iPad with the iPad Air 2 and the iPad Mini 3 in the October timeframe during the quarter.
+j7nT6P87WN CLAIM-Opinion(view) 2104 2196 We would expect it to occur more gradually over time than sort of all at once type of thing.
+D-vh3eOJp4 NON-ARG 2197 2262 But we don’t guide to channel inventory specifically as you know.
+Ap6-yySMxn CLAIM-Opinion(view) 1956 2103 In terms of growing channel inventory, in particular on iPhone where we’re outside of it, we wouldn’t expect to see a large step function increase.
+j2zVJ0HKDZ CLAIM-Reformulated 1867 1955 At the end of the quarter, we were within the target range of channel inventory on iPad.
+vP1p-1phQY PREMISE-Statistic 1498 1611 On iPad, we increased channel inventory by 1.1 million units from beginning of the quarter to end of the quarter.
+iavAH1_coh PREMISE-Fact 682 744 And so it’s something that is not consistent around the world.
+HbmT5OVHkI CLAIM-Fact 1433 1497 We were not able to reach a balanced state during our fiscal Q1.
+9RNPhJuR8L PREMISE-Statistic 1105 1351 From an iPhone point of view, as I think Luca covered, our channel inventory decreased from the beginning of the quarter by 200,000 units, and that left us outside of our target range on the low -- outside the low end of the range to be specific.
+mc6bUhPEnH PREMISE-Fact 1352 1432 Just recently we became in supply demand balance on the 6 and 6 Plus in January.
+ItQEegRjq6 PREMISE-Statistic 1612 1684 That compares to the previous year where we're increased to 2.1 million.
+R0 SUPPORT ARG1:x5jHhO6wCg ARG2:iYSi-89bEP
+R1 SUPPORT ARG1:iavAH1_coh ARG2:iYSi-89bEP
+R2 SUPPORT ARG1:9RNPhJuR8L ARG2:HbmT5OVHkI
+R3 SUPPORT ARG1:mc6bUhPEnH ARG2:HbmT5OVHkI
+R4 SUPPORT ARG1:vP1p-1phQY ARG2:HbmT5OVHkI
+R5 SUPPORT ARG1:ItQEegRjq6 ARG2:HbmT5OVHkI
+R6 SUPPORT ARG1:De2ma7Bt6q ARG2:6GUMdQrptu

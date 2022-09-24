@@ -1,0 +1,27 @@
+cB9dZ535gv NON-ARG 872 916 I can start with the ad load question, Doug.
+Ewlb8uvJ-a NON-ARG 917 1001 So, ad load is definitely up significantly from where we were a couple of years ago.
+UlDdU0-kKV NON-ARG 1002 1078 And as I mentioned, it’s one of the factors driving an increasing inventory.
+4ukwGw60YK PREMISE-Fact 1079 1302 Really one thing to kind of think about here is that improving the quality and the relevance of the ads has enabled us to show more of them and without harming the experience, and our focus really remains on the experience.
+KxKUf3nN1_ CLAIM-Fact 1303 1373 So, we’ll continue to monitor engagement and sentiment very carefully.
+60yFI54Vk5 PREMISE-Fact 1374 1493 I mentioned that we expect the factors that drove the performance in 2015 to continue to drive the performance in 2016.
+hrMGE2Z_cq CLAIM-Opinion(view) 1494 1546 So, I think that’s the color I can give on ad loads.
+_bFJ5Evk-r CLAIM-Fact 1564 1629 On Messenger, the platform efforts in 2015 focused on two things.
+h8t88JqhHg PREMISE-Fact 1630 1716 One was expanding the different types of content that people could share in Messenger.
+MxNUDA5W_T CLAIM-Fact 1717 1757 And that diversity is going really well.
+SlmxwGwZ_8 PREMISE-Fact 1758 1947 And we see continued increase in video sharing and photos and stickers, and a lot of stuff that you would just call fun but that people really enjoy as different ways to express themselves.
+eAYDiD-e0U CLAIM-Fact 1948 2064 But in terms of the business, the more important piece is how people can interact with businesses through Messenger.
+JvtLe6wSgU PREMISE-Fact 2065 2283 And we started some early small tests around f8 last year where with some ecommerce services made it so that people who were buying things could follow up with the business and get customer support and buy more things.
+ntJ7VjK-Ar PREMISE-Fact 2284 2401 And we went through this process of integrating that and making sure that it’s integrated with all these system well.
+2AT8U0hhn- CLAIM-Opinion(view) 2402 2456 And I think everyone is really happy with that so far.
+SNDp3xhIHS CLAIM-Reformulated 2457 2590 So we started off pretty slowly, but that’s going to be some of the basis for how we look to make Messenger a business going forward.
+XvlUAPEvWg CLAIM-Reformulated 2591 2632 And we’re happy with the initial results.
+aYHxXv4QmL NON-ARG 2633 2743 There is obviously a lot more there that we need to do and we’ll have more to talk about this year and beyond.
+R0 SUPPORT ARG1:4ukwGw60YK ARG2:KxKUf3nN1_
+R1 SUPPORT ARG1:60yFI54Vk5 ARG2:hrMGE2Z_cq
+R2 SUPPORT ARG1:h8t88JqhHg ARG2:_bFJ5Evk-r
+R3 SUPPORT ARG1:JvtLe6wSgU ARG2:eAYDiD-e0U
+R4 SUPPORT ARG1:ntJ7VjK-Ar ARG2:eAYDiD-e0U
+ArgQ0 KxKUf3nN1_ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 hrMGE2Z_cq SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ2 _bFJ5Evk-r SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ3 eAYDiD-e0U SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_0

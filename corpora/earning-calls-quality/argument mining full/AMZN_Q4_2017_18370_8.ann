@@ -1,0 +1,19 @@
+dt1oHjgAiT NON-ARG 623 634 Sure, Mark.
+0IwwxlIoT_ NON-ARG 635 747 Let me address your question by answering the entire company on noteworthy North America elements are strongest.
+LjXVYQ9ahy PREMISE-Statistic 748 928 So for the quarter, we came in at the highest end of our revenue range, $60.5 billion, 26 -- 36% FX-neutral growth and 25% FX-neutral growth, excluding the Whole Foods acquisition.
+IIWxDTtVEF PREMISE-Fact 929 1144 So the fact that we came in at the high end of the range, volume was high, especially in North America, and a lot of times in Q4 and other quarters actually, we see better efficiencies when the warehouses were busy.
+KAMnswSPnn CLAIM-Fact 1145 1199 So it's a very clean operational quarter, I would say.
+yCnLsNpW06 PREMISE-Fact 1200 1325 The ops team did a great job handling record volumes in Q4 and also incorporating all the new capacity we had opened in 2017.
+9585zqq4_5 PREMISE-Statistic 1326 1449 If you remember, we have added over 30% to our fulfillment square footage in 2017, coming off the similar increase in 2016.
+QILjNH9acQ CLAIM-Fact 1450 1558 So amid all these opening of new buildings, many of them late in the year, the ops team did a fantastic job.
+zFwt6tctH7 CLAIM-Fact 1559 1804 Advertising was also a key contributor as we're continuing to make more value -- the offering's more valuable, both to customers and advertisers alike, and that was particularly strong in North America, although not in the North America segment.
+6mXHd3ghsU PREMISE-Statistic 1805 1942 I would also point out, AWS had a strong quarter, accelerating growth versus Q3 and also expanding operating margins by 100 basis points.
+DSpJIxufMU CLAIM-Fact 1943 2138 So particularly in North America, I would say there's the volume -- the strong volume -- top line volume, combined with increased advertising revenues and also very clean operational performance.
+F4X7kgpNLe CLAIM-Fact 2139 2237 Obviously, there's a lot of things that can happen in Q4 from weather to demand patterns changing.
+0Oa3Utm-Jr PREMISE-Fact 2238 2396 We've seen additional costs creep in, in the name of customer experience in prior years, and this was, in hindsight, probably one of the cleaner Q4s recently.
+R0 SUPPORT ARG1:LjXVYQ9ahy ARG2:KAMnswSPnn
+R1 SUPPORT ARG1:IIWxDTtVEF ARG2:KAMnswSPnn
+R2 SUPPORT ARG1:yCnLsNpW06 ARG2:QILjNH9acQ
+R3 SUPPORT ARG1:9585zqq4_5 ARG2:QILjNH9acQ
+R4 SUPPORT ARG1:6mXHd3ghsU ARG2:DSpJIxufMU
+R5 SUPPORT ARG1:0Oa3Utm-Jr ARG2:F4X7kgpNLe

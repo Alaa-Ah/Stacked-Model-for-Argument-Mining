@@ -1,0 +1,21 @@
+AgYICPw_uD NON-ARG 779 784 Sure.
+3-e4MsM2S1 CLAIM-Opinion(view) 785 964 On the first question on the server and product KPI, obviously the strong performance this quarter gives me higher confidence in my commitment to high teens growth in that number.
+CN7xWI9wdF NON-ARG 965 1080 But I'll update that generally longer in the quarter and will give me through Q2 before I make a longer commitment.
+MCBP8EjLQT CLAIM-Fact 1081 1318 And then separately on Windows 10 and the strength we've seen in OEM Pro, and I would also say it mirrors in some ways you're also going to see some of that growth and strength in Windows commercial, so let me answer them a bit together.
+sUEFRKzl8O PREMISE-Fact 1319 1557 The Windows 10 Pro strength and I think commercial strength we've seen, we continue to see good signs on the commercial refresh, really security, manageability of modern hardware and software together continues to be a good signal for us.
+hHk_00DJmy CLAIM-Fact 1558 1598 We continue to watch the end of support.
+UR3CKgyf8L PREMISE-Fact 1599 1745 It's really critical for us for customers to have a terrific experience as we upgrade them and ask them to move to Windows 10 with a lot of value.
+ZQO8gux5B9 CLAIM-Fact 1746 1871 That end of support is about five quarters away, so we'll continue to expect good signal and good demand in that Pro segment.
+oPPf4Ny9xi CLAIM-Fact 2008 2168 But I don't want to diminish the signal because the signal is demand is very good for Windows 10 and upgrades in modern hardware when they realize the benefits.
+CHS_CcpEda CLAIM-Opinion(view) 2169 2396 And so even if you have a tougher comp, I think the demand signal and our opportunity to continue to sell Microsoft 365 in that process and then upgrade to Office 365 as they do deployments is a big opportunity for us to excel.
+6XYcaykx68 PREMISE-Fact 1872 2007 And it should, to your point, match increasingly the market and we do get to some slightly bigger comps in H2 which I would agree with.
+rPhm9vpFLr NON-ARG 2446 2452 Great.
+sziF_Phi4L NON-ARG 2453 2466 Thanks, Ross.
+SBN7kdmR2P NON-ARG 2467 2508 Operator, this will be our last question.
+7fUKtkWb_0 NON-ARG 2509 2534 We'll take it now please.
+R0 SUPPORT ARG1:sUEFRKzl8O ARG2:MCBP8EjLQT
+R1 SUPPORT ARG1:UR3CKgyf8L ARG2:hHk_00DJmy
+R2 SUPPORT ARG1:6XYcaykx68 ARG2:ZQO8gux5B9
+ArgQ0 MCBP8EjLQT SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 hHk_00DJmy SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 ZQO8gux5B9 SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

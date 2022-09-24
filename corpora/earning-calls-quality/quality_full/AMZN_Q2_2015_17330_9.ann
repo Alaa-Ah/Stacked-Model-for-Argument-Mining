@@ -1,0 +1,18 @@
+3oOzNGhZ-Y NON-ARG 603 608 Sure.
+Xm-frX141j NON-ARG 609 660 So I'll start with the first part of that question.
+dJUSF1ObIu CLAIM-Opinion(view) 989 1109 And so we're happy with all the partners we have and continue to work with them to provide the best experience possible.
+n9cxh4lqk7 CLAIM-Reformulated 887 988 We're constantly working to provide the best experience to customers and be as efficient as possible.
+suSilUIIh4 PREMISE-Fact 730 844 I think most notably they did a lot of the Sunday delivery that you saw when we started launching Sunday delivery.
+pDkOXEBSGL PREMISE-Fact 661 729 We definitely are delivering a lot of packages with the post office.
+u4sCgU4spp CLAIM-Fact 1300 1484 We're taking a customer centric approach as we build that to make sure we're providing engaging business, engaging adds to customers and making sure we keep the customer front of mind.
+zO7Vd8fq1p CLAIM-Opinion(view) 1253 1299 So it's a business we're really excited about.
+xZ7NARIIHH CLAIM-Reformulated 1485 1556 And it's a business that the team is excited about and working hard on.
+C3RZBr68y6 PREMISE-Fact 1110 1203 For advertising, I would remind you that certain parts of the advertising roll up into other.
+E6EC1oN4hR PREMISE-Fact 1204 1252 Some actually roll up to EGM and media, as well.
+epL8sLMgUx CLAIM-Policy 845 886 So we try lots of things for fulfillment.
+R0 SUPPORT ARG1:C3RZBr68y6 ARG2:zO7Vd8fq1p
+R1 SUPPORT ARG1:E6EC1oN4hR ARG2:zO7Vd8fq1p
+R2 SUPPORT ARG1:pDkOXEBSGL ARG2:epL8sLMgUx
+R3 SUPPORT ARG1:suSilUIIh4 ARG2:epL8sLMgUx
+ArgQ0 zO7Vd8fq1p SPECIFIC_1 PERSUASIVE_0 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 epL8sLMgUx SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

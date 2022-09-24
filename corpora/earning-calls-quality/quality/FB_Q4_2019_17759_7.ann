@@ -1,0 +1,30 @@
+fO6MnAhqwl NON-ARG 421 425 Yes.
+HEobiCzwR0 PREMISE-Fact 911 1173 I mean we announced this program last year that basically we'll make it so if you pay for something in any of our apps, you only need to enter your credit card once, and then you can use that to have a more frictionless checkout experience across the other apps.
+XWqrqXNUIR CLAIM-Reformulated 1174 1210 So those two things tie in together.
+vCiJPRH0Ew CLAIM-Fact 837 910 From the payments side, WhatsApp Payments will be a part of Facebook Pay.
+pwOVbbVudx CLAIM-Fact 426 475 So we're doing a lot around commerce and payments
+T7TWSIV9h_ PREMISE-Fact 476 554 because there are lots of different segments for what people are trying to do.
+sLzvATZ7gh PREMISE-Fact 555 642 In terms of buying and selling things, a lot of people want to buy and sell used goods.
+46SmPFi6qE PREMISE-Fact 643 681 We have Facebook Marketplace for that.
+Fol-7HFBTl PREMISE-Fact 682 735 A lot of small businesses want to set up storefronts.
+n7AsyHd8va PREMISE-Fact 736 835 We're enabling that through Instagram and Facebook and then increasingly through messaging as well.
+BhZK17nxuY CLAIM-Fact 1212 1581 But we are taking multiple approaches on payments where things like what we're doing with Payments in WhatsApp or Facebook Pay overall are built on top of traditional payment infrastructure, whereas the longer-term work that we proposed around Libra that's now being handled by the independent Libra Foundation where we're working on a wallet that will work with Libra.
+eEqXskXJCR NON-ARG 1582 1761 That is more a proposal to make it so that some of the payment infrastructure around the world can be more efficient, especially for things like transferring money across borders.
+QRSqQvTohK NON-ARG 1762 1887 And if you think about it, a lot of the companies that do payments and such today are kind of national and/or in one country.
+OxRs43e6T_ NON-ARG 1888 2007 And there aren't that many folks who have an incentive to make this work well across different places around the world.
+Vu7zfpv2Q8 NON-ARG 2258 2375 Bigger companies are going to find ways to sell their things and measure the effectiveness of their ads and all that.
+quqCbJNqFD PREMISE-Fact 2376 2643 A lot of the work that we end up doing goes towards making it easier for small businesses to be able to -- without a big technology shop, be able to use the same tools, get access to payments, set up storefronts easily, being able to measure the effectiveness of ads.
+_QklUDNmYS NON-ARG 2644 2730 And that's a lot of what we're focused on, and you heard Wehner talk about this a bit.
+ZfqfgxgxsY CLAIM-Opinion(view) 2731 2915 A lot of the concerns that we have with some of the potential changes to the ecosystem we think will disproportionately hurt small businesses' ability to compete with larger companies.
+0MtsZXtPjP NON-ARG 2008 2064 So that's some place where we thought that we could add.
+6UQJZnP4xZ CLAIM-Fact 2066 2257 But overall, where -- a big focus for us is making sure that individuals and small businesses have access to the same kind of tools that historically only larger companies have had access to.
+R0 SUPPORT ARG1:T7TWSIV9h_ ARG2:pwOVbbVudx
+R1 SUPPORT ARG1:sLzvATZ7gh ARG2:pwOVbbVudx
+R2 SUPPORT ARG1:46SmPFi6qE ARG2:pwOVbbVudx
+R3 SUPPORT ARG1:Fol-7HFBTl ARG2:pwOVbbVudx
+R4 SUPPORT ARG1:n7AsyHd8va ARG2:pwOVbbVudx
+R5 SUPPORT ARG1:HEobiCzwR0 ARG2:vCiJPRH0Ew
+R6 SUPPORT ARG1:quqCbJNqFD ARG2:6UQJZnP4xZ
+ArgQ0 pwOVbbVudx SPECIFIC_1 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 vCiJPRH0Ew SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_1
+ArgQ2 6UQJZnP4xZ SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

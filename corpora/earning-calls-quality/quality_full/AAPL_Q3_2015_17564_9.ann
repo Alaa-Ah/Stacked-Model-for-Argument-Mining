@@ -1,0 +1,41 @@
+dK4E1-j3Yx NON-ARG 766 780 Jim, it's Tim.
+505E3rSZMH CLAIM-Opinion(view) 781 824 We think the phone has a lot of legs to it.
+TSkNkfAXpg CLAIM-Reformulated 825 856 I mean, many, many, many years.
+6td2gVTclG CLAIM-Reformulated 903 1051 I think we're in the early innings of it, not in the late innings, and I think the market rate of growth over the long haul will also be impressive.
+O2ctHND6GU NON-ARG 1052 1095 And so there will be multiple winners here.
+3HJOtk3hld NON-ARG 1096 1123 And so that's how I see it.
+cBCufBWFi8 PREMISE-Fact 1124 1226 In terms of the other things that we're doing, we have some great capability and great teams in Apple.
+xqsgiW9K93 CLAIM-Opinion(view) 1227 1323 And so we can do more than one thing, and so we have other things that we're working on as well.
+1cmnkNiRx0 CLAIM-Opinion(view) 1324 1380 But at the aggregate level, we still remain very focused
+bXi_bbpQRO PREMISE-Other 1381 1493 because if you look at our size versus the number of projects we have going, it's much smaller compared to most.
+XkclBZnsc9 NON-ARG 1494 1603 But that's how we do things and that's how we get the level of quality that we want out of each one of those.
+U7qMVQNH-- CLAIM-Opinion(view) 1604 1723 And so the other things that you named, whether it be Apple Music or Apple Pay, both of these are very important to us.
+no4Q-iyZSJ CLAIM-Fact 1724 1799 And things that you didn't mention, the Mac continues to perform very well.
+JSSLzAwc0u CLAIM-Opinion(view) 1800 1827 I am still bullish on iPad.
+bcFbIjl3RM PREMISE-Fact 1828 1967 We've gotten with iOS 9, there's some incredible productivity enhancements coming in with split view and slide over and picture-in-picture.
+BB4kplMTwW PREMISE-Fact 1968 2005 These things are incredible features.
+rJB_XxDrmX CLAIM-Opinion(view) 2135 2215 I think and I believe that the iPad consumer upgrade cycle will eventually occur
+xAWESekhb0 PREMISE-Fact 2216 2298 because as we look at the usage statistics on iPad, it remains unbelievably great.
+nI8ZUsiwf5 PREMISE-Statistic 2299 2378 I mean, the next closest usage of the next competitor, we're six times greater.
+g0Af6BRfbV PREMISE-Other 2379 2417 And so these are extraordinary numbers
+dC849Iq9S4 PREMISE-Fact 2419 2472 It's not like people have forgotten iPad or anything.
+KAhHmBzwG9 PREMISE-Fact 2473 2498 It's a fantastic product.
+wDcz3uQag9 CLAIM-Reformulated 2499 2524 So I see a lot of runway.
+i_KRLQ_2Rz PREMISE-Fact 2525 2752 And as I look geographically, where we've been doing really good in the emerging markets, our share is still not high in any of them, and so there's a lot of headroom there as well, as there is in most developed markets as well
+wYwniz7ISn CLAIM-Opinion(view) 2754 2809 And so I look around, I see opportunity left and right.
+jiUBMzXIIW NON-ARG 2810 2843 And that's what we're focused on.
+RyHZFn32_4 CLAIM-Reformulated 857 902 There's tons of innovation left at the phone.
+rFXJocl1IG CLAIM-Fact 2006 2134 The enterprise business is clearly picking up and more and more companies are either contracting for or writing apps themselves.
+R0 SUPPORT ARG1:cBCufBWFi8 ARG2:xqsgiW9K93
+R1 SUPPORT ARG1:bcFbIjl3RM ARG2:JSSLzAwc0u
+R2 SUPPORT ARG1:BB4kplMTwW ARG2:JSSLzAwc0u
+R3 SUPPORT ARG1:xAWESekhb0 ARG2:rJB_XxDrmX
+R4 SUPPORT ARG1:nI8ZUsiwf5 ARG2:rJB_XxDrmX
+R5 SUPPORT ARG1:g0Af6BRfbV ARG2:rJB_XxDrmX
+R6 SUPPORT ARG1:dC849Iq9S4 ARG2:rJB_XxDrmX
+R7 SUPPORT ARG1:KAhHmBzwG9 ARG2:rJB_XxDrmX
+R8 SUPPORT ARG1:i_KRLQ_2Rz ARG2:wYwniz7ISn
+ArgQ0 xqsgiW9K93 SPECIFIC_1 PERSUASIVE_1 STRONG_0 OBJECTIVE_0 TEMPORALHISTORY_-1
+ArgQ1 JSSLzAwc0u SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 rJB_XxDrmX SPECIFIC_1 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 wYwniz7ISn SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1

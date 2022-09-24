@@ -1,0 +1,18 @@
+sNc5JXoN6D NON-ARG 330 396 Laura, I missed the first part of that, you broke up on the phone.
+FGmBqohLpC NON-ARG 649 682 Laura, you're cutting in and out.
+FP-42pi539 NON-ARG 683 743 But I'm going to take a swing at what I think you're asking.
+I8wzQDGXY9 NON-ARG 744 868 I think you're asking, are there more active users today than there were two years ago when we had 1 billion active devices.
+2ltVgcD5uW NON-ARG 1588 1769 It is so early on this product cycle, particularly with the iPhone X only starting in November that we do not feel we have data at this point that would be very meaningful to share.
+N6xfxBK3nQ NON-ARG 1770 1824 And so I'll pump that question until next time around.
+LVEqLmOKJv NON-ARG 869 925 And the answer is absolutely, there are many, many more.
+KaYVF9WXfH NON-ARG 1093 1151 Well, that 1.4 billion, I don't know where that came from.
+xSa197QW9g NON-ARG 1152 1179 It did not come from Apple.
+sUsGSkgmcj NON-ARG 1180 1242 And so that's one of the things that kind of flowed out there.
+Iojl88Im8i NON-ARG 1243 1288 And I want to divorce Apple from that number.
+V9oWm0paH2 CLAIM-Fact 1289 1323 We’re not releasing a user number,
+zTlYMrR5cM PREMISE-Other 1324 1404 because we think that the proper way to look at it is to look at active devices.
+6pn8-Cr5zx PREMISE-Fact 1405 1467 It's also the one that is the most accurate for us to measure.
+kkjb9Z9Il3 NON-ARG 1468 1508 And so that's our thinking behind there.
+R0 SUPPORT ARG1:zTlYMrR5cM ARG2:V9oWm0paH2
+R1 SUPPORT ARG1:6pn8-Cr5zx ARG2:V9oWm0paH2
+ArgQ0 V9oWm0paH2 SPECIFIC_0 PERSUASIVE_2 STRONG_1 OBJECTIVE_0 TEMPORALHISTORY_-1
